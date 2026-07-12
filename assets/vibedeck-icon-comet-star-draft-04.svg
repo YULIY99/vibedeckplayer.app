@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">VibeDeck icon — balanced comet emphasis</title>
+  <desc id="desc">A graphite-silver V with a strengthened cyan comet and a slightly larger leading star.</desc>
+  <defs>
+    <clipPath id="iconClip"><rect width="1024" height="1024" rx="205" ry="205"/></clipPath>
+    <linearGradient id="bg" x1="180" y1="60" x2="880" y2="980" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D2A34"/>
+      <stop offset="0.52" stop-color="#111A22"/>
+      <stop offset="1" stop-color="#081016"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="34%" cy="18%" r="72%">
+      <stop offset="0" stop-color="#344454" stop-opacity="0.38"/>
+      <stop offset="0.45" stop-color="#162430" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#05090D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="vMetal" x1="240" y1="210" x2="755" y2="860" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#FCFEFF"/>
+      <stop offset="0.13" stop-color="#D6DFE9"/>
+      <stop offset="0.38" stop-color="#8795A7"/>
+      <stop offset="0.64" stop-color="#3C4857"/>
+      <stop offset="0.84" stop-color="#637184"/>
+      <stop offset="1" stop-color="#A2AFBE"/>
+    </linearGradient>
+    <linearGradient id="cometTrail" x1="210" y1="432" x2="790" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#2BE3FF" stop-opacity="1"/>
+      <stop offset="0.15" stop-color="#00D0FF" stop-opacity="0.98"/>
+      <stop offset="0.62" stop-color="#009CFF" stop-opacity="0.92"/>
+      <stop offset="1" stop-color="#006CFF" stop-opacity="0.10"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#000000" flood-opacity="0.48"/>
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#06111A" flood-opacity="0.78"/>
+    </filter>
+    <filter id="cyanGlow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#iconClip)">
+    <rect width="1024" height="1024" fill="url(#bg)"/>
+    <rect width="1024" height="1024" fill="url(#bgGlow)"/>
+    <rect x="10" y="10" width="1004" height="1004" rx="196" ry="196" fill="none" stroke="#34424F" stroke-width="8" opacity="0.42"/>
+    <rect x="23" y="23" width="978" height="978" rx="184" ry="184" fill="none" stroke="#050A0F" stroke-width="6" opacity="0.55"/>
+
+    <!-- Shortened, tucked tail: it is born in the V rather than forming a stray hook. -->
+    <path d="M 774 376 C 806 408 785 442 738 470 C 603 550 388 516 234 432" fill="none" stroke="#008CFF" stroke-width="34" stroke-linecap="round" opacity="0.16" filter="url(#cyanGlow)"/>
+
+    <g filter="url(#softShadow)">
+      <path d="M286 306 L512 780 L738 306" fill="none" stroke="#B7C4D2" stroke-width="165" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M286 306 L512 780 L738 306" fill="none" stroke="#F7FBFF" stroke-width="169" stroke-linecap="round" stroke-linejoin="round" opacity="0.06"/>
+    </g>
+
+    <!-- The cyan core is deliberately 35% heavier than draft 02 for a real home-screen read. -->
+    <path d="M 774 376 C 806 408 785 442 738 470 C 603 550 388 516 234 432" fill="none" stroke="url(#cometTrail)" stroke-width="13.5" stroke-linecap="round" filter="url(#cyanGlow)"/>
+    <path d="M 764 386 C 790 410 773 435 728 463 C 596 536 388 505 234 432" fill="none" stroke="#A2F4FF" stroke-width="2.5" stroke-linecap="round" opacity="0.82"/>
+
+    <!-- Same star artwork, increased by 18% only to restore its visual role at app-icon scale. -->
+    <g transform="translate(234 432) scale(1.18)" filter="url(#cyanGlow)">
+      <path d="M0 -34 C 5 -9, 9 -5, 34 0 C 9 5, 5 9, 0 34 C -5 9, -9 5, -34 0 C -9 -5, -5 -9, 0 -34Z" fill="#92F7FF"/>
+      <path d="M0 -19 C 3 -5, 5 -3, 19 0 C 5 3, 3 5, 0 19 C -3 5, -5 3, -19 0 C -5 -3, -3 -5, 0 -19Z" fill="#FFFFFF" opacity="0.92"/>
+    </g>
+  </g>
+</svg>

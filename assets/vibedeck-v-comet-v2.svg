@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-labelledby="title desc">
+  <title id="title">VibeDeck V with comet trajectory</title>
+  <desc id="desc">A monochrome V mark encircled by a comet that passes behind the letter and exits through a precise break in the right stroke.</desc>
+  <rect width="1024" height="1024" fill="#000"/>
+
+  <!-- The rear trajectory is deliberately drawn first: the V hides it where the comet passes behind. -->
+  <path
+    d="M 350 274 C 160 358 132 627 291 777 C 445 923 682 858 786 679 C 856 548 801 452 710 405"
+    fill="none"
+    stroke="#F7F7F4"
+    stroke-width="20"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- A solid, readable V before its single controlled interruption. -->
+  <path
+    d="M 300 228 L 512 808 L 724 228"
+    fill="none"
+    stroke="#F7F7F4"
+    stroke-width="120"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- The break is wider than the comet, so the pass-through has real negative space. -->
+  <path
+    d="M 714 399 C 665 439 621 463 578 486"
+    fill="none"
+    stroke="#000"
+    stroke-width="48"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+
+  <!-- The visible front segment leaves through the break and finishes in the V's centre. -->
+  <path
+    d="M 710 405 C 662 439 620 463 578 486"
+    fill="none"
+    stroke="#F7F7F4"
+    stroke-width="18"
+    stroke-linecap="round"
+    stroke-linejoin="round"/>
+  <circle cx="568" cy="491" r="15" fill="#F7F7F4"/>
+</svg>

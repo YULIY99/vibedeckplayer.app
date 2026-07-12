@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">VibeDeck icon — ECG signal V</title>
+  <desc id="desc">A cyan V carrying one bold ECG-style music pulse on its right arm, resolved by a star on the left.</desc>
+  <defs>
+    <clipPath id="iconClip"><rect width="1024" height="1024" rx="205" ry="205"/></clipPath>
+    <linearGradient id="bg" x1="180" y1="60" x2="880" y2="980" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1D2A34"/>
+      <stop offset="0.52" stop-color="#111A22"/>
+      <stop offset="1" stop-color="#081016"/>
+    </linearGradient>
+    <radialGradient id="bgGlow" cx="34%" cy="18%" r="72%">
+      <stop offset="0" stop-color="#344454" stop-opacity="0.38"/>
+      <stop offset="0.45" stop-color="#162430" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#05090D" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signalTrail" x1="195" y1="432" x2="790" y2="380" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#78F5FF" stop-opacity="1"/>
+      <stop offset="0.22" stop-color="#00D7F6" stop-opacity="1"/>
+      <stop offset="0.72" stop-color="#009ECB" stop-opacity="0.95"/>
+      <stop offset="1" stop-color="#006D96" stop-opacity="0.16"/>
+    </linearGradient>
+    <filter id="softShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="28" stdDeviation="28" flood-color="#000000" flood-opacity="0.52"/>
+      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#04101A" flood-opacity="0.82"/>
+    </filter>
+    <filter id="cyanGlow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="starGlow" x="-35%" y="-35%" width="170%" height="170%">
+      <feGaussianBlur stdDeviation="3.2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <g clip-path="url(#iconClip)">
+    <rect width="1024" height="1024" fill="url(#bg)"/>
+    <rect width="1024" height="1024" fill="url(#bgGlow)"/>
+    <rect x="10" y="10" width="1004" height="1004" rx="196" ry="196" fill="none" stroke="#34424F" stroke-width="8" opacity="0.42"/>
+    <rect x="23" y="23" width="978" height="978" rx="184" ry="184" fill="none" stroke="#050A0F" stroke-width="6" opacity="0.55"/>
+
+    <g transform="translate(0 -10)">
+      <g transform="translate(512 520) scale(1.08) translate(-512 -520)">
+        <!-- One bold, unambiguous ECG pulse on the blue right arm. -->
+        <path d="M 755 435 L 730 435 L 710 402 L 690 474 L 670 423 L 650 450 C 590 485, 380 510, 206 432" fill="none" stroke="#0087B5" stroke-width="34" stroke-linecap="round" stroke-linejoin="round" opacity="0.18" filter="url(#cyanGlow)"/>
+
+        <g filter="url(#softShadow)">
+          <path d="M286 306 L512 780 L738 306" fill="none" stroke="#07546D" stroke-width="173" stroke-linecap="round" stroke-linejoin="round"/>
+          <path d="M286 306 L512 780 L738 306" fill="none" stroke="#078FBD" stroke-width="163" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+
+        <path d="M 755 435 L 730 435 L 710 402 L 690 474 L 670 423 L 650 450 C 590 485, 380 510, 206 432" fill="none" stroke="url(#signalTrail)" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" filter="url(#cyanGlow)"/>
+        <path d="M 755 435 L 730 435 L 710 402 L 690 474 L 670 423 L 650 450 C 590 485, 380 510, 206 432" fill="none" stroke="#C2FAFF" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" opacity="0.78"/>
+
+        <g transform="translate(206 432) scale(1.32)" filter="url(#starGlow)">
+          <path d="M0 -34 C 5 -9, 9 -5, 34 0 C 9 5, 5 9, 0 34 C -5 9, -9 5, -34 0 C -9 -5, -5 -9, 0 -34Z" fill="#92F7FF"/>
+          <path d="M0 -19 C 3 -5, 5 -3, 19 0 C 5 3, 3 5, 0 19 C -3 5, -5 3, -19 0 C -5 -3, -3 -5, 0 -19Z" fill="#FFFFFF" opacity="0.94"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
