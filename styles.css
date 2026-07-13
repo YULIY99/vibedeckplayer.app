@@ -265,7 +265,14 @@ h2 {
   gap: 18px;
 }
 
+.screen-trio {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
 .screen-pair figure,
+.screen-trio figure,
 .feature-band article {
   margin: 0;
   border: 1px solid var(--line);
@@ -278,6 +285,7 @@ h2 {
   box-shadow: var(--shadow);
 }
 
+.screen-trio img,
 .screen-pair img {
   width: 100%;
   height: auto;
@@ -463,7 +471,8 @@ h3 {
     font-size: 40px;
   }
 
-  .screen-pair {
+  .screen-pair,
+  .screen-trio {
     grid-template-columns: 1fr;
   }
 
