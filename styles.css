@@ -380,6 +380,11 @@ h3 {
   max-width: 740px;
 }
 
+.android-coming .android-screen {
+  width: min(260px, 32vw);
+  flex: 0 0 auto;
+}
+
 .page {
   padding: clamp(56px, 8vw, 96px) 0 0;
 }
@@ -480,6 +485,10 @@ main > [aria-label="Why VibeDeck"] p {
     grid-template-columns: 1fr;
     flex-direction: column;
     align-items: flex-start;
+  }
+
+  .android-coming .android-screen {
+    width: min(320px, 82vw);
   }
 
   .statement p {
