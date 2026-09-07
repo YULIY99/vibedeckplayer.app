@@ -440,9 +440,34 @@ h3 {
   max-width: 740px;
 }
 
-.android-available .android-screen {
-  width: min(260px, 32vw);
-  flex: 0 0 auto;
+.android-showcase {
+  width: min(1180px, calc(100% - 32px));
+  margin-inline: auto;
+  padding: 110px 0 0;
+}
+
+.android-showcase-copy {
+  max-width: 700px;
+  margin-bottom: 30px;
+}
+
+.android-showcase-copy p:not(.eyebrow) {
+  max-width: 620px;
+  margin-bottom: 0;
+  color: var(--soft);
+  font-size: 17px;
+  line-height: 1.7;
+}
+
+.android-gallery {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 18px;
+  width: min(700px, 100%);
+}
+
+.android-gallery .main-screen {
+  overflow: hidden;
 }
 
 .page {
@@ -547,10 +572,6 @@ main > [aria-label="Why VibeDeck"] p {
     align-items: flex-start;
   }
 
-  .android-available .android-screen {
-    width: min(320px, 82vw);
-  }
-
   .statement p {
     font-size: 32px;
   }
@@ -599,6 +620,10 @@ main > [aria-label="Why VibeDeck"] p {
   }
 
   .hero-screens {
+    grid-template-columns: 1fr;
+  }
+
+  .android-gallery {
     grid-template-columns: 1fr;
   }
 
