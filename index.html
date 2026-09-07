@@ -4,19 +4,19 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="google-site-verification" content="lARXSnM8CfbmGAwtuJDpwYdSgbqJIEOF87h83HUaXYc">
-    <title>VibeDeck — Offline Music Player for FLAC, MP3 &amp; WAV (iOS)</title>
-    <meta name="description" content="Offline music player for iPhone and iPad. Play FLAC, MP3 and WAV with 4-band EQ, bass boost, pitch, tempo, waveform and DJ tools. No ads or account.">
+    <title>VibeDeck — Offline Music Player for FLAC, MP3 &amp; WAV (iOS &amp; Android)</title>
+    <meta name="description" content="Offline music player for iPhone, iPad and Android. Play FLAC, MP3 and WAV with 4-band EQ, bass boost, pitch, tempo, waveform and DJ tools. No ads or account.">
     <meta name="theme-color" content="#000000">
     <link rel="canonical" href="https://vibedeckplayer.app/">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="VibeDeck">
-    <meta property="og:title" content="VibeDeck — Offline Music Player for FLAC, MP3 &amp; WAV (iOS)">
-    <meta property="og:description" content="Shape FLAC, MP3 and WAV in real time with 4-band EQ, bass boost, filter, limiter, pitch, tempo, waveform and DJ tools. No ads, account or tracking.">
+    <meta property="og:title" content="VibeDeck — Offline Music Player for FLAC, MP3 &amp; WAV (iOS &amp; Android)">
+    <meta property="og:description" content="Shape FLAC, MP3 and WAV in real time with 4-band EQ, bass boost, filter, limiter, pitch, tempo, waveform and DJ tools on iOS and Android. No ads, account or tracking.">
     <meta property="og:url" content="https://vibedeckplayer.app/">
     <meta property="og:image" content="https://vibedeckplayer.app/assets/screens/01-same-track-new-feeling.png">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="VibeDeck — Offline Music Player for FLAC, MP3 &amp; WAV (iOS)">
-    <meta name="twitter:description" content="Shape FLAC, MP3 and WAV in real time with 4-band EQ, bass boost, filter, limiter, pitch, tempo, waveform and DJ tools.">
+    <meta name="twitter:title" content="VibeDeck — Offline Music Player for FLAC, MP3 &amp; WAV (iOS &amp; Android)">
+    <meta name="twitter:description" content="Shape FLAC, MP3 and WAV in real time with 4-band EQ, bass boost, filter, limiter, pitch, tempo, waveform and DJ tools on iOS and Android.">
     <meta name="twitter:image" content="https://vibedeckplayer.app/assets/screens/01-same-track-new-feeling.png">
     <script type="application/ld+json">
       {
@@ -24,10 +24,13 @@
         "@type": "SoftwareApplication",
         "name": "VibeDeck",
         "applicationCategory": "MusicApplication",
-        "operatingSystem": "iOS, iPadOS",
+        "operatingSystem": "iOS, iPadOS, Android",
         "description": "Offline music player for local FLAC, MP3 and WAV files with 4-band EQ, bass boost, filter, limiter, pitch, tempo, waveform and DJ tools.",
         "url": "https://vibedeckplayer.app/",
-        "downloadUrl": "https://apps.apple.com/app/id6784724920",
+        "downloadUrl": [
+          "https://apps.apple.com/app/id6784724920",
+          "https://play.google.com/store/apps/details?id=com.vibedeck.player"
+        ],
         "featureList": [
           "Offline playback for FLAC, MP3 and WAV",
           "4-band equalizer, bass boost, filter and limiter",
@@ -61,30 +64,36 @@
     <main>
       <section class="hero" id="player" aria-label="VibeDeck hero">
         <div class="hero-copy">
-          <p class="eyebrow">Offline music player for iPhone &amp; iPad</p>
+          <p class="eyebrow">Offline music player for iPhone, iPad &amp; Android</p>
           <h1>Same Track. New Feeling.</h1>
           <p>
-            Offline music player for iPhone and iPad that plays MP3, FLAC and WAV from your local files — with equalizer, pitch and tempo control. No WiFi needed.
+            Offline music player for iPhone, iPad and Android that plays MP3, FLAC and WAV from your local files — with equalizer, pitch and tempo control. No WiFi needed.
           </p>
-          <div class="actions">
-            <a class="button primary" href="#appstore">Get VibeDeck</a>
-            <a class="button secondary" href="#workflow">Explore</a>
+          <div class="actions store-actions">
+            <a class="button store-button apple" href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener" aria-label="Download VibeDeck on the App Store">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.69 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg>
+              <span class="store-button-copy"><small>Download on the</small><strong>App Store</strong></span>
+            </a>
+            <a class="button store-button google" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" target="_blank" rel="noopener" aria-label="Get VibeDeck on Google Play">
+              <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg>
+              <span class="store-button-copy"><small>Get it on</small><strong>Google Play</strong></span>
+            </a>
           </div>
         </div>
 
         <div class="hero-screens" aria-label="VibeDeck promotional screenshots">
           <figure class="main-screen">
-            <img src="assets/screens/01-same-track-new-feeling.png" alt="VibeDeck offline music player for iPhone with pitch control and equalizer">
+            <img src="assets/screens/android-same-track-new-feeling.png" alt="VibeDeck music player with pitch control on Android">
           </figure>
           <figure class="main-screen">
-            <img src="assets/screens/03-music-that-reacts.png" alt="VibeDeck music-reactive visualizer for an offline music player">
+            <img src="assets/screens/android-change-the-vibe.png" alt="VibeDeck music player with real-time tone controls on Android">
           </figure>
         </div>
       </section>
 
       <section class="statement">
         <p>
-          VibeDeck is a premium music player for iOS — for people who own their music and want to feel it again.
+          VibeDeck is a premium music player for iOS and Android — for people who own their music and want to feel it again.
           Import your audio files and shape the sound in real time with a 4-band EQ, bass boost, filter, limiter, pitch, tempo, and DJ tools — all on one dark, distraction-free screen.
         </p>
       </section>
@@ -140,40 +149,43 @@
 
       <section class="appstore" id="appstore">
         <div>
-          <p class="eyebrow">App Store</p>
-          <h2>Out now on the App Store.</h2>
+          <p class="eyebrow">Available now</p>
+          <h2>One player. Two platforms.</h2>
           <p>
-            Works with audio files from Files, iCloud Drive, AirDrop, and supported share sources.
-            Automatic artwork and metadata lookup. No account. No ads. No tracking.
+            VibeDeck is now available for iPhone, iPad and Android. Work with local audio files,
+            shape the sound in real time, and keep your music offline. No account. No ads. No tracking.
           </p>
         </div>
-        <div class="actions">
-          <a class="button primary" href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener">Download on the App Store</a>
+        <div class="actions store-actions">
+          <a class="button store-button apple" href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener" aria-label="Download VibeDeck on the App Store">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.69 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg>
+            <span class="store-button-copy"><small>Download on the</small><strong>App Store</strong></span>
+          </a>
+          <a class="button store-button google" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" target="_blank" rel="noopener" aria-label="Get VibeDeck on Google Play">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg>
+            <span class="store-button-copy"><small>Get it on</small><strong>Google Play</strong></span>
+          </a>
         </div>
       </section>
 
-      <section class="appstore android-coming" aria-labelledby="android-title">
+      <section class="appstore android-available" aria-labelledby="android-title">
         <div>
-          <p class="eyebrow">Android — Coming Soon</p>
-          <h2 id="android-title">Android is coming.</h2>
+          <p class="eyebrow">Google Play — Out now</p>
+          <h2 id="android-title">Now live on Google Play.</h2>
           <p>
-            VibeDeck for Android is in final testing — the same offline music player for your local files:
-            MP3, FLAC, WAV, with EQ, pitch and tempo control. No ads. No tracking.
+            The Android version is ready: the same offline music player for your local files —
+            MP3, FLAC and WAV with EQ, pitch and tempo control. No ads. No tracking.
           </p>
-          <div class="actions">
-            <a class="button secondary is-disabled" href="#" aria-disabled="true">Notify me</a>
-          </div>
-          <p class="note">Follow for updates.</p>
         </div>
         <figure class="main-screen android-screen">
-          <img src="assets/screens/android-coming.png" alt="VibeDeck offline music player for Android with pitch control and equalizer">
+          <img src="assets/screens/android-change-the-vibe.png" alt="VibeDeck offline music player for Android with pitch and tone control">
         </figure>
       </section>
 
       <section class="content" aria-label="Why VibeDeck">
         <h2>Why VibeDeck?</h2>
         <p>
-          VibeDeck is a premium music player for iOS. It plays your local files without WiFi,
+          VibeDeck is a premium music player for iOS and Android. It plays your local files without WiFi,
           an account, ads, or tracking. Pitch, EQ, waveform, and sound tools shape the same
           track into a new feeling. AURA adds an ambient visual world that breathes with
           your music. Your files stay on your device.

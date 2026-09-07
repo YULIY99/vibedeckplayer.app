@@ -203,6 +203,66 @@ h1 {
   background: rgba(255, 255, 255, 0.025);
 }
 
+.store-actions {
+  align-items: stretch;
+  gap: 12px;
+}
+
+.store-button {
+  min-width: 196px;
+  min-height: 64px;
+  gap: 12px;
+  padding: 8px 18px;
+  border-color: rgba(166, 225, 242, 0.28);
+  border-radius: 17px;
+  color: var(--text);
+  background: linear-gradient(145deg, rgba(19, 33, 39, 0.96), rgba(4, 9, 11, 0.98));
+  box-shadow: 0 14px 34px rgba(0, 0, 0, 0.32);
+  transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+}
+
+.store-button:hover {
+  transform: translateY(-2px);
+  border-color: rgba(166, 225, 242, 0.62);
+  box-shadow: 0 18px 42px rgba(0, 0, 0, 0.48), 0 0 24px rgba(33, 195, 243, 0.12);
+}
+
+.store-button svg {
+  width: 28px;
+  height: 28px;
+  flex: 0 0 auto;
+}
+
+.store-button.apple svg {
+  fill: #f7fbff;
+}
+
+.store-button-copy {
+  display: grid;
+  gap: 3px;
+  text-align: left;
+  line-height: 1;
+}
+
+.store-button-copy small,
+.store-button-copy strong {
+  display: block;
+}
+
+.store-button-copy small {
+  color: var(--soft);
+  font-size: 11px;
+  font-weight: 650;
+  letter-spacing: 0.02em;
+}
+
+.store-button-copy strong {
+  color: var(--text);
+  font-size: 18px;
+  font-weight: 780;
+  letter-spacing: -0.02em;
+}
+
 .hero-screens {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -380,7 +440,7 @@ h3 {
   max-width: 740px;
 }
 
-.android-coming .android-screen {
+.android-available .android-screen {
   width: min(260px, 32vw);
   flex: 0 0 auto;
 }
@@ -487,7 +547,7 @@ main > [aria-label="Why VibeDeck"] p {
     align-items: flex-start;
   }
 
-  .android-coming .android-screen {
+  .android-available .android-screen {
     width: min(320px, 82vw);
   }
 
@@ -540,6 +600,10 @@ main > [aria-label="Why VibeDeck"] p {
 
   .hero-screens {
     grid-template-columns: 1fr;
+  }
+
+  .store-button {
+    width: 100%;
   }
 
   .screen-trio figure:last-child {
