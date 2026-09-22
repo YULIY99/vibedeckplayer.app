@@ -648,3 +648,36 @@ main > [aria-label="Why VibeDeck"] p {
     border-radius: 20px;
   }
 }
+
+/* SEO landing pages: comparison table */
+.content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+  font-size: 15px;
+  display: block;
+  overflow-x: auto;
+}
+.content th, .content td {
+  text-align: left;
+  padding: 10px 12px;
+  border-bottom: 1px solid rgba(255,255,255,.12);
+  white-space: nowrap;
+}
+.content td:first-child, .content th:first-child {
+  white-space: normal;
+}
+.content thead th {
+  opacity: .75;
+  font-weight: 600;
+}
+.footer .guides {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 16px;
+  margin: 12px 0;
+  font-size: 14px;
+}
+.footer .guides a {
+  opacity: .75;
+}

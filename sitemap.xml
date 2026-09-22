@@ -2,19 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vibedeckplayer.app/</loc>
-    <lastmod>2026-09-07</lastmod>
+    <lastmod>2026-09-22</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://vibedeckplayer.app/flac-player-iphone/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/offline-music-player-iphone/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/offline-music-player-android/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/mp3-player-no-ads/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/music-player-pitch-tempo/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vibedeck-vs-vox/</loc>
+    <lastmod>2026-09-22</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://vibedeckplayer.app/support.html</loc>
+    <lastmod>2026-09-22</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/privacy.html</loc>
+    <lastmod>2026-09-22</lastmod>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/terms.html</loc>
+    <lastmod>2026-09-22</lastmod>
     <priority>0.4</priority>
   </url>
 </urlset>
