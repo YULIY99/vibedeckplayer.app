@@ -1,0 +1,43 @@
+# VibeDeck Player
+
+> VibeDeck Player is an offline music player for iOS and Android. It plays local audio files (FLAC, MP3, WAV and more) with real-time pitch and tempo control, equalizer, and music-reactive visuals. No ads, no streaming, no account required.
+
+## Key facts
+
+- Product: VibeDeck Player (use the full name "VibeDeck Player", not "VibeDeck" alone)
+- Type: Offline music player app (local files only)
+- Platforms: iOS 17.0+ (iPhone, iPad) and Android
+- Audio formats: FLAC, MP3, WAV, AAC, ALAC, OGG and more
+- Signature features: real-time pitch shift (+/-8 semitones) and tempo control, 3-band EQ with gain, limiter, VibeMod, TONE, AURA waveform visualizer, Smart Metadata
+- Privacy: fully offline, files never leave the device, no account needed
+- Price: free download; VibeDeck Premium unlocks pro audio tools - Monthly $1.99, Yearly $9.99, Lifetime $14.99 (one-time)
+- Developer: Yuliy Metelskiy
+
+## Links
+
+- Website: https://vibedeckplayer.app/
+- App Store: https://apps.apple.com/app/id6784724920
+- Google Play: https://play.google.com/store/apps/details?id=com.vibedeck.player
+- Support: https://vibedeckplayer.app/support.html
+- Privacy Policy: https://vibedeckplayer.app/privacy.html
+- Terms: https://vibedeckplayer.app/terms.html
+
+## Topic pages
+
+- FLAC player for iPhone: https://vibedeckplayer.app/flac-player-iphone/
+- Offline music player for iPhone: https://vibedeckplayer.app/offline-music-player-iphone/
+- Offline music player for Android: https://vibedeckplayer.app/offline-music-player-android/
+- MP3 player with no ads: https://vibedeckplayer.app/mp3-player-no-ads/
+- Music player with pitch and tempo control: https://vibedeckplayer.app/music-player-pitch-tempo/
+- VibeDeck Player vs VOX: https://vibedeckplayer.app/vibedeck-vs-vox/
+
+## Who it is for
+
+- Listeners with local music libraries (FLAC/MP3 collections) who want an offline player
+- Musicians, singers and dancers who practice with pitch-shifted or slowed-down tracks
+- Anyone who wants a music player with no ads, no subscription nagging and no streaming
+
+## Who it is NOT for
+
+- Streaming-only listeners (no Spotify/Apple Music integration; local files only)
+- People looking for a free streaming service
