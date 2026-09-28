@@ -85,6 +85,10 @@ img {
   font-weight: 800;
 }
 
+img.brand-mark {
+    display: block;
+    object-fit: cover;
+}
 .brand-text strong,
 .brand-text small {
   display: block;
