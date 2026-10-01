@@ -39,7 +39,7 @@
 - Privacy: https://vibedeckplayer.app/privacy.html
 
 
-## VibeDeck – Offline Music Player for FLAC, ALAC, WAV & MP3
+## VibeDeck Player: Offline Music Player for FLAC, WAV, MP3
 
 URL: https://vibedeckplayer.app/
 
@@ -86,7 +86,7 @@ A: If you want real-time pitch and tempo control, Android support, or a one-time
 A: Real-time pitch shifting up to plus or minus 8 semitones, independent tempo control, 3-band EQ with gain, waveform scrubbing with BPM readout, and the audio-reactive AURA visualizer, all offline on your own files.
 
 
-## FLAC, ALAC, AIFF & WAV Player for iPhone | VibeDeck
+## FLAC, ALAC, AIFF and WAV Player | VibeDeck Player
 
 URL: https://vibedeckplayer.app/audio-formats/
 
@@ -113,7 +113,7 @@ A: Not yet. Convert OGG, WMA or Opus files to FLAC or AAC and import them into V
 A: No. Import FLAC, ALAC, AIFF, WAV, MP3, AAC, M4A and CAF files as they are. Nothing is converted or uploaded.
 
 
-## Best Offline Music Player for iPhone & Android (2026)
+## Best Offline Music Player in 2026 | VibeDeck Player
 
 URL: https://vibedeckplayer.app/best-offline-music-player/
 
@@ -140,7 +140,7 @@ A: Yes. VibeDeck Player is free to download and has no ads. Premium adds the ful
 A: At least MP3, AAC and M4A for everyday files and FLAC, ALAC, WAV and AIFF for lossless. VibeDeck Player supports all of them plus CAF.
 
 
-## How to Change the Key of a Song on iPhone | VibeDeck
+## Change the Key of a Song on iPhone | VibeDeck Player
 
 URL: https://vibedeckplayer.app/change-song-key-iphone/
 
@@ -167,7 +167,7 @@ A: Yes. Transposing happens on your iPhone, with no internet connection and no u
 A: VibeDeck Player is free to download with no ads. Pitch and the full sound engine are part of VibeDeck Premium: monthly, yearly or a one-time lifetime purchase.
 
 
-## FLAC Player for Android – Offline, No Ads | VibeDeck
+## FLAC Player for Android, No Ads | VibeDeck Player
 
 URL: https://vibedeckplayer.app/flac-player-android/
 
@@ -194,7 +194,7 @@ A: Yes. A 3-band EQ with gain, bass boost, filter, stereo balance and a limiter.
 A: Free to download. VibeDeck Premium on Google Play costs $1.99 per month, $9.99 per year or $14.99 once for lifetime access. Prices may vary by region.
 
 
-## FLAC Player for iPhone – Lossless & Offline | VibeDeck
+## FLAC Player for iPhone, Lossless | VibeDeck Player
 
 URL: https://vibedeckplayer.app/flac-player-iphone/
 
@@ -221,7 +221,7 @@ A: Yes. VibeDeck Player offers real-time pitch shifting up to plus or minus 8 se
 A: The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 
-## MP3 Player With No Ads – Offline, No Account | VibeDeck
+## MP3 Player With No Ads, Offline | VibeDeck Player
 
 URL: https://vibedeckplayer.app/mp3-player-no-ads/
 
@@ -248,7 +248,7 @@ A: Yes. VibeDeck Player also plays FLAC and WAV, so you can mix formats in one o
 A: The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 
-## Music Player With Pitch & Tempo Control | VibeDeck
+## Music Player With Pitch & Tempo | VibeDeck Player
 
 URL: https://vibedeckplayer.app/music-player-pitch-tempo/
 
@@ -275,7 +275,7 @@ A: Yes. All processing happens on the device. Pitch, tempo, EQ and filter work i
 A: The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 
-## Offline Music Player for Android – No Ads | VibeDeck
+## Offline Music Player for Android | VibeDeck Player
 
 URL: https://vibedeckplayer.app/offline-music-player-android/
 
@@ -302,7 +302,7 @@ A: Your own collection: downloads, rips, purchases, DJ pools. If you own the fil
 A: The core offline player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 
-## Offline Music Player for iPhone – No WiFi | VibeDeck
+## Offline Music Player for iPhone | VibeDeck Player
 
 URL: https://vibedeckplayer.app/offline-music-player-iphone/
 
@@ -329,7 +329,7 @@ A: Your own collection: downloads, rips, Bandcamp purchases, DJ pools. If you ow
 A: The core offline player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 
-## Slow Down a Song Without Changing Pitch | VibeDeck
+## Slow Down a Song, Keep the Pitch | VibeDeck Player
 
 URL: https://vibedeckplayer.app/slow-down-song/
 
@@ -356,7 +356,7 @@ A: Any file VibeDeck Player plays: MP3, WAV, FLAC, M4A/ALAC, AAC, AIFF and CAF. 
 A: Yes. Pitch and tempo are independent, so you can slow a song down and transpose it by up to plus or minus 8 semitones at the same time.
 
 
-## VibeDeck Studio – Slowed + Reverb, Nightcore & Loops
+## Slowed + Reverb, Nightcore & Loop Maker | VibeDeck Player
 
 URL: https://vibedeckplayer.app/studio/
 
@@ -383,7 +383,7 @@ A: 24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck mus
 A: It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.
 
 
-## VibeDeck vs VOX – Offline Music Player Comparison
+## VibeDeck Player vs VOX: Offline Player Comparison
 
 URL: https://vibedeckplayer.app/vibedeck-vs-vox/
 
