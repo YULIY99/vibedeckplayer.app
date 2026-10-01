@@ -1,179 +1,295 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="no-js">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Music Player With Pitch and Tempo Control - Change Key and Speed | VibeDeck Player</title>
-  <meta name="description" content="VibeDeck Player changes pitch up to plus or minus 8 semitones and tempo independently, offline on iPhone and Android. A music player for musicians, singers, dancers and DJ prep.">
-  <meta name="theme-color" content="#000000">
-  <link rel="canonical" href="https://vibedeckplayer.app/music-player-pitch-tempo/">
-  <meta name="apple-itunes-app" content="app-id=6784724920">
-  <meta property="og:type" content="website">
-  <meta property="og:site_name" content="VibeDeck Player">
-  <meta property="og:title" content="Music Player With Pitch and Tempo Control - Change Key and Speed | VibeDeck Player">
-  <meta property="og:description" content="Shift pitch up to 8 semitones and change tempo independently, offline. A music player built for practice, rehearsal and DJ prep.">
-  <meta property="og:url" content="https://vibedeckplayer.app/music-player-pitch-tempo/">
-  <meta property="og:image" content="https://vibedeckplayer.app/assets/screens/01-same-track-new-feeling.webp">
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Music Player With Pitch and Tempo Control - Change Key and Speed | VibeDeck Player">
-  <meta name="twitter:description" content="Shift pitch up to 8 semitones and change tempo independently, offline. For practice, rehearsal and DJ prep.">
-  <meta name="twitter:image" content="https://vibedeckplayer.app/assets/screens/01-same-track-new-feeling.webp">
-  <script type="application/ld+json">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Music Player With Pitch &amp; Tempo Control | VibeDeck</title>
+<meta name="description" content="Change a song&#x27;s key by ±8 semitones and its tempo independently, offline on iPhone and Android. For singers, musicians, dancers and DJs. Download free.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://vibedeckplayer.app/music-player-pitch-tempo/">
+<meta name="theme-color" content="#04070d">
+<meta name="color-scheme" content="dark">
+<meta name="apple-itunes-app" content="app-id=6784724920">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="VibeDeck Player">
+<meta property="og:locale" content="en_US">
+<meta property="og:title" content="Music Player With Pitch &amp; Tempo Control | VibeDeck">
+<meta property="og:description" content="Shift pitch up to 8 semitones and change tempo independently, offline. A music player built for practice, rehearsal and DJ prep.">
+<meta property="og:url" content="https://vibedeckplayer.app/music-player-pitch-tempo/">
+<meta property="og:image" content="https://vibedeckplayer.app/assets/img/vibedeck-og-1200x630.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="VibeDeck offline music player on iPhone">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Music Player With Pitch &amp; Tempo Control | VibeDeck">
+<meta name="twitter:description" content="Shift pitch up to 8 semitones and change tempo independently, offline. A music player built for practice, rehearsal and DJ prep.">
+<meta name="twitter:image" content="https://vibedeckplayer.app/assets/img/vibedeck-og-1200x630.jpg">
+<link rel="icon" href="/favicon.ico" sizes="48x48">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="/assets/favicon-32.png" type="image/png" sizes="32x32">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="/assets/fonts/jetbrains-mono-latin-var.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" as="image" type="image/avif" imagesrcset="/assets/img/vibedeck-pitch-control-iphone-360.avif 360w, /assets/img/vibedeck-pitch-control-iphone-540.avif 540w, /assets/img/vibedeck-pitch-control-iphone-720.avif 720w" imagesizes="(min-width: 1024px) 288px, 76vw" fetchpriority="high">
+<link rel="stylesheet" href="/styles.css?v=2">
+<script>document.documentElement.className="js"</script>
+<script src="/assets/site.js?v=2" defer></script>
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org",
+ "@graph": [
   {
-    "@context": "https://schema.org",
-    "@type": "SoftwareApplication",
-    "name": "VibeDeck Player",
-    "applicationCategory": "MusicApplication",
-    "operatingSystem": "iOS, iPadOS, Android",
-    "description": "Offline music player with real-time pitch shifting up to plus or minus 8 semitones and independent tempo control. For musicians, singers, dancers and DJs.",
-    "url": "https://vibedeckplayer.app/music-player-pitch-tempo/",
-    "downloadUrl": [
-      "https://apps.apple.com/app/id6784724920",
-      "https://play.google.com/store/apps/details?id=com.vibedeck.player"
-    ],
-    "featureList": [
-      "Real-time pitch shifting up to plus or minus 8 semitones",
-      "Independent tempo control",
-      "LP/HP filter with pitch on the main screen",
-      "Offline MP3, FLAC and WAV playback"
-    ]
-  }
-  </script>
-  <script type="application/ld+json">
+   "@type": "Organization",
+   "@id": "https://vibedeckplayer.app/#org",
+   "name": "VibeDeck",
+   "url": "https://vibedeckplayer.app/",
+   "logo": "https://vibedeckplayer.app/assets/img/icon-512.png",
+   "email": "hello@vibedeckplayer.app",
+   "founder": {
+    "@type": "Person",
+    "name": "Yuliy Metelskiy"
+   }
+  },
   {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": [
-      {
-        "@type": "Question",
-        "name": "Can I change the key of a song with VibeDeck Player?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. VibeDeck Player shifts pitch in real time up to plus or minus 8 semitones, so you can move any track into your vocal range or match an instrument tuning without changing the file."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Can I slow down music without changing the pitch?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. Tempo and pitch are independent in VibeDeck Player. Slow a track down to learn a solo or speed it up for a workout while the key stays exactly where it was."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is VibeDeck Player good for musicians and DJs?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "It is built for that use: pitch and filter on the main screen, waveform scrubbing, BPM readout, 3-band EQ with gain and a limiter, all working offline on your own files."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Does pitch shifting work offline?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "Yes. All processing happens on the device. Pitch, tempo, EQ and filter work in airplane mode with no account and no internet."
-        }
-      },
-      {
-        "@type": "Question",
-        "name": "Is VibeDeck Player free?",
-        "acceptedAnswer": {
-          "@type": "Answer",
-          "text": "The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata."
-        }
-      }
-    ]
+   "@type": "WebSite",
+   "@id": "https://vibedeckplayer.app/#website",
+   "name": "VibeDeck Player",
+   "alternateName": "VibeDeck",
+   "url": "https://vibedeckplayer.app/",
+   "inLanguage": "en",
+   "publisher": {
+    "@id": "https://vibedeckplayer.app/#org"
+   }
+  },
+  {
+   "@type": "MobileApplication",
+   "@id": "https://vibedeckplayer.app/#app",
+   "name": "VibeDeck Player",
+   "alternateName": "VibeDeck",
+   "applicationCategory": "MusicApplication",
+   "operatingSystem": "iOS 17.0 or later, iPadOS, Android",
+   "description": "Offline music player for local FLAC, MP3 and WAV files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform and the AURA visualizer. No ads, account or tracking.",
+   "url": "https://vibedeckplayer.app/",
+   "image": "https://vibedeckplayer.app/assets/img/icon-512.png",
+   "screenshot": [
+    "https://vibedeckplayer.app/assets/img/vibedeck-offline-music-player-iphone-now-playing-800.webp",
+    "https://vibedeckplayer.app/assets/img/vibedeck-equalizer-iphone-720.webp",
+    "https://vibedeckplayer.app/assets/img/vibedeck-offline-music-player-android-720.webp"
+   ],
+   "downloadUrl": [
+    "https://apps.apple.com/app/id6784724920",
+    "https://play.google.com/store/apps/details?id=com.vibedeck.player"
+   ],
+   "installUrl": [
+    "https://apps.apple.com/app/id6784724920",
+    "https://play.google.com/store/apps/details?id=com.vibedeck.player"
+   ],
+   "featureList": [
+    "Offline playback for FLAC, MP3 and WAV",
+    "3-band equalizer with gain, bass boost, filter and limiter",
+    "Real-time pitch shifting up to plus or minus 8 semitones",
+    "Independent tempo control",
+    "Waveform scrubbing and BPM readout",
+    "Queue with drag to reorder",
+    "Audio-reactive AURA visualizer, VibeMod and TONE"
+   ],
+   "offers": [
+    {
+     "@type": "Offer",
+     "name": "VibeDeck Player",
+     "price": "0",
+     "priceCurrency": "USD",
+     "description": "Free download. Core player with no ads.",
+     "url": "https://apps.apple.com/app/id6784724920"
+    },
+    {
+     "@type": "Offer",
+     "name": "VibeDeck Premium Monthly",
+     "price": "1.99",
+     "priceCurrency": "USD",
+     "description": "Full sound engine, billed monthly.",
+     "url": "https://apps.apple.com/app/id6784724920"
+    },
+    {
+     "@type": "Offer",
+     "name": "VibeDeck Premium Yearly",
+     "price": "9.99",
+     "priceCurrency": "USD",
+     "description": "Full sound engine, billed yearly.",
+     "url": "https://apps.apple.com/app/id6784724920"
+    },
+    {
+     "@type": "Offer",
+     "name": "VibeDeck Premium Lifetime",
+     "price": "14.99",
+     "priceCurrency": "USD",
+     "description": "Full sound engine, one-time purchase.",
+     "url": "https://apps.apple.com/app/id6784724920"
+    }
+   ],
+   "publisher": {
+    "@id": "https://vibedeckplayer.app/#org"
+   },
+   "author": {
+    "@id": "https://vibedeckplayer.app/#org"
+   },
+   "inLanguage": "en"
+  },
+  {
+   "@type": "BreadcrumbList",
+   "itemListElement": [
+    {
+     "@type": "ListItem",
+     "position": 1,
+     "name": "Home",
+     "item": "https://vibedeckplayer.app/"
+    },
+    {
+     "@type": "ListItem",
+     "position": 2,
+     "name": "Pitch and tempo control",
+     "item": "https://vibedeckplayer.app/music-player-pitch-tempo/"
+    }
+   ]
+  },
+  {
+   "@type": "FAQPage",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "Can I change the key of a song with VibeDeck Player?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. VibeDeck Player shifts pitch in real time up to plus or minus 8 semitones, so you can move any track into your vocal range or match an instrument tuning without changing the file."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Can I slow down music without changing the pitch?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. Tempo and pitch are independent in VibeDeck Player. Slow a track down to learn a solo or speed it up for a workout while the key stays exactly where it was."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is VibeDeck Player good for musicians and DJs?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "It is built for that use: pitch and filter on the main screen, waveform scrubbing, BPM readout, 3-band EQ with gain and a limiter, all working offline on your own files."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Does pitch shifting work offline?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Yes. All processing happens on the device. Pitch, tempo, EQ and filter work in airplane mode with no account and no internet."
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "Is VibeDeck Player free?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata."
+     }
+    }
+   ]
   }
-  </script>
-  <link rel="icon" href="../assets/favicon.svg" type="image/svg+xml">
-  <link rel="stylesheet" href="../styles.css">
+ ]
+}
+</script>
 </head>
 <body>
-  <header class="topbar">
-    <a class="brand" href="../" aria-label="VibeDeck Player home">
-      <img class="brand-mark" src="../assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="42" height="42">
-      <span class="brand-text"><strong>VibeDeck Player</strong><small>Same Track. New Feeling.</small></span>
-    </a>
-    <nav aria-label="Main navigation">
-      <a href="../">Home</a>
-      <a href="../flac-player-iphone/">FLAC iPhone</a>
-      <a href="../support.html">Support</a>
-    </nav>
-  </header>
-  <main>
-    <section class="hero">
-      <div class="hero-copy">
-        <p class="eyebrow">Pitch and tempo control, offline</p>
-        <h1>Change the key. Change the speed. Keep the song.</h1>
-        <p>VibeDeck Player is a music player with real-time pitch and tempo control. Shift pitch up to plus or minus 8 semitones, change tempo independently, and shape the sound with a filter, all offline on iPhone and Android.</p>
-      </div>
-      <div class="hero-screens">
-        <figure class="main-screen">
-          <img src="../assets/screens/01-same-track-new-feeling.webp" alt="VibeDeck Player pitch and filter controls on iPhone" loading="lazy" width="900" height="1600">
-        </figure>
-      </div>
-    </section>
-
-    <section class="statement">
-      <p>Most music players treat a song as fixed: press play, accept the key and the speed. VibeDeck Player treats it as material. Singers move tracks into their range, guitarists match odd tunings, dancers slow a routine down to learn it, DJs sketch transitions. All on the device, with no internet and no account.</p>
-    </section>
-
-    <section class="feature-band" aria-label="Pitch and tempo features">
-      <article><span>01</span><h3>Pitch shifting</h3><p>Real-time pitch control up to plus or minus 8 semitones, right on the main screen next to the LP/HP filter.</p></article>
-      <article><span>02</span><h3>Tempo control</h3><p>Slow down or speed up independently of pitch. Learn solos note by note, or push the energy up.</p></article>
-      <article><span>03</span><h3>DJ toolkit</h3><p>Waveform scrubbing, BPM readout, 3-band EQ with gain and a limiter. Practice and prep without decks.</p></article>
-    </section>
-
-    <section class="content" aria-label="Who it is for">
-      <h2>Who uses pitch and tempo control</h2>
-      <ul>
-        <li><strong>Singers</strong> - move any song into a comfortable vocal range in seconds</li>
-        <li><strong>Guitarists and instrumentalists</strong> - match the track to your tuning, then slow the hard parts down</li>
-        <li><strong>Dancers</strong> - rehearse at half speed, perform at full speed, same key</li>
-        <li><strong>DJs</strong> - test how a track feels pitched up or down before it goes into a set</li>
-        <li><strong>Curious listeners</strong> - hear a familiar track in a new key just because you can</li>
-      </ul>
-      <p>Related: <a href="../flac-player-iphone/">FLAC player for iPhone</a>, <a href="../offline-music-player-android/">offline music player for Android</a>.</p>
-    </section>
-
-    <section class="content" aria-label="FAQ">
-      <h2>Pitch and tempo FAQ</h2>
-      <h3>How far can I shift the pitch?</h3>
-      <p>Up to plus or minus 8 semitones, in real time, without touching the file.</p>
-      <h3>Does changing tempo change the key?</h3>
-      <p>No. Tempo and pitch are fully independent: slow the song down, the key stays put.</p>
-      <h3>Does it work offline?</h3>
-      <p>Yes. All audio processing runs on the device, no internet or account needed.</p>
-    </section>
-
-    <section class="appstore" id="appstore">
-      <div>
-        <p class="eyebrow">Download VibeDeck Player</p>
-        <p>Pitch and tempo control for your own music files. iPhone and Android. No ads.</p>
-      </div>
-      <div class="actions store-actions">
-        <a class="button store-button apple" href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener" aria-label="Download VibeDeck Player on the App Store">
-          <span class="store-button-copy"><small>Download on the</small><strong>App Store</strong></span>
-        </a>
-        <a class="button store-button google" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" target="_blank" rel="noopener" aria-label="Get VibeDeck Player on Google Play">
-          <span class="store-button-copy"><small>Get it on</small><strong>Google Play</strong></span>
-        </a>
-      </div>
-    </section>
-  </main>
-  <footer class="footer">
-    <p>© 2026 VibeDeck Player</p>
-    <div class="guides">
-      <a href="../flac-player-iphone/">FLAC Player for iPhone</a>
-      <a href="../offline-music-player-iphone/">Offline Player for iPhone</a>
-      <a href="../offline-music-player-android/">Offline Player for Android</a>
-      <a href="../mp3-player-no-ads/">MP3 Player With No Ads</a>
-      <a href="../music-player-pitch-tempo/">Pitch and Tempo Control</a>
-      <a href="../vibedeck-vs-vox/">VibeDeck Player vs VOX</a>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap header-wrap">
+    <a class="brand" href="/" aria-label="VibeDeck Player home"><img src="/assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="32" height="32"><span class="brand-name">VibeDeck</span></a>
+    <nav class="nav mono" aria-label="Main navigation"><a href="/#player">Player</a><a href="/#workflow">Workflow</a><a href="/support.html">Support</a><a href="/privacy.html">Privacy</a></nav>
+    <a class="btn-dl" href="#download">Download</a>
+  </div>
+</header>
+<main id="main">
+<section class="hero hero--sub" aria-labelledby="hero-title">
+  <div class="wrap hero-grid">
+    <div class="hero-copy">
+      <nav aria-label="Breadcrumb"><ol class="crumbs mono"><li><a href="/">Home</a></li><li aria-current="page">Pitch and tempo control</li></ol></nav>
+      <p class="tag eyebrow">iPhone · Android <span class="dim">/ ±8 semitones</span></p>
+      <h1 id="hero-title"><span class="h1-plain">Change the key. Change the speed. Keep the song.</span><span class="h1-sub">Music player with pitch &amp; tempo control</span></h1>
+      <p class="lede">VibeDeck Player is a music player with real-time pitch and tempo control. Shift pitch up to plus or minus 8 semitones, change tempo independently, and shape the sound with a filter, all offline on iPhone and Android.</p>
+      <div class="stores"><a class="store store--primary" href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.69 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg><span><small>Download on the</small><strong>App Store</strong></span></a><a class="store" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" target="_blank" rel="noopener" aria-label="Get VibeDeck Player on Google Play for Android"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg><span><small>Get it on</small><strong>Google Play</strong></span></a></div>
     </div>
-    <div><a href="../support.html">Support</a><a href="../privacy.html">Privacy</a></div>
-  </footer>
+    <div class="hero-visual">
+      <div class="halo" aria-hidden="true"></div>
+      <div class="wave" aria-hidden="true"><i style="--h:85px;--d:-0.73s"></i><i style="--h:59px;--d:-2.16s"></i><i style="--h:52px;--d:-2.79s"></i><i style="--h:86px;--d:-0.15s"></i><i style="--h:82px;--d:-1.81s"></i><i style="--h:59px;--d:-3.43s"></i><i style="--h:76px;--d:-1.47s"></i><i style="--h:69px;--d:-2.83s"></i><i style="--h:75px;--d:-0.10s"></i><i style="--h:95px;--d:-0.80s"></i><i style="--h:56px;--d:-2.15s"></i><i style="--h:90px;--d:-3.44s"></i><i style="--h:67px;--d:-2.98s"></i><i style="--h:51px;--d:-3.49s"></i><i style="--h:43px;--d:-1.96s"></i><i style="--h:35px;--d:-0.16s"></i><i style="--h:29px;--d:-2.16s"></i><i style="--h:56px;--d:-2.94s"></i><i style="--h:90px;--d:-1.52s"></i><i style="--h:90px;--d:-0.72s"></i><i style="--h:92px;--d:-0.90s"></i><i style="--h:95px;--d:-1.38s"></i><i style="--h:70px;--d:-1.87s"></i><i style="--h:32px;--d:-0.27s"></i><i style="--h:55px;--d:-2.57s"></i><i style="--h:31px;--d:-1.46s"></i><i style="--h:46px;--d:-2.81s"></i><i style="--h:97px;--d:-0.33s"></i><i style="--h:76px;--d:-0.38s"></i><i style="--h:87px;--d:-3.39s"></i><i style="--h:83px;--d:-2.09s"></i><i style="--h:51px;--d:-0.35s"></i><i style="--h:40px;--d:-0.29s"></i><i style="--h:35px;--d:-3.45s"></i><i style="--h:45px;--d:-3.26s"></i><i style="--h:65px;--d:-2.79s"></i><i style="--h:93px;--d:-2.51s"></i><i style="--h:66px;--d:-1.69s"></i><i style="--h:68px;--d:-0.12s"></i><i style="--h:52px;--d:-2.04s"></i><i style="--h:75px;--d:-3.50s"></i><i style="--h:58px;--d:-2.95s"></i><i style="--h:52px;--d:-2.10s"></i><i style="--h:68px;--d:-0.12s"></i><i style="--h:30px;--d:-1.55s"></i><i style="--h:64px;--d:-1.54s"></i><i style="--h:53px;--d:-0.61s"></i><i style="--h:54px;--d:-2.19s"></i></div>
+      <figure class="poster" data-parallax="0.04"><picture><source type="image/avif" srcset="/assets/img/vibedeck-pitch-control-iphone-360.avif 360w, /assets/img/vibedeck-pitch-control-iphone-540.avif 540w, /assets/img/vibedeck-pitch-control-iphone-720.avif 720w" sizes="(min-width: 1024px) 288px, 76vw"><source type="image/webp" srcset="/assets/img/vibedeck-pitch-control-iphone-360.webp 360w, /assets/img/vibedeck-pitch-control-iphone-540.webp 540w, /assets/img/vibedeck-pitch-control-iphone-720.webp 720w" sizes="(min-width: 1024px) 288px, 76vw"><img src="/assets/img/vibedeck-pitch-control-iphone-540.webp" alt="VibeDeck Player pitch and filter controls on iPhone" width="540" height="1170" fetchpriority="high" decoding="async"></picture></figure>
+    </div>
+  </div>
+</section>
+
+<section class="section statement statement--small" aria-label="Overview">
+  <div class="wrap" data-reveal><p>Most music players treat a song as fixed: press play, accept the key and the speed. VibeDeck Player treats it as material. Singers move tracks into their range, guitarists match odd tunings, dancers slow a routine down to learn it, DJs sketch transitions. All on the device, with no internet and no account.</p></div>
+</section>
+
+<section class="section" aria-labelledby="features-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Features <span class="dim">/ 03</span></p><h2 class="h2" id="features-title">Pitch and tempo features</h2></div></div>
+    <ul class="panels"><li class="panel glass" data-reveal style="--rd:0ms"><span class="num" aria-hidden="true">01</span><h3>Pitch shifting</h3><p>Real-time pitch control up to plus or minus 8 semitones, right on the main screen next to the LP/HP filter.</p></li><li class="panel glass" data-reveal style="--rd:90ms"><span class="num" aria-hidden="true">02</span><h3>Tempo control</h3><p>Slow down or speed up independently of pitch. Learn solos note by note, or push the energy up.</p></li><li class="panel glass" data-reveal style="--rd:180ms"><span class="num" aria-hidden="true">03</span><h3>DJ toolkit</h3><p>Waveform scrubbing, BPM readout, 3-band EQ with gain and a limiter. Practice and prep without decks.</p></li></ul>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap"><div class="glass box prose" data-reveal><h2>Who uses pitch and tempo control</h2><ul><li><strong>Singers</strong>: move any song into a comfortable vocal range in seconds</li><li><strong>Guitarists and instrumentalists</strong>: match the track to your tuning, then slow the hard parts down</li><li><strong>Dancers</strong>: rehearse at half speed, perform at full speed, same key</li><li><strong>DJs</strong>: test how a track feels pitched up or down before it goes into a set</li><li><strong>Curious listeners</strong>: hear a familiar track in a new key just because you can</li></ul><p>Related: <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/offline-music-player-android/">offline music player for Android</a>.</p></div></div>
+</section>
+<section class="section" id="faq" aria-labelledby="faq-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ 05</span></p><h2 class="h2" id="faq-title">Pitch and tempo FAQ</h2></div></div>
+    <div class="faq" data-reveal><details><summary><h3>Can I change the key of a song with VibeDeck Player?</h3></summary><div class="a"><p>Yes. VibeDeck Player shifts pitch in real time up to plus or minus 8 semitones, so you can move any track into your vocal range or match an instrument tuning without changing the file.</p></div></details><details><summary><h3>Can I slow down music without changing the pitch?</h3></summary><div class="a"><p>Yes. Tempo and pitch are independent in VibeDeck Player. Slow a track down to learn a solo or speed it up for a workout while the key stays exactly where it was.</p></div></details><details><summary><h3>Is VibeDeck Player good for musicians and DJs?</h3></summary><div class="a"><p>It is built for that use: pitch and filter on the main screen, waveform scrubbing, BPM readout, 3-band EQ with gain and a limiter, all working offline on your own files.</p></div></details><details><summary><h3>Does pitch shifting work offline?</h3></summary><div class="a"><p>Yes. All processing happens on the device. Pitch, tempo, EQ and filter work in airplane mode with no account and no internet.</p></div></details><details><summary><h3>Is VibeDeck Player free?</h3></summary><div class="a"><p>The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.</p></div></details></div>
+  </div>
+</section>
+
+<section class="section" id="related" aria-labelledby="related-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Related</p><h2 class="h2" id="related-title">Keep <span class="soft">exploring.</span></h2></div></div>
+    <ul class="cards cards--4"><li data-reveal style="--rd:0ms"><a class="card glass" href="/"><span class="tag">Home</span><h3>VibeDeck Player home</h3><p>Same track, new feeling: the full tour of the offline music player.</p><span class="go mono"><span>Open guide</span><span aria-hidden="true">→</span></span></a></li><li data-reveal style="--rd:90ms"><a class="card glass" href="/flac-player-iphone/"><span class="tag">FLAC · iPhone</span><h3>FLAC player for iPhone</h3><p>Play lossless FLAC offline on iPhone and iPad, with a real EQ, pitch and tempo.</p><span class="go mono"><span>Open guide</span><span aria-hidden="true">→</span></span></a></li><li data-reveal style="--rd:180ms"><a class="card glass" href="/offline-music-player-android/"><span class="tag">Offline · Android</span><h3>Offline music player for Android</h3><p>MP3, FLAC and WAV from your phone, with zero mobile data spent on music.</p><span class="go mono"><span>Open guide</span><span aria-hidden="true">→</span></span></a></li><li data-reveal style="--rd:0ms"><a class="card glass" href="/vibedeck-vs-vox/"><span class="tag">Compare</span><h3>VibeDeck Player vs VOX</h3><p>An honest look at the VOX alternative with pitch tools and Android support.</p><span class="go mono"><span>Open guide</span><span aria-hidden="true">→</span></span></a></li></ul>
+  </div>
+</section>
+
+<section class="section" id="download" aria-labelledby="download-title">
+  <div class="wrap">
+    <div class="cta" data-reveal>
+      <div class="cta-grid">
+        <div class="cta-copy">
+          <p class="tag">Download <span class="dim">/ iOS · Android</span></p>
+          <h2 class="h2" id="download-title">Download VibeDeck Player</h2>
+          <p class="lede">Pitch and tempo control for your own music files. iPhone and Android. No ads.</p>
+          <div class="stores"><a class="store store--primary" href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.69 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg><span><small>Download on the</small><strong>App Store</strong></span></a><a class="store" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" target="_blank" rel="noopener" aria-label="Get VibeDeck Player on Google Play for Android"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg><span><small>Get it on</small><strong>Google Play</strong></span></a></div>
+        </div>
+        <div class="cta-media"><div class="phone phone--sm" data-parallax="0.05"><picture><source type="image/avif" srcset="/assets/img/vibedeck-flac-player-iphone-aura-400.avif 400w, /assets/img/vibedeck-flac-player-iphone-aura-600.avif 600w, /assets/img/vibedeck-flac-player-iphone-aura-800.avif 800w" sizes="(min-width: 1024px) 326px, 66vw"><source type="image/webp" srcset="/assets/img/vibedeck-flac-player-iphone-aura-400.webp 400w, /assets/img/vibedeck-flac-player-iphone-aura-600.webp 600w, /assets/img/vibedeck-flac-player-iphone-aura-800.webp 800w" sizes="(min-width: 1024px) 326px, 66vw"><img src="/assets/img/vibedeck-flac-player-iphone-aura-600.webp" alt="VibeDeck FLAC player for iPhone playing a track with AURA and waveform" width="600" height="1300" loading="lazy" decoding="async"></picture></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <div class="foot-grid">
+      <div class="foot-brand">
+        <a class="brand" href="/" aria-label="VibeDeck Player home"><img src="/assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="32" height="32" loading="lazy"><span class="brand-name">VibeDeck</span></a>
+        <p>Same Track. New Feeling. Offline music player for FLAC, MP3 &amp; WAV on iPhone, iPad and Android.</p>
+      </div>
+      <nav aria-label="Guides"><h2>Guides</h2><ul><li><a href="/flac-player-iphone/">FLAC player for iPhone</a></li><li><a href="/offline-music-player-iphone/">Offline music player for iPhone</a></li><li><a href="/offline-music-player-android/">Offline music player for Android</a></li><li><a href="/mp3-player-no-ads/">MP3 player with no ads</a></li><li><a href="/music-player-pitch-tempo/">Music player with pitch and tempo control</a></li><li><a href="/vibedeck-vs-vox/">VibeDeck Player vs VOX</a></li></ul></nav>
+      <nav aria-label="Player"><h2>Player</h2><ul>
+        <li><a href="/#player">Player</a></li><li><a href="/#workflow">Workflow</a></li><li><a href="/#premium">Premium</a></li><li><a href="/#faq">FAQ</a></li>
+        <li><a href="https://apps.apple.com/app/id6784724920" target="_blank" rel="noopener">App Store</a></li><li><a href="https://play.google.com/store/apps/details?id=com.vibedeck.player" target="_blank" rel="noopener">Google Play</a></li></ul></nav>
+      <nav aria-label="Company"><h2>Company</h2><ul>
+        <li><a href="/support.html">Support</a></li><li><a href="/privacy.html">Privacy</a></li><li><a href="/terms.html">Terms</a></li>
+        <li><a href="mailto:hello@vibedeckplayer.app">hello@vibedeckplayer.app</a></li></ul></nav>
+    </div>
+    <div class="foot-base mono"><span>© 2026 VibeDeck</span><span>No ads · No account · No tracking</span></div>
+  </div>
+</footer>
 </body>
 </html>
