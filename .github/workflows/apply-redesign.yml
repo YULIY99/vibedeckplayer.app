@@ -1,0 +1,31 @@
+name: Apply site redesign
+on:
+  push:
+    branches: [main]
+    paths: ['_deploy/**']
+  workflow_dispatch:
+permissions:
+  contents: write
+  pages: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack redesign bundle
+        run: |
+          set -e
+          n=$(ls _deploy/part-*.b64 | wc -l)
+          if [ "$n" -lt 3 ]; then echo "waiting for all parts ($n/3)"; exit 0; fi
+          cat _deploy/part-0.b64 _deploy/part-1.b64 _deploy/part-2.b64 | base64 -d > /tmp/redesign.zip
+          unzip -o -q /tmp/redesign.zip -d .
+          git rm -r -q _deploy
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Apply VibeDeck Player redesign (design + SEO)"
+          git push
+      - name: Trigger Pages build
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
