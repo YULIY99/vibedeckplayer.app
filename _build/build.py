@@ -15,6 +15,7 @@ IMG = {
   "now-playing": ("vibedeck-offline-music-player-iphone-now-playing", (400,600,800), (1290,2796)),
   "aura-live":   ("vibedeck-flac-player-iphone-aura", (400,600,800), (1290,2796)),
   "pitch-live":  ("vibedeck-pitch-filter-iphone", (400,600,800), (1290,2796)),
+  "studio-live": ("vibedeck-studio-loop-slicer-iphone", (400,600,800), (1290,2796)),
   # App Store banners
   "b-pitch":   ("vibedeck-pitch-control-iphone", (360,540,720), (1290,2796)),
   "b-eq":      ("vibedeck-equalizer-iphone", (360,540,720), (1290,2796)),
@@ -76,9 +77,15 @@ def stores(ios=True, android=True):
 GUIDES = [
   ("/flac-player-iphone/", "FLAC · iPhone", "FLAC player for iPhone", "Play lossless FLAC offline on iPhone and iPad, with a real EQ, pitch and tempo."),
   ("/offline-music-player-iphone/", "Offline · iPhone", "Offline music player for iPhone", "Your whole library on planes and in dead zones. No WiFi, no subscription."),
-  ("/offline-music-player-android/", "Offline · Android", "Offline music player for Android", "MP3, FLAC, WAV, AAC and more from your phone, with zero mobile data spent on music."),
+  ("/offline-music-player-android/", "Offline · Android", "Offline music player for Android", "MP3, FLAC, ALAC, AIFF, WAV and AAC from your phone, with zero mobile data spent on music."),
   ("/mp3-player-no-ads/", "MP3 · No ads", "MP3 player with no ads", "No banners, no video breaks, no account. Press play and hear your MP3s."),
   ("/music-player-pitch-tempo/", "Pitch · Tempo", "Music player with pitch and tempo control", "Change the key by ±8 semitones and the speed independently, for practice and DJ prep."),
+  ("/audio-formats/", "Formats · Hi-Res", "Music player for all audio formats", "FLAC, ALAC, AIFF, WAV, MP3, AAC, M4A and CAF, played offline with no conversion."),
+  ("/change-song-key-iphone/", "How-to · Key", "Change the key of a song on iPhone", "Transpose any track up or down by semitones to fit your voice or instrument."),
+  ("/slow-down-song/", "How-to · Tempo", "Slow down a song without changing pitch", "Learn fast parts, choreography and solos at your own speed, in the same key."),
+  ("/flac-player-android/", "FLAC · Android", "FLAC player for Android", "Lossless FLAC offline on Android, with EQ, pitch and tempo. No ads."),
+  ("/best-offline-music-player/", "Guide · 2026", "Best offline music player", "What to look for in an offline player in 2026, and how VibeDeck compares."),
+  ("/studio/", "Studio · Soon", "VibeDeck Studio: loops, slowed + reverb, nightcore", "Cut loops by bars, add one-tap FX and export clips for TikTok and Reels."),
   ("/vibedeck-vs-vox/", "Compare", "VibeDeck Player vs VOX", "An honest look at the VOX alternative with pitch tools and Android support."),
 ]
 PRICE_NOTE = "Prices may vary by region; the App Store and Google Play listings always show the current local price."
@@ -92,13 +99,13 @@ def offer(name, price, desc, url):
     return {"@type": "Offer", "name": name, "price": price, "priceCurrency": "USD", "description": desc, "url": url}
 APP = {"@type": "MobileApplication", "@id": SITE + "/#app", "name": "VibeDeck Player", "alternateName": "VibeDeck",
        "applicationCategory": "MusicApplication", "operatingSystem": "iOS 17.0 or later, iPadOS, Android",
-       "description": "Offline music player for local FLAC, MP3, WAV, AAC, M4A and more files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform and the AURA visualizer. No ads, account or tracking.",
+       "description": "Offline music player for local FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform and the AURA visualizer. No ads, account or tracking.",
        "url": SITE + "/", "image": SITE + "/assets/img/icon-512.png",
        "screenshot": [SITE + "/assets/img/vibedeck-offline-music-player-iphone-now-playing-800.webp",
                       SITE + "/assets/img/vibedeck-equalizer-iphone-720.webp",
                       SITE + "/assets/img/vibedeck-offline-music-player-android-720.webp"],
        "downloadUrl": [APPSTORE, PLAY], "installUrl": [APPSTORE, PLAY],
-       "featureList": ["Offline playback for FLAC, MP3, WAV, AAC, M4A and more", "3-band equalizer with gain, bass boost, filter and limiter",
+       "featureList": ["Offline playback for FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A", "3-band equalizer with gain, bass boost, filter and limiter",
                        "Real-time pitch shifting up to plus or minus 8 semitones", "Independent tempo control",
                        "Waveform scrubbing and BPM readout", "Queue with drag to reorder", "Audio-reactive AURA visualizer, VibeMod and TONE"],
        "offers": [offer("VibeDeck Player", "0", "Free download. Core player with no ads.", APPSTORE),
@@ -186,7 +193,7 @@ def footer():
     <div class="foot-grid">
       <div class="foot-brand">
         <a class="brand" href="/" aria-label="VibeDeck Player home"><img src="/assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="32" height="32" loading="lazy"><span class="brand-name">VibeDeck</span></a>
-        <p>Same Track. New Feeling. Offline music player for FLAC, MP3 &amp; WAV on iPhone, iPad and Android.</p>
+        <p>Same Track. New Feeling. Offline music player for FLAC, ALAC, WAV &amp; MP3 on iPhone, iPad and Android.</p>
       </div>
       <nav aria-label="Guides"><h2>Guides</h2><ul>{g}</ul></nav>
       <nav aria-label="Player"><h2>Player</h2><ul>
@@ -260,7 +267,7 @@ def write(path, content):
 # ---------------------------------------------------------------- HOME
 HOME_FAQ = [
  ("Is VibeDeck Player free?", "The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata. On the App Store Premium costs $2.99 per month, $19.99 per year or $49.99 for a lifetime license; on Google Play it costs $1.99 per month, $9.99 per year or $14.99 for a lifetime license."),
- ("Which audio formats does VibeDeck Player play?", "VibeDeck Player plays all popular audio formats stored on your device: FLAC, MP3, WAV, AAC, M4A, ALAC, AIFF and more. No conversion and no cloud upload needed."),
+ ("Which audio formats does VibeDeck Player play?", "VibeDeck Player plays all popular audio formats stored on your device: MP3, WAV, FLAC (Hi-Res Lossless), M4A including Apple Lossless (ALAC), AAC, AIFF/AIF and CAF. No conversion and no cloud upload needed."),
  ("Can iPhone play FLAC files?", "Yes. iPhone can play FLAC files, but the built-in options give you no equalizer, no pitch control and no real library for your own files. VibeDeck Player is a dedicated FLAC player for iPhone and iPad that plays your lossless files offline with a 3-band EQ, pitch and tempo control."),
  ("Does VibeDeck Player work offline?", "Yes. It is a fully offline music player: your files stay on the device and play with no WiFi, no account and no tracking."),
  ("Can I use VibeDeck Player offline without an account?", "Yes. There is no sign-up, no login and no cloud library. You import your own files once, and playback, EQ, pitch and tempo all run on the device, even in airplane mode."),
@@ -280,10 +287,10 @@ SHOTS = [
 ]
 
 def home():
-    p = {"path": "/", "title": "VibeDeck Player – Offline Music Player for FLAC, MP3 & WAV",
-         "desc": "Offline music player for iPhone & Android. Play FLAC, MP3, WAV, AAC, M4A and more with EQ, pitch and tempo control. No ads, no account. Download free.",
+    p = {"path": "/", "title": "VibeDeck – Offline Music Player for FLAC, ALAC, WAV & MP3",
+         "desc": "Offline music player for iPhone & Android. Plays FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A with EQ, pitch and tempo. No ads, no account. Free.",
          "og_title": "VibeDeck Player – Same Track. New Feeling.",
-         "og_desc": "Shape FLAC, MP3, WAV, AAC, M4A and more in real time with 3-band EQ, pitch, tempo, waveform and AURA on iOS and Android. No ads, account or tracking.",
+         "og_desc": "Shape FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A in real time with 3-band EQ, pitch, tempo, waveform and AURA on iOS and Android. No ads, account or tracking.",
          "preload": preload("now-playing", SIZES_PHONE),
          "ld": [ORG, WEBSITE, APP, faq_ld(HOME_FAQ)]}
     tabs = "".join(f'<a href="#shot-{i+1}" class="mono{" is-active" if i == 0 else ""}">{t}</a>' for i, (_, t, _, _, _) in enumerate(SHOTS))
@@ -294,8 +301,8 @@ def home():
   <div class="wrap hero-grid">
     <div class="hero-copy">
       <p class="tag eyebrow">iPhone · iPad · Android <span class="dim">/ Offline</span></p>
-      <h1 id="hero-title"><span class="h1-big">Same Track. <em>New Feeling.</em></span><span class="h1-sub">Offline music player for FLAC, MP3 &amp; WAV</span></h1>
-      <p class="lede">Offline music player for iPhone, iPad and Android that plays MP3, FLAC, WAV, AAC and more from your local files, with equalizer, pitch and tempo control. No WiFi needed.</p>
+      <h1 id="hero-title"><span class="h1-big">Same Track. <em>New Feeling.</em></span><span class="h1-sub">Offline music player for FLAC, ALAC, WAV &amp; MP3</span></h1>
+      <p class="lede">Offline music player for iPhone, iPad and Android that plays MP3, FLAC, ALAC, AIFF, WAV and AAC from your local files, with equalizer, pitch and tempo control. No WiFi needed.</p>
       {stores()}
       <ul class="hero-meta mono" aria-label="Highlights"><li>No ads</li><li>No account</li><li>No tracking</li><li>iOS 17+ · Android</li></ul>
       <div class="slider" aria-hidden="true"><div class="slider-top mono"><span><b>Pitch</b> / Filter</span><span>0.00</span></div><div class="slider-track"><span class="slider-thumb"></span></div><div class="slider-top mono"><span>0:02</span><span>BPM 124</span></div></div>
@@ -317,7 +324,7 @@ def home():
 
 <section class="section" id="features" aria-labelledby="features-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Features <span class="dim">/ 06</span></p><h2 class="h2" id="features-title">Pitch, EQ, AURA, TONE. <span class="soft">One dark screen.</span></h2></div><p class="lede">Every sound tool lives one move from the track: a music player with pitch and tempo control, a real equalizer for iPhone and Android, and visuals that react to the beat.</p></div>
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Features <span class="dim">/ {len(GUIDES):02d}</span></p><h2 class="h2" id="features-title">Pitch, EQ, AURA, TONE. <span class="soft">One dark screen.</span></h2></div><p class="lede">Every sound tool lives one move from the track: a music player with pitch and tempo control, a real equalizer for iPhone and Android, and visuals that react to the beat.</p></div>
     <nav class="tabs" aria-label="Feature screens">{tabs}</nav>
     <ol class="rail" aria-label="VibeDeck feature screens">{rail}</ol>
     <div class="rail-ctrl mono"><span>Swipe to explore · 6 screens</span><div class="rail-btns"><button type="button" data-rail="prev" aria-label="Previous screen">←</button><button type="button" data-rail="next" aria-label="Next screen">→</button></div></div>
@@ -354,18 +361,18 @@ def home():
 <section class="section" aria-labelledby="specs-title">
   <div class="wrap specs" data-reveal>
     <h2 id="specs-title">Specs</h2>
-    <ul class="chips"><li>All popular formats</li><li>FLAC</li><li>MP3</li><li>WAV</li><li>AAC</li><li>M4A</li><li>ALAC</li><li>AIFF</li><li>±8 semitones</li><li>Tempo</li><li>3-band EQ</li><li>Limiter</li><li>Offline</li><li>No ads</li><li>No account</li><li>No tracking</li></ul>
+    <ul class="chips"><li>All popular formats</li><li>FLAC</li><li>ALAC</li><li>AIFF</li><li>WAV</li><li>MP3</li><li>AAC</li><li>M4A</li><li>CAF</li><li>±8 semitones</li><li>Tempo</li><li>3-band EQ</li><li>Limiter</li><li>Offline</li><li>No ads</li><li>No account</li><li>No tracking</li></ul>
   </div>
 </section>
 
-{cards_html(GUIDES, 'Built for <span class="soft">the way you listen.</span>', 'Built for <span class="dim">/ 06</span>', "Six ways people use VibeDeck Player, each with its own guide.")}
+{cards_html(GUIDES, 'Built for <span class="soft">the way you listen.</span>', 'Built for <span class="dim">/ {len(GUIDES):02d}</span>', "Guides for every way people use VibeDeck Player.")}
 
 <section class="section" id="why" aria-labelledby="why-title">
   <div class="wrap duo duo--rev">
     <div class="duo-copy prose" data-reveal>
       <p class="tag eyebrow">Why VibeDeck</p>
       <h2 id="why-title">Why VibeDeck Player?</h2>
-      <p>VibeDeck Player is a premium <strong>offline music player for iPhone, iPad and Android</strong>, made for people who own their music. It plays the FLAC, MP3, WAV, AAC, M4A and more files already on your phone, with no WiFi, no account, no ads and no tracking. Your files stay on your device.</p>
+      <p>VibeDeck Player is a premium <strong>offline music player for iPhone, iPad and Android</strong>, made for people who own their music. It plays the FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A files already on your phone, with no WiFi, no account, no ads and no tracking. Your files stay on your device.</p>
       <p>Where most players stop at play and pause, VibeDeck treats every track as material. Shift pitch up to ±8 semitones and change tempo independently to practise, sing in your range or prep a DJ set. Shape the sound with a 3-band equalizer with gain, bass boost, filter, stereo balance and a built-in limiter. Scrub the waveform, read the BPM, and line up what's next in a queue you reorder by touch. AURA adds an ambient visual world that breathes with your music, and TONE and VibeMod give one track a second mood.</p>
       <p>Looking for a <a href="/flac-player-iphone/">FLAC player for iPhone</a>, an <a href="/mp3-player-no-ads/">MP3 player with no ads</a>, or a <a href="/vibedeck-vs-vox/">VOX alternative</a> that also runs on Android? VibeDeck Player covers all three on one dark, distraction-free screen. Same track. New feeling.</p>
     </div>
@@ -467,13 +474,13 @@ PAGES = [
   visual=("aura-live", "VibeDeck Player FLAC player for iPhone with pitch control", "phone"), ios=True, android=False,
   statement="iPhone plays FLAC, but the built-in options treat your lossless library as an afterthought: no equalizer, no pitch control, no waveform, no DJ tools. VibeDeck Player is built for people who own their music in FLAC and want to hear every detail of it, shaped exactly the way they like.",
   features_h2="FLAC player features",
-  features=[("Lossless playback", "FLAC, WAV, MP3, AAC, M4A and more from your local files. Your audio stays on the device, with no streaming and no conversion."),
+  features=[("Lossless playback", "FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A from your local files. Your audio stays on the device, with no streaming and no conversion."),
             ("Real EQ", "3-band EQ with gain, bass boost, filter, stereo balance and a limiter. Shape lossless sound in real time instead of accepting a flat default."),
             ("Pitch and tempo", "Shift pitch up to 8 semitones and change tempo independently. Practice, DJ prep, or just hear a track differently.")],
-  extra=prose_section('<h2>Formats VibeDeck Player plays</h2><p>Drop your files in and press play. No conversion, no cloud upload.</p><ul><li><strong>FLAC</strong>: lossless, your main archive format</li><li><strong>WAV</strong>: uncompressed studio files</li><li><strong>MP3</strong>: your existing library and downloads</li></ul><p>Also see: <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/music-player-pitch-tempo/">pitch and tempo control</a>.</p>'),
+  extra=prose_section('<h2>Formats VibeDeck Player plays</h2><p>Drop your files in and press play. No conversion, no cloud upload.</p><ul><li><strong>FLAC</strong>: lossless, your main archive format</li><li><strong>WAV</strong>: uncompressed studio files</li><li><strong>MP3</strong>: your existing library and downloads</li><li><strong>ALAC / M4A</strong>: Apple Lossless from your Mac or iTunes library</li><li><strong>AIFF / AIF</strong>: studio masters</li><li><strong>AAC and CAF</strong>: compact and Apple Core Audio files</li></ul><p>Full list: <a href="/audio-formats/">audio formats VibeDeck Player supports</a>.</p><p>Also see: <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/music-player-pitch-tempo/">pitch and tempo control</a>.</p>'),
   faq_h2="FLAC player FAQ",
   faq=[("Can iPhone play FLAC files?", "Yes. iPhone can play FLAC files, but the built-in options give you no equalizer, no pitch control and no real library for your own files. VibeDeck Player is a dedicated FLAC player for iPhone and iPad that plays your lossless files offline with full sound controls."),
-       ("Does VibeDeck Player work without internet?", "Yes. VibeDeck Player is an offline music player. Your FLAC, MP3, WAV, AAC, M4A and more files stay on your device and play with no WiFi, no account and no ads."),
+       ("Does VibeDeck Player work without internet?", "Yes. VibeDeck Player is an offline music player. Your FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A files stay on your device and play with no WiFi, no account and no ads."),
        ("Does it have an equalizer for FLAC playback?", "Yes. VibeDeck Player includes a 3-band EQ with gain, bass boost, filter, stereo balance and a built-in limiter, all applied in real time to your FLAC files."),
        ("Can I change pitch and tempo of FLAC tracks?", "Yes. VibeDeck Player offers real-time pitch shifting up to plus or minus 8 semitones and independent tempo control, which is rare among iPhone FLAC players."),
        ("Is VibeDeck Player free?", "The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.")],
@@ -481,19 +488,19 @@ PAGES = [
   cta="Play your FLAC files offline on iPhone and iPad. No account. No ads. No tracking."),
  dict(path="/offline-music-player-iphone/", crumb="Offline music player for iPhone",
   title="Offline Music Player for iPhone – No WiFi | VibeDeck",
-  desc="Offline music player for iPhone and iPad. Play MP3, FLAC, WAV, AAC and more with no internet, no ads, no account. EQ, pitch and tempo. Download free.",
-  og_desc="Your music, on your iPhone, with no internet. Offline player for MP3, FLAC, WAV, AAC and more with EQ, pitch and DJ tools.",
+  desc="Offline music player for iPhone and iPad. Play MP3, FLAC, ALAC, AIFF, WAV and AAC with no internet, no ads, no account. EQ, pitch and tempo. Download free.",
+  og_desc="Your music, on your iPhone, with no internet. Offline player for MP3, FLAC, ALAC, AIFF, WAV and AAC with EQ, pitch and DJ tools.",
   tag="iPhone · iPad <span class=\"dim\">/ No WiFi</span>", h1="Music that plays when the internet does not.", h1_sub="Offline music player for iPhone &amp; iPad",
-  lede="Plane mode, dead zones, roaming bills. VibeDeck Player keeps your MP3, FLAC, WAV, AAC and more on the device and playing, with EQ, pitch, tempo and DJ tools. No WiFi needed, ever.",
+  lede="Plane mode, dead zones, roaming bills. VibeDeck Player keeps your MP3, FLAC, ALAC, AIFF, WAV and AAC on the device and playing, with EQ, pitch, tempo and DJ tools. No WiFi needed, ever.",
   visual=("b-queue", "VibeDeck Player offline music player queue on iPhone", "card"), ios=True, android=False,
   statement="Streaming apps rent you music and take it away the moment you stop paying or lose signal. VibeDeck Player is the opposite: an offline music player for the files you own. Import once, listen anywhere, shape the sound in real time.",
   features_h2="Offline features",
   features=[("True offline", "No streaming, no buffering, no login. Your library lives on your iPhone and plays in airplane mode."),
-            ("Your formats", "MP3, FLAC, WAV, AAC and more. Mix lossy and lossless in one queue without thinking about it."),
+            ("Your formats", "MP3, FLAC, ALAC, AIFF, WAV and AAC. Mix lossy and lossless in one queue without thinking about it."),
             ("Pro sound", "3-band EQ with gain, bass boost, pitch and tempo, waveform scrubbing and BPM readout, all on one dark screen.")],
   extra=prose_section('<h2>Why go offline on iPhone</h2><ul><li><strong>Flights and travel</strong>: your whole library, no WiFi required</li><li><strong>No subscription</strong>: the music you own stays yours</li><li><strong>Battery</strong>: local playback sips power compared to streaming</li><li><strong>Privacy</strong>: no account, no tracking, files never leave the device</li></ul><p>Related: <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/mp3-player-no-ads/">MP3 player with no ads</a>.</p>'),
   faq_h2="Offline player FAQ",
-  faq=[("What is the best offline music player for iPhone?", "VibeDeck Player is built for offline listening on iPhone and iPad: your MP3, FLAC, WAV, AAC and more files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in stock apps."),
+  faq=[("What is the best offline music player for iPhone?", "VibeDeck Player is built for offline listening on iPhone and iPad: your MP3, FLAC, ALAC, AIFF, WAV, AAC and M4A files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in stock apps."),
        ("Can I play music on iPhone without internet?", "Yes. With VibeDeck Player your files are stored on the device, so music keeps playing on planes, in the subway, or anywhere with no signal."),
        ("Does Apple Music work offline?", "Apple Music needs a paid subscription for offline downloads and locks you into its ecosystem. VibeDeck Player plays files you already own, with no subscription and no lock-in."),
        FILES_Q,
@@ -502,21 +509,21 @@ PAGES = [
   cta="Offline music player for iPhone and iPad. No account. No ads. No tracking."),
  dict(path="/offline-music-player-android/", crumb="Offline music player for Android",
   title="Offline Music Player for Android – No Ads | VibeDeck",
-  desc="Offline music player for Android. Play MP3, FLAC, WAV, AAC and more with no internet, no ads, no account. 3-band EQ, pitch and tempo. On Google Play.",
-  og_desc="Your music, on your Android phone, with no internet. Offline player for MP3, FLAC, WAV, AAC and more with EQ, pitch and DJ tools.",
+  desc="Offline music player for Android. Play MP3, FLAC, ALAC, AIFF, WAV and AAC with no internet, no ads, no account. 3-band EQ, pitch and tempo. On Google Play.",
+  og_desc="Your music, on your Android phone, with no internet. Offline player for MP3, FLAC, ALAC, AIFF, WAV and AAC with EQ, pitch and DJ tools.",
   tag="Android <span class=\"dim\">/ Google Play</span>", h1="Your files. Your phone. No internet required.", h1_sub="Offline music player for Android",
-  lede="VibeDeck Player is an offline music player for Android that plays the MP3, FLAC, WAV, AAC and more files you already own, with a 3-band EQ and gain, pitch and tempo control, and DJ tools. No streaming, no ads, no account.",
+  lede="VibeDeck Player is an offline music player for Android that plays the MP3, FLAC, ALAC, AIFF, WAV, AAC and M4A files you already own, with a 3-band EQ and gain, pitch and tempo control, and DJ tools. No streaming, no ads, no account.",
   visual=("a-main", "VibeDeck Player offline music player for Android with pitch control", "card"), ios=False, android=True,
   statement="Most Android music apps push you toward streaming: subscriptions, data usage, downloads that expire. VibeDeck Player goes the other way. It is an offline music player for the files sitting on your phone right now, with pro sound tools on one dark screen.",
   features_h2="Android player features",
   features=[("True offline", "No streaming, no buffering, no login. Your library lives on your Android phone and plays in airplane mode."),
-            ("Every format", "MP3, FLAC, WAV, AAC and more in one queue. Your rips, downloads and DJ pool tracks, all playable without conversion."),
+            ("Every format", "MP3, FLAC, ALAC, AIFF, WAV and AAC in one queue. Your rips, downloads and DJ pool tracks, all playable without conversion."),
             ("Pro sound", "3-band EQ with gain, bass boost, pitch and tempo, waveform scrubbing and BPM readout, made for headphones.")],
   extra=prose_section('<h2>Why go offline on Android</h2><ul><li><strong>Travel</strong>: your whole library on flights and road trips, no WiFi needed</li><li><strong>Data</strong>: zero streaming means zero mobile data burned on music</li><li><strong>Ownership</strong>: the files you bought or ripped stay yours, nothing expires</li><li><strong>Privacy</strong>: no account, no tracking, files never leave the device</li></ul><p>Related: <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/mp3-player-no-ads/">MP3 player with no ads</a>.</p>'),
   faq_h2="Android player FAQ",
-  faq=[("What is the best offline music player for Android?", "VibeDeck Player is built for offline listening on Android: your MP3, FLAC, WAV, AAC and more files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in the stock player."),
+  faq=[("What is the best offline music player for Android?", "VibeDeck Player is built for offline listening on Android: your MP3, FLAC, ALAC, AIFF, WAV, AAC and M4A files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in the stock player."),
        ("Can I play music on Android without internet?", "Yes. With VibeDeck Player your files are stored on the phone, so music keeps playing on planes, in the subway, or anywhere with no signal."),
-       ("Does VibeDeck Player play FLAC on Android?", "Yes. VibeDeck Player plays FLAC, WAV, MP3, AAC, M4A and more from your local files on Android, with a 3-band EQ and gain, pitch shifting and tempo control applied in real time."),
+       ("Does VibeDeck Player play FLAC on Android?", "Yes. VibeDeck Player plays FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A from your local files on Android, with a 3-band EQ and gain, pitch shifting and tempo control applied in real time."),
        ("Where do the music files come from?", "Your own collection: downloads, rips, purchases, DJ pools. If you own the file, it plays."),
        ("Is VibeDeck Player free on Android?", FREE_A.replace("The core player", "The core offline player"))],
   related=["/offline-music-player-iphone/", "/mp3-player-no-ads/", "/music-player-pitch-tempo/"],
@@ -577,6 +584,132 @@ VOX_TABLE = '''<h2>Feature comparison</h2><p>Based on publicly listed features a
 <tr><td>Waveform scrubbing and BPM readout</td><td>No</td><td>Yes</td></tr>
 </tbody></table></div>'''
 
+PAGES.append(dict(path="/audio-formats/", crumb="Supported audio formats",
+  title="FLAC, ALAC, AIFF & WAV Player for iPhone | VibeDeck",
+  desc="One offline player for FLAC, ALAC, AIFF, WAV, MP3, AAC, M4A and CAF on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.",
+  og_desc="FLAC, ALAC, AIFF, WAV, MP3, AAC, M4A and CAF in one offline player. No conversion, no ads.",
+  tag="Formats <span class=\"dim\">/ Hi-Res</span>", h1="Every format you own. One player.", h1_sub="FLAC, ALAC, AIFF &amp; WAV player",
+  lede="VibeDeck Player plays the audio files you already have: hi-res FLAC, Apple Lossless (ALAC), AIFF studio masters, WAV, MP3, AAC, M4A and CAF. No conversion, no cloud upload, no internet.",
+  visual=("aura-live", "VibeDeck Player playing a lossless track on iPhone", "phone"), ios=True, android=True,
+  statement="Most music libraries are a mix: FLAC rips, ALAC from an old iTunes library, AIFF and WAV from the studio, MP3 from everywhere else. Built-in players handle some of them and hide the rest. VibeDeck Player opens them all in one library and plays them offline, with the same EQ, pitch and tempo controls for every file.",
+  features_h2="Why one player for every format",
+  features=[("No conversion", "Import files as they are. Lossless stays lossless: FLAC, ALAC, AIFF and WAV play bit for bit from your device."),
+            ("One sound engine", "3-band EQ with gain, limiter, pitch up to ±8 semitones and independent tempo work the same on MP3 and on a 24-bit master."),
+            ("Fully offline", "Files live on your phone. No streaming, no account, no ads, no tracking.")],
+  extra=prose_section('<h2>Supported audio formats</h2><ul><li><strong>FLAC</strong> (.flac): hi-res lossless, the standard archive format</li><li><strong>ALAC</strong> (.m4a): Apple Lossless from iTunes or Music on Mac</li><li><strong>AIFF / AIF</strong> (.aiff, .aif): uncompressed studio masters</li><li><strong>WAV</strong> (.wav): uncompressed audio from DAWs and recorders</li><li><strong>MP3</strong> (.mp3): the most common compressed format</li><li><strong>AAC / M4A</strong> (.aac, .m4a): compact files from stores and phones</li><li><strong>CAF</strong> (.caf): Apple Core Audio files</li></ul><p>OGG, WMA and Opus are not supported yet. Convert them to FLAC or AAC before importing.</p><h2>Lossless vs compressed: what to keep</h2><p>For your archive keep FLAC or ALAC: they are lossless and about half the size of WAV or AIFF. Use WAV or AIFF for files you still edit. MP3 and AAC are fine for everyday listening when space is tight. VibeDeck Player plays all of them side by side, so you never have to choose one format for the whole library.</p><p>Also see: <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/offline-music-player-android/">offline music player for Android</a>.</p>'),
+  faq_h2="Audio formats FAQ",
+  faq=[("What audio formats does VibeDeck Player support?", "VibeDeck Player plays MP3, WAV, FLAC, M4A including Apple Lossless (ALAC), AAC, AIFF/AIF and CAF files stored on your device."),
+       ("Can I play ALAC (Apple Lossless) files on iPhone?", "Yes. VibeDeck Player plays ALAC files in .m4a containers offline on iPhone and iPad, with EQ, pitch and tempo control."),
+       ("Does VibeDeck Player play AIFF and WAV?", "Yes. AIFF, AIF and WAV files play without conversion, including 24-bit studio files."),
+       ("Does VibeDeck Player support OGG, WMA or Opus?", "Not yet. Convert OGG, WMA or Opus files to FLAC or AAC and import them into VibeDeck Player."),
+       ("Do I need to convert my files before importing?", "No. Import FLAC, ALAC, AIFF, WAV, MP3, AAC, M4A and CAF files as they are. Nothing is converted or uploaded.")],
+  related=["/flac-player-iphone/", "/offline-music-player-iphone/", "/offline-music-player-android/"],
+  cta="Play every file you own, offline. No conversion. No ads. No tracking."))
+PAGES.append(dict(path="/change-song-key-iphone/", crumb="Change the key of a song on iPhone",
+  title="How to Change the Key of a Song on iPhone | VibeDeck",
+  desc="Change a song's key on iPhone in seconds: transpose up or down by up to 8 semitones, keep the tempo, work offline. Step-by-step guide with VibeDeck Player.",
+  og_desc="Transpose any song on iPhone by up to ±8 semitones without changing tempo. Step-by-step guide.",
+  tag="How-to <span class=\"dim\">/ Key</span>", h1="How to change the key of a song on iPhone.", h1_sub="Transpose any track by semitones",
+  lede="To change the key of a song on iPhone, open the track in VibeDeck Player, go to Pitch and move it up or down in semitones (up to ±8). Tempo stays the same, the change is instant, and it works offline with your own MP3, FLAC, WAV, AAC and ALAC files.",
+  visual=("b-pitch", "Changing the key of a song with VibeDeck Player pitch control on iPhone", "card"), ios=True, android=True,
+  statement="The built-in Music app on iPhone cannot transpose a song. Singers, guitarists and sax players end up hunting for karaoke versions or re-recording backing tracks. A real-time pitch shifter fixes that in one move: the same recording, in the key that fits your voice or instrument.",
+  features_h2="Why use VibeDeck Player to transpose",
+  features=[("Semitone steps", "Move a song up or down by up to 8 semitones. One semitone is one piano key, so you always know exactly where you are."),
+            ("Tempo stays", "Pitch and tempo are independent. Change the key and the song keeps its original speed, or slow it down as well."),
+            ("Your own files, offline", "Works on local MP3, FLAC, WAV, AAC, ALAC and AIFF files. No upload, no internet, no account.")],
+  extra=prose_section('<h2>Step by step</h2><ol><li>Install <strong>VibeDeck Player</strong> from the App Store (it is also on Google Play for Android).</li><li>Import your track from Files, iCloud Drive, Downloads or AirDrop.</li><li>Start playback and open the <strong>Pitch</strong> control.</li><li>Move pitch down to make a song lower (for example −2 for a deeper voice) or up to make it higher.</li><li>Sing or play along. Tempo is not affected unless you change it.</li></ol><h2>How many semitones do I need?</h2><ul><li><strong>Too high to sing:</strong> try −1 to −3 semitones.</li><li><strong>Female vocal sung by a male voice:</strong> often −3 to −5.</li><li><strong>Eb-tuned guitar track, standard-tuned guitar:</strong> +1 semitone.</li><li><strong>Bb instrument (trumpet, tenor sax) reading concert pitch:</strong> −2 semitones.</li><li><strong>Eb instrument (alto sax):</strong> +3 semitones.</li></ul><p>Pitch control is part of VibeDeck Premium; the player itself is free with no ads.</p><p>Also see: <a href="/slow-down-song/">slow down a song without changing pitch</a>, <a href="/music-player-pitch-tempo/">music player with pitch and tempo control</a>.</p>'),
+  faq_h2="Changing key on iPhone: FAQ",
+  faq=[("Can you change the key of a song on iPhone?", "Yes. The built-in Music app cannot, but VibeDeck Player can: it shifts the pitch of any local song by up to plus or minus 8 semitones in real time, without changing tempo."),
+       ("Does changing the key change the speed?", "No. In VibeDeck Player pitch and tempo are independent, so the song keeps its original speed when you transpose it."),
+       ("Can I transpose Apple Music or Spotify songs?", "No. Streaming apps protect their tracks, so no third-party app can process them. VibeDeck Player works with audio files you own, such as MP3, FLAC, WAV, AAC and ALAC."),
+       ("Does it work offline?", "Yes. Transposing happens on your iPhone, with no internet connection and no upload."),
+       ("Is pitch control free?", "VibeDeck Player is free to download with no ads. Pitch and the full sound engine are part of VibeDeck Premium: monthly, yearly or a one-time lifetime purchase.")],
+  related=["/slow-down-song/", "/music-player-pitch-tempo/", "/flac-player-iphone/"],
+  cta="Put any song in your key. Offline, instantly, no ads."))
+PAGES.append(dict(path="/slow-down-song/", crumb="Slow down a song without changing pitch",
+  title="Slow Down a Song Without Changing Pitch | VibeDeck",
+  desc="Slow down any song on iPhone or Android without changing its pitch. Practice solos, choreography and lyrics at your own speed, offline. Step-by-step guide.",
+  og_desc="Change song speed without changing pitch on iPhone and Android. Practice at your own tempo.",
+  tag="How-to <span class=\"dim\">/ Tempo</span>", h1="Slow down a song without changing its pitch.", h1_sub="Tempo control for practice",
+  lede="To slow down a song without changing pitch, open it in VibeDeck Player and lower the Tempo control. The song plays slower but stays in the same key, so you can learn a solo, a dance routine or fast lyrics, then bring it back to full speed. Works offline on iPhone, iPad and Android.",
+  visual=("now-playing", "Slowing down a song without changing pitch in VibeDeck Player", "phone"), ios=True, android=True,
+  statement="Playing a track slower on a basic player makes it sound low and muddy, like a tape running down. Time-stretching keeps the key while the speed changes, which is how musicians and dancers actually practice: slow first, then faster, then full tempo.",
+  features_h2="Built for practice",
+  features=[("Same key, any speed", "Tempo is independent from pitch, so a slowed-down song stays in tune with your instrument."),
+            ("Change key too", "Need it slower and lower? Combine tempo with pitch shifting of up to ±8 semitones."),
+            ("Offline and private", "Your files stay on your device. No upload, no internet, no ads during practice.")],
+  extra=prose_section('<h2>Step by step</h2><ol><li>Install <strong>VibeDeck Player</strong> from the App Store or Google Play.</li><li>Import the song from your files.</li><li>Open the <strong>Tempo</strong> control and lower it until the hard part is comfortable.</li><li>Practice, then raise the tempo step by step until you reach the original speed.</li></ol><h2>Who uses it</h2><ul><li><strong>Guitarists and pianists</strong> learning solos and fast passages by ear.</li><li><strong>Dancers and coaches</strong> rehearsing choreography at a slower count.</li><li><strong>Singers</strong> catching fast lyrics and runs.</li><li><strong>DJs</strong> preparing transitions at matching tempo.</li><li><strong>Language learners</strong> listening to songs or recordings more slowly.</li></ul><p>Tempo and pitch are part of VibeDeck Premium; the player itself is free with no ads.</p><p>Also see: <a href="/change-song-key-iphone/">change the key of a song on iPhone</a>, <a href="/music-player-pitch-tempo/">pitch and tempo control</a>.</p>'),
+  faq_h2="Slowing down songs: FAQ",
+  faq=[("How do I slow down a song without changing the pitch?", "Use a player with independent tempo control, such as VibeDeck Player. Lower the tempo and the song plays slower in the same key."),
+       ("Can I slow down music on iPhone?", "Yes. VibeDeck Player slows down local music files on iPhone and iPad without changing pitch, offline."),
+       ("Does it work on Android?", "Yes. VibeDeck Player is available on Google Play with the same tempo and pitch controls."),
+       ("Which files can I slow down?", "Any file VibeDeck Player plays: MP3, WAV, FLAC, M4A/ALAC, AAC, AIFF and CAF. Streaming tracks from Spotify or Apple Music cannot be processed by third-party apps."),
+       ("Can I also change the key?", "Yes. Pitch and tempo are independent, so you can slow a song down and transpose it by up to plus or minus 8 semitones at the same time.")],
+  related=["/change-song-key-iphone/", "/music-player-pitch-tempo/", "/offline-music-player-android/"],
+  cta="Practice at your speed, in your key. Offline. No ads."))
+PAGES.append(dict(path="/flac-player-android/", crumb="FLAC player for Android",
+  title="FLAC Player for Android – Offline, No Ads | VibeDeck",
+  desc="Play lossless FLAC on Android offline with a 3-band EQ, pitch and tempo control. Also WAV, MP3, AAC, M4A and AIFF. No ads, no account. Free on Google Play.",
+  og_desc="Lossless FLAC on Android, offline, with EQ, pitch and tempo. No ads, no account.",
+  tag="Android <span class=\"dim\">/ Lossless</span>", h1="A FLAC player for Android that respects your files.", h1_sub="FLAC player for Android",
+  lede="VibeDeck Player plays lossless FLAC files offline on Android, with a 3-band EQ and gain, a limiter, pitch and tempo control, and a waveform you can scrub. It also plays WAV, MP3, AAC, M4A and AIFF. No ads. No account. No tracking.",
+  visual=("a-main", "VibeDeck Player FLAC player for Android", "card"), ios=False, android=True,
+  statement="Plenty of Android players open FLAC. Few of them do it without banner ads, account prompts or a dated interface. VibeDeck Player treats a lossless library the way it deserves: clean playback, real sound controls and nothing between you and the music.",
+  features_h2="FLAC on Android, done right",
+  features=[("Lossless, offline", "FLAC plays straight from your phone storage. No streaming, no mobile data, no conversion."),
+            ("Real sound controls", "3-band EQ with gain, bass boost, filter, stereo balance and a limiter, in real time."),
+            ("Pitch and tempo", "Shift pitch up to ±8 semitones and change tempo independently, for practice or DJ prep.")],
+  extra=prose_section('<h2>Formats on Android</h2><ul><li><strong>FLAC</strong>: lossless archive format</li><li><strong>WAV</strong> and <strong>AIFF</strong>: uncompressed studio files</li><li><strong>MP3</strong>, <strong>AAC</strong> and <strong>M4A</strong>: everyday compressed files</li></ul><h2>How to start</h2><ol><li>Install VibeDeck Player from Google Play.</li><li>Copy FLAC files to your phone or download them to storage.</li><li>Import them into VibeDeck Player and press play. No internet needed.</li></ol><p>Also see: <a href="/offline-music-player-android/">offline music player for Android</a>, <a href="/audio-formats/">supported audio formats</a>.</p>'),
+  faq_h2="FLAC on Android: FAQ",
+  faq=[("Can Android play FLAC files?", "Yes. Android supports FLAC, and VibeDeck Player adds what basic players lack: a real EQ, pitch and tempo control, a waveform and no ads."),
+       ("Is there a FLAC player for Android without ads?", "Yes. VibeDeck Player has no ads in the free version or in Premium, and needs no account."),
+       ("Does it work offline?", "Yes. FLAC files play from your device with no internet and no mobile data."),
+       ("Does it have an equalizer?", "Yes. A 3-band EQ with gain, bass boost, filter, stereo balance and a limiter."),
+       ("How much does it cost on Android?", "Free to download. VibeDeck Premium on Google Play costs $1.99 per month, $9.99 per year or $14.99 once for lifetime access. Prices may vary by region.")],
+  related=["/offline-music-player-android/", "/audio-formats/", "/music-player-pitch-tempo/"],
+  cta="Your FLAC library on Android. Offline. No ads. No tracking."))
+PAGES.append(dict(path="/best-offline-music-player/", crumb="Best offline music player",
+  title="Best Offline Music Player for iPhone & Android (2026)",
+  desc="How to choose the best offline music player in 2026: formats, EQ, pitch and tempo, ads, privacy, price. A clear checklist and how VibeDeck Player compares.",
+  og_desc="The 2026 checklist for choosing an offline music player, and how VibeDeck Player compares.",
+  tag="Guide <span class=\"dim\">/ 2026</span>", h1="The best offline music player in 2026: what actually matters.", h1_sub="Offline music player buying guide",
+  lede="The best offline music player plays every file you own without conversion, works with no internet, has real sound controls and shows no ads. VibeDeck Player is built around exactly that checklist, on iPhone, iPad and Android.",
+  visual=("b-queue", "VibeDeck Player offline music player library and queue", "card"), ios=True, android=True,
+  statement="Streaming made music easy and made owning it feel old-fashioned. Then came flights, dead zones, roaming bills, removed albums and price rises. If you keep your own files, the player you choose decides how good they sound and how much they annoy you. Here is what to check.",
+  features_h2="The 2026 checklist",
+  features=[("Formats without conversion", "FLAC, ALAC, AIFF and WAV for lossless, MP3, AAC and M4A for everyday files. Anything that forces conversion loses quality and time."),
+            ("Real controls", "A proper EQ with a limiter, plus pitch and tempo if you sing, play, dance or DJ. Most players stop at a basic preset list."),
+            ("No ads, no account", "Ads and logins are the most common complaints in player reviews. Offline should mean private.")],
+  extra=prose_section('<h2>How VibeDeck Player compares</h2><div class="table-wrap"><table><thead><tr><th>What to check</th><th>VibeDeck Player</th><th>Built-in iPhone Music app</th></tr></thead><tbody><tr><td>FLAC, ALAC, AIFF, WAV from Files</td><td>Yes</td><td>Limited</td></tr><tr><td>Works fully offline</td><td>Yes</td><td>Downloaded tracks only</td></tr><tr><td>3-band EQ with limiter</td><td>Yes</td><td>Presets only</td></tr><tr><td>Pitch shift ±8 semitones</td><td>Yes</td><td>No</td></tr><tr><td>Independent tempo</td><td>Yes</td><td>No</td></tr><tr><td>No ads, no account</td><td>Yes</td><td>Requires Apple ID</td></tr><tr><td>Android version</td><td>Yes</td><td>No</td></tr></tbody></table></div><h2>Pick by use case</h2><ul><li><strong>Lossless collectors:</strong> <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/flac-player-android/">FLAC player for Android</a>.</li><li><strong>Travel and dead zones:</strong> <a href="/offline-music-player-iphone/">offline player for iPhone</a>, <a href="/offline-music-player-android/">for Android</a>.</li><li><strong>Singers and musicians:</strong> <a href="/change-song-key-iphone/">change key</a>, <a href="/slow-down-song/">slow down without changing pitch</a>.</li><li><strong>Leaving a cloud player:</strong> <a href="/vibedeck-vs-vox/">VibeDeck Player vs VOX</a>.</li></ul>'),
+  faq_h2="Offline music players: FAQ",
+  faq=[("What is the best offline music player for iPhone?", "Look for a player that imports FLAC, ALAC, AIFF and WAV without conversion, works with no internet, has a real EQ and shows no ads. VibeDeck Player covers all of these and adds pitch and tempo control."),
+       ("What is the best offline music player for Android?", "The same checklist applies. VibeDeck Player is available on Google Play with FLAC support, a 3-band EQ, pitch and tempo, no ads and no account."),
+       ("Can I listen to music without internet on my phone?", "Yes, if the files are stored on the phone. Copy or download your music, import it into an offline player like VibeDeck Player and it plays with WiFi and mobile data off."),
+       ("Is there a free offline music player with no ads?", "Yes. VibeDeck Player is free to download and has no ads. Premium adds the full sound engine with pitch, EQ gain, limiter and visuals."),
+       ("Which audio formats should an offline player support?", "At least MP3, AAC and M4A for everyday files and FLAC, ALAC, WAV and AIFF for lossless. VibeDeck Player supports all of them plus CAF.")],
+  related=["/offline-music-player-iphone/", "/flac-player-android/", "/vibedeck-vs-vox/"],
+  cta="The offline player built around the checklist. Free, no ads."))
+PAGES.append(dict(path="/studio/", crumb="VibeDeck Studio",
+  title="VibeDeck Studio – Slowed + Reverb, Nightcore & Loops",
+  desc="VibeDeck Studio, coming in the next update: cut loops by beats and bars, add slowed + reverb, nightcore or dub delay in one tap, export clips for TikTok.",
+  og_desc="Loop slicer, one-tap slowed + reverb and nightcore, export to WAV, M4A and MP4 for TikTok. Coming soon.",
+  tag="Studio <span class=\"dim\">/ Coming soon</span>", h1="VibeDeck Studio: remix and clip your music.", h1_sub="Slowed + reverb, nightcore and loop maker",
+  lede="VibeDeck Studio is coming to VibeDeck Player in the next update. Slice any track into loops from one beat to 16 bars, apply one-tap effects like Slowed + Reverb, Nightcore, Underwater and Dub Delay, fine-tune pitch, filter and limiter, then export a clip for TikTok, Reels or Shorts.",
+  visual=("studio-live", "VibeDeck Studio loop slicer and quick FX presets on iPhone", "phone"), ios=True, android=True,
+  statement="Sped-up, slowed + reverb and nightcore edits drive half the sounds on TikTok, and making one usually means a laptop, a DAW and an hour. VibeDeck Studio does it on your phone with the songs you already own: pick a section, tap an effect, export.",
+  features_h2="What VibeDeck Studio does",
+  features=[("Loop Slicer", "Tempo-aware loops of 1 beat, 1, 2, 4, 8 or 16 bars, with bar-by-bar nudging and millisecond timing on the waveform."),
+            ("One-tap FX", "Original, Viral, Analog, Slowed + Reverb, Nightcore, Underwater and Dub Delay presets, plus Tweak FX for custom settings."),
+            ("Export for social", "Save as 24-bit WAV, M4A (AAC) or MP4 video with the music visualizer, ready for TikTok, Instagram Reels and YouTube Shorts.")],
+  extra=prose_section('<h2>How it will work</h2><ol><li>Open a track from your library in <strong>VibeDeck Studio</strong>.</li><li>Choose a loop length or keep the full track.</li><li>Tap a Quick FX preset such as <strong>Slowed + Reverb</strong> or <strong>Nightcore</strong>, or shape your own with Tweak FX, pitch and filter.</li><li>Press <strong>Play</strong> to preview, then <strong>Export</strong> to WAV, M4A or MP4.</li></ol><h2>Made for</h2><ul><li><strong>Creators</strong> making sped-up, slowed and nightcore sounds for TikTok and Reels.</li><li><strong>DJs</strong> preparing loops and edits on the go.</li><li><strong>Dancers</strong> cutting the exact section they rehearse.</li><li><strong>Producers</strong> sketching ideas from reference tracks.</li></ul><p>VibeDeck Studio arrives as a free update to VibeDeck Player. Install the app now to get it as soon as it ships. Use only music you own or have the rights to share.</p><p>Also see: <a href="/music-player-pitch-tempo/">pitch and tempo control</a>, <a href="/slow-down-song/">slow down a song without changing pitch</a>.</p>'),
+  faq_h2="VibeDeck Studio FAQ",
+  faq=[("What is VibeDeck Studio?", "VibeDeck Studio is the remix and clip section of VibeDeck Player: a loop slicer, one-tap effects like Slowed + Reverb and Nightcore, and export to WAV, M4A and MP4 video."),
+       ("How do I make a slowed + reverb version of a song on my phone?", "Open the song in VibeDeck Studio and tap the Slowed + Reverb preset. Preview it, adjust with Tweak FX if you like, then export the result."),
+       ("Can I make nightcore on iPhone?", "Yes. VibeDeck Studio has a one-tap Nightcore preset that speeds up and raises a track, and you can export it as audio or video."),
+       ("Which export formats are supported?", "24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck music visualizer."),
+       ("When is VibeDeck Studio available?", "It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.")],
+  related=["/music-player-pitch-tempo/", "/slow-down-song/", "/change-song-key-iphone/"],
+  cta="Get VibeDeck Player now and Studio lands in your next update."))
 PAGES.append(dict(path="/vibedeck-vs-vox/", crumb="VibeDeck Player vs VOX",
   title="VibeDeck vs VOX – Offline Music Player Comparison",
   desc="VibeDeck Player vs VOX: an honest comparison of two offline music players. Pitch and tempo, Android support, pricing and when to pick which.",
@@ -610,11 +743,11 @@ PAGES.append(dict(path="/vibedeck-vs-vox/", crumb="VibeDeck Player vs VOX",
 # ---------------------------------------------------------------- LEGAL / SUPPORT
 LEGAL = [
  ("support", "/support.html", "Support", "VibeDeck Support – Offline Music Player Help",
-  "Get help with VibeDeck Player, the offline music player for MP3, FLAC, WAV, AAC and M4A: importing tracks, queue, EQ, pitch and tempo."),
+  "Get help with VibeDeck Player, the offline music player for MP3, FLAC, ALAC, AIFF, WAV, AAC and M4A: importing tracks, queue, EQ, pitch and tempo."),
  ("privacy", "/privacy.html", "Privacy", "VibeDeck Privacy Policy – Offline Music Player",
   "How VibeDeck Player handles your audio files, optional cover-art lookup and privacy. No account, no ads, no tracking, no data sold."),
  ("terms", "/terms.html", "Terms", "VibeDeck Terms of Use – Offline Music Player",
-  "Terms of Use for VibeDeck Player, the offline music player for local MP3, FLAC, WAV, AAC and M4A files on iPhone, iPad and Android."),
+  "Terms of Use for VibeDeck Player, the offline music player for local MP3, FLAC, ALAC, AIFF, WAV, AAC and M4A files on iPhone, iPad and Android."),
 ]
 def legal(slug, path, crumb, title, desc):
     src = open(os.path.join(ROOT, "_build", "content", slug + ".html")).read()
@@ -637,7 +770,7 @@ def legal(slug, path, crumb, title, desc):
     return p
 
 def notfound():
-    p = {"path": "/404.html", "title": "Page not found – VibeDeck Player", "desc": "This page does not exist. Go back to VibeDeck Player, the offline music player for FLAC, MP3, WAV, AAC, M4A and more.", "noindex": True, "ld": [WEBSITE]}
+    p = {"path": "/404.html", "title": "Page not found – VibeDeck Player", "desc": "This page does not exist. Go back to VibeDeck Player, the offline music player for FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A.", "noindex": True, "ld": [WEBSITE]}
     body = f'''{header(None, "/#download")}
 <main id="main"><section class="hero hero--page"><div class="wrap"><p class="tag eyebrow">404 <span class="dim">/ Signal lost</span></p><h1 class="h1-plain">This track is not in the queue.</h1><p class="lede" style="margin-top:24px">The page you are looking for does not exist. Try the <a class="link" href="/">VibeDeck Player home page</a> or one of the guides below.</p></div></section>
 {cards_html(GUIDES, "Guides", "Explore", "", "guides")}
