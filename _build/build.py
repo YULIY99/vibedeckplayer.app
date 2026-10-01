@@ -5,7 +5,7 @@ Underscore folders are not published by GitHub Pages/Jekyll."""
 import json, html, os, re, random
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://vibedeckplayer.app"
-APPSTORE = "https://apps.apple.com/app/id6784724920"
+APPSTORE = "https://apps.apple.com/app/vibedeck-player/id6784724920"
 PLAY = "https://play.google.com/store/apps/details?id=com.vibedeck.player"
 E = html.escape
 
@@ -67,16 +67,16 @@ PLAY_SVG = '<svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="
 def stores(ios=True, android=True):
     out = []
     if ios:
-        out.append(f'<a class="store store--primary" href="{APPSTORE}" target="_blank" rel="noopener" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad">{APPLE_SVG}<span><small>Download on the</small><strong>App Store</strong></span></a>')
+        out.append(f'<a class="store store--primary" href="{APPSTORE}" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad">{APPLE_SVG}<span><small>Download on the</small><strong>App Store</strong></span></a>')
     if android:
-        out.append(f'<a class="store" href="{PLAY}" target="_blank" rel="noopener" aria-label="Get VibeDeck Player on Google Play for Android">{PLAY_SVG}<span><small>Get it on</small><strong>Google Play</strong></span></a>')
+        out.append(f'<a class="store" href="{PLAY}" aria-label="Get VibeDeck Player on Google Play for Android">{PLAY_SVG}<span><small>Get it on</small><strong>Google Play</strong></span></a>')
     return '<div class="stores">' + "".join(out) + "</div>"
 
 # ---------------------------------------------------------------- shared data
 GUIDES = [
   ("/flac-player-iphone/", "FLAC · iPhone", "FLAC player for iPhone", "Play lossless FLAC offline on iPhone and iPad, with a real EQ, pitch and tempo."),
   ("/offline-music-player-iphone/", "Offline · iPhone", "Offline music player for iPhone", "Your whole library on planes and in dead zones. No WiFi, no subscription."),
-  ("/offline-music-player-android/", "Offline · Android", "Offline music player for Android", "MP3, FLAC and WAV from your phone, with zero mobile data spent on music."),
+  ("/offline-music-player-android/", "Offline · Android", "Offline music player for Android", "MP3, FLAC, WAV, AAC and more from your phone, with zero mobile data spent on music."),
   ("/mp3-player-no-ads/", "MP3 · No ads", "MP3 player with no ads", "No banners, no video breaks, no account. Press play and hear your MP3s."),
   ("/music-player-pitch-tempo/", "Pitch · Tempo", "Music player with pitch and tempo control", "Change the key by ±8 semitones and the speed independently, for practice and DJ prep."),
   ("/vibedeck-vs-vox/", "Compare", "VibeDeck Player vs VOX", "An honest look at the VOX alternative with pitch tools and Android support."),
@@ -88,23 +88,27 @@ ORG = {"@type": "Organization", "@id": SITE + "/#org", "name": "VibeDeck", "url"
        "founder": {"@type": "Person", "name": "Yuliy Metelskiy"}}
 WEBSITE = {"@type": "WebSite", "@id": SITE + "/#website", "name": "VibeDeck Player", "alternateName": "VibeDeck",
            "url": SITE + "/", "inLanguage": "en", "publisher": {"@id": SITE + "/#org"}}
-def offer(name, price, desc):
-    return {"@type": "Offer", "name": name, "price": price, "priceCurrency": "USD", "description": desc, "url": APPSTORE}
+def offer(name, price, desc, url):
+    return {"@type": "Offer", "name": name, "price": price, "priceCurrency": "USD", "description": desc, "url": url}
 APP = {"@type": "MobileApplication", "@id": SITE + "/#app", "name": "VibeDeck Player", "alternateName": "VibeDeck",
        "applicationCategory": "MusicApplication", "operatingSystem": "iOS 17.0 or later, iPadOS, Android",
-       "description": "Offline music player for local FLAC, MP3 and WAV files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform and the AURA visualizer. No ads, account or tracking.",
+       "description": "Offline music player for local FLAC, MP3, WAV, AAC, M4A and more files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform and the AURA visualizer. No ads, account or tracking.",
        "url": SITE + "/", "image": SITE + "/assets/img/icon-512.png",
        "screenshot": [SITE + "/assets/img/vibedeck-offline-music-player-iphone-now-playing-800.webp",
                       SITE + "/assets/img/vibedeck-equalizer-iphone-720.webp",
                       SITE + "/assets/img/vibedeck-offline-music-player-android-720.webp"],
        "downloadUrl": [APPSTORE, PLAY], "installUrl": [APPSTORE, PLAY],
-       "featureList": ["Offline playback for FLAC, MP3 and WAV", "3-band equalizer with gain, bass boost, filter and limiter",
+       "featureList": ["Offline playback for FLAC, MP3, WAV, AAC, M4A and more", "3-band equalizer with gain, bass boost, filter and limiter",
                        "Real-time pitch shifting up to plus or minus 8 semitones", "Independent tempo control",
                        "Waveform scrubbing and BPM readout", "Queue with drag to reorder", "Audio-reactive AURA visualizer, VibeMod and TONE"],
-       "offers": [offer("VibeDeck Player", "0", "Free download. Core player with no ads."),
-                  offer("VibeDeck Premium Monthly", "1.99", "Full sound engine, billed monthly."),
-                  offer("VibeDeck Premium Yearly", "9.99", "Full sound engine, billed yearly."),
-                  offer("VibeDeck Premium Lifetime", "14.99", "Full sound engine, one-time purchase.")],
+       "offers": [offer("VibeDeck Player", "0", "Free download. Core player with no ads.", APPSTORE),
+                  offer("VibeDeck Player", "0", "Free download. Core player with no ads.", PLAY),
+                  offer("VibeDeck Premium Monthly (App Store)", "2.99", "Full sound engine, billed monthly on iPhone and iPad.", APPSTORE),
+                  offer("VibeDeck Premium Yearly (App Store)", "19.99", "Full sound engine, billed yearly on iPhone and iPad.", APPSTORE),
+                  offer("VibeDeck Premium Lifetime (App Store)", "49.99", "Full sound engine, one-time purchase on iPhone and iPad.", APPSTORE),
+                  offer("VibeDeck Premium Monthly (Google Play)", "1.99", "Full sound engine, billed monthly on Android.", PLAY),
+                  offer("VibeDeck Premium Yearly (Google Play)", "9.99", "Full sound engine, billed yearly on Android.", PLAY),
+                  offer("VibeDeck Premium Lifetime (Google Play)", "14.99", "Full sound engine, one-time purchase on Android.", PLAY)],
        "publisher": {"@id": SITE + "/#org"}, "author": {"@id": SITE + "/#org"}, "inLanguage": "en"}
 
 def faq_ld(items):
@@ -187,7 +191,7 @@ def footer():
       <nav aria-label="Guides"><h2>Guides</h2><ul>{g}</ul></nav>
       <nav aria-label="Player"><h2>Player</h2><ul>
         <li><a href="/#player">Player</a></li><li><a href="/#workflow">Workflow</a></li><li><a href="/#premium">Premium</a></li><li><a href="/#faq">FAQ</a></li>
-        <li><a href="{APPSTORE}" target="_blank" rel="noopener">App Store</a></li><li><a href="{PLAY}" target="_blank" rel="noopener">Google Play</a></li></ul></nav>
+        <li><a href="{APPSTORE}">App Store</a></li><li><a href="{PLAY}">Google Play</a></li></ul></nav>
       <nav aria-label="Company"><h2>Company</h2><ul>
         <li><a href="/support.html">Support</a></li><li><a href="/privacy.html">Privacy</a></li><li><a href="/terms.html">Terms</a></li>
         <li><a href="mailto:hello@vibedeckplayer.app">hello@vibedeckplayer.app</a></li></ul></nav>
@@ -220,10 +224,10 @@ def cards_html(items, h2, tag, lede="", sid="guides", cls=""):
 </section>'''
 
 def plans_html(h2_tag="h2", head_html=None):
-    plans = [("Monthly", "$1.99", "/ mo", "Full sound engine, billed monthly through the store.", False),
-             ("Yearly", "$9.99", "/ yr", "Full sound engine for twelve months. Less than a dollar a month.", False),
-             ("Lifetime", "$14.99", "once", "Pay once. The full sound engine is yours for good.", True)]
-    li = "".join(f'<li class="plan glass{" plan--hi" if hi else ""}" data-reveal style="--rd:{i*90}ms">{"<span class=\"badge mono\">Pay once</span>" if hi else ""}<h3>{n}</h3><p class="price">{pr}<small>{per}</small></p><p>{d}</p></li>' for i, (n, pr, per, d, hi) in enumerate(plans))
+    plans = [("Monthly", "$2.99", "$1.99", "/ mo", "Full sound engine, billed monthly through the store.", False),
+             ("Yearly", "$19.99", "$9.99", "/ yr", "Full sound engine for twelve months.", False),
+             ("Lifetime", "$49.99", "$14.99", "once", "Pay once. The full sound engine is yours for good.", True)]
+    li = "".join(f'<li class="plan glass{" plan--hi" if hi else ""}" data-reveal style="--rd:{i*90}ms">{"<span class=\"badge mono\">Pay once</span>" if hi else ""}<h3>{n}</h3><dl class="prices"><div><dt class="mono">App Store · iPhone</dt><dd class="price">{ios}<small>{per}</small></dd></div><div><dt class="mono">Google Play · Android</dt><dd class="price price--sm">{andr}<small>{per}</small></dd></div></dl><p>{d}</p></li>' for i, (n, ios, andr, per, d, hi) in enumerate(plans))
     return f'<ul class="plans">{li}</ul><p class="note">{PRICE_NOTE}</p>'
 
 def cta_html(text, ios=True, android=True, heading="Download VibeDeck Player", key="aura-live", alt="VibeDeck FLAC player for iPhone playing a track with AURA and waveform"):
@@ -255,8 +259,8 @@ def write(path, content):
 
 # ---------------------------------------------------------------- HOME
 HOME_FAQ = [
- ("Is VibeDeck Player free?", "The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata. Premium costs $1.99 per month, $9.99 per year, or $14.99 for a lifetime license."),
- ("Which audio formats does VibeDeck Player play?", "VibeDeck Player plays FLAC, MP3 and WAV files stored on your device. No conversion and no cloud upload needed."),
+ ("Is VibeDeck Player free?", "The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata. On the App Store Premium costs $2.99 per month, $19.99 per year or $49.99 for a lifetime license; on Google Play it costs $1.99 per month, $9.99 per year or $14.99 for a lifetime license."),
+ ("Which audio formats does VibeDeck Player play?", "VibeDeck Player plays all popular audio formats stored on your device: FLAC, MP3, WAV, AAC, M4A, ALAC, AIFF and more. No conversion and no cloud upload needed."),
  ("Can iPhone play FLAC files?", "Yes. iPhone can play FLAC files, but the built-in options give you no equalizer, no pitch control and no real library for your own files. VibeDeck Player is a dedicated FLAC player for iPhone and iPad that plays your lossless files offline with a 3-band EQ, pitch and tempo control."),
  ("Does VibeDeck Player work offline?", "Yes. It is a fully offline music player: your files stay on the device and play with no WiFi, no account and no tracking."),
  ("Can I use VibeDeck Player offline without an account?", "Yes. There is no sign-up, no login and no cloud library. You import your own files once, and playback, EQ, pitch and tempo all run on the device, even in airplane mode."),
@@ -277,9 +281,9 @@ SHOTS = [
 
 def home():
     p = {"path": "/", "title": "VibeDeck Player – Offline Music Player for FLAC, MP3 & WAV",
-         "desc": "Offline music player for iPhone & Android. Play FLAC, MP3 and WAV with EQ, pitch and tempo control. No ads, no account. Download free.",
+         "desc": "Offline music player for iPhone & Android. Play FLAC, MP3, WAV, AAC, M4A and more with EQ, pitch and tempo control. No ads, no account. Download free.",
          "og_title": "VibeDeck Player – Same Track. New Feeling.",
-         "og_desc": "Shape FLAC, MP3 and WAV in real time with 3-band EQ, pitch, tempo, waveform and AURA on iOS and Android. No ads, account or tracking.",
+         "og_desc": "Shape FLAC, MP3, WAV, AAC, M4A and more in real time with 3-band EQ, pitch, tempo, waveform and AURA on iOS and Android. No ads, account or tracking.",
          "preload": preload("now-playing", SIZES_PHONE),
          "ld": [ORG, WEBSITE, APP, faq_ld(HOME_FAQ)]}
     tabs = "".join(f'<a href="#shot-{i+1}" class="mono{" is-active" if i == 0 else ""}">{t}</a>' for i, (_, t, _, _, _) in enumerate(SHOTS))
@@ -291,7 +295,7 @@ def home():
     <div class="hero-copy">
       <p class="tag eyebrow">iPhone · iPad · Android <span class="dim">/ Offline</span></p>
       <h1 id="hero-title"><span class="h1-big">Same Track. <em>New Feeling.</em></span><span class="h1-sub">Offline music player for FLAC, MP3 &amp; WAV</span></h1>
-      <p class="lede">Offline music player for iPhone, iPad and Android that plays MP3, FLAC and WAV from your local files, with equalizer, pitch and tempo control. No WiFi needed.</p>
+      <p class="lede">Offline music player for iPhone, iPad and Android that plays MP3, FLAC, WAV, AAC and more from your local files, with equalizer, pitch and tempo control. No WiFi needed.</p>
       {stores()}
       <ul class="hero-meta mono" aria-label="Highlights"><li>No ads</li><li>No account</li><li>No tracking</li><li>iOS 17+ · Android</li></ul>
       <div class="slider" aria-hidden="true"><div class="slider-top mono"><span><b>Pitch</b> / Filter</span><span>0.00</span></div><div class="slider-track"><span class="slider-thumb"></span></div><div class="slider-top mono"><span>0:02</span><span>BPM 124</span></div></div>
@@ -299,7 +303,7 @@ def home():
     <div class="hero-visual">
       <div class="halo" aria-hidden="true"></div>
       {wave()}
-      {phone("now-playing", "VibeDeck offline music player for iPhone with pitch control and equalizer", False, "phone--lg", "0.04", [("fb-1", "Next 18"), ("fb-2", "Aura / VibeMod / Tone")])}
+      {phone("now-playing", "VibeDeck offline music player for iPhone with pitch control and equalizer", False, "phone--lg", "0.04", [])}
     </div>
   </div>
 </section>
@@ -350,7 +354,7 @@ def home():
 <section class="section" aria-labelledby="specs-title">
   <div class="wrap specs" data-reveal>
     <h2 id="specs-title">Specs</h2>
-    <ul class="chips"><li>FLAC</li><li>MP3</li><li>WAV</li><li>±8 semitones</li><li>Tempo</li><li>3-band EQ</li><li>Limiter</li><li>Offline</li><li>No ads</li><li>No account</li><li>No tracking</li></ul>
+    <ul class="chips"><li>All popular formats</li><li>FLAC</li><li>MP3</li><li>WAV</li><li>AAC</li><li>M4A</li><li>ALAC</li><li>AIFF</li><li>±8 semitones</li><li>Tempo</li><li>3-band EQ</li><li>Limiter</li><li>Offline</li><li>No ads</li><li>No account</li><li>No tracking</li></ul>
   </div>
 </section>
 
@@ -361,7 +365,7 @@ def home():
     <div class="duo-copy prose" data-reveal>
       <p class="tag eyebrow">Why VibeDeck</p>
       <h2 id="why-title">Why VibeDeck Player?</h2>
-      <p>VibeDeck Player is a premium <strong>offline music player for iPhone, iPad and Android</strong>, made for people who own their music. It plays the FLAC, MP3 and WAV files already on your phone, with no WiFi, no account, no ads and no tracking. Your files stay on your device.</p>
+      <p>VibeDeck Player is a premium <strong>offline music player for iPhone, iPad and Android</strong>, made for people who own their music. It plays the FLAC, MP3, WAV, AAC, M4A and more files already on your phone, with no WiFi, no account, no ads and no tracking. Your files stay on your device.</p>
       <p>Where most players stop at play and pause, VibeDeck treats every track as material. Shift pitch up to ±8 semitones and change tempo independently to practise, sing in your range or prep a DJ set. Shape the sound with a 3-band equalizer with gain, bass boost, filter, stereo balance and a built-in limiter. Scrub the waveform, read the BPM, and line up what's next in a queue you reorder by touch. AURA adds an ambient visual world that breathes with your music, and TONE and VibeMod give one track a second mood.</p>
       <p>Looking for a <a href="/flac-player-iphone/">FLAC player for iPhone</a>, an <a href="/mp3-player-no-ads/">MP3 player with no ads</a>, or a <a href="/vibedeck-vs-vox/">VOX alternative</a> that also runs on Android? VibeDeck Player covers all three on one dark, distraction-free screen. Same track. New feeling.</p>
     </div>
@@ -463,13 +467,13 @@ PAGES = [
   visual=("aura-live", "VibeDeck Player FLAC player for iPhone with pitch control", "phone"), ios=True, android=False,
   statement="iPhone plays FLAC, but the built-in options treat your lossless library as an afterthought: no equalizer, no pitch control, no waveform, no DJ tools. VibeDeck Player is built for people who own their music in FLAC and want to hear every detail of it, shaped exactly the way they like.",
   features_h2="FLAC player features",
-  features=[("Lossless playback", "FLAC, WAV and MP3 from your local files. Your audio stays on the device, with no streaming and no conversion."),
+  features=[("Lossless playback", "FLAC, WAV, MP3, AAC, M4A and more from your local files. Your audio stays on the device, with no streaming and no conversion."),
             ("Real EQ", "3-band EQ with gain, bass boost, filter, stereo balance and a limiter. Shape lossless sound in real time instead of accepting a flat default."),
             ("Pitch and tempo", "Shift pitch up to 8 semitones and change tempo independently. Practice, DJ prep, or just hear a track differently.")],
   extra=prose_section('<h2>Formats VibeDeck Player plays</h2><p>Drop your files in and press play. No conversion, no cloud upload.</p><ul><li><strong>FLAC</strong>: lossless, your main archive format</li><li><strong>WAV</strong>: uncompressed studio files</li><li><strong>MP3</strong>: your existing library and downloads</li></ul><p>Also see: <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/music-player-pitch-tempo/">pitch and tempo control</a>.</p>'),
   faq_h2="FLAC player FAQ",
   faq=[("Can iPhone play FLAC files?", "Yes. iPhone can play FLAC files, but the built-in options give you no equalizer, no pitch control and no real library for your own files. VibeDeck Player is a dedicated FLAC player for iPhone and iPad that plays your lossless files offline with full sound controls."),
-       ("Does VibeDeck Player work without internet?", "Yes. VibeDeck Player is an offline music player. Your FLAC, MP3 and WAV files stay on your device and play with no WiFi, no account and no ads."),
+       ("Does VibeDeck Player work without internet?", "Yes. VibeDeck Player is an offline music player. Your FLAC, MP3, WAV, AAC, M4A and more files stay on your device and play with no WiFi, no account and no ads."),
        ("Does it have an equalizer for FLAC playback?", "Yes. VibeDeck Player includes a 3-band EQ with gain, bass boost, filter, stereo balance and a built-in limiter, all applied in real time to your FLAC files."),
        ("Can I change pitch and tempo of FLAC tracks?", "Yes. VibeDeck Player offers real-time pitch shifting up to plus or minus 8 semitones and independent tempo control, which is rare among iPhone FLAC players."),
        ("Is VibeDeck Player free?", "The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, 3-band EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.")],
@@ -477,19 +481,19 @@ PAGES = [
   cta="Play your FLAC files offline on iPhone and iPad. No account. No ads. No tracking."),
  dict(path="/offline-music-player-iphone/", crumb="Offline music player for iPhone",
   title="Offline Music Player for iPhone – No WiFi | VibeDeck",
-  desc="Offline music player for iPhone and iPad. Play MP3, FLAC and WAV with no internet, no ads and no account, plus EQ, pitch and tempo. Download free.",
-  og_desc="Your music, on your iPhone, with no internet. Offline player for MP3, FLAC and WAV with EQ, pitch and DJ tools.",
+  desc="Offline music player for iPhone and iPad. Play MP3, FLAC, WAV, AAC and more with no internet, no ads, no account. EQ, pitch and tempo. Download free.",
+  og_desc="Your music, on your iPhone, with no internet. Offline player for MP3, FLAC, WAV, AAC and more with EQ, pitch and DJ tools.",
   tag="iPhone · iPad <span class=\"dim\">/ No WiFi</span>", h1="Music that plays when the internet does not.", h1_sub="Offline music player for iPhone &amp; iPad",
-  lede="Plane mode, dead zones, roaming bills. VibeDeck Player keeps your MP3, FLAC and WAV on the device and playing, with EQ, pitch, tempo and DJ tools. No WiFi needed, ever.",
+  lede="Plane mode, dead zones, roaming bills. VibeDeck Player keeps your MP3, FLAC, WAV, AAC and more on the device and playing, with EQ, pitch, tempo and DJ tools. No WiFi needed, ever.",
   visual=("b-queue", "VibeDeck Player offline music player queue on iPhone", "card"), ios=True, android=False,
   statement="Streaming apps rent you music and take it away the moment you stop paying or lose signal. VibeDeck Player is the opposite: an offline music player for the files you own. Import once, listen anywhere, shape the sound in real time.",
   features_h2="Offline features",
   features=[("True offline", "No streaming, no buffering, no login. Your library lives on your iPhone and plays in airplane mode."),
-            ("Your formats", "MP3, FLAC and WAV. Mix lossy and lossless in one queue without thinking about it."),
+            ("Your formats", "MP3, FLAC, WAV, AAC and more. Mix lossy and lossless in one queue without thinking about it."),
             ("Pro sound", "3-band EQ with gain, bass boost, pitch and tempo, waveform scrubbing and BPM readout, all on one dark screen.")],
   extra=prose_section('<h2>Why go offline on iPhone</h2><ul><li><strong>Flights and travel</strong>: your whole library, no WiFi required</li><li><strong>No subscription</strong>: the music you own stays yours</li><li><strong>Battery</strong>: local playback sips power compared to streaming</li><li><strong>Privacy</strong>: no account, no tracking, files never leave the device</li></ul><p>Related: <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/mp3-player-no-ads/">MP3 player with no ads</a>.</p>'),
   faq_h2="Offline player FAQ",
-  faq=[("What is the best offline music player for iPhone?", "VibeDeck Player is built for offline listening on iPhone and iPad: your MP3, FLAC and WAV files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in stock apps."),
+  faq=[("What is the best offline music player for iPhone?", "VibeDeck Player is built for offline listening on iPhone and iPad: your MP3, FLAC, WAV, AAC and more files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in stock apps."),
        ("Can I play music on iPhone without internet?", "Yes. With VibeDeck Player your files are stored on the device, so music keeps playing on planes, in the subway, or anywhere with no signal."),
        ("Does Apple Music work offline?", "Apple Music needs a paid subscription for offline downloads and locks you into its ecosystem. VibeDeck Player plays files you already own, with no subscription and no lock-in."),
        FILES_Q,
@@ -498,21 +502,21 @@ PAGES = [
   cta="Offline music player for iPhone and iPad. No account. No ads. No tracking."),
  dict(path="/offline-music-player-android/", crumb="Offline music player for Android",
   title="Offline Music Player for Android – No Ads | VibeDeck",
-  desc="Offline music player for Android. Play MP3, FLAC and WAV with no internet, no ads and no account, with 3-band EQ, pitch and tempo. Get it on Google Play.",
-  og_desc="Your music, on your Android phone, with no internet. Offline player for MP3, FLAC and WAV with EQ, pitch and DJ tools.",
+  desc="Offline music player for Android. Play MP3, FLAC, WAV, AAC and more with no internet, no ads, no account. 3-band EQ, pitch and tempo. On Google Play.",
+  og_desc="Your music, on your Android phone, with no internet. Offline player for MP3, FLAC, WAV, AAC and more with EQ, pitch and DJ tools.",
   tag="Android <span class=\"dim\">/ Google Play</span>", h1="Your files. Your phone. No internet required.", h1_sub="Offline music player for Android",
-  lede="VibeDeck Player is an offline music player for Android that plays the MP3, FLAC and WAV files you already own, with a 3-band EQ and gain, pitch and tempo control, and DJ tools. No streaming, no ads, no account.",
+  lede="VibeDeck Player is an offline music player for Android that plays the MP3, FLAC, WAV, AAC and more files you already own, with a 3-band EQ and gain, pitch and tempo control, and DJ tools. No streaming, no ads, no account.",
   visual=("a-main", "VibeDeck Player offline music player for Android with pitch control", "card"), ios=False, android=True,
   statement="Most Android music apps push you toward streaming: subscriptions, data usage, downloads that expire. VibeDeck Player goes the other way. It is an offline music player for the files sitting on your phone right now, with pro sound tools on one dark screen.",
   features_h2="Android player features",
   features=[("True offline", "No streaming, no buffering, no login. Your library lives on your Android phone and plays in airplane mode."),
-            ("Every format", "MP3, FLAC and WAV in one queue. Your rips, downloads and DJ pool tracks, all playable without conversion."),
+            ("Every format", "MP3, FLAC, WAV, AAC and more in one queue. Your rips, downloads and DJ pool tracks, all playable without conversion."),
             ("Pro sound", "3-band EQ with gain, bass boost, pitch and tempo, waveform scrubbing and BPM readout, made for headphones.")],
   extra=prose_section('<h2>Why go offline on Android</h2><ul><li><strong>Travel</strong>: your whole library on flights and road trips, no WiFi needed</li><li><strong>Data</strong>: zero streaming means zero mobile data burned on music</li><li><strong>Ownership</strong>: the files you bought or ripped stay yours, nothing expires</li><li><strong>Privacy</strong>: no account, no tracking, files never leave the device</li></ul><p>Related: <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/mp3-player-no-ads/">MP3 player with no ads</a>.</p>'),
   faq_h2="Android player FAQ",
-  faq=[("What is the best offline music player for Android?", "VibeDeck Player is built for offline listening on Android: your MP3, FLAC and WAV files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in the stock player."),
+  faq=[("What is the best offline music player for Android?", "VibeDeck Player is built for offline listening on Android: your MP3, FLAC, WAV, AAC and more files play with no internet, no ads and no account, plus EQ, pitch, tempo and DJ tools you will not find in the stock player."),
        ("Can I play music on Android without internet?", "Yes. With VibeDeck Player your files are stored on the phone, so music keeps playing on planes, in the subway, or anywhere with no signal."),
-       ("Does VibeDeck Player play FLAC on Android?", "Yes. VibeDeck Player plays FLAC, WAV and MP3 from your local files on Android, with a 3-band EQ and gain, pitch shifting and tempo control applied in real time."),
+       ("Does VibeDeck Player play FLAC on Android?", "Yes. VibeDeck Player plays FLAC, WAV, MP3, AAC, M4A and more from your local files on Android, with a 3-band EQ and gain, pitch shifting and tempo control applied in real time."),
        ("Where do the music files come from?", "Your own collection: downloads, rips, purchases, DJ pools. If you own the file, it plays."),
        ("Is VibeDeck Player free on Android?", FREE_A.replace("The core player", "The core offline player"))],
   related=["/offline-music-player-iphone/", "/mp3-player-no-ads/", "/music-player-pitch-tempo/"],
@@ -598,7 +602,7 @@ PAGES.append(dict(path="/vibedeck-vs-vox/", crumb="VibeDeck Player vs VOX",
        ("Do both players work offline without an account?", "Yes. Both VOX and VibeDeck Player play your local files offline with no account required and no ads interrupting playback."),
        ("Can I switch from VOX to VibeDeck Player?", "Yes. Both play the same local files, so your library moves over as-is. No conversion, no re-buying anything."),
        ("Does VibeDeck Player work on Android?", "Yes, unlike VOX it runs on Android as well as iPhone and iPad."),
-       ("How much does VibeDeck Premium cost?", "VibeDeck Premium costs $1.99 per month, $9.99 per year, or $14.99 once for a lifetime license. Prices may vary by region; the App Store and Google Play listings show the current local price."),
+       ("How much does VibeDeck Premium cost?", "On the App Store VibeDeck Premium costs $2.99 per month, $19.99 per year or $49.99 once for a lifetime license. On Google Play it costs $1.99 per month, $9.99 per year or $14.99 once. Prices may vary by region; the App Store and Google Play listings show the current local price."),
        ("Is there a free version?", "Yes, the core player is free with no ads on both platforms.")],
   related=["/music-player-pitch-tempo/", "/offline-music-player-iphone/", "/offline-music-player-android/"],
   cta="Try the VOX alternative with pitch and tempo control. Free, no ads, no account."))
@@ -633,7 +637,7 @@ def legal(slug, path, crumb, title, desc):
     return p
 
 def notfound():
-    p = {"path": "/404.html", "title": "Page not found – VibeDeck Player", "desc": "This page does not exist. Go back to VibeDeck Player, the offline music player for FLAC, MP3 and WAV.", "noindex": True, "ld": [WEBSITE]}
+    p = {"path": "/404.html", "title": "Page not found – VibeDeck Player", "desc": "This page does not exist. Go back to VibeDeck Player, the offline music player for FLAC, MP3, WAV, AAC, M4A and more.", "noindex": True, "ld": [WEBSITE]}
     body = f'''{header(None, "/#download")}
 <main id="main"><section class="hero hero--page"><div class="wrap"><p class="tag eyebrow">404 <span class="dim">/ Signal lost</span></p><h1 class="h1-plain">This track is not in the queue.</h1><p class="lede" style="margin-top:24px">The page you are looking for does not exist. Try the <a class="link" href="/">VibeDeck Player home page</a> or one of the guides below.</p></div></section>
 {cards_html(GUIDES, "Guides", "Explore", "", "guides")}

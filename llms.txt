@@ -10,13 +10,13 @@
 - Audio formats: FLAC, MP3, WAV, AAC, ALAC, OGG and more
 - Signature features: real-time pitch shift (+/-8 semitones) and tempo control, 3-band EQ with gain, limiter, VibeMod, TONE, AURA waveform visualizer, Smart Metadata
 - Privacy: fully offline, files never leave the device, no account needed
-- Price: free download; VibeDeck Premium unlocks pro audio tools - Monthly $1.99, Yearly $9.99, Lifetime $14.99 (one-time)
+- Price: free download; VibeDeck Premium unlocks pro audio tools - App Store (iOS): Monthly $2.99, Yearly $19.99, Lifetime $49.99 (one-time); Google Play (Android): Monthly $1.99, Yearly $9.99, Lifetime $14.99 (one-time)
 - Developer: Yuliy Metelskiy
 
 ## Links
 
 - Website: https://vibedeckplayer.app/
-- App Store: https://apps.apple.com/app/id6784724920
+- App Store: https://apps.apple.com/app/vibedeck-player/id6784724920
 - Google Play: https://play.google.com/store/apps/details?id=com.vibedeck.player
 - Support: https://vibedeckplayer.app/support.html
 - Privacy Policy: https://vibedeckplayer.app/privacy.html

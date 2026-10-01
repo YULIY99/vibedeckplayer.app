@@ -313,3 +313,8 @@ td:last-child{color:var(--ice)}
 .box.prose{max-width:820px}
 @media (min-width:1024px){.cards--4{grid-template-columns:repeat(4,1fr)}}
 @media (max-width:859px){.panel{min-height:0}.panel h3{margin-top:8px}}
+.prices{display:grid;gap:16px;margin:0}
+.prices div{display:grid;gap:4px}
+.prices dt{color:var(--muted);font-size:10px}
+.prices dd{margin:0}
+.plan .price--sm{font-size:32px}
