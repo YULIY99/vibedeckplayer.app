@@ -85,7 +85,7 @@ GUIDES = [
   ("/slow-down-song/", "How-to · Tempo", "Slow down a song without changing pitch", "Learn fast parts, choreography and solos at your own speed, in the same key."),
   ("/flac-player-android/", "FLAC · Android", "FLAC player for Android", "Lossless FLAC offline on Android, with EQ, pitch and tempo. No ads."),
   ("/best-offline-music-player/", "Guide · 2026", "Best offline music player", "What to look for in an offline player in 2026, and how VibeDeck compares."),
-  ("/studio/", "Studio · Soon", "VibeDeck Studio: loops, slowed + reverb, nightcore", "Cut loops by bars, add one-tap FX and export clips for TikTok and Reels."),
+  ("/#studio", "Studio · New", "VibeDeck Studio: remix and record clips", "Beat-snapped loops, live effects and session recording you can share as a clip."),
   ("/vibedeck-vs-vox/", "Compare", "VibeDeck Player vs VOX", "An honest look at the VOX alternative with pitch tools and Android support."),
 ]
 PRICE_NOTE = "Prices may vary by region; the App Store and Google Play listings always show the current local price."
@@ -165,7 +165,7 @@ def head(p):
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jetbrains-mono-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 {p.get("preload", "")}
-<link rel="stylesheet" href="/styles.css?v=2">
+<link rel="stylesheet" href="/styles.css?v=4">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
 <script type="application/ld+json">
@@ -328,6 +328,30 @@ def home():
     <nav class="tabs" aria-label="Feature screens">{tabs}</nav>
     <ol class="rail" aria-label="VibeDeck feature screens">{rail}</ol>
     <div class="rail-ctrl mono"><span>Swipe to explore · 6 screens</span><div class="rail-btns"><button type="button" data-rail="prev" aria-label="Previous screen">←</button><button type="button" data-rail="next" aria-label="Next screen">→</button></div></div>
+  </div>
+</section>
+
+<section class="section studio-feature" id="studio" aria-labelledby="studio-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure class="studio-device"><img src="/assets/img/vibedeck-studio-real-screen.png" alt="VibeDeck Studio on iPhone: beat-grid loop slicer, pitch, filter, effects and recording controls" width="1290" height="2796" loading="lazy" decoding="async"></figure>
+      <span class="studio-art-label mono">LOOP · SHAPE · RECORD</span>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <p class="tag eyebrow">New <span class="dim">/ VibeDeck Studio</span></p>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Remix &amp; Clips.</span></h2>
+      <p class="lede">Turn a moment in your track into a loop, shape its sound, then record and share the result—all in the same player.</p>
+      <ul class="studio-points" aria-label="VibeDeck Studio features">
+        <li><span class="studio-index mono">01</span><span><strong>Loop to the beat</strong><small>Choose ½ to 8 bars, snapped to the beat grid.</small></span></li>
+        <li><span class="studio-index mono">02</span><span><strong>Fine-tune every cut</strong><small>Adjust the grid and loop start or end.</small></span></li>
+        <li><span class="studio-index mono">03</span><span><strong>Shape the sound</strong><small>Pitch, filter, saturation, space and sound presets.</small></span></li>
+        <li><span class="studio-index mono">04</span><span><strong>Record and share</strong><small>Capture a live session up to 2 minutes, add fade in/out, and share it as a clip.</small></span></li>
+        <li><span class="studio-index mono">05</span><span><strong>Keep it playing</strong><small>Studio plays in the background.</small></span></li>
+        <li><span class="studio-index mono">06</span><span><strong>Made smoother</strong><small>Faster track analysis, smoother reverb, refreshed design.</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">Explore VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
   </div>
 </section>
 
