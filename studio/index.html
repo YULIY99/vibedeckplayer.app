@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>VibeDeck Studio: Remix &amp; Clips — Loop Maker, Slowed + Reverb | VibeDeck Player</title>
-<meta name="description" content="New in VibeDeck Player: Studio. Loop ½ to 8 bars on the beat grid, shape pitch, filter, saturation and space, record a live session up to 2 minutes and share it as a clip.">
+<title>Slowed + Reverb, Nightcore &amp; Loop Maker | VibeDeck Player</title>
+<meta name="description" content="VibeDeck Studio, coming in the next update: cut loops by beats and bars, add slowed + reverb, nightcore or dub delay in one tap, export clips for TikTok.">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://vibedeckplayer.app/studio/">
 <meta name="theme-color" content="#04070d">
@@ -13,16 +13,16 @@
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="VibeDeck Player">
 <meta property="og:locale" content="en_US">
-<meta property="og:title" content="VibeDeck Studio: Remix &amp; Clips | VibeDeck Player">
-<meta property="og:description" content="Beat-snapped loops, pitch, filter, saturation and space. Record your live session and share it as a clip. Out now.">
+<meta property="og:title" content="Slowed + Reverb, Nightcore &amp; Loop Maker | VibeDeck Player">
+<meta property="og:description" content="Loop slicer, one-tap slowed + reverb and nightcore, export to WAV, M4A and MP4 for TikTok. Coming soon.">
 <meta property="og:url" content="https://vibedeckplayer.app/studio/">
 <meta property="og:image" content="https://vibedeckplayer.app/assets/img/vibedeck-og-1200x630.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="VibeDeck offline music player on iPhone">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="VibeDeck Studio: Remix &amp; Clips | VibeDeck Player">
-<meta name="twitter:description" content="Beat-snapped loops, pitch, filter, saturation and space. Record your live session and share it as a clip. Out now.">
+<meta name="twitter:title" content="Slowed + Reverb, Nightcore &amp; Loop Maker | VibeDeck Player">
+<meta name="twitter:description" content="Loop slicer, one-tap slowed + reverb and nightcore, export to WAV, M4A and MP4 for TikTok. Coming soon.">
 <meta name="twitter:image" content="https://vibedeckplayer.app/assets/img/vibedeck-og-1200x630.jpg">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
@@ -31,7 +31,7 @@
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jetbrains-mono-latin-var.woff2" as="font" type="font/woff2" crossorigin>
-<link rel="preload" as="image" type="image/webp" imagesrcset="/assets/img/vibedeck-studio-loop-slicer-iphone-400.webp 400w, /assets/img/vibedeck-studio-loop-slicer-iphone-600.webp 600w, /assets/img/vibedeck-studio-loop-slicer-iphone-800.webp 800w" imagesizes="(min-width: 1024px) 326px, 66vw" fetchpriority="high">
+<link rel="preload" as="image" type="image/avif" imagesrcset="/assets/img/vibedeck-studio-loop-slicer-iphone-400.avif 400w, /assets/img/vibedeck-studio-loop-slicer-iphone-600.avif 600w, /assets/img/vibedeck-studio-loop-slicer-iphone-800.avif 800w" imagesizes="(min-width: 1024px) 326px, 66vw" fetchpriority="high">
 <link rel="stylesheet" href="/styles.css?v=2">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
@@ -69,11 +69,10 @@
    "alternateName": "VibeDeck",
    "applicationCategory": "MusicApplication",
    "operatingSystem": "iOS 17.0 or later, iPadOS, Android",
-   "description": "Offline music player for local FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform, the AURA visualizer and VibeDeck Studio for loops and live clips. No ads, account or tracking.",
+   "description": "Offline music player for local FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A files with 3-band EQ and gain, bass boost, filter, limiter, real-time pitch and tempo control, waveform and the AURA visualizer. No ads, account or tracking.",
    "url": "https://vibedeckplayer.app/",
    "image": "https://vibedeckplayer.app/assets/img/icon-512.png",
    "screenshot": [
-    "https://vibedeckplayer.app/assets/img/vibedeck-studio-loop-slicer-iphone-800.webp",
     "https://vibedeckplayer.app/assets/img/vibedeck-offline-music-player-iphone-now-playing-800.webp",
     "https://vibedeckplayer.app/assets/img/vibedeck-equalizer-iphone-720.webp",
     "https://vibedeckplayer.app/assets/img/vibedeck-offline-music-player-android-720.webp"
@@ -91,11 +90,8 @@
     "3-band equalizer with gain, bass boost, filter and limiter",
     "Real-time pitch shifting up to plus or minus 8 semitones",
     "Independent tempo control",
-    "Studio: loops from 1/2 to 8 bars snapped to the beat grid",
-    "Studio: pitch, filter, saturation, space and sound presets",
-    "Studio: record a live session up to 2 minutes with fade in/out and share it as a clip",
-    "Background playback",
     "Waveform scrubbing and BPM readout",
+    "Queue with drag to reorder",
     "Audio-reactive AURA visualizer, VibeMod and TONE"
    ],
    "offers": [
@@ -197,39 +193,39 @@
      "name": "What is VibeDeck Studio?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "VibeDeck Studio is the remix and clip section of VibeDeck Player. Loop any part of a track from 1/2 to 8 bars on the beat grid, shape it with pitch, filter, saturation, space and sound presets, then record your live session and share it as a clip."
+      "text": "VibeDeck Studio is the remix and clip section of VibeDeck Player: a loop slicer, one-tap effects like Slowed + Reverb and Nightcore, and export to WAV, M4A and MP4 video."
      }
     },
     {
      "@type": "Question",
-     "name": "How long can a recorded clip be?",
+     "name": "How do I make a slowed + reverb version of a song on my phone?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Press REC to capture your live session for up to 2 minutes. Fade in and fade out are applied automatically, and the clip is ready to share."
+      "text": "Open the song in VibeDeck Studio and tap the Slowed + Reverb preset. Preview it, adjust with Tweak FX if you like, then export the result."
      }
     },
     {
      "@type": "Question",
-     "name": "How do I make a slowed + reverb edit on my phone?",
+     "name": "Can I make nightcore on iPhone?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Open the song in VibeDeck Studio, lower the pitch, turn up Space for reverb, and press REC to capture the result as a clip."
+      "text": "Yes. VibeDeck Studio has a one-tap Nightcore preset that speeds up and raises a track, and you can export it as audio or video."
      }
     },
     {
      "@type": "Question",
-     "name": "Does Studio keep playing in the background?",
+     "name": "Which export formats are supported?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Studio keeps playing when you lock the screen or switch apps."
+      "text": "24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck music visualizer."
      }
     },
     {
      "@type": "Question",
-     "name": "Is VibeDeck Studio available now?",
+     "name": "When is VibeDeck Studio available?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Yes. Studio is included in the latest update of VibeDeck Player. Update the app to get it."
+      "text": "It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically."
      }
     }
    ]
@@ -252,37 +248,37 @@
   <div class="wrap hero-grid">
     <div class="hero-copy">
       <nav aria-label="Breadcrumb"><ol class="crumbs mono"><li><a href="/">Home</a></li><li aria-current="page">VibeDeck Studio</li></ol></nav>
-      <p class="tag eyebrow">New <span class="dim">/ Studio</span></p>
-      <h1 id="hero-title"><span class="h1-plain">VibeDeck Studio: Remix &amp; Clips.</span><span class="h1-sub">Loop it. Shape it. Record it.</span></h1>
-      <p class="lede">Turn any track you own into a live loop. Lock a section from ½ to 8 bars to the beat grid, bend it with pitch, filter, saturation and space, then hit REC and share the moment as a clip.</p>
-      <div class="stores"><a class="store store--primary" href="https://apps.apple.com/app/vibedeck-player/id6784724920" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.050.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.590 9.050 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.870-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.69 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg><span><small>Download on the</small><strong>App Store</strong></span></a><a class="store" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" aria-label="Get VibeDeck Player on Google Play for Android"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg><span><small>Get it on</small><strong>Google Play</strong></span></a></div>
+      <p class="tag eyebrow">Studio <span class="dim">/ Coming soon</span></p>
+      <h1 id="hero-title"><span class="h1-plain">VibeDeck Studio: remix and clip your music.</span><span class="h1-sub">Slowed + reverb, nightcore and loop maker</span></h1>
+      <p class="lede">VibeDeck Studio is coming to VibeDeck Player in the next update. Slice any track into loops from one beat to 16 bars, apply one-tap effects like Slowed + Reverb, Nightcore, Underwater and Dub Delay, fine-tune pitch, filter and limiter, then export a clip for TikTok, Reels or Shorts.</p>
+      <div class="stores"><a class="store store--primary" href="https://apps.apple.com/app/vibedeck-player/id6784724920" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.690 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg><span><small>Download on the</small><strong>App Store</strong></span></a><a class="store" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" aria-label="Get VibeDeck Player on Google Play for Android"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg><span><small>Get it on</small><strong>Google Play</strong></span></a></div>
     </div>
     <div class="hero-visual">
       <div class="halo" aria-hidden="true"></div>
       <div class="wave" aria-hidden="true"><i style="--h:60px;--d:-3.46s"></i><i style="--h:56px;--d:-2.54s"></i><i style="--h:54px;--d:-0.89s"></i><i style="--h:97px;--d:-0.75s"></i><i style="--h:80px;--d:-1.65s"></i><i style="--h:50px;--d:-1.78s"></i><i style="--h:38px;--d:-2.99s"></i><i style="--h:33px;--d:-0.84s"></i><i style="--h:30px;--d:-0.96s"></i><i style="--h:69px;--d:-3.25s"></i><i style="--h:68px;--d:-0.41s"></i><i style="--h:62px;--d:-3.57s"></i><i style="--h:53px;--d:-2.23s"></i><i style="--h:68px;--d:-2.38s"></i><i style="--h:45px;--d:-2.49s"></i><i style="--h:53px;--d:-2.34s"></i><i style="--h:72px;--d:-2.09s"></i><i style="--h:36px;--d:-0.23s"></i><i style="--h:95px;--d:-1.76s"></i><i style="--h:59px;--d:-3.41s"></i><i style="--h:77px;--d:-2.62s"></i><i style="--h:92px;--d:-1.03s"></i><i style="--h:67px;--d:-3.16s"></i><i style="--h:35px;--d:-2.75s"></i><i style="--h:33px;--d:-2.48s"></i><i style="--h:62px;--d:-3.42s"></i><i style="--h:69px;--d:-1.81s"></i><i style="--h:59px;--d:-0.54s"></i><i style="--h:75px;--d:-1.84s"></i><i style="--h:53px;--d:-3.25s"></i><i style="--h:74px;--d:-2.52s"></i><i style="--h:60px;--d:-0.88s"></i><i style="--h:29px;--d:-1.24s"></i><i style="--h:42px;--d:-1.52s"></i><i style="--h:47px;--d:-3.00s"></i><i style="--h:71px;--d:-0.63s"></i><i style="--h:69px;--d:-0.60s"></i><i style="--h:81px;--d:-3.51s"></i><i style="--h:59px;--d:-2.76s"></i><i style="--h:64px;--d:-0.05s"></i><i style="--h:86px;--d:-1.23s"></i><i style="--h:37px;--d:-1.57s"></i><i style="--h:40px;--d:-1.48s"></i><i style="--h:50px;--d:-1.50s"></i><i style="--h:57px;--d:-1.04s"></i><i style="--h:54px;--d:-0.31s"></i><i style="--h:55px;--d:-1.88s"></i><i style="--h:67px;--d:-2.91s"></i></div>
-      <div class="phone phone--lg" data-parallax="0.04"><picture><source type="image/webp" srcset="/assets/img/vibedeck-studio-loop-slicer-iphone-400.webp?v=3 400w, /assets/img/vibedeck-studio-loop-slicer-iphone-600.webp?v=3 600w, /assets/img/vibedeck-studio-loop-slicer-iphone-800.webp?v=3 800w" sizes="(min-width: 1024px) 326px, 66vw"><img src="/assets/img/vibedeck-studio-loop-slicer-iphone-600.webp?v=3" alt="VibeDeck Studio on iPhone: beat-grid loop, pitch, filter, saturation and REC clip recording" width="600" height="1300" fetchpriority="high" decoding="async"></picture></div>
+      <div class="phone phone--lg" data-parallax="0.04"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-loop-slicer-iphone-400.avif 400w, /assets/img/vibedeck-studio-loop-slicer-iphone-600.avif 600w, /assets/img/vibedeck-studio-loop-slicer-iphone-800.avif 800w" sizes="(min-width: 1024px) 326px, 66vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-loop-slicer-iphone-400.webp 400w, /assets/img/vibedeck-studio-loop-slicer-iphone-600.webp 600w, /assets/img/vibedeck-studio-loop-slicer-iphone-800.webp 800w" sizes="(min-width: 1024px) 326px, 66vw"><img src="/assets/img/vibedeck-studio-loop-slicer-iphone-600.webp" alt="VibeDeck Studio loop slicer and quick FX presets on iPhone" width="600" height="1300" fetchpriority="high" decoding="async"></picture></div>
     </div>
   </div>
 </section>
 
 <section class="section statement statement--small" aria-label="Overview">
-  <div class="wrap" data-reveal><p>No laptop, no DAW, no timeline. Pick the part you love, let it loop on the beat, play with the sound in real time and catch the take you like. Your music, your edit, in under a minute.</p></div>
+  <div class="wrap" data-reveal><p>Sped-up, slowed + reverb and nightcore edits drive half the sounds on TikTok, and making one usually means a laptop, a DAW and an hour. VibeDeck Studio does it on your phone with the songs you already own: pick a section, tap an effect, export.</p></div>
 </section>
 
 <section class="section" aria-labelledby="features-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">What’s new <span class="dim">/ 03</span></p><h2 class="h2" id="features-title">Everything in Studio</h2></div></div>
-    <ul class="panels"><li class="panel glass" data-reveal style="--rd:0ms"><span class="num" aria-hidden="true">01</span><h3>Loops on the grid</h3><p>Loop ½ to 8 bars, snapped to the beat grid. Fine-tune the grid and the loop start and end until it sits perfectly.</p></li><li class="panel glass" data-reveal style="--rd:90ms"><span class="num" aria-hidden="true">02</span><h3>Shape the sound</h3><p>Pitch, filter, saturation and space, plus sound presets to get a vibe in one tap. Everything reacts live while the loop plays.</p></li><li class="panel glass" data-reveal style="--rd:180ms"><span class="num" aria-hidden="true">03</span><h3>REC and share</h3><p>Record your live session for up to 2 minutes with automatic fade in and out, then share it as a clip.</p></li></ul>
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Features <span class="dim">/ 03</span></p><h2 class="h2" id="features-title">What VibeDeck Studio does</h2></div></div>
+    <ul class="panels"><li class="panel glass" data-reveal style="--rd:0ms"><span class="num" aria-hidden="true">01</span><h3>Loop Slicer</h3><p>Tempo-aware loops of 1 beat, 1, 2, 4, 8 or 16 bars, with bar-by-bar nudging and millisecond timing on the waveform.</p></li><li class="panel glass" data-reveal style="--rd:90ms"><span class="num" aria-hidden="true">02</span><h3>One-tap FX</h3><p>Original, Viral, Analog, Slowed + Reverb, Nightcore, Underwater and Dub Delay presets, plus Tweak FX for custom settings.</p></li><li class="panel glass" data-reveal style="--rd:180ms"><span class="num" aria-hidden="true">03</span><h3>Export for social</h3><p>Save as 24-bit WAV, M4A (AAC) or MP4 video with the music visualizer, ready for TikTok, Instagram Reels and YouTube Shorts.</p></li></ul>
   </div>
 </section>
 
 <section class="section">
-  <div class="wrap"><div class="glass box prose" data-reveal><h2>How it works</h2><ol><li>Open a track from your library in <strong>VibeDeck Studio</strong>.</li><li>Pick a loop length from ½ to 8 bars. It snaps to the beat grid; nudge the grid or the loop edges if needed.</li><li>Shape it live with <strong>pitch</strong>, <strong>filter</strong>, <strong>saturation</strong> and <strong>space</strong>, or start from a sound preset.</li><li>Press <strong>REC</strong>, perform up to 2 minutes, and share the clip.</li></ol><h2>Also in this update</h2><ul><li><strong>Plays in the background</strong> when you lock the screen or switch apps.</li><li><strong>Faster track analysis</strong>, so the beat grid is ready sooner.</li><li><strong>Smoother reverb</strong> and a <strong>refreshed design</strong>.</li></ul><h2>Made for</h2><ul><li><strong>Creators</strong> making slowed, sped-up and remixed sounds for TikTok, Reels and Shorts.</li><li><strong>DJs</strong> testing loops and transitions on the go.</li><li><strong>Dancers</strong> repeating the exact bars they rehearse.</li><li><strong>Producers</strong> sketching ideas from reference tracks.</li></ul><p>Studio is included in the latest VibeDeck Player update. Use only music you own or have the rights to share.</p><p>Also see: <a href="/music-player-pitch-tempo/">pitch and tempo control</a>, <a href="/slow-down-song/">slow down a song without changing pitch</a>.</p></div></div>
+  <div class="wrap"><div class="glass box prose" data-reveal><h2>How it will work</h2><ol><li>Open a track from your library in <strong>VibeDeck Studio</strong>.</li><li>Choose a loop length or keep the full track.</li><li>Tap a Quick FX preset such as <strong>Slowed + Reverb</strong> or <strong>Nightcore</strong>, or shape your own with Tweak FX, pitch and filter.</li><li>Press <strong>Play</strong> to preview, then <strong>Export</strong> to WAV, M4A or MP4.</li></ol><h2>Made for</h2><ul><li><strong>Creators</strong> making sped-up, slowed and nightcore sounds for TikTok and Reels.</li><li><strong>DJs</strong> preparing loops and edits on the go.</li><li><strong>Dancers</strong> cutting the exact section they rehearse.</li><li><strong>Producers</strong> sketching ideas from reference tracks.</li></ul><p>VibeDeck Studio arrives as a free update to VibeDeck Player. Install the app now to get it as soon as it ships. Use only music you own or have the rights to share.</p><p>Also see: <a href="/music-player-pitch-tempo/">pitch and tempo control</a>, <a href="/slow-down-song/">slow down a song without changing pitch</a>.</p></div></div>
 </section>
 <section class="section" id="faq" aria-labelledby="faq-title">
   <div class="wrap">
     <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ 05</span></p><h2 class="h2" id="faq-title">VibeDeck Studio FAQ</h2></div></div>
-    <div class="faq" data-reveal><details><summary><h3>What is VibeDeck Studio?</h3></summary><div class="a"><p>VibeDeck Studio is the remix and clip section of VibeDeck Player. Loop any part of a track from ½ to 8 bars on the beat grid, shape it with pitch, filter, saturation, space and sound presets, then record your live session and share it as a clip.</p></div></details><details><summary><h3>How long can a recorded clip be?</h3></summary><div class="a"><p>Press REC to capture your live session for up to 2 minutes. Fade in and fade out are applied automatically, and the clip is ready to share.</p></div></details><details><summary><h3>How do I make a slowed + reverb edit on my phone?</h3></summary><div class="a"><p>Open the song in VibeDeck Studio, lower the pitch, turn up Space for reverb, and press REC to capture the result as a clip.</p></div></details><details><summary><h3>Does Studio keep playing in the background?</h3></summary><div class="a"><p>Yes. Studio keeps playing when you lock the screen or switch apps.</p></div></details><details><summary><h3>Is VibeDeck Studio available now?</h3></summary><div class="a"><p>Yes. Studio is included in the latest update of VibeDeck Player. Update the app to get it.</p></div></details></div>
+    <div class="faq" data-reveal><details><summary><h3>What is VibeDeck Studio?</h3></summary><div class="a"><p>VibeDeck Studio is the remix and clip section of VibeDeck Player: a loop slicer, one-tap effects like Slowed + Reverb and Nightcore, and export to WAV, M4A and MP4 video.</p></div></details><details><summary><h3>How do I make a slowed + reverb version of a song on my phone?</h3></summary><div class="a"><p>Open the song in VibeDeck Studio and tap the Slowed + Reverb preset. Preview it, adjust with Tweak FX if you like, then export the result.</p></div></details><details><summary><h3>Can I make nightcore on iPhone?</h3></summary><div class="a"><p>Yes. VibeDeck Studio has a one-tap Nightcore preset that speeds up and raises a track, and you can export it as audio or video.</p></div></details><details><summary><h3>Which export formats are supported?</h3></summary><div class="a"><p>24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck music visualizer.</p></div></details><details><summary><h3>When is VibeDeck Studio available?</h3></summary><div class="a"><p>It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.</p></div></details></div>
   </div>
 </section>
 
@@ -300,7 +296,7 @@
         <div class="cta-copy">
           <p class="tag">Download <span class="dim">/ iOS · Android</span></p>
           <h2 class="h2" id="download-title">Download VibeDeck Player</h2>
-          <p class="lede">Studio is in the latest update. Install or update VibeDeck Player and start your first loop.</p>
+          <p class="lede">Get VibeDeck Player now and Studio lands in your next update.</p>
           <div class="stores"><a class="store store--primary" href="https://apps.apple.com/app/vibedeck-player/id6784724920" aria-label="Download VibeDeck Player on the App Store for iPhone and iPad"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M17.05 20.28c-.98.95-2.05.8-3.08.35-1.09-.46-2.09-.48-3.24 0-1.44.62-2.2.44-3.06-.35C2.79 15.25 3.51 7.59 9.05 7.31c1.35.07 2.29.74 3.08.8 1.18-.24 2.31-.93 3.57-.84 1.51.12 2.65.72 3.4 1.8-3.12 1.87-2.38 5.98.48 7.13-.57 1.5-1.31 2.99-2.53 4.08zM12.03 7.25C11.88 5.02 13.69 3.18 15.8 3c.29 2.58-2.34 4.5-3.77 4.25z"/></svg><span><small>Download on the</small><strong>App Store</strong></span></a><a class="store" href="https://play.google.com/store/apps/details?id=com.vibedeck.player" aria-label="Get VibeDeck Player on Google Play for Android"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#34a853" d="M2.4 3.2c-.25.32-.4.74-.4 1.25v15.1c0 .51.15.93.4 1.25L13.2 10.1z"/><path fill="#4285f4" d="m16.65 13.55-3.45-3.45L2.4 20.8c.4.5 1.07.56 1.72.2z"/><path fill="#fbbc04" d="m20.45 10.25-3.8-2.2L13.2 10.1l3.45 3.45 3.8-2.2c.72-.4.72-.7 0-1.1z"/><path fill="#ea4335" d="M4.12 3c-.65-.36-1.32-.3-1.72.2l10.8 10.35 3.45-3.45z"/></svg><span><small>Get it on</small><strong>Google Play</strong></span></a></div>
         </div>
         <div class="cta-media"><div class="phone phone--sm" data-parallax="0.05"><picture><source type="image/avif" srcset="/assets/img/vibedeck-flac-player-iphone-aura-400.avif 400w, /assets/img/vibedeck-flac-player-iphone-aura-600.avif 600w, /assets/img/vibedeck-flac-player-iphone-aura-800.avif 800w" sizes="(min-width: 1024px) 326px, 66vw"><source type="image/webp" srcset="/assets/img/vibedeck-flac-player-iphone-aura-400.webp 400w, /assets/img/vibedeck-flac-player-iphone-aura-600.webp 600w, /assets/img/vibedeck-flac-player-iphone-aura-800.webp 800w" sizes="(min-width: 1024px) 326px, 66vw"><img src="/assets/img/vibedeck-flac-player-iphone-aura-600.webp" alt="VibeDeck FLAC player for iPhone playing a track with AURA and waveform" width="600" height="1300" loading="lazy" decoding="async"></picture></div></div>
@@ -316,7 +312,7 @@
         <a class="brand" href="/" aria-label="VibeDeck Player home"><img src="/assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="32" height="32" loading="lazy"><span class="brand-name">VibeDeck</span></a>
         <p>Same Track. New Feeling. Offline music player for FLAC, ALAC, WAV &amp; MP3 on iPhone, iPad and Android.</p>
       </div>
-      <nav aria-label="Guides"><h2>Guides</h2><ul><li><a href="/flac-player-iphone/">FLAC player for iPhone</a></li><li><a href="/offline-music-player-iphone/">Offline music player for iPhone</a></li><li><a href="/offline-music-player-android/">Offline music player for Android</a></li><li><a href="/mp3-player-no-ads/">MP3 player with no ads</a></li><li><a href="/music-player-pitch-tempo/">Music player with pitch and tempo control</a></li><li><a href="/audio-formats/">Music player for all audio formats</a></li><li><a href="/change-song-key-iphone/">Change the key of a song on iPhone</a></li><li><a href="/slow-down-song/">Slow down a song without changing pitch</a></li><li><a href="/flac-player-android/">FLAC player for Android</a></li><li><a href="/best-offline-music-player/">Best offline music player</a></li><li><a href="/studio/">VibeDeck Studio: remix &amp; clips</a></li><li><a href="/vibedeck-vs-vox/">VibeDeck Player vs VOX</a></li></ul></nav>
+      <nav aria-label="Guides"><h2>Guides</h2><ul><li><a href="/flac-player-iphone/">FLAC player for iPhone</a></li><li><a href="/offline-music-player-iphone/">Offline music player for iPhone</a></li><li><a href="/offline-music-player-android/">Offline music player for Android</a></li><li><a href="/mp3-player-no-ads/">MP3 player with no ads</a></li><li><a href="/music-player-pitch-tempo/">Music player with pitch and tempo control</a></li><li><a href="/audio-formats/">Music player for all audio formats</a></li><li><a href="/change-song-key-iphone/">Change the key of a song on iPhone</a></li><li><a href="/slow-down-song/">Slow down a song without changing pitch</a></li><li><a href="/flac-player-android/">FLAC player for Android</a></li><li><a href="/best-offline-music-player/">Best offline music player</a></li><li><a href="/studio/">VibeDeck Studio: loops, slowed + reverb, nightcore</a></li><li><a href="/vibedeck-vs-vox/">VibeDeck Player vs VOX</a></li></ul></nav>
       <nav aria-label="Player"><h2>Player</h2><ul>
         <li><a href="/#player">Player</a></li><li><a href="/#workflow">Workflow</a></li><li><a href="/#premium">Premium</a></li><li><a href="/#faq">FAQ</a></li>
         <li><a href="https://apps.apple.com/app/vibedeck-player/id6784724920">App Store</a></li><li><a href="https://play.google.com/store/apps/details?id=com.vibedeck.player">Google Play</a></li></ul></nav>
