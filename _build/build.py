@@ -15,6 +15,7 @@ IMG = {
   "now-playing": ("vibedeck-offline-music-player-iphone-now-playing", (400,600,800), (1290,2796)),
   "aura-live":   ("vibedeck-flac-player-iphone-aura", (400,600,800), (1290,2796)),
   "pitch-live":  ("vibedeck-pitch-filter-iphone", (400,600,800), (1290,2796)),
+  "studio-live": ("vibedeck-studio-loop-slicer-iphone", (400,600,800), (1290,2796)),
   # App Store banners
   "b-pitch":   ("vibedeck-pitch-control-iphone", (360,540,720), (1290,2796)),
   "b-eq":      ("vibedeck-equalizer-iphone", (360,540,720), (1290,2796)),
@@ -27,7 +28,6 @@ IMG = {
   "a-tone": ("vibedeck-android-tone-control", (360,540,720), (941,1672)),
 }
 SIZES_PHONE = "(min-width: 1024px) 326px, 66vw"
-SIZES_HERO_PAIR = "(min-width: 1200px) 250px, (min-width: 1024px) 210px, 43vw"
 SIZES_CARD = "(min-width: 1024px) 288px, 76vw"
 SIZES_PAIR = "(min-width: 1024px) 320px, 44vw"
 
@@ -48,20 +48,12 @@ def preload(key, sizes):
     return (f'<link rel="preload" as="image" type="image/avif" imagesrcset="{srcset(key,"avif")}" '
             f'imagesizes="{sizes}" fetchpriority="high">')
 
-def phone(key, alt, lazy=True, size="", parallax=None, badges=None, sizes=SIZES_PHONE):
+def phone(key, alt, lazy=True, size="", parallax=None, badges=None):
     p = f' data-parallax="{parallax}"' if parallax else ""
     b = ""
     if badges:
         b = "".join(f'<span class="float-badge glass mono {c}" aria-hidden="true">{t}</span>' for c, t in badges)
-    return f'<div class="phone {size}"{p}>{pic(key, alt, sizes, lazy)}{b}</div>'
-
-def phone_asset(src, alt, lazy=True, size="", parallax=None):
-    p = f' data-parallax="{parallax}"' if parallax else ""
-    load = 'loading="lazy" decoding="async"' if lazy else 'fetchpriority="high" decoding="async"'
-    return f'<div class="phone {size}"{p}><img src="{src}" alt="{E(alt)}" width="1290" height="2796" {load}></div>'
-
-def preload_asset(src):
-    return f'<link rel="preload" as="image" href="{src}" fetchpriority="high">'
+    return f'<div class="phone {size}"{p}>{pic(key, alt, SIZES_PHONE, lazy)}{b}</div>'
 
 def wave(n=56, seed=7):
     r = random.Random(seed); bars = []
@@ -93,7 +85,7 @@ GUIDES = [
   ("/slow-down-song/", "How-to · Tempo", "Slow down a song without changing pitch", "Learn fast parts, choreography and solos at your own speed, in the same key."),
   ("/flac-player-android/", "FLAC · Android", "FLAC player for Android", "Lossless FLAC offline on Android, with EQ, pitch and tempo. No ads."),
   ("/best-offline-music-player/", "Guide · 2026", "Best offline music player", "What to look for in an offline player in 2026, and how VibeDeck compares."),
-  ("/studio/", "Studio · New", "VibeDeck Studio: Remix & Clips", "Loop up to 8 bars on the beat, shape the sound and record and share live-session clips."),
+  ("/studio/", "Studio · Soon", "VibeDeck Studio: loops, slowed + reverb, nightcore", "Cut loops by bars, add one-tap FX and export clips for TikTok and Reels."),
   ("/vibedeck-vs-vox/", "Compare", "VibeDeck Player vs VOX", "An honest look at the VOX alternative with pitch tools and Android support."),
 ]
 PRICE_NOTE = "Prices may vary by region; the App Store and Google Play listings always show the current local price."
@@ -293,25 +285,16 @@ SHOTS = [
  ("b-aura", "Aura", "Same track. New universe.", "The AURA visual reacts to your music: an ambient world for low-light listening.", "VibeDeck AURA waveform visualizer for offline music playback"),
  ("b-queue", "Queue", "Touch and drag to reorder", "Rearrange tracks the way you like, search the library and see what is up next.", "VibeDeck queue for local music files with drag to reorder"),
 ]
-STUDIO_FEATURES = [
- ("Beat-snapped loops", "Loop from 1/2 to 8 bars, snapped to the beat grid."),
- ("Fine-tune the loop", "Adjust the grid and the loop start and end points."),
- ("Shape the sound", "Use pitch, filter, saturation, space and sound presets."),
- ("Record and share", "Record a live session up to 2 minutes, add fade in/out, then share it as a clip."),
- ("Background playback", "Keep Studio playing while the app runs in the background."),
- ("A refreshed Studio", "Faster track analysis, smoother reverb and a refreshed design."),
-]
 
 def home():
     p = {"path": "/", "title": "VibeDeck Player: Offline Music Player for FLAC, WAV, MP3",
          "desc": "Offline music player for iPhone & Android. Plays FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A with EQ, pitch and tempo. No ads, no account. Free.",
          "og_title": "VibeDeck Player: Same Track. New Feeling.",
          "og_desc": "Shape FLAC, ALAC, AIFF, WAV, MP3, AAC and M4A in real time with 3-band EQ, pitch, tempo, waveform and AURA on iOS and Android. No ads, account or tracking.",
-         "preload": preload("now-playing", SIZES_HERO_PAIR) + "\n" + preload_asset("/assets/img/vibedeck-studio-real-screen.png"),
+         "preload": preload("now-playing", SIZES_PHONE),
          "ld": [ORG, WEBSITE, APP, faq_ld(HOME_FAQ)]}
     tabs = "".join(f'<a href="#shot-{i+1}" class="mono{" is-active" if i == 0 else ""}">{t}</a>' for i, (_, t, _, _, _) in enumerate(SHOTS))
     rail = "".join(f'<li class="shot" id="shot-{i+1}"><figure>{pic(k, alt, SIZES_CARD)}</figure><div><p class="tag"><b>{i+1:02d}</b> / {t}</p><h3>{h}</h3><p>{d}</p></div></li>' for i, (k, t, h, d, alt) in enumerate(SHOTS))
-    studio_panels = "".join(f'<li class="panel glass" data-reveal style="--rd:{i*90}ms"><span class="num" aria-hidden="true">{i+1:02d}</span><h3>{h}</h3><p>{d}</p></li>' for i, (h, d) in enumerate(STUDIO_FEATURES))
     body = f'''{header("Player")}
 <main id="main">
 <section class="hero" id="player" aria-labelledby="hero-title">
@@ -327,10 +310,7 @@ def home():
     <div class="hero-visual">
       <div class="halo" aria-hidden="true"></div>
       {wave()}
-      <div class="hero-phones" role="group" aria-label="VibeDeck Player and Studio">
-        <div class="hero-device"><p class="hero-device-label tag mono">PLAYER</p>{phone("now-playing", "VibeDeck Player music playback screen on iPhone", False, "phone--hero-pair", "0.04", [], SIZES_HERO_PAIR)}</div>
-        <div class="hero-device"><p class="hero-device-label tag mono">STUDIO</p>{phone_asset("/assets/img/vibedeck-studio-real-screen.png", "VibeDeck Studio beat-grid loop editor and sound controls on iPhone", False, "phone--hero-pair", "0.07")}</div>
-      </div>
+      {phone("now-playing", "VibeDeck offline music player for iPhone with pitch control and equalizer", False, "phone--lg", "0.04", [])}
     </div>
   </div>
 </section>
@@ -339,13 +319,6 @@ def home():
   <div class="wrap" data-reveal>
     <p class="tag">Same track <span class="dim">/ New feeling</span></p>
     <p>VibeDeck is a premium music player for iOS and Android, <strong>for people who own their music and want to feel it again.</strong> Import your audio files and shape the sound in real time with a 3-band EQ and gain, bass boost, filter, limiter, pitch, tempo, and DJ tools, all on one dark, distraction-free screen.</p>
-  </div>
-</section>
-
-<section class="section" id="studio" aria-labelledby="studio-title">
-  <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck Studio <span class="dim">/ New</span></p><h2 class="h2" id="studio-title">Remix &amp; Clips</h2></div><p class="lede">Build a beat-snapped loop, shape it with live sound tools, then record and share your session as a clip.</p></div>
-    <ul class="panels studio-panels">{studio_panels}</ul>
   </div>
 </section>
 
@@ -429,14 +402,12 @@ def home():
 # ---------------------------------------------------------------- LANDING PAGES
 def landing(d):
     trail = [("Home", "/"), (d["crumb"], d["path"])]
-    image_key = d["visual"][0]
-    image_preload = preload(image_key, SIZES_PHONE if d["visual"][2] == "phone" else SIZES_CARD) if image_key in IMG else preload_asset("/assets/img/vibedeck-studio-real-screen.png")
     p = {"path": d["path"], "title": d["title"], "desc": d["desc"], "og_desc": d.get("og_desc", d["desc"]),
-         "preload": image_preload,
+         "preload": preload(d["visual"][0], SIZES_PHONE if d["visual"][2] == "phone" else SIZES_CARD),
          "ld": [ORG, WEBSITE, APP, crumbs_ld(trail), faq_ld(d["faq"])]}
     k, alt, kind = d["visual"]
     if kind == "phone":
-        vis = phone_asset("/assets/img/vibedeck-studio-real-screen.png", alt, False, "phone--lg", "0.04") if k == "studio-screen" else phone(k, alt, False, "phone--lg", "0.04")
+        vis = phone(k, alt, False, "phone--lg", "0.04")
     else:
         sz = SIZES_CARD
         vis = f'<figure class="poster" data-parallax="0.04">{pic(k, alt, sz, False)}</figure>'
@@ -720,29 +691,26 @@ PAGES.append(dict(path="/best-offline-music-player/", crumb="Best offline music 
   related=["/offline-music-player-iphone/", "/flac-player-android/", "/vibedeck-vs-vox/"],
   cta="The offline player built around the checklist. Free, no ads."))
 PAGES.append(dict(path="/studio/", crumb="VibeDeck Studio",
-  title="VibeDeck Studio: Remix & Clips for iPhone | VibeDeck Player",
-  desc="Loop 1/2 to 8 bars on the beat grid, shape sound with pitch, filter, saturation, space and presets, then record and share a live session clip.",
-  og_desc="Meet VibeDeck Studio: beat-snapped loops, live sound tools, and session recording up to 2 minutes with fade in/out.",
-  tag="Studio <span class=\"dim\">/ New</span>", h1="VibeDeck Studio: remix and clip your music.", h1_sub="Loop, shape, record and share",
-  lede="Build loops from 1/2 to 8 bars, snapped to the beat grid. Fine-tune the grid and loop points, shape the sound with pitch, filter, saturation, space and presets, then record a live session up to 2 minutes and share it as a clip.",
-  visual=("studio-screen", "VibeDeck Studio beat-grid loop editor and sound controls on iPhone", "phone"), ios=True, android=True,
-  statement="VibeDeck Studio brings beat-snapped looping, sound shaping and live-session recording into the player. It also plays in the background, with faster track analysis, smoother reverb and a refreshed design.",
-  features_h2="Loop, shape and record",
-  features=[("Beat-snapped loops", "Choose a loop from 1/2 to 8 bars and keep it aligned to the beat grid."),
-            ("Fine control", "Fine-tune the grid and adjust the loop start and end points."),
-            ("Live sound tools", "Shape the sound with pitch, filter, saturation, space and sound presets."),
-            ("Record a session", "Record up to 2 minutes of your live session, with fade in/out, and share it as a clip."),
-            ("Background playback", "Studio keeps playing in the background."),
-            ("Refreshed experience", "Faster track analysis, smoother reverb and a refreshed design.")],
-  extra=prose_section('<h2>From loop to clip</h2><ol><li>Choose a track and set a loop from 1/2 to 8 bars.</li><li>Snap it to the beat grid, then fine-tune the grid and loop start and end.</li><li>Shape the sound with pitch, filter, saturation, space and sound presets.</li><li>Record up to 2 minutes with fade in/out, then share the session as a clip.</li></ol><p>Studio continues playing in the background. Use music you own or have the rights to share.</p><p>Also see: <a href="/music-player-pitch-tempo/">pitch and tempo control</a> and <a href="/slow-down-song/">slowing down a song without changing pitch</a>.</p>'),
+  title="Slowed + Reverb, Nightcore & Loop Maker | VibeDeck Player",
+  desc="VibeDeck Studio, coming in the next update: cut loops by beats and bars, add slowed + reverb, nightcore or dub delay in one tap, export clips for TikTok.",
+  og_desc="Loop slicer, one-tap slowed + reverb and nightcore, export to WAV, M4A and MP4 for TikTok. Coming soon.",
+  tag="Studio <span class=\"dim\">/ Coming soon</span>", h1="VibeDeck Studio: remix and clip your music.", h1_sub="Slowed + reverb, nightcore and loop maker",
+  lede="VibeDeck Studio is coming to VibeDeck Player in the next update. Slice any track into loops from one beat to 16 bars, apply one-tap effects like Slowed + Reverb, Nightcore, Underwater and Dub Delay, fine-tune pitch, filter and limiter, then export a clip for TikTok, Reels or Shorts.",
+  visual=("studio-live", "VibeDeck Studio loop slicer and quick FX presets on iPhone", "phone"), ios=True, android=True,
+  statement="Sped-up, slowed + reverb and nightcore edits drive half the sounds on TikTok, and making one usually means a laptop, a DAW and an hour. VibeDeck Studio does it on your phone with the songs you already own: pick a section, tap an effect, export.",
+  features_h2="What VibeDeck Studio does",
+  features=[("Loop Slicer", "Tempo-aware loops of 1 beat, 1, 2, 4, 8 or 16 bars, with bar-by-bar nudging and millisecond timing on the waveform."),
+            ("One-tap FX", "Original, Viral, Analog, Slowed + Reverb, Nightcore, Underwater and Dub Delay presets, plus Tweak FX for custom settings."),
+            ("Export for social", "Save as 24-bit WAV, M4A (AAC) or MP4 video with the music visualizer, ready for TikTok, Instagram Reels and YouTube Shorts.")],
+  extra=prose_section('<h2>How it will work</h2><ol><li>Open a track from your library in <strong>VibeDeck Studio</strong>.</li><li>Choose a loop length or keep the full track.</li><li>Tap a Quick FX preset such as <strong>Slowed + Reverb</strong> or <strong>Nightcore</strong>, or shape your own with Tweak FX, pitch and filter.</li><li>Press <strong>Play</strong> to preview, then <strong>Export</strong> to WAV, M4A or MP4.</li></ol><h2>Made for</h2><ul><li><strong>Creators</strong> making sped-up, slowed and nightcore sounds for TikTok and Reels.</li><li><strong>DJs</strong> preparing loops and edits on the go.</li><li><strong>Dancers</strong> cutting the exact section they rehearse.</li><li><strong>Producers</strong> sketching ideas from reference tracks.</li></ul><p>VibeDeck Studio arrives as a free update to VibeDeck Player. Install the app now to get it as soon as it ships. Use only music you own or have the rights to share.</p><p>Also see: <a href="/music-player-pitch-tempo/">pitch and tempo control</a>, <a href="/slow-down-song/">slow down a song without changing pitch</a>.</p>'),
   faq_h2="VibeDeck Studio FAQ",
-  faq=[("What is VibeDeck Studio?", "VibeDeck Studio is the remix and clips workspace in VibeDeck Player, with beat-snapped loops, sound controls and live-session recording."),
-       ("What loop lengths can I choose?", "Studio supports loops from 1/2 to 8 bars, snapped to the beat grid, with controls to fine-tune the grid and loop start and end."),
-       ("Can I record and share a session?", "Yes. Record a live session up to 2 minutes, use fade in/out, and share it as a clip."),
-       ("Which sound tools are included?", "Studio includes pitch, filter, saturation, space and sound presets."),
-       ("Does Studio play in the background?", "Yes. Studio can keep playing while the app runs in the background.")],
+  faq=[("What is VibeDeck Studio?", "VibeDeck Studio is the remix and clip section of VibeDeck Player: a loop slicer, one-tap effects like Slowed + Reverb and Nightcore, and export to WAV, M4A and MP4 video."),
+       ("How do I make a slowed + reverb version of a song on my phone?", "Open the song in VibeDeck Studio and tap the Slowed + Reverb preset. Preview it, adjust with Tweak FX if you like, then export the result."),
+       ("Can I make nightcore on iPhone?", "Yes. VibeDeck Studio has a one-tap Nightcore preset that speeds up and raises a track, and you can export it as audio or video."),
+       ("Which export formats are supported?", "24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck music visualizer."),
+       ("When is VibeDeck Studio available?", "It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.")],
   related=["/music-player-pitch-tempo/", "/slow-down-song/", "/change-song-key-iphone/"],
-  cta="Get VibeDeck Player and try Studio."))
+  cta="Get VibeDeck Player now and Studio lands in your next update."))
 PAGES.append(dict(path="/vibedeck-vs-vox/", crumb="VibeDeck Player vs VOX",
   title="VibeDeck Player vs VOX: Offline Player Comparison",
   desc="VibeDeck Player vs VOX: an honest comparison of two offline music players. Pitch and tempo, Android support, pricing and when to pick which.",
