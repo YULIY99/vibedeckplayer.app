@@ -165,7 +165,7 @@ def head(p):
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jetbrains-mono-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 {p.get("preload", "")}
-<link rel="stylesheet" href="/styles.css?v=8">
+<link rel="stylesheet" href="/styles.css?v=7">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
 <script type="application/ld+json">
