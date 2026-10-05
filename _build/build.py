@@ -165,7 +165,7 @@ def head(p):
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jetbrains-mono-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 {p.get("preload", "")}
-<link rel="stylesheet" href="/styles.css?v=4">
+<link rel="stylesheet" href="/styles.css?v=5">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
 <script type="application/ld+json">
@@ -336,7 +336,6 @@ def home():
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
       <figure class="studio-device"><img src="/assets/img/vibedeck-studio-real-screen.png" alt="VibeDeck Studio on iPhone: beat-grid loop slicer, pitch, filter, effects and recording controls" width="1290" height="2796" loading="lazy" decoding="async"></figure>
-      <span class="studio-art-label mono">LOOP · SHAPE · RECORD</span>
     </div>
     <div class="studio-copy" data-reveal>
       <p class="tag eyebrow">New <span class="dim">/ VibeDeck Studio</span></p>
