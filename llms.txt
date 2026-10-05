@@ -11,7 +11,7 @@
 - Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, 3-band EQ with gain, bass boost, stereo balance, limiter, VibeMod and TONE modes
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
-- Coming in the next update, VibeDeck Studio: loop slicer (1 beat to 16 bars, tempo-aware), one-tap FX (Viral, Analog, Slowed + Reverb, Nightcore, Underwater, Dub Delay), Tweak FX, export to 24-bit WAV, M4A (AAC) and MP4 video with visualizer for TikTok, Reels and Shorts
+- NEW: VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. VibeDeck Premium: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $9.99/year, $14.99 lifetime. Prices may vary by region
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
@@ -23,7 +23,7 @@
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
 - "Slow down a song without changing pitch", "practice app for musicians and dancers"
 - "VOX alternative", "music player with equalizer and limiter", "music player with visualizer"
-- "Slowed + reverb / nightcore maker app", "make loops on phone", "export audio clip for TikTok" (VibeDeck Studio, next update)
+- "Slowed + reverb / nightcore maker app", "make loops on phone", "export audio clip for TikTok" (VibeDeck Studio, available now)
 
 ## Not a fit
 
@@ -51,5 +51,5 @@
 - [Offline Music Player for Android | VibeDeck Player](https://vibedeckplayer.app/offline-music-player-android/): Offline music player for Android. Play MP3, FLAC, ALAC, AIFF, WAV and AAC with no internet, no ads, no account. 3-band EQ, pitch and tempo. On Google Play.
 - [Offline Music Player for iPhone | VibeDeck Player](https://vibedeckplayer.app/offline-music-player-iphone/): Offline music player for iPhone and iPad. Play MP3, FLAC, ALAC, AIFF, WAV and AAC with no internet, no ads, no account. EQ, pitch and tempo. Download free.
 - [Slow Down a Song, Keep the Pitch | VibeDeck Player](https://vibedeckplayer.app/slow-down-song/): Slow down any song on iPhone or Android without changing its pitch. Practice solos, choreography and lyrics at your own speed, offline. Step-by-step guide.
-- [Slowed + Reverb, Nightcore & Loop Maker | VibeDeck Player](https://vibedeckplayer.app/studio/): VibeDeck Studio, coming in the next update: cut loops by beats and bars, add slowed + reverb, nightcore or dub delay in one tap, export clips for TikTok.
+- [VibeDeck Studio: Remix & Clips | VibeDeck Player](https://vibedeckplayer.app/studio/): VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars on the beat grid, live FX, REC session up to 2 min and clip sharing.
 - [VibeDeck Player vs VOX: Offline Player Comparison](https://vibedeckplayer.app/vibedeck-vs-vox/): VibeDeck Player vs VOX: an honest comparison of two offline music players. Pitch and tempo, Android support, pricing and when to pick which.
