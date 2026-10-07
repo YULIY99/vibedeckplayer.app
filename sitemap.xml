@@ -2,77 +2,112 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://vibedeckplayer.app/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/audio-formats/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/best-offline-music-player/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/change-song-key-iphone/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/flac-player-android/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/flac-player-iphone/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/mp3-player-no-ads/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/music-player-pitch-tempo/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/offline-music-player-android/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/offline-music-player-iphone/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/slow-down-song/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/vibedeck-vs-vox/</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/dj-loop/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/bass-booster/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/dj-filter/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/saturation/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/limiter/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/delay/</loc>
+    <lastmod>2026-10-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/dj-app/</loc>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/support.html</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/privacy.html</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/terms.html</loc>
-    <lastmod>2026-10-01</lastmod>
+    <lastmod>2026-10-07</lastmod>
     <priority>0.5</priority>
   </url>
 </urlset>
