@@ -97,6 +97,10 @@ One offline player for FLAC, WAV and MP3 on iPhone, iPad and Android. No convers
 A: VibeDeck Player plays MP3, WAV and FLAC files stored on your device.
 
 
+**Q: Does VibeDeck Player play ALAC, AIFF or AAC files?**
+
+A: The App Store and Google Play listings currently confirm FLAC, MP3 and WAV. ALAC (.m4a), AIFF and AAC are not listed there yet, so test one file in the free version before you convert your library.
+
 **Q: Does VibeDeck Player play WAV?**
 
 A: Yes. WAV files play without conversion, including 24-bit studio files.

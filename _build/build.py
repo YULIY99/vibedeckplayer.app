@@ -83,7 +83,7 @@ GUIDES = [
   ("/offline-music-player-android/", "Offline · Android", "Offline music player for Android", "MP3, FLAC and WAV from your phone, with zero mobile data spent on music."),
   ("/mp3-player-no-ads/", "MP3 · No ads", "MP3 player with no ads", "No banners, no video breaks, no account. Press play and hear your MP3s."),
   ("/music-player-pitch-tempo/", "Pitch · Tempo", "Music player with pitch and tempo control", "Change the key by ±8 semitones and the speed independently, for practice and DJ prep."),
-  ("/audio-formats/", "Formats · Hi-Res", "Music player for all audio formats", "FLAC, WAV and MP3, played offline with no conversion."),
+  ("/audio-formats/", "Formats · Hi-Res", "Audio formats VibeDeck Player plays", "FLAC, WAV and MP3, played offline with no conversion."),
   ("/change-song-key-iphone/", "How-to · Key", "Change the key of a song on iPhone", "Transpose any track up or down by semitones to fit your voice or instrument."),
   ("/slow-down-song/", "How-to · Tempo", "Slow down a song without changing pitch", "Learn fast parts, choreography and solos at your own speed, in the same key."),
   ("/flac-player-android/", "FLAC · Android", "FLAC player for Android", "Lossless FLAC offline on Android, with EQ, pitch and tempo. No ads."),
@@ -115,10 +115,7 @@ APP = {"@type": "MobileApplication", "@id": SITE + "/#app", "name": "VibeDeck Pl
                   offer("VibeDeck Player", "0", "Free download. Core player with no ads.", PLAY),
                   offer("VibeDeck Premium Monthly (App Store)", "2.99", "Full sound engine, billed monthly on iPhone and iPad.", APPSTORE),
                   offer("VibeDeck Premium Yearly (App Store)", "19.99", "Full sound engine, billed yearly on iPhone and iPad.", APPSTORE),
-                  offer("VibeDeck Premium Lifetime (App Store)", "49.99", "Full sound engine, one-time purchase on iPhone and iPad.", APPSTORE),
-                  offer("VibeDeck Premium Monthly (Google Play)", "1.99", "Full sound engine, billed monthly on Android.", PLAY),
-                  offer("VibeDeck Premium Yearly (Google Play)", "9.99", "Full sound engine, billed yearly on Android.", PLAY),
-                  offer("VibeDeck Premium Lifetime (Google Play)", "14.99", "Full sound engine, one-time purchase on Android.", PLAY)],
+                  offer("VibeDeck Premium Lifetime (App Store)", "49.99", "Full sound engine, one-time purchase on iPhone and iPad.", APPSTORE)],
        "publisher": {"@id": SITE + "/#org"}, "author": {"@id": SITE + "/#org"}, "inLanguage": "en"}
 
 def faq_ld(items):
@@ -168,7 +165,7 @@ def head(p):
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="/assets/fonts/jetbrains-mono-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 {p.get("preload", "")}
-<link rel="stylesheet" href="/styles.css?v=8">
+<link rel="stylesheet" href="/styles.css?v=9">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
 <script type="application/ld+json">
@@ -234,10 +231,10 @@ def cards_html(items, h2, tag, lede="", sid="guides", cls=""):
 </section>'''
 
 def plans_html(h2_tag="h2", head_html=None):
-    plans = [("Monthly", "$2.99", "$1.99", "/ mo", "Full sound engine, billed monthly through the store.", False),
-             ("Yearly", "$19.99", "$9.99", "/ yr", "Full sound engine for twelve months.", False),
-             ("Lifetime", "$49.99", "$14.99", "once", "Pay once. The full sound engine is yours for good.", True)]
-    li = "".join(f'<li class="plan glass{" plan--hi" if hi else ""}" data-reveal style="--rd:{i*90}ms">{"<span class=\"badge mono\">Pay once</span>" if hi else ""}<h3>{n}</h3><dl class="prices"><div><dt class="mono">App Store · iPhone</dt><dd class="price">{ios}<small>{per}</small></dd></div><div><dt class="mono">Google Play · Android</dt><dd class="price price--sm">{andr}<small>{per}</small></dd></div></dl><p>{d}</p></li>' for i, (n, ios, andr, per, d, hi) in enumerate(plans))
+    plans = [("Monthly", "$2.99", None, "/ mo", "Full sound engine, billed monthly through the store.", False),
+             ("Yearly", "$19.99", None, "/ yr", "Full sound engine for twelve months.", False),
+             ("Lifetime", "$49.99", None, "once", "Pay once. The full sound engine is yours for good.", True)]
+    li = "".join(f'<li class="plan glass{" plan--hi" if hi else ""}" data-reveal style="--rd:{i*90}ms">{"<span class=\"badge mono\">Pay once</span>" if hi else ""}<h3>{n}</h3><dl class="prices"><div><dt class="mono">App Store · iPhone</dt><dd class="price">{ios}<small>{per}</small></dd></div><div><dt class="mono">Google Play · Android</dt><dd class="price price--sm"><small>see Google Play</small></dd></div></dl><p>{d}</p></li>' for i, (n, ios, andr, per, d, hi) in enumerate(plans))
     return f'<ul class="plans">{li}</ul><p class="note">{PRICE_NOTE}</p>'
 
 def cta_html(text, ios=True, android=True, heading="Download VibeDeck Player", key="aura-live", alt="VibeDeck FLAC player for iPhone playing a track with AURA and waveform"):
@@ -616,9 +613,9 @@ PAGES.append(dict(path="/audio-formats/", crumb="Supported audio formats",
   desc="One offline player for FLAC, WAV and MP3 on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.",
   og_desc="FLAC, WAV and MP3 in one offline player. No conversion, no ads.",
   tag="Formats <span class=\"dim\">/ Hi-Res</span>", h1="Every format you own. One player.", h1_sub="FLAC &amp; WAV player",
-  lede="VibeDeck Player plays the audio files you already have: FLAC, WAV and MP3. No conversion, no cloud upload, no internet.",
+  lede="VibeDeck Player plays the hi-res FLAC, WAV and MP3 files you already have. No conversion, no cloud upload, no internet.",
   visual=("aura-live", "VibeDeck Player playing a lossless track on iPhone", "phone"), ios=True, android=True,
-  statement="Most music libraries are a mix: FLAC from an old iTunes library, WAV from the studio, MP3 from everywhere else. Built-in players handle some of them and hide the rest. VibeDeck Player opens them all in one library and plays them offline, with the same EQ, pitch and tempo controls for every file.",
+  statement="Most music libraries are a mix: FLAC rips from CDs, WAV from the studio, MP3 from everywhere else. VibeDeck Player opens these files in one library and plays them offline, with the same EQ, pitch and tempo controls for every file.",
   features_h2="Why one player for every format",
   features=[("No conversion", "Import files as they are. Lossless stays lossless: FLAC and WAV play from your device exactly as you imported them, with no conversion."),
             ("One sound engine", "EQ with gain, limiter, pitch up to ±8 semitones and independent tempo work the same on MP3 and on a 24-bit master."),
@@ -626,12 +623,12 @@ PAGES.append(dict(path="/audio-formats/", crumb="Supported audio formats",
   extra=prose_section('<h2>Supported audio formats</h2><ul><li><strong>FLAC</strong> (.flac): hi-res lossless, the standard archive format</li><li><strong>WAV</strong> (.wav): uncompressed audio from DAWs and recorders</li><li><strong>MP3</strong> (.mp3): the most common compressed format</li></ul><p>OGG, WMA and Opus are not supported yet. Convert them to FLAC before importing.</p><h2>Lossless vs compressed: what to keep</h2><p>For your archive keep FLAC: it is lossless and about half the size of WAV. Use WAV for files you still edit. MP3 is fine for everyday listening when space is tight. VibeDeck Player plays all of them side by side, so you never have to choose one format for the whole library.</p><p>Also see: <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/offline-music-player-iphone/">offline music player for iPhone</a>, <a href="/offline-music-player-android/">offline music player for Android</a>.</p>'),
   faq_h2="Audio formats FAQ",
   faq=[("What audio formats does VibeDeck Player support?", "VibeDeck Player plays MP3, WAV and FLAC files stored on your device."),
-       ("Can I play ALAC (Apple Lossless) files on iPhone?", "Yes. VibeDeck Player plays ALAC files in .m4a containers offline on iPhone and iPad, with EQ, pitch and tempo control."),
+       ("Does VibeDeck Player play ALAC, AIFF or AAC files?", "The App Store and Google Play listings currently confirm FLAC, MP3 and WAV. ALAC (.m4a), AIFF and AAC are not listed there yet, so test one file in the free version before you convert your library."),
        ("Does VibeDeck Player play WAV?", "Yes. WAV files play without conversion, including 24-bit studio files."),
        ("Does VibeDeck Player support OGG, WMA or Opus?", "Not yet. Convert OGG, WMA or Opus files to FLAC and import them into VibeDeck Player."),
        ("Do I need to convert my files before importing?", "No. Import FLAC, WAV and MP3 files as they are. Nothing is converted or uploaded.")],
   related=["/flac-player-iphone/", "/offline-music-player-iphone/", "/offline-music-player-android/"],
-  cta="Play every file you own, offline. No conversion. No ads. No tracking."))
+  cta="Play your FLAC, WAV and MP3 files offline. No conversion. No ads. No tracking."))
 PAGES.append(dict(path="/change-song-key-iphone/", crumb="Change the key of a song on iPhone",
   title="Change the Key of a Song on iPhone | VibeDeck Player",
   desc="Change a song's key on iPhone in seconds: transpose up or down by up to 8 semitones, keep the tempo, work offline. Step-by-step guide with VibeDeck Player.",
@@ -807,6 +804,12 @@ def notfound():
     return p
 
 if __name__ == "__main__":
+    # SAFETY GUARD (SEO pack 3): the published HTML was hand-tuned after generation
+    # (titles, og/twitter tags, hreflang, sameAs). Running this script overwrites 16 pages
+    # with older metadata and recreates the removed /studio/ page. Deploy = push to main, no build step.
+    import sys
+    if "--force-overwrite-published-pages" not in sys.argv:
+        sys.exit("build.py is out of sync with the published pages; refusing to overwrite. See _build/SEO-CHECKLIST.md.")
     out = [home()] + [landing(d) for d in PAGES] + [legal(*l) for l in LEGAL] + [notfound()]
     for p in out:
         print(f'{p["path"]:34} title {len(p["title"]):3}  desc {len(p["desc"]):3}')
