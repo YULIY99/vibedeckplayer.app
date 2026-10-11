@@ -55,15 +55,16 @@ def ld(p, home):
 def page(p):
     home = p.get("home", p["path"]); group = clusters()[p["en"]]; url = SITE + p["path"]
     n, ws, w, h, sizes = IMG[p["img"]]
-    panels = "".join(f'<li class="panel glass" data-reveal style="--rd:{i*90}ms"><span class="num" aria-hidden="true">0{i+1}</span><h3>{E(t)}</h3><p>{E(d)}</p></li>' for i, (t, d) in enumerate(p["panels"]))
-    faq = "".join(f'<details><summary><h3>{E(q)}</h3></summary><div class="a"><p>{E(a)}</p></div></details>' for q, a in p["faq"])
+    h1style = ' style="word-break:keep-all;overflow-wrap:anywhere"' if p["lang"] == "ja" else ""
+    hs = h1style
+    panels = "".join(f'<li class="panel glass" data-reveal style="--rd:{i*90}ms"><span class="num" aria-hidden="true">0{i+1}</span><h3{hs}>{E(t)}</h3><p>{E(d)}</p></li>' for i, (t, d) in enumerate(p["panels"]))
+    faq = "".join(f'<details><summary><h3{hs}>{E(q)}</h3></summary><div class="a"><p>{E(a)}</p></div></details>' for q, a in p["faq"])
     rel = "".join(f'<li data-reveal style="--rd:{i*90}ms"><a class="card glass" href="{u}"{" hreflang=\"en\" lang=\"en\"" if t=="English" else ""}><span class="tag">{E(t)}</span><h3>{E(h3)}</h3><p>{E(d)}</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li>' for i, (u, t, h3, d) in enumerate(p["related"]))
     crumbs = f'<li><a href="{home}">{E("VibeDeck")}</a></li>' + (f'<li aria-current="page">{E(p["crumb"])}</li>' if p["path"] != home else "")
     fl = p["foot_links"]
     crumbs_nav = f'<nav aria-label="Breadcrumb"><ol class="crumbs mono">{crumbs}</ol></nav>\n' if p["path"] != home else ""
     h1 = E(p["h1"]).replace("|", "<wbr>")
     h1sub = E(p["h1sub"]).replace("|", "<wbr>")
-    h1style = ' style="word-break:keep-all;overflow-wrap:anywhere"' if p["lang"] == "ja" else ""
     return f'''<!doctype html>
 <html lang="{p["lang"]}" class="no-js">
 <head>
@@ -123,7 +124,7 @@ def page(p):
       <h1 id="hero-title"{h1style}><span class="h1-plain">{h1}</span> <span class="h1-sub">{h1sub}</span></h1>
       <p class="lede">{E(p["lede"])}</p>
       {stores(p)}
-      <p class="dim">{E(p["note"])}</p>
+      <p class="dim" style="margin-top:16px">{E(p["note"])}</p>
     </div>
     <div class="hero-visual">
       <div class="halo" aria-hidden="true"></div>
@@ -139,7 +140,7 @@ def page(p):
 
 <section class="section" aria-labelledby="features-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck <span class="dim">/ 03</span></p><h2 class="h2" id="features-title">{E(p["panels_h2"])}</h2></div></div>
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck <span class="dim">/ 03</span></p><h2 class="h2" id="features-title"{hs}>{E(p["panels_h2"])}</h2></div></div>
     <ul class="panels">{panels}</ul>
   </div>
 </section>
@@ -149,7 +150,7 @@ def page(p):
 </section>
 <section class="section" id="faq" aria-labelledby="faq-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ {len(p["faq"]):02d}</span></p><h2 class="h2" id="faq-title">{E(p["faq_h2"])}</h2></div></div>
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ {len(p["faq"]):02d}</span></p><h2 class="h2" id="faq-title"{hs}>{E(p["faq_h2"])}</h2></div></div>
     <div class="faq" data-reveal>{faq}</div>
   </div>
 </section>
@@ -166,7 +167,7 @@ def page(p):
       <div class="cta-grid">
         <div class="cta-copy">
           <p class="tag">{E(p["dl"])} <span class="dim">/ iOS · Android</span></p>
-          <h2 class="h2" id="download-title">{E(p["cta_h2"])}</h2>
+          <h2 class="h2" id="download-title"{hs}>{E(p["cta_h2"])}</h2>
           <p class="lede">{E(p["cta_lede"])}</p>
           {stores(p)}
         </div>
