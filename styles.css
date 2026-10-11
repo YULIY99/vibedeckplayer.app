@@ -201,6 +201,8 @@ ul,ol{margin:0;padding:0;list-style:none}
 /* ---------- duo (android etc.) ---------- */
 .duo{display:grid;gap:48px;align-items:center}
 @media (min-width:1024px){.duo{grid-template-columns:.9fr 1.1fr;gap:64px}.duo--rev .duo-media{order:-1}}
+/* mobile: decorative halo must not widen the layout viewport (EN home, 320-430px) */
+@media (max-width:1023px){.duo-media{overflow-x:clip}}
 .duo-copy .lede{margin-bottom:32px}
 .pair{position:relative;display:grid;grid-template-columns:1fr 1fr;gap:16px;align-items:start}
 .pair figure{margin:0;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)}
