@@ -55,6 +55,9 @@ for u in urls:
         if m["canonical"] != SITE + u: errors.append(f"{u}: canonical {m['canonical']}")
         if m["robots"] and "noindex" in m["robots"]: errors.append(f"{u}: noindex")
     if m["h1count"] != 1: errors.append(f"{u}: {m['h1count']} H1")
+    hd = b[b.find("<head>") + 6:b.find("</head>")]
+    stray = re.sub(r"<[^>]*>", "", re.sub(r"<script.*?</script>|<style.*?</style>|<title>.*?</title>", "", hd, flags=re.S)).strip()
+    if stray: errors.append(f"{u}: stray text in <head> ({stray[:20]!r}) - browsers close <head> early, canonical/meta end up in <body>")
     for j in re.findall(r'<script type="application/ld\+json">(.*?)</script>', b, re.S):
         try: json.loads(j)
         except Exception as e: errors.append(f"{u}: invalid JSON-LD {e}")
