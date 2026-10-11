@@ -21,9 +21,19 @@ def live(path):
         with urllib.request.urlopen(urllib.request.Request(LIVE + path, headers={"User-Agent": "vibedeck-verify"}), timeout=20) as r:
             return r.read().decode("utf-8", "replace")
     except urllib.error.HTTPError as e:
-        return e.read().decode("utf-8", "replace") if path == "/404.html" or e.code == 404 else errors.append(f"{path}: live HTTP {e.code}")
+        if path == "/404.html": return e.read().decode("utf-8", "replace")
+        if e.code == 404:
+            return NEW if is_new(path) else errors.append(f"{path}: live 404 but page is not new vs {BASE}")
+        return errors.append(f"{path}: live HTTP {e.code}")
     except Exception as e:
         errors.append(f"{path}: live site unreachable ({e.__class__.__name__}); cannot compare"); return None
+NEW = object()
+def is_new(path):
+    f = resolve(path)
+    if not f: return False
+    rel = os.path.relpath(f, ROOT)
+    r = subprocess.run(["git", "-C", ROOT, "cat-file", "-e", f"{BASE}:{rel}"], capture_output=True)
+    return r.returncode != 0
 def meta(b):
     g = lambda p: (m.group(1).strip() if (m := re.search(p, b, re.S | re.I)) else None)
     h1 = re.findall(r"<h1[^>]*>(.*?)</h1>", b, re.S)
@@ -62,10 +72,20 @@ for u in urls:
         try: json.loads(j)
         except Exception as e: errors.append(f"{u}: invalid JSON-LD {e}")
     lb = live(u)
-    if lb:
+    if lb is NEW:
+        info.append(f"{u}: new page (not live yet)")
+    elif lb:
         lm = meta(lb)
         for k in ("title", "canonical", "robots", "h1"):
             if lm[k] != m[k]: errors.append(f"{u}: {k} changed vs live: {lm[k]!r} -> {m[k]!r}")
+    if m["hreflang"]:
+        langs = {l for l, _ in m["hreflang"]}
+        selfl = [l for l, h in m["hreflang"] if h == SITE + u]
+        htmllang = (re.search(r'<html[^>]*lang="([^"]+)"', b) or [None, None])[1]
+        if "x-default" not in langs: errors.append(f"{u}: hreflang without x-default")
+        if u in sitemap and not selfl: errors.append(f"{u}: hreflang set lacks self-reference")
+        if selfl and htmllang and not any(l.lower() == htmllang.lower() for l in selfl if l != "x-default"): errors.append(f"{u}: html lang {htmllang} != hreflang {selfl}")
+        if len(m["hreflang"]) != len({l for l, _ in m["hreflang"]}): errors.append(f"{u}: duplicate hreflang codes")
     for lang, href in m["hreflang"]:
         tf = resolve(href.replace(SITE, ""))
         if not tf: errors.append(f"{u}: hreflang {lang} -> {href} missing")
