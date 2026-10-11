@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
-"""Static page generator for vibedeckplayer.app.
+"""WARNING (2026-10-11): OUT OF SYNC with the published HTML. Running it would
+revert the SEO v2 pages and generate an unpublished /studio/. Do not run until re-synced.
+
+Static page generator for vibedeckplayer.app.
 Output is plain HTML committed to the repo (GitHub Pages). Run: python3 _build/build.py
 Underscore folders are not published by GitHub Pages/Jekyll."""
 import json, html, os, re, random

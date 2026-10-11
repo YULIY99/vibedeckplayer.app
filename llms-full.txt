@@ -318,7 +318,7 @@ A: Yes. With VibeDeck Player your files are stored on the device, so music keeps
 
 **Q: Does Apple Music work offline?**
 
-A: Apple Music needs a paid subscription for offline downloads and locks you into its ecosystem. VibeDeck Player plays files you already own, with no subscription and no lock-in.
+A: Apple Music needs a paid subscription for offline downloads and locks you into its ecosystem. VibeDeck Player plays files you already own, with no streaming subscription and no lock-in.
 
 **Q: Where do the music files come from?**
 
@@ -358,7 +358,7 @@ A: Yes. Pitch and tempo are independent, so you can slow a song down and transpo
 
 ## Slowed + Reverb, Nightcore & Loop Maker | VibeDeck Player
 
-URL: https://vibedeckplayer.app/studio/
+URL: https://vibedeckplayer.app/#studio
 
 VibeDeck Studio, coming in the next update: cut loops by beats and bars, add slowed + reverb, nightcore or dub delay in one tap, export clips for TikTok.
 
