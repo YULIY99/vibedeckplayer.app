@@ -13,8 +13,14 @@ APPLE_SVG = re.search(r'<a class="store store--primary"[^>]*>(<svg.*?</svg>)', T
 PLAY_SVG = re.search(r'<a class="store"[^>]*>(<svg.*?</svg>)', TPL, re.S).group(1)
 WAVE = re.search(r'<div class="wave" aria-hidden="true">.*?</div>', TPL, re.S).group(0)
 IMG = {"now-playing": ("vibedeck-offline-music-player-iphone-now-playing", (400, 600, 800), 600, 1300, "(min-width: 1024px) 288px, 76vw"),
-       "b-pitch": ("vibedeck-pitch-control-iphone", (360, 540, 720), 540, 1170, "(min-width: 1024px) 288px, 76vw")}
+       "b-pitch": ("vibedeck-pitch-control-iphone", (360, 540, 720), 540, 1170, "(min-width: 1024px) 288px, 76vw"),
+       "pitch-filter": ("vibedeck-pitch-filter-iphone", (400, 600, 800), 600, 1300, "(min-width: 1024px) 288px, 76vw"),
+       "aura": ("vibedeck-flac-player-iphone-aura", (400, 600, 800), 600, 1300, "(min-width: 1024px) 288px, 76vw")}
+UI = {"ja": {"logo": "VibeDeck Playerのロゴ", "overview": "概要", "company": "VibeDeckについて", "crumbs": "パンくずリスト", "en": "（英語）"},
+      "es": {"logo": "Logotipo de VibeDeck Player", "overview": "Resumen", "company": "Información de VibeDeck", "crumbs": "Ruta de navegación", "en": " (en inglés)"},
+      "pt-BR": {"logo": "Logotipo do VibeDeck Player", "overview": "Visão geral", "company": "Institucional", "crumbs": "Trilha de navegação", "en": " (em inglês)"}}
 LANG_NAMES = [("en", "English"), ("ja", "日本語"), ("es", "Español"), ("pt-BR", "Português")]
+def W(x): return E(x).replace("|", "<wbr>")
 def srcset(k, ext): n, ws, *_ = IMG[k]; return ", ".join(f"/assets/img/{n}-{w}.{ext} {w}w" for w in ws)
 def pic(k, alt, lazy):
     n, ws, w, h, sizes = IMG[k]
@@ -43,7 +49,7 @@ def ld(p, home):
     url = SITE + p["path"]
     crumbs = [{"@type": "ListItem", "position": 1, "name": "VibeDeck", "item": SITE + home}]
     if p["path"] != home: crumbs.append({"@type": "ListItem", "position": 2, "name": p["crumb"], "item": url})
-    g = [{"@type": "WebPage", "@id": url + "#webpage", "url": url, "name": p["title"].replace("|", ""), "description": p["desc"], "inLanguage": p["lang"],
+    g = [{"@type": "WebPage", "@id": url + "#webpage", "url": url, "name": p["title"], "description": p["desc"], "inLanguage": p["lang"],
           "isPartOf": {"@id": SITE + "/#website"}, "about": {"@id": SITE + "/#app"}},
          {"@type": "MobileApplication", "@id": SITE + "/#app", "name": "VibeDeck Player", "applicationCategory": "MusicApplication",
           "operatingSystem": "iOS 17.0 or later, iPadOS, Android", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"},
@@ -57,12 +63,12 @@ def page(p):
     n, ws, w, h, sizes = IMG[p["img"]]
     h1style = ' style="word-break:keep-all;overflow-wrap:anywhere"' if p["lang"] == "ja" else ""
     hs = h1style
-    panels = "".join(f'<li class="panel glass" data-reveal style="--rd:{i*90}ms"><span class="num" aria-hidden="true">0{i+1}</span><h3{hs}>{E(t)}</h3><p>{E(d)}</p></li>' for i, (t, d) in enumerate(p["panels"]))
-    faq = "".join(f'<details><summary><h3{hs}>{E(q)}</h3></summary><div class="a"><p>{E(a)}</p></div></details>' for q, a in p["faq"])
+    panels = "".join(f'<li class="panel glass" data-reveal style="--rd:{i*90}ms"><span class="num" aria-hidden="true">0{i+1}</span><h3{hs}>{W(t)}</h3><p>{E(d)}</p></li>' for i, (t, d) in enumerate(p["panels"]))
+    faq = "".join(f'<details><summary><h3{hs}>{W(q)}</h3></summary><div class="a"><p>{E(a)}</p></div></details>' for q, a in p["faq"])
     rel = "".join(f'<li data-reveal style="--rd:{i*90}ms"><a class="card glass" href="{u}"{" hreflang=\"en\" lang=\"en\"" if t=="English" else ""}><span class="tag">{E(t)}</span><h3>{E(h3)}</h3><p>{E(d)}</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li>' for i, (u, t, h3, d) in enumerate(p["related"]))
     crumbs = f'<li><a href="{home}">{E("VibeDeck")}</a></li>' + (f'<li aria-current="page">{E(p["crumb"])}</li>' if p["path"] != home else "")
     fl = p["foot_links"]
-    crumbs_nav = f'<nav aria-label="Breadcrumb"><ol class="crumbs mono">{crumbs}</ol></nav>\n' if p["path"] != home else ""
+    crumbs_nav = f'<nav aria-label="{E(UI[p["lang"]]["crumbs"])}"><ol class="crumbs mono">{crumbs}</ol></nav>\n' if p["path"] != home else ""
     h1 = E(p["h1"]).replace("|", "<wbr>")
     h1sub = E(p["h1sub"]).replace("|", "<wbr>")
     return f'''<!doctype html>
@@ -111,7 +117,7 @@ def page(p):
 <a class="skip" href="#main">{E(p["skip"])}</a>
 <header class="site-header">
   <div class="wrap header-wrap">
-    <a class="brand" href="{home}" aria-label="{E(p["home_aria"])}"><img src="/assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="32" height="32"><span class="brand-name">VibeDeck</span></a>
+    <a class="brand" href="{home}" aria-label="{E(p["home_aria"])}"><img src="/assets/vibedeck-logo-header.webp" alt="{E(UI[p["lang"]]["logo"])}" width="32" height="32"><span class="brand-name">VibeDeck</span></a>
     <nav class="nav mono" aria-label="{E(p["foot_lang"])}"><a href="{p["en"]}" hreflang="en" lang="en">English</a></nav>
     <a class="btn-dl" href="#download">{E(p["dl"])}</a>
   </div>
@@ -134,13 +140,13 @@ def page(p):
   </div>
 </section>
 
-<section class="section statement statement--small" aria-label="Overview">
+<section class="section statement statement--small" aria-label="{E(UI[p["lang"]]["overview"])}">
   <div class="wrap" data-reveal><p>{E(p["statement"])}</p></div>
 </section>
 
 <section class="section" aria-labelledby="features-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck <span class="dim">/ 03</span></p><h2 class="h2" id="features-title"{hs}>{E(p["panels_h2"])}</h2></div></div>
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck <span class="dim">/ 03</span></p><h2 class="h2" id="features-title"{hs}>{W(p["panels_h2"])}</h2></div></div>
     <ul class="panels">{panels}</ul>
   </div>
 </section>
@@ -150,7 +156,7 @@ def page(p):
 </section>
 <section class="section" id="faq" aria-labelledby="faq-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ {len(p["faq"]):02d}</span></p><h2 class="h2" id="faq-title"{hs}>{E(p["faq_h2"])}</h2></div></div>
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ {len(p["faq"]):02d}</span></p><h2 class="h2" id="faq-title"{hs}>{W(p["faq_h2"])}</h2></div></div>
     <div class="faq" data-reveal>{faq}</div>
   </div>
 </section>
@@ -167,11 +173,11 @@ def page(p):
       <div class="cta-grid">
         <div class="cta-copy">
           <p class="tag">{E(p["dl"])} <span class="dim">/ iOS · Android</span></p>
-          <h2 class="h2" id="download-title"{hs}>{E(p["cta_h2"])}</h2>
+          <h2 class="h2" id="download-title"{hs}>{W(p["cta_h2"])}</h2>
           <p class="lede">{E(p["cta_lede"])}</p>
           {stores(p)}
         </div>
-        <div class="cta-media"><div class="phone phone--sm" data-parallax="0.05">{pic(p["img"], p["alt"], True)}</div></div>
+        <div class="cta-media"><div class="phone phone--sm" data-parallax="0.05">{pic(p["img2"], p["alt2"], True)}</div></div>
       </div>
     </div>
   </div>
@@ -181,12 +187,12 @@ def page(p):
   <div class="wrap">
     <div class="foot-grid">
       <div class="foot-brand">
-        <a class="brand" href="{home}" aria-label="{E(p["home_aria"])}"><img src="/assets/vibedeck-logo-header.webp" alt="VibeDeck Player logo" width="32" height="32" loading="lazy"><span class="brand-name">VibeDeck</span></a>
+        <a class="brand" href="{home}" aria-label="{E(p["home_aria"])}"><img src="/assets/vibedeck-logo-header.webp" alt="{E(UI[p["lang"]]["logo"])}" width="32" height="32" loading="lazy"><span class="brand-name">VibeDeck</span></a>
         <p>{E(p["foot"])}</p>
       </div>
       <nav aria-label="{E(p["foot_lang"])}"><h2>{E(p["foot_lang"])}</h2><ul>{"".join(f'<li><a href="{u}" hreflang="{l}" lang="{l}">{dict(LANG_NAMES)[l]}</a></li>' for l, u in group.items())}</ul></nav>
-      <nav aria-label="Company"><h2>VibeDeck</h2><ul>
-        <li><a href="/support.html" hreflang="en">{E(fl[0])} (English)</a></li><li><a href="/privacy.html" hreflang="en">{E(fl[1])} (English)</a></li><li><a href="/terms.html" hreflang="en">{E(fl[2])} (English)</a></li>
+      <nav aria-label="{E(UI[p["lang"]]["company"])}"><h2>VibeDeck</h2><ul>
+        <li><a href="/support.html" hreflang="en">{E(fl[0])}{UI[p["lang"]]["en"]}</a></li><li><a href="/privacy.html" hreflang="en">{E(fl[1])}{UI[p["lang"]]["en"]}</a></li><li><a href="/terms.html" hreflang="en">{E(fl[2])}{UI[p["lang"]]["en"]}</a></li>
         <li><a href="mailto:hello@vibedeckplayer.app">hello@vibedeckplayer.app</a></li></ul></nav>
     </div>
     <div class="foot-base mono"><span>© 2026 VibeDeck</span><span>{E(p["foot_base"])}</span></div>
