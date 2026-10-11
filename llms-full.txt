@@ -156,7 +156,7 @@ A: No. In VibeDeck Player pitch and tempo are independent, so the song keeps its
 
 **Q: Can I transpose Apple Music or Spotify songs?**
 
-A: No. Streaming apps protect their tracks, so no third-party app can process them. VibeDeck Player works with audio files you own, such as MP3, FLAC, WAV, AAC and ALAC.
+A: No. VibeDeck Player only opens audio files stored on your device, so it cannot process songs from streaming apps. It works with audio files you own, such as MP3, FLAC and WAV.
 
 **Q: Does it work offline?**
 
