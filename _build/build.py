@@ -89,7 +89,6 @@ GUIDES = [
   ("/flac-player-android/", "FLAC · Android", "FLAC player for Android", "Lossless FLAC offline on Android, with EQ, pitch and tempo. No ads."),
   ("/best-offline-music-player/", "Guide · 2026", "Best offline music player", "What to look for in an offline player in 2026, and how VibeDeck compares."),
   ("/#studio", "Studio · New", "VibeDeck Studio: remix and record clips", "Beat-snapped loops, live effects and session recording you can share as a clip."),
-  ("/vibedeck-vs-vox/", "Compare", "VibeDeck Player vs VOX", "An honest look at the VOX alternative with pitch tools and Android support."),
 ]
 PRICE_NOTE = "Prices may vary by region; the App Store and Google Play listings always show the current local price."
 
@@ -274,7 +273,6 @@ HOME_FAQ = [
  ("How do I change the pitch of a song on iPhone?", "Open the track in VibeDeck Player and drag the Pitch / Filter slider on the main player screen. Pitch moves in real time up to plus or minus 8 semitones, tempo can be changed independently, and Reset returns the song to its original key. The file itself is never modified. Pitch and filter are part of VibeDeck Premium."),
  ("What is the best ad-free offline music player?", "It depends on what you need. If you want an offline music player with no ads that also changes pitch and tempo, runs on both iPhone and Android, and offers a one-time lifetime license, VibeDeck Player is built for exactly that. The core player is free with no ads; Premium is optional."),
  ("Is VibeDeck Player available for iPhone and Android?", "Yes. VibeDeck Player is on the App Store for iPhone and iPad (iOS 17.0 and later) and on Google Play for Android."),
- ("Is VibeDeck Player a good alternative to VOX?", "If you want real-time pitch and tempo control, Android support, or a one-time lifetime license, yes. VOX remains a strong pick if you live entirely inside the Apple ecosystem and do not need pitch tools."),
  ("What makes VibeDeck Player different?", "Real-time pitch shifting up to plus or minus 8 semitones, independent tempo control, EQ with gain, waveform scrubbing with BPM readout, and the audio-reactive AURA visualizer, all offline on your own files."),
 ]
 SHOTS = [
@@ -397,7 +395,7 @@ def home():
       <h2 id="why-title">Why VibeDeck Player?</h2>
       <p>VibeDeck Player is a premium <strong>offline music player for iPhone, iPad and Android</strong>, made for people who own their music. It plays the FLAC, WAV and MP3 files already on your phone, with no WiFi, no account, no ads and no tracking. Your files stay on your device.</p>
       <p>Where most players stop at play and pause, VibeDeck treats every track as material. Shift pitch up to ±8 semitones and change tempo independently to practise, sing in your range or prep a DJ set. Shape the sound with an equalizer with gain, bass boost, filter, stereo balance and a built-in limiter. Scrub the waveform, read the BPM, and line up what's next in a queue you reorder by touch. AURA adds an ambient visual world that breathes with your music, and TONE and VibeMod give one track a second mood.</p>
-      <p>Looking for a <a href="/flac-player-iphone/">FLAC player for iPhone</a>, an <a href="/mp3-player-no-ads/">MP3 player with no ads</a>, or a <a href="/vibedeck-vs-vox/">VOX alternative</a> that also runs on Android? VibeDeck Player covers all three on one dark, distraction-free screen. Same track. New feeling.</p>
+      <p>Looking for a <a href="/flac-player-iphone/">FLAC player for iPhone</a>, an <a href="/mp3-player-no-ads/">MP3 player with no ads</a>, or a player that also runs on Android? VibeDeck Player covers all three on one dark, distraction-free screen. Same track. New feeling.</p>
     </div>
     <div class="duo-media media-solo">
       <div class="halo" aria-hidden="true"></div>
@@ -508,7 +506,7 @@ PAGES = [
        ("Does it have an equalizer for FLAC playback?", "Yes. VibeDeck Player includes an EQ with gain, bass boost, filter, stereo balance and a built-in limiter, all applied in real time to your FLAC files."),
        ("Can I change pitch and tempo of FLAC tracks?", "Yes. VibeDeck Player offers real-time pitch shifting up to plus or minus 8 semitones and independent tempo control, which is rare among iPhone FLAC players."),
        ("Is VibeDeck Player free?", "The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.")],
-  related=["/offline-music-player-iphone/", "/music-player-pitch-tempo/", "/vibedeck-vs-vox/"],
+  related=["/offline-music-player-iphone/", "/music-player-pitch-tempo/", "/best-offline-music-player/"],
   cta="Play your FLAC files offline on iPhone and iPad. No account. No ads. No tracking."),
  dict(path="/offline-music-player-iphone/", crumb="Offline music player for iPhone",
   title="Offline Music Player for iPhone | VibeDeck Player",
@@ -592,21 +590,9 @@ PAGES = [
        ("Is VibeDeck Player good for musicians and DJs?", "It is built for that use: pitch and filter on the main screen, waveform scrubbing, BPM readout, EQ with gain and a limiter, all working offline on your own files."),
        ("Does pitch shifting work offline?", "Yes. All processing happens on the device. Pitch, tempo, EQ and filter work in airplane mode with no account and no internet."),
        ("Is VibeDeck Player free?", FREE_A)],
-  related=["/flac-player-iphone/", "/vibedeck-vs-vox/", "/offline-music-player-android/"],
+  related=["/flac-player-iphone/", "/music-player-pitch-tempo/", "/offline-music-player-android/"],
   cta="Pitch and tempo control for your own music files. iPhone and Android. No ads."),
 ]
-
-VOX_TABLE = '''<h2>Feature comparison</h2><p>Based on publicly listed features as of September 2026. Details can change; check the current App Store listings for both apps.</p>
-<div class="table-wrap"><table><thead><tr><th scope="col">Feature</th><th scope="col">VOX</th><th scope="col">VibeDeck Player</th></tr></thead><tbody>
-<tr><td>Platforms</td><td>iOS, iPadOS, macOS</td><td>iOS, iPadOS, Android</td></tr>
-<tr><td>Local FLAC, MP3, WAV playback</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>Fully offline, no account needed</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>Ads</td><td>None</td><td>None</td></tr>
-<tr><td>Equalizer</td><td>Yes</td><td>Yes, EQ + Gain</td></tr>
-<tr><td>Real-time pitch shifting</td><td>No</td><td>Yes, up to +8 / -8 semitones</td></tr>
-<tr><td>Tempo control</td><td>No</td><td>Yes, independent of pitch</td></tr>
-<tr><td>Waveform scrubbing and BPM readout</td><td>No</td><td>Yes</td></tr>
-</tbody></table></div>'''
 
 PAGES.append(dict(path="/audio-formats/", crumb="Supported audio formats",
   title="FLAC and WAV Player | VibeDeck Player",
@@ -704,14 +690,14 @@ PAGES.append(dict(path="/best-offline-music-player/", crumb="Best offline music 
   features=[("Formats without conversion", "FLAC and WAV for lossless, MP3 for everyday files. Anything that forces conversion loses quality and time."),
             ("Real controls", "A proper EQ with a limiter, plus pitch and tempo if you sing, play, dance or DJ. Most players stop at a basic preset list."),
             ("No ads, no account", "Ads and logins are the most common complaints in player reviews. Offline should mean private.")],
-  extra=prose_section('<h2>How VibeDeck Player compares</h2><div class="table-wrap"><table><thead><tr><th>What to check</th><th>VibeDeck Player</th><th>Built-in iPhone Music app</th></tr></thead><tbody><tr><td>FLAC and WAV from Files</td><td>Yes</td><td>Limited</td></tr><tr><td>Works fully offline</td><td>Yes</td><td>Downloaded tracks only</td></tr><tr><td>EQ with limiter</td><td>Yes</td><td>Presets only</td></tr><tr><td>Pitch shift ±8 semitones</td><td>Yes</td><td>No</td></tr><tr><td>Independent tempo</td><td>Yes</td><td>No</td></tr><tr><td>No ads, no account</td><td>Yes</td><td>Requires Apple ID</td></tr><tr><td>Android version</td><td>Yes</td><td>No</td></tr></tbody></table></div><h2>Pick by use case</h2><ul><li><strong>Lossless collectors:</strong> <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/flac-player-android/">FLAC player for Android</a>.</li><li><strong>Travel and dead zones:</strong> <a href="/offline-music-player-iphone/">offline player for iPhone</a>, <a href="/offline-music-player-android/">for Android</a>.</li><li><strong>Singers and musicians:</strong> <a href="/change-song-key-iphone/">change key</a>, <a href="/slow-down-song/">slow down without changing pitch</a>.</li><li><strong>Leaving a cloud player:</strong> <a href="/vibedeck-vs-vox/">VibeDeck Player vs VOX</a>.</li></ul>'),
+  extra=prose_section('<h2>How VibeDeck Player compares</h2><div class="table-wrap"><table><thead><tr><th>What to check</th><th>VibeDeck Player</th><th>Built-in iPhone Music app</th></tr></thead><tbody><tr><td>FLAC and WAV from Files</td><td>Yes</td><td>Limited</td></tr><tr><td>Works fully offline</td><td>Yes</td><td>Downloaded tracks only</td></tr><tr><td>EQ with limiter</td><td>Yes</td><td>Presets only</td></tr><tr><td>Pitch shift ±8 semitones</td><td>Yes</td><td>No</td></tr><tr><td>Independent tempo</td><td>Yes</td><td>No</td></tr><tr><td>No ads, no account</td><td>Yes</td><td>Requires Apple ID</td></tr><tr><td>Android version</td><td>Yes</td><td>No</td></tr></tbody></table></div><h2>Pick by use case</h2><ul><li><strong>Lossless collectors:</strong> <a href="/flac-player-iphone/">FLAC player for iPhone</a>, <a href="/flac-player-android/">FLAC player for Android</a>.</li><li><strong>Travel and dead zones:</strong> <a href="/offline-music-player-iphone/">offline player for iPhone</a>, <a href="/offline-music-player-android/">for Android</a>.</li><li><strong>Singers and musicians:</strong> <a href="/change-song-key-iphone/">change key</a>, <a href="/slow-down-song/">slow down without changing pitch</a>.</li></ul>'),
   faq_h2="Offline music players: FAQ",
   faq=[("What is the best offline music player for iPhone?", "Look for a player that imports FLAC and WAV without conversion, works with no internet, has a real EQ and shows no ads. VibeDeck Player covers all of these and adds pitch and tempo control."),
        ("What is the best offline music player for Android?", "The same checklist applies. VibeDeck Player is available on Google Play with FLAC support, an EQ, pitch and tempo, no ads and no account."),
        ("Can I listen to music without internet on my phone?", "Yes, if the files are stored on the phone. Copy or download your music, import it into an offline player like VibeDeck Player and it plays with WiFi and mobile data off."),
        ("Is there a free offline music player with no ads?", "Yes. VibeDeck Player is free to download and has no ads. Premium adds the full sound engine with pitch, EQ gain, limiter and visuals."),
        ("Which audio formats should an offline player support?", "At least MP3 for everyday files and FLAC and WAV for lossless. VibeDeck Player plays all three.")],
-  related=["/offline-music-player-iphone/", "/flac-player-android/", "/vibedeck-vs-vox/"],
+  related=["/offline-music-player-iphone/", "/flac-player-android/", "/music-player-pitch-tempo/"],
   cta="The offline player built around the checklist. Free, no ads."))
 PAGES.append(dict(path="/studio/", crumb="VibeDeck Studio",
   title="Slowed + Reverb, Nightcore & Loop Maker | VibeDeck Player",
@@ -734,36 +720,6 @@ PAGES.append(dict(path="/studio/", crumb="VibeDeck Studio",
        ("When is VibeDeck Studio available?", "It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.")],
   related=["/music-player-pitch-tempo/", "/slow-down-song/", "/change-song-key-iphone/"],
   cta="Get VibeDeck Player now and Studio lands in your next update."))
-PAGES.append(dict(path="/vibedeck-vs-vox/", crumb="VibeDeck Player vs VOX",
-  title="VibeDeck Player vs VOX: Offline Player Comparison",
-  desc="VibeDeck Player vs VOX: an honest comparison of two offline music players. Pitch and tempo, Android support, pricing and when to pick which.",
-  og_desc="VOX vs VibeDeck Player: which offline music player fits you? Honest comparison of features, platforms and pricing.",
-  tag="Compare <span class=\"dim\">/ VOX alternative</span>", h1="Two offline players. Different strengths.", h1_sub="VibeDeck Player vs VOX: an honest comparison",
-  lede="VOX by Coppertino is the established offline music player on iPhone: polished, reliable, Apple-only. VibeDeck Player is the newer alternative built around one thing VOX does not do: real-time pitch and tempo control. Here is the honest breakdown.",
-  visual=("b-eq", "VibeDeck Player sound controls compared with VOX", "card"), ios=True, android=True,
-  statement="This is not a hit piece. VOX is a good player, and if your whole life is inside the Apple ecosystem and you never touch pitch controls, it will serve you well. VibeDeck Player exists for the listeners VOX leaves out: people who want to change the key and speed of their music, people on Android, and people who prefer paying once instead of subscribing forever.",
-  features_h2="When to choose which",
-  features=[("Pick VOX if", "You are all-in on Apple devices, want a mature player with years of polish, and never need to change a song's key or speed."),
-            ("Pick VibeDeck Player if", "You sing, play, dance or DJ and want pitch and tempo tools; you use Android; or you want a lifetime license instead of a subscription."),
-            ("Try both", "Both are free to start. Install each, load the same tracks, and keep the one that fits how you listen.")],
-  extra=prose_section(VOX_TABLE, "comparison") + f'''
-<section class="section" id="premium" aria-labelledby="premium-title">
-  <div class="wrap">
-    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Pricing</p><h2 class="h2" id="premium-title">VibeDeck Premium pricing</h2></div><p class="lede">The core player is free with no ads. Premium unlocks the full sound engine: pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.</p></div>
-    {plans_html()}
-  </div>
-</section>''',
-  faq_h2="VOX alternative FAQ",
-  faq=[("Is VibeDeck Player a good alternative to VOX?", "If you want real-time pitch and tempo control, Android support, or a one-time lifetime license, yes. VOX remains a strong pick if you live entirely inside the Apple ecosystem and do not need pitch tools."),
-       ("What does VibeDeck Player do that VOX does not?", "VibeDeck Player shifts pitch up to plus or minus 8 semitones and changes tempo independently in real time, runs on Android as well as iPhone, and offers a lifetime Premium license. VOX does not include built-in pitch or tempo control."),
-       ("Do both players work offline without an account?", "Yes. Both VOX and VibeDeck Player play your local files offline with no account required and no ads interrupting playback."),
-       ("Can I switch from VOX to VibeDeck Player?", "Yes. Both play the same local files, so your library moves over as-is. No conversion, no re-buying anything."),
-       ("Does VibeDeck Player work on Android?", "Yes, unlike VOX it runs on Android as well as iPhone and iPad."),
-       ("How much does VibeDeck Premium cost?", "On the App Store VibeDeck Premium costs $2.99 per month, $19.99 per year or $49.99 once for a lifetime license. On Google Play the current Premium price is shown in the store listing. Prices may vary by region; the App Store and Google Play listings show the current local price."),
-       ("Is there a free version?", "Yes, the core player is free with no ads on both platforms.")],
-  related=["/music-player-pitch-tempo/", "/offline-music-player-iphone/", "/offline-music-player-android/"],
-  cta="Try the VOX alternative with pitch and tempo control. Free, no ads, no account."))
-
 # ---------------------------------------------------------------- LEGAL / SUPPORT
 LEGAL = [
  ("support", "/support.html", "Support", "Support and Help | VibeDeck Player",
