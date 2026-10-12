@@ -77,10 +77,6 @@ A: It depends on what you need. If you want an offline music player with no ads 
 
 A: Yes. VibeDeck Player is on the App Store for iPhone and iPad (iOS 17.0 and later) and on Google Play for Android.
 
-**Q: Is VibeDeck Player a good alternative to VOX?**
-
-A: If you want real-time pitch and tempo control, Android support, or a one-time lifetime license, yes. VOX remains a strong pick if you live entirely inside the Apple ecosystem and do not need pitch tools.
-
 **Q: What makes VibeDeck Player different?**
 
 A: Real-time pitch shifting up to plus or minus 8 semitones, independent tempo control, EQ with gain, waveform scrubbing with BPM readout, and the audio-reactive AURA visualizer, all offline on your own files.
@@ -384,31 +380,31 @@ A: 24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck mus
 A: It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.
 
 
-## VibeDeck Player vs VOX: Offline Player Comparison
+## VOX alternative with pitch and tempo control
 
 URL: https://vibedeckplayer.app/vibedeck-vs-vox/
 
-VibeDeck Player vs VOX: an honest comparison of two offline music players. Pitch and tempo, Android support, pricing and when to pick which.
+VibeDeck Player is a VOX alternative with real-time pitch and tempo control, Android support and no ads. Plays your FLAC, MP3 and WAV offline. Free.
 
-**Q: Is VibeDeck Player a good alternative to VOX?**
+**Q: Is VibeDeck Player a good VOX alternative?**
 
-A: If you want real-time pitch and tempo control, Android support, or a one-time lifetime license, yes. VOX remains a strong pick if you live entirely inside the Apple ecosystem and do not need pitch tools.
+A: Yes, if you want more than playback. VibeDeck Player plays your local FLAC, MP3 and WAV offline and adds real-time pitch and tempo control, Android support and a lifetime Premium option.
 
 **Q: What does VibeDeck Player do that VOX does not?**
 
 A: VibeDeck Player shifts pitch up to plus or minus 8 semitones and changes tempo independently in real time, runs on Android as well as iPhone, and offers a lifetime Premium license. VOX does not include built-in pitch or tempo control.
 
-**Q: Do both players work offline without an account?**
+**Q: Does VibeDeck Player work offline without an account?**
 
-A: Yes. Both VOX and VibeDeck Player play your local files offline with no account required and no ads interrupting playback.
+A: Yes. It plays your local files fully offline, with no account and no ads interrupting playback.
 
-**Q: Can I switch from VOX to VibeDeck Player?**
+**Q: How do I switch from VOX to VibeDeck Player?**
 
-A: Yes. Both play the same local files, so your library moves over as-is. No conversion, no re-buying anything.
+A: Install VibeDeck Player, import the same files (from Files or iCloud Drive on iPhone, from your phone storage on Android) and press play. Your library moves over as-is, with no conversion.
 
 **Q: Does VibeDeck Player work on Android?**
 
-A: Yes, unlike VOX it runs on Android as well as iPhone and iPad.
+A: Yes. Unlike VOX, VibeDeck Player runs on Android as well as iPhone and iPad.
 
 **Q: How much does VibeDeck Premium cost?**
 
