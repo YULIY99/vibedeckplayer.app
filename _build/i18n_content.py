@@ -61,7 +61,7 @@ PAGES = [
   ("無料で使えますか？", "ダウンロードは無料で広告もありませんが、キー変更はVibeDeck Premiumの機能です。プランと価格はApp Store・Google Playで確認できます。"),
   ("Androidでも使えますか？", "はい。ピッチとテンポの変更はAndroid版でも使えます。ループを作るStudioは現在iPhone・iPad版のみです。"),
  ],
- "related": [("/ja/", "ホーム", "オフライン音楽プレーヤー", "FLAC・MP3・WAVを広告なしで。VibeDeckの概要。"), ("/change-song-key-iphone/", "English", "Change the key of a song on iPhone", "英語版のキー変更ガイド。")],
+ "related": [("/ja/", "ホーム", "オフライン音楽プレーヤー", "FLAC・MP3・WAVを広告なしで。VibeDeckの概要。"), ("/ja/tempo-henkou/", "テンポ変更", "音程を変えずにテンポを変える", "耳コピや練習に。キーはそのまま、曲をゆっくり再生。"), ("/change-song-key-iphone/", "English", "Change the key of a song on iPhone", "英語版のキー変更ガイド。")],
  "cta_h2": "VibeDeck Playerを|ダウンロード", "cta_lede": "どの曲も、自分のキーで。オフライン、広告なし。",
  "store_small": ("App Storeから", "Google Playで"), "store_strong": ("ダウンロード", "手に入れよう"),
  "aria": ("iPhone・iPad用VibeDeck PlayerをApp Storeでダウンロード", "Android用VibeDeck PlayerをGoogle Playで入手"),
@@ -138,3 +138,10 @@ PAGES = [
  "skip": "Pular para o conteúdo", "home_aria": "Início do VibeDeck Player", "dl": "Baixar",
 },
 ]
+
+# Stage 5c guide pages: shared UI strings come from the language home page.
+from i18n_guides import GUIDES
+_SHARED = ("lang", "og", "play_hl", "note", "cta_h2", "store_small", "store_strong", "aria", "foot", "foot_links", "foot_lang", "foot_base", "skip", "home_aria", "dl")
+for _g in GUIDES:
+    _base = next(_p for _p in PAGES if _p["path"] == _g["home"])
+    PAGES.append({**{_k: _base[_k] for _k in _SHARED}, **_g})
