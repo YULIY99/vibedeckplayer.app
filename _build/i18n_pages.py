@@ -5,6 +5,14 @@ Run: python3 _build/i18n_pages.py"""
 import os, re, json, html, sys
 sys.path.insert(0, os.path.dirname(__file__))
 from i18n_content import PAGES, APPLE
+from i18n_extra import EXTRA
+for _p in PAGES:
+    _x = EXTRA.get(_p["path"])
+    if _x:
+        _p["prose"] = _p["prose"].split("<h2>VibeDeck Studio")[0]
+        _p["faq"] = list(_p["faq"]) + _x["faq_more"]
+        _p["related"] = list(_p["related"]) + _x["related_more"]
+        _p.update({k: v for k, v in _x.items() if k not in ("faq_more", "related_more")})
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://vibedeckplayer.app"
 E = lambda s: html.escape(s, quote=True)
@@ -65,6 +73,65 @@ def ld(p, home):
          {"@type": "BreadcrumbList", "itemListElement": crumbs},
          {"@type": "FAQPage", "inLanguage": p["lang"], "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}} for q, a in p["faq"]]}]
     return json.dumps({"@context": "https://schema.org", "@graph": g}, indent=1, ensure_ascii=False)
+def extra_top(p, hs):
+    if "features" not in p: return ""
+    f = "".join(f'<li class="panel glass" data-reveal style="--rd:{(i%3)*90}ms"><span class="num" aria-hidden="true">0{i+1}</span><p class="tag">{E(t)}</p><h3{hs}>{W(h)}</h3><p>{E(d)}</p></li>' for i, (t, h, d) in enumerate(p["features"]))
+    st = "".join(f'<li class="panel glass" data-reveal style="--rd:{(i%3)*90}ms"><span class="num" aria-hidden="true">0{i+1}</span><h3{hs}>{W(h)}</h3><p>{E(d)}</p></li>' for i, (h, d) in enumerate(p["studio"]))
+    why = "".join(f"<p>{x}</p>" for x in p["why"])
+    chips = "".join(f"<li>{E(c)}</li>" for c in p["chips"])
+    return f'''
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck <span class="dim">/ {len(p["features"]):02d}</span></p><h2 class="h2" id="more-title"{hs}>{W(p["features_h2"])}</h2></div></div>
+    <ul class="panels">{f}</ul>
+  </div>
+</section>
+
+<section class="section" id="studio" aria-labelledby="studio-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Studio <span class="dim">/ iPhone · iPad</span></p><h2 class="h2" id="studio-title"{hs}>{W(p["studio_h2"])}</h2></div><p class="lede">{E(p["studio_lede"])}</p></div>
+    <ul class="panels">{st}</ul>
+  </div>
+</section>
+
+<section class="section" id="why" aria-labelledby="why-title">
+  <div class="wrap duo duo--rev">
+    <div class="duo-copy prose" data-reveal>
+      <p class="tag eyebrow">VibeDeck</p>
+      <h2 id="why-title"{hs}>{W(p["why_h2"])}</h2>
+      {why}
+    </div>
+    <div class="duo-media media-solo">
+      <div class="halo" aria-hidden="true"></div>
+      <div class="phone " data-parallax="0.05">{pic("b-pitch", p["alt"], True)}</div>
+    </div>
+  </div>
+</section>
+
+<section class="section" aria-labelledby="specs-title">
+  <div class="wrap specs" data-reveal>
+    <h2 id="specs-title">{E(p["specs_h2"])}</h2>
+    <ul class="chips">{chips}</ul>
+  </div>
+</section>
+'''
+def extra_bottom(p, hs):
+    if "plans" not in p: return ""
+    n = len(p["plans"])
+    plans = "".join(f'<li class="plan glass{" plan--hi" if i == n-1 else ""}" data-reveal style="--rd:{i*90}ms">' + (f'<span class="badge mono">{E(p["plan_badge"])}</span>' if i == n-1 else "") + f'<h3{hs}>{E(t)}</h3><p>{E(d)}</p></li>' for i, (t, d) in enumerate(p["plans"]))
+    rows = "".join(f'<tr><th scope="row">{E(a)}</th><td>{E(b)}</td></tr>' for a, b in p["glance"])
+    return f'''
+<section class="section" id="premium" aria-labelledby="premium-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><p class="tag eyebrow">Premium</p><h2 class="h2" id="premium-title">VibeDeck Premium</h2></div><p class="lede">{E(p["premium_lede"])}</p></div>
+    <ul class="plans">{plans}</ul><p class="note">{E(p["premium_note"])}</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap"><div class="glass box prose" data-reveal><h2{hs}>{E(p["glance_h2"])}</h2><div class="table-wrap"><table><tbody>{rows}</tbody></table></div></div></div>
+</section>
+'''
 def page(p):
     home = p.get("home", p["path"]); group = clusters()[p["en"]]; url = SITE + p["path"]
     n, ws, w, h, sizes = IMG[p["img"]]
@@ -158,9 +225,9 @@ def page(p):
   </div>
 </section>
 
-<section class="section">
+{extra_top(p, hs)}<section class="section">
   <div class="wrap"><div class="glass box prose" data-reveal>{p["prose"]}</div></div>
-</section>
+</section>{extra_bottom(p, hs)}
 <section class="section" id="faq" aria-labelledby="faq-title">
   <div class="wrap">
     <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ {len(p["faq"]):02d}</span></p><h2 class="h2" id="faq-title"{hs}>{W(p["faq_h2"])}</h2></div></div>
