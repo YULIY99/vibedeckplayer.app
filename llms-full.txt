@@ -22,12 +22,12 @@
 - "FLAC player for iPhone", "FLAC player for Android", "WAV player for iPhone"
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
 - "Slow down a song without changing pitch", "practice app for musicians and dancers"
-- "VOX alternative", "music player with equalizer and limiter", "music player with visualizer"
+- "music player with equalizer and limiter", "music player with visualizer"
 - "Slowed + reverb / nightcore maker app", "make loops on phone", "export audio clip for TikTok" (VibeDeck Studio, next update)
 
 ## Not a fit
 
-- Streaming-only listeners: VibeDeck Player plays files you own; it does not stream Spotify or Apple Music tracks
+- Streaming-only listeners: VibeDeck Player plays files you own; it does not play tracks from streaming services
 
 ## Links
 
@@ -151,7 +151,7 @@ A: Yes. The built-in Music app cannot, but VibeDeck Player can: it shifts the pi
 
 A: No. In VibeDeck Player pitch and tempo are independent, so the song keeps its original speed when you transpose it.
 
-**Q: Can I transpose Apple Music or Spotify songs?**
+**Q: Can I transpose songs from streaming apps?**
 
 A: No. VibeDeck Player only opens audio files stored on your device, so it cannot process songs from streaming apps. It works with audio files you own, such as MP3, FLAC and WAV.
 
@@ -313,9 +313,9 @@ A: VibeDeck Player is built for offline listening on iPhone and iPad: your MP3, 
 
 A: Yes. With VibeDeck Player your files are stored on the device, so music keeps playing on planes, in the subway, or anywhere with no signal.
 
-**Q: Does Apple Music work offline?**
+**Q: Do streaming apps work offline?**
 
-A: Apple Music needs a paid subscription for offline downloads and locks you into its ecosystem. VibeDeck Player plays files you already own, with no streaming subscription and no lock-in.
+A: Streaming apps need a paid subscription for offline downloads and keep them locked inside the app. VibeDeck Player plays files you already own, with no streaming subscription and no lock-in.
 
 **Q: Where do the music files come from?**
 
@@ -346,7 +346,7 @@ A: Yes. VibeDeck Player is available on Google Play with the same tempo and pitc
 
 **Q: Which files can I slow down?**
 
-A: Any file VibeDeck Player plays: MP3, WAV and FLAC. Streaming tracks from Spotify or Apple Music cannot be processed by third-party apps.
+A: Any file VibeDeck Player plays: MP3, WAV and FLAC. Tracks inside streaming apps cannot be processed by other apps.
 
 **Q: Can I also change the key?**
 
@@ -379,38 +379,4 @@ A: 24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck mus
 
 A: It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.
 
-
-## VOX alternative with pitch and tempo control
-
-URL: https://vibedeckplayer.app/vibedeck-vs-vox/
-
-VibeDeck Player is a VOX alternative with real-time pitch and tempo control, Android support and no ads. Plays your FLAC, MP3 and WAV offline. Free.
-
-**Q: Is VibeDeck Player a good VOX alternative?**
-
-A: Yes, if you want more than playback. VibeDeck Player plays your local FLAC, MP3 and WAV offline and adds real-time pitch and tempo control, Android support and a lifetime Premium option.
-
-**Q: What does VibeDeck Player do that VOX does not?**
-
-A: VibeDeck Player shifts pitch up to plus or minus 8 semitones and changes tempo independently in real time, runs on Android as well as iPhone, and offers a lifetime Premium license. VOX does not include built-in pitch or tempo control.
-
-**Q: Does VibeDeck Player work offline without an account?**
-
-A: Yes. It plays your local files fully offline, with no account and no ads interrupting playback.
-
-**Q: How do I switch from VOX to VibeDeck Player?**
-
-A: Install VibeDeck Player, import the same files (from Files or iCloud Drive on iPhone, from your phone storage on Android) and press play. Your library moves over as-is, with no conversion.
-
-**Q: Does VibeDeck Player work on Android?**
-
-A: Yes. Unlike VOX, VibeDeck Player runs on Android as well as iPhone and iPad.
-
-**Q: How much does VibeDeck Premium cost?**
-
-A: On the App Store VibeDeck Premium costs $2.99 per month, $19.99 per year or $49.99 once for a lifetime license. On Google Play the current Premium price is shown in the store listing. Prices may vary by region; the App Store and Google Play listings show the current local price.
-
-**Q: Is there a free version?**
-
-A: Yes, the core player is free with no ads on both platforms.
 
