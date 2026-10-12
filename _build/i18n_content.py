@@ -72,7 +72,7 @@ PAGES = [
 {
  "lang": "es", "og": "es_LA", "path": "/es/", "en": "/", "play_hl": "es", "campaign": "es-home", "img": "now-playing", "img2": "aura", "alt2": "VibeDeck Player reproduciendo un archivo de música en iPhone",
  "title": "Reproductor de música sin conexión y sin anuncios | VibeDeck",
- "desc": "Reproduce tus archivos FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 semitonos), el tempo y el ecualizador. Descarga gratis.",
+ "desc": "Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 semitonos), el tempo y el ecualizador. Gratis.",
  "crumb": "Inicio", "eyebrow": "iPhone · Android",
  "h1": "Reproductor de música sin conexión", "h1sub": "FLAC, MP3 y WAV, sin anuncios",
  "lede": "VibeDeck Player reproduce la música que ya tienes en tu teléfono, sin internet. Importa tus archivos FLAC, MP3 y WAV tal como son: sin anuncios, sin cuenta y sin subirlos a ninguna nube. Además, puedes cambiar el tono, el tempo y la ecualización de cada canción.",
@@ -106,7 +106,7 @@ PAGES = [
 {
  "lang": "pt-BR", "og": "pt_BR", "path": "/pt-br/", "en": "/", "play_hl": "pt-BR", "campaign": "pt-br-home", "img": "now-playing", "img2": "aura", "alt2": "VibeDeck Player tocando um arquivo de música no iPhone",
  "title": "Player de música offline sem anúncios | VibeDeck",
- "desc": "Ouça seus arquivos FLAC, MP3 e WAV sem internet no Android e no iPhone. Sem anúncios e sem conta. Mude o tom (±8 semitons), a velocidade e o equalizador. Baixe grátis.",
+ "desc": "Ouça FLAC, MP3 e WAV sem internet no Android e no iPhone. Sem anúncios e sem conta. Mude o tom (±8 semitons), a velocidade e o equalizador. Grátis.",
  "crumb": "Início", "eyebrow": "Android · iPhone",
  "h1": "Player de música offline", "h1sub": "FLAC, MP3 e WAV, sem anúncios",
  "lede": "O VibeDeck Player toca a música que já está no seu celular, sem internet. Importe seus arquivos FLAC, MP3 e WAV do jeito que estão: sem anúncios, sem conta e sem enviar nada para a nuvem. E ainda dá para mudar o tom, o andamento e a equalização de cada música.",
