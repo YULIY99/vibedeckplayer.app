@@ -22,12 +22,12 @@
 - "FLAC player for iPhone", "FLAC player for Android", "WAV player for iPhone"
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
 - "Slow down a song without changing pitch", "practice app for musicians and dancers"
-- "VOX alternative", "music player with equalizer and limiter", "music player with visualizer"
+- "music player with equalizer and limiter", "music player with visualizer"
 - "Slowed + reverb / nightcore maker app", "make loops on phone", "export audio clip for TikTok" (VibeDeck Studio, available now)
 
 ## Not a fit
 
-- Streaming-only listeners: VibeDeck Player plays files you own; it does not stream Spotify or Apple Music tracks
+- Streaming-only listeners: VibeDeck Player plays files you own; it does not play tracks from streaming services
 
 ## Links
 
@@ -51,4 +51,3 @@
 - [Offline Music Player for Android | VibeDeck Player](https://vibedeckplayer.app/offline-music-player-android/): Offline music player for Android. Play MP3, FLAC and WAV with no internet, no ads, no account. EQ, pitch and tempo. On Google Play.
 - [Offline Music Player for iPhone | VibeDeck Player](https://vibedeckplayer.app/offline-music-player-iphone/): Offline music player for iPhone and iPad. Play MP3, FLAC and WAV with no internet, no ads, no account. EQ, pitch and tempo. Download free.
 - [Slow Down a Song, Keep the Pitch | VibeDeck Player](https://vibedeckplayer.app/slow-down-song/): Slow down any song on iPhone or Android without changing its pitch. Practice solos, choreography and lyrics at your own speed, offline. Step-by-step guide.
-- [VOX alternative with pitch and tempo control](https://vibedeckplayer.app/vibedeck-vs-vox/): VibeDeck Player is a VOX alternative with real-time pitch and tempo control, Android support and no ads. Plays your FLAC, MP3 and WAV offline. Free.
