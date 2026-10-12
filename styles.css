@@ -261,6 +261,7 @@ thead th{font-family:var(--mono);font-size:11px;letter-spacing:.2em;text-transfo
 tbody tr:last-child td{border-bottom:0}
 td:first-child{color:var(--text)}
 td:last-child{color:var(--ice)}
+@media (max-width:640px){table{min-width:0;font-size:14px}th,td{padding:12px 14px}tbody tr:has(th[scope=row]){display:block}tbody th[scope=row]{display:block;border-bottom:0;padding-bottom:2px}tbody th[scope=row]+td{display:block;padding-top:0}table:has(td[data-label]) thead{display:none}table:has(td[data-label]) tr{display:block;padding:12px 14px;border-bottom:1px solid var(--line)}tbody tr:has(td[data-label]):last-child{border-bottom:0}table:has(td[data-label]) td{display:block;padding:2px 0;border:0}table:has(td[data-label]) td:first-child{font-weight:600;padding-bottom:4px}td[data-label]::before{content:attr(data-label) ": ";color:var(--muted)}}
 
 /* ---------- pricing ---------- */
 .plans{display:grid;gap:16px}
