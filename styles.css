@@ -96,6 +96,15 @@ ul,ol{margin:0;padding:0;list-style:none}
 .store--primary{background:linear-gradient(180deg,#eef6fb,#cfe2ee);color:#04070d;border-color:transparent}
 .store--primary small{color:#2b3e4c}
 .store--primary:hover{border-color:transparent}
+/* official store badges (Apple / Google artwork, unmodified) */
+.store-badge{display:inline-block;line-height:0;border-radius:10px;transition:transform .5s var(--ease),box-shadow .5s var(--ease)}
+.store-badge:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(143,211,240,.18)}
+.store-badge:focus-visible{outline:2px solid var(--ice);outline-offset:3px}
+.store-badge img{display:block;height:48px;width:auto}
+.stores:has(.store-badge){align-items:center}
+@media (max-width:400px){.cta .stores:has(.store-badge){gap:8px}.cta .store-badge img{height:42px}}
+.foot-legal{margin-top:16px;font-size:11px;line-height:1.5;color:var(--muted);max-width:72ch}
+
 
 /* ---------- hero ---------- */
 .hero{position:relative;overflow:hidden;padding:48px 0 0}
