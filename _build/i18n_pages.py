@@ -29,7 +29,7 @@ def pic(k, alt, lazy):
             f'<img src="/assets/img/{n}-{w}.webp" alt="{E(alt)}" width="{w}" height="{h}" {extra}></picture>')
 def play(p): return f'https://play.google.com/store/apps/details?id=com.vibedeck.player&amp;hl={p["play_hl"]}&amp;referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3D{p["campaign"]}'
 def stores(p):
-    return (f'<div class="stores"><a class="store store--primary" href="{APPLE}" aria-label="{E(p["aria"][0])}">{APPLE_SVG}<span><small>{E(p["store_small"][0])}</small><strong>{E(p["store_strong"][0])}</strong></span></a>'
+    return (f'<div class="stores"><a class="store store--primary" href="{APPLE}?pt=129091862&amp;ct={p["campaign"]}&amp;mt=8" aria-label="{E(p["aria"][0])}">{APPLE_SVG}<span><small>{E(p["store_small"][0])}</small><strong>{E(p["store_strong"][0])}</strong></span></a>'
             f'<a class="store" href="{play(p)}" aria-label="{E(p["aria"][1])}">{PLAY_SVG}<span><small>{E(p["store_small"][1])}</small><strong>{E(p["store_strong"][1])}</strong></span></a></div>')
 def clusters():
     """English URL -> {lang: url} for every localized page."""
