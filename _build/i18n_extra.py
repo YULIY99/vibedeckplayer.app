@@ -30,8 +30,8 @@ EXTRA = {
  "faq_more": [("アカウント登録は必要ですか？", "いいえ。登録もログインも不要です。ファイルを一度読み込めば、再生、EQ、キー、テンポはすべて端末内で動作し、機内モードでも使えます。"),
    ("曲のキーを変えるには？", "曲を開き、メイン画面のPitch / Filterスライダーを動かします。キーは±8半音の範囲でリアルタイムに変わり、テンポは別に調整できます。Resetで元のキーに戻ります。元のファイルは変更されません。ピッチとフィルターはVibeDeck Premiumの機能です。"),
    ("VibeDeck Premiumでは何が使えますか？", "ピッチとフィルター、ゲイン付きEQ、リミッター、VibeMod、TONE、AURA、スマートメタデータなど、すべてのサウンド機能です。月額、年額、買い切りから選べます。")],
- "related_more": [("/flac-player-iphone/", "English", "iPhone用FLACプレーヤー（英語）", "FLACをiPhone・iPadでオフライン再生。EQ、ピッチ、テンポにも対応。"),
-   ("/slow-down-song/", "English", "ピッチを変えずに曲を遅くする（英語）", "速いフレーズや振り付けを、同じキーのまま自分のペースで練習。")],
+ "related_more": [("/ja/flac-player/", "FLAC", "iPhoneで使えるFLACプレーヤー", "FLACをiPhone・iPadでオフライン再生。EQ、ピッチ、テンポにも対応。"),
+   ("/ja/tempo-henkou/", "テンポ変更", "音程を変えずにテンポを変える", "速いフレーズや振り付けを、同じキーのまま自分のペースで練習。")],
 },
 "/es/": {
  "features_h2": "Todo el sonido en una sola pantalla",
@@ -64,7 +64,8 @@ EXTRA = {
    ("¿Cómo cambio el tono de una canción?", "Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 semitonos, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck Premium."),
    ("¿Qué incluye VibeDeck Premium?", "Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida.")],
  "related_more": [("/change-song-key-iphone/", "English", "Cambiar el tono en iPhone (en inglés)", "Transporta una canción por semitonos para tu voz o tu instrumento."),
-   ("/flac-player-android/", "English", "Reproductor FLAC para Android (en inglés)", "FLAC sin pérdidas, sin conexión y sin anuncios, con ecualizador, tono y tempo.")],
+   ("/es/reproductor-flac/", "FLAC", "Reproductor FLAC para iPhone y Android", "FLAC sin pérdida, sin conexión y sin anuncios, con ecualizador, tono y tempo."),
+   ("/es/reproductor-mp3-sin-anuncios/", "Sin anuncios", "Reproductor MP3 sin anuncios", "Tus MP3 sin internet, sin cuenta y sin publicidad.")],
 },
 "/pt-br/": {
  "features_h2": "Todo o som em uma só tela",
@@ -96,7 +97,8 @@ EXTRA = {
  "faq_more": [("Preciso criar uma conta?", "Não. Não há cadastro nem login. Você importa seus arquivos uma vez e a reprodução, o equalizador, o tom e o andamento funcionam no aparelho, até no modo avião."),
    ("Como mudo o tom de uma música?", "Abra a faixa e arraste o controle Pitch / Filter na tela principal. O tom muda em tempo real em até ±8 semitons, o andamento é ajustado separadamente e o Reset volta a música ao tom original. O arquivo nunca é alterado. Tom e filtro fazem parte do VibeDeck Premium."),
    ("O que vem no VibeDeck Premium?", "Todo o motor de som: tom e filtro, equalizador com ganho, limitador, VibeMod, TONE, AURA e Smart Metadata. Você escolhe entre plano mensal, anual ou pagamento único vitalício.")],
- "related_more": [("/offline-music-player-android/", "English", "Player offline para Android (em inglês)", "MP3, FLAC e WAV no celular, sem gastar dados móveis com música."),
+ "related_more": [("/pt-br/player-offline-android/", "Android", "Player de música offline para Android", "MP3, FLAC e WAV no celular, sem gastar dados móveis com música."),
+   ("/pt-br/player-flac-android/", "FLAC", "Player FLAC para Android", "Arquivos sem perda, com equalizador e sem anúncios."),
    ("/slow-down-song/", "English", "Desacelerar sem mudar o tom (em inglês)", "Estude trechos rápidos, coreografias e solos no seu ritmo, no mesmo tom.")],
 },
 }

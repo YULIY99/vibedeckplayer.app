@@ -42,10 +42,9 @@ def stores(p):
     def badge(href, aria, img, alt, w):
         return (f'<a class="store-badge" href="{href}" aria-label="{E(aria)}"><img src="/assets/badges/{img}-{k}.svg" '
                 f'alt="{E(alt)}" width="{w}" height="48" decoding="async"></a>')
-    return ('<div class="stores">'
-            + badge(f'{APPLE}?pt=129091862&amp;ct={p["campaign"]}&amp;mt=8', p["aria"][0], "app-store", p["store_small"][0] + sep + p["store_strong"][0], wa)
-            + badge(play(p), p["aria"][1], "google-play", p["store_small"][1] + sep + p["store_strong"][1], wg)
-            + '</div>')
+    b = [badge(f'{APPLE}?pt=129091862&amp;ct={p["campaign"]}&amp;mt=8', p["aria"][0], "app-store", p["store_small"][0] + sep + p["store_strong"][0], wa),
+         badge(play(p), p["aria"][1], "google-play", p["store_small"][1] + sep + p["store_strong"][1], wg)]
+    return '<div class="stores">' + "".join(b[::-1] if p.get("android") else b) + '</div>'  # own platform first
 def clusters():
     """English URL -> {lang: url} for every localized page."""
     c = {}
