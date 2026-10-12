@@ -13,7 +13,6 @@
 | /offline-music-player-android/ | Offline Music Player for Android – No Ads \| VibeDeck (52) | 153 |
 | /mp3-player-no-ads/ | MP3 Player With No Ads – Offline, No Account \| VibeDeck (55) | 145 |
 | /music-player-pitch-tempo/ | Music Player With Pitch & Tempo Control \| VibeDeck (50) | 151 |
-| /vibedeck-vs-vox/ | VibeDeck vs VOX – Offline Music Player Comparison (49) | 140 |
 | support / privacy / terms | 44–46 | 131–134 |
 
 ## Headings
