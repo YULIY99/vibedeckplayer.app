@@ -141,6 +141,9 @@ PAGES = [
 
 # Stage 5c guide pages: shared UI strings come from the language home page.
 from i18n_guides import GUIDES
+from i18n_defr import HOMES, GUIDES_DEFR
+PAGES += HOMES
+GUIDES = GUIDES + GUIDES_DEFR
 _SHARED = ("lang", "og", "play_hl", "note", "cta_h2", "store_small", "store_strong", "aria", "foot", "foot_links", "foot_lang", "foot_base", "skip", "home_aria", "dl")
 for _g in GUIDES:
     _base = next(_p for _p in PAGES if _p["path"] == _g["home"])

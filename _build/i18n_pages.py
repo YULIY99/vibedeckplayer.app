@@ -18,7 +18,7 @@ SITE = "https://vibedeckplayer.app"
 E = lambda s: html.escape(s, quote=True)
 TPL = open(os.path.join(ROOT, "change-song-key-iphone/index.html"), encoding="utf-8").read()
 # Official store badges (unmodified artwork), one pair per language. Widths at 48px height.
-BADGE = {"ja": ("ja", 131, 162), "es": ("es", 144, 162), "pt-BR": ("pt-br", 144, 162)}
+BADGE = {"ja": ("ja", 131, 162), "es": ("es", 144, 162), "pt-BR": ("pt-br", 144, 162), "de": ("de", 144, 162), "fr": ("fr", 152, 162)}
 WAVE = re.search(r'<div class="wave" aria-hidden="true">.*?</div>', TPL, re.S).group(0)
 IMG = {"now-playing": ("vibedeck-offline-music-player-iphone-now-playing", (400, 600, 800), 600, 1300, "(min-width: 1024px) 288px, 76vw"),
        "b-pitch": ("vibedeck-pitch-control-iphone", (360, 540, 720), 540, 1170, "(min-width: 1024px) 288px, 76vw"),
@@ -26,8 +26,10 @@ IMG = {"now-playing": ("vibedeck-offline-music-player-iphone-now-playing", (400,
        "aura": ("vibedeck-flac-player-iphone-aura", (400, 600, 800), 600, 1300, "(min-width: 1024px) 288px, 76vw")}
 UI = {"ja": {"logo": "VibeDeck Playerのロゴ", "overview": "概要", "company": "VibeDeckについて", "crumbs": "パンくずリスト", "en": "（英語）"},
       "es": {"logo": "Logotipo de VibeDeck Player", "overview": "Resumen", "company": "Información de VibeDeck", "crumbs": "Ruta de navegación", "en": " (en inglés)"},
-      "pt-BR": {"logo": "Logotipo do VibeDeck Player", "overview": "Visão geral", "company": "Institucional", "crumbs": "Trilha de navegação", "en": " (em inglês)"}}
-LANG_NAMES = [("en", "English"), ("ja", "日本語"), ("es", "Español"), ("pt-BR", "Português")]
+      "pt-BR": {"logo": "Logotipo do VibeDeck Player", "overview": "Visão geral", "company": "Institucional", "crumbs": "Trilha de navegação", "en": " (em inglês)"},
+      "de": {"logo": "Logo von VibeDeck Player", "overview": "Überblick", "company": "Über VibeDeck", "crumbs": "Brotkrumen-Navigation", "en": " (auf Englisch)"},
+      "fr": {"logo": "Logo de VibeDeck Player", "overview": "Aperçu", "company": "À propos de VibeDeck", "crumbs": "Fil d’Ariane", "en": " (en anglais)"}}
+LANG_NAMES = [("en", "English"), ("ja", "日本語"), ("es", "Español"), ("pt-BR", "Português"), ("de", "Deutsch"), ("fr", "Français")]
 def W(x): return E(x).replace("|", "<wbr>")
 def srcset(k, ext): n, ws, *_ = IMG[k]; return ", ".join(f"/assets/img/{n}-{w}.{ext} {w}w" for w in ws)
 def pic(k, alt, lazy):

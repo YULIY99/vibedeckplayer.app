@@ -102,3 +102,6 @@ EXTRA = {
    ("/slow-down-song/", "English", "Desacelerar sem mudar o tom (em inglês)", "Estude trechos rápidos, coreografias e solos no seu ritmo, no mesmo tom.")],
 },
 }
+
+from i18n_defr import EXTRA_DEFR
+EXTRA.update(EXTRA_DEFR)
