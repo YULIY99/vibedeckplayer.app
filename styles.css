@@ -19,7 +19,7 @@
 @media (min-width:768px){:root{--wrap:min(1200px,100% - 80px);--sec:144px}}
 
 *,*::before,*::after{box-sizing:border-box}
-html{-webkit-text-size-adjust:100%;scroll-padding-top:96px}
+html{-webkit-text-size-adjust:100%;scroll-padding-top:24px}
 body{
   margin:0;min-width:320px;color:var(--text);font-family:var(--sans);font-size:16px;line-height:1.6;
   background:
@@ -67,14 +67,14 @@ ul,ol{margin:0;padding:0;list-style:none}
 }
 
 /* ---------- header ---------- */
-.site-header{position:sticky;top:0;z-index:50;border-bottom:1px solid transparent;transition:border-color .6s var(--ease),background-color .6s var(--ease)}
+.site-header{position:relative;z-index:50;border-bottom:1px solid transparent;transition:border-color .6s var(--ease),background-color .6s var(--ease)}
 .site-header::before{content:"";position:absolute;inset:0;z-index:-1;background:rgba(4,7,13,.62);-webkit-backdrop-filter:blur(20px) saturate(140%);backdrop-filter:blur(20px) saturate(140%)}
 .site-header.is-scrolled{border-bottom-color:var(--line)}
 .header-wrap{display:grid;grid-template-columns:1fr auto;grid-template-areas:"brand dl" "nav nav";align-items:center;column-gap:16px;padding-top:12px}
 .brand{display:inline-flex;align-items:center;gap:12px}
 .brand img{width:32px;height:32px;border-radius:10px;border:1px solid var(--line-2)}
 .brand-name{font-weight:600;font-size:16px;letter-spacing:-.01em}
-.nav{display:flex;gap:24px;overflow-x:auto;scrollbar-width:none;padding:4px 0 4px}
+.nav{display:flex;gap:24px;overflow-x:auto;scrollbar-width:none;padding:4px 0 4px;margin-top:12px}
 .nav::-webkit-scrollbar{display:none}
 .nav a{position:relative;color:var(--soft);padding:8px 0;white-space:nowrap;transition:color .4s var(--ease)}
 .nav a::after{content:"";position:absolute;left:0;right:0;bottom:2px;height:1px;background:var(--accent);transform:scaleX(0);transform-origin:left;transition:transform .6s var(--ease)}
@@ -83,7 +83,7 @@ ul,ol{margin:0;padding:0;list-style:none}
 .btn-dl{display:inline-flex;align-items:center;gap:8px;height:36px;padding:0 16px;border-radius:999px;border:1px solid rgba(143,211,240,.28);background:rgba(30,159,214,.12);color:var(--ice);font-family:var(--mono);font-size:11px;letter-spacing:.18em;text-transform:uppercase;transition:background-color .5s var(--ease),border-color .5s var(--ease)}
 .btn-dl:hover{background:rgba(30,159,214,.22);border-color:rgba(143,211,240,.5)}
 .brand{grid-area:brand}.btn-dl{grid-area:dl}.nav{grid-area:nav}
-@media (min-width:860px){.header-wrap{grid-template-columns:auto 1fr auto;grid-template-areas:"brand nav dl";min-height:72px;padding:0}.nav{justify-self:end;padding:0;margin-right:32px;gap:32px}}
+@media (min-width:860px){.header-wrap{grid-template-columns:auto 1fr auto;grid-template-areas:"brand nav dl";min-height:72px;padding:0}.nav{justify-self:end;padding:0;margin:0 32px 0 0;gap:32px}}
 
 /* ---------- store buttons ---------- */
 .stores{display:flex;flex-wrap:wrap;gap:12px}
@@ -273,7 +273,7 @@ td:last-child{color:var(--ice)}
 .plan p{margin:0;color:var(--soft);font-size:15px}
 .plan--hi{border-color:rgba(143,211,240,.42);box-shadow:inset 0 1px 0 rgba(255,255,255,.08),0 0 0 1px rgba(30,159,214,.18),0 0 64px -12px rgba(30,159,214,.45)}
 .plan--hi .badge{position:absolute;top:24px;right:24px;padding:4px 10px;border-radius:999px;background:rgba(30,159,214,.16);border:1px solid rgba(143,211,240,.3);color:var(--ice)}
-.note{margin-top:24px;color:var(--muted);font-size:14px}
+.note{margin-top:56px;color:var(--muted);font-size:14px}
 
 /* ---------- FAQ ---------- */
 .faq{max-width:880px;border-top:1px solid var(--line)}
