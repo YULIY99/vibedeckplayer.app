@@ -9,8 +9,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://vibedeckplayer.app"
 E = lambda s: html.escape(s, quote=True)
 TPL = open(os.path.join(ROOT, "change-song-key-iphone/index.html"), encoding="utf-8").read()
-APPLE_SVG = re.search(r'<a class="store store--primary"[^>]*>(<svg.*?</svg>)', TPL, re.S).group(1)
-PLAY_SVG = re.search(r'<a class="store"[^>]*>(<svg.*?</svg>)', TPL, re.S).group(1)
+# Official store badges (unmodified artwork), one pair per language. Widths at 48px height.
+BADGE = {"ja": ("ja", 131, 162), "es": ("es", 144, 162), "pt-BR": ("pt-br", 144, 162)}
 WAVE = re.search(r'<div class="wave" aria-hidden="true">.*?</div>', TPL, re.S).group(0)
 IMG = {"now-playing": ("vibedeck-offline-music-player-iphone-now-playing", (400, 600, 800), 600, 1300, "(min-width: 1024px) 288px, 76vw"),
        "b-pitch": ("vibedeck-pitch-control-iphone", (360, 540, 720), 540, 1170, "(min-width: 1024px) 288px, 76vw"),
@@ -29,8 +29,15 @@ def pic(k, alt, lazy):
             f'<img src="/assets/img/{n}-{w}.webp" alt="{E(alt)}" width="{w}" height="{h}" {extra}></picture>')
 def play(p): return f'https://play.google.com/store/apps/details?id=com.vibedeck.player&amp;hl={p["play_hl"]}&amp;referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3D{p["campaign"]}'
 def stores(p):
-    return (f'<div class="stores"><a class="store store--primary" href="{APPLE}?pt=129091862&amp;ct={p["campaign"]}&amp;mt=8" aria-label="{E(p["aria"][0])}">{APPLE_SVG}<span><small>{E(p["store_small"][0])}</small><strong>{E(p["store_strong"][0])}</strong></span></a>'
-            f'<a class="store" href="{play(p)}" aria-label="{E(p["aria"][1])}">{PLAY_SVG}<span><small>{E(p["store_small"][1])}</small><strong>{E(p["store_strong"][1])}</strong></span></a></div>')
+    k, wa, wg = BADGE[p["lang"]]
+    sep = "" if p["lang"] == "ja" else " "
+    def badge(href, aria, img, alt, w):
+        return (f'<a class="store-badge" href="{href}" aria-label="{E(aria)}"><img src="/assets/badges/{img}-{k}.svg" '
+                f'alt="{E(alt)}" width="{w}" height="48" decoding="async"></a>')
+    return ('<div class="stores">'
+            + badge(f'{APPLE}?pt=129091862&amp;ct={p["campaign"]}&amp;mt=8', p["aria"][0], "app-store", p["store_small"][0] + sep + p["store_strong"][0], wa)
+            + badge(play(p), p["aria"][1], "google-play", p["store_small"][1] + sep + p["store_strong"][1], wg)
+            + '</div>')
 def clusters():
     """English URL -> {lang: url} for every localized page."""
     c = {}
@@ -105,7 +112,7 @@ def page(p):
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" as="image" type="image/avif" imagesrcset="{srcset(p["img"],"avif")}" imagesizes="{sizes}" fetchpriority="high">
-<link rel="stylesheet" href="/styles.css?v=8">
+<link rel="stylesheet" href="/styles.css?v=10">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
 <script type="application/ld+json">
@@ -196,6 +203,7 @@ def page(p):
         <li><a href="mailto:hello@vibedeckplayer.app">hello@vibedeckplayer.app</a></li></ul></nav>
     </div>
     <div class="foot-base mono"><span>© 2026 VibeDeck</span><span>{E(p["foot_base"])}</span></div>
+    <p class="foot-legal">Apple, the Apple logo, iPhone and iPad are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc. Google Play and the Google Play logo are trademarks of Google LLC.</p>
   </div>
 </footer>
 </body>
