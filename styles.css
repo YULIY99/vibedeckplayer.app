@@ -302,7 +302,7 @@ td:last-child{color:var(--ice)}
 
 /* breadcrumbs */
 .crumbs{display:flex;flex-wrap:wrap;gap:8px;color:var(--muted);margin-bottom:32px}
-.crumbs a{color:var(--soft)}
+.crumbs a{color:var(--soft);display:inline-block;padding:5px 0;margin:-5px 0}
 .crumbs a:hover{color:var(--text)}
 .crumbs li+li::before{content:"/";margin-right:8px;color:var(--muted)}
 
@@ -311,7 +311,8 @@ td:last-child{color:var(--ice)}
 .foot-grid{display:grid;gap:40px}
 @media (min-width:860px){.foot-grid{grid-template-columns:1.4fr 1fr 1fr 1fr}}
 .foot-grid h2{font-family:var(--mono);font-size:11px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--muted);margin-bottom:16px}
-.foot-grid ul{display:grid;gap:10px}
+.foot-grid ul{display:grid;gap:4px}
+.foot-grid ul a{display:inline-block;padding:4px 0;min-height:24px}
 .foot-grid a{font-family:var(--mono);font-size:12px;letter-spacing:.06em;color:var(--soft);transition:color .4s var(--ease)}
 .foot-grid a:hover{color:var(--text)}
 .foot-brand p{color:var(--muted);font-size:14px;max-width:34ch;margin-top:16px}
@@ -349,3 +350,6 @@ td:last-child{color:var(--ice)}
 .prices dt{color:var(--muted);font-size:10px}
 .prices dd{margin:0}
 .plan .price--sm{font-size:32px}
+/* tap targets ≥24px */
+.lang-switch a{display:inline-block;padding:5px 2px;margin:-5px 0}
+a.link{display:inline-block;padding:5px 0}
