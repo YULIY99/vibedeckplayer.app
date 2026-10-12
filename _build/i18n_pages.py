@@ -180,7 +180,7 @@ def page(p):
 <link rel="manifest" href="/site.webmanifest">
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" as="image" type="image/avif" imagesrcset="{srcset(p["img"],"avif")}" imagesizes="{sizes}" fetchpriority="high">
-<link rel="stylesheet" href="/styles.css?v=10">
+<link rel="stylesheet" href="/styles.css?v=11">
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=2" defer></script>
 <script type="application/ld+json">
