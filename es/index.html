@@ -4,7 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Reproductor de música sin conexión y sin anuncios | VibeDeck</title>
-<meta name="description" content="Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 semitonos), el tempo y el ecualizador. Gratis.">
+<meta name="description" content="Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.">
 <meta name="robots" content="index, follow, max-image-preview:large">
 <link rel="canonical" href="https://vibedeckplayer.app/es/">
 <link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/">
@@ -21,7 +21,7 @@
 <meta property="og:site_name" content="VibeDeck Player">
 <meta property="og:locale" content="es_LA">
 <meta property="og:title" content="Reproductor de música sin conexión y sin anuncios | VibeDeck">
-<meta property="og:description" content="Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 semitonos), el tempo y el ecualizador. Gratis.">
+<meta property="og:description" content="Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.">
 <meta property="og:url" content="https://vibedeckplayer.app/es/">
 <meta property="og:image" content="https://vibedeckplayer.app/assets/img/vibedeck-og-1200x630.jpg">
 <meta property="og:image:width" content="1200">
@@ -29,7 +29,7 @@
 <meta property="og:image:alt" content="Pantalla de reproducción sin conexión de VibeDeck Player en iPhone">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Reproductor de música sin conexión y sin anuncios | VibeDeck">
-<meta name="twitter:description" content="Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 semitonos), el tempo y el ecualizador. Gratis.">
+<meta name="twitter:description" content="Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.">
 <meta name="twitter:image" content="https://vibedeckplayer.app/assets/img/vibedeck-og-1200x630.jpg">
 <link rel="icon" href="/favicon.ico" sizes="48x48">
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
@@ -50,7 +50,7 @@
    "@id": "https://vibedeckplayer.app/es/#webpage",
    "url": "https://vibedeckplayer.app/es/",
    "name": "Reproductor de música sin conexión y sin anuncios | VibeDeck",
-   "description": "Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 semitonos), el tempo y el ecualizador. Gratis.",
+   "description": "Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.",
    "inLanguage": "es",
    "isPartOf": {
     "@id": "https://vibedeckplayer.app/#website"
@@ -65,11 +65,15 @@
    "name": "VibeDeck Player",
    "applicationCategory": "MusicApplication",
    "operatingSystem": "iOS 17.0 or later, iPadOS, Android",
-   "offers": {
+   "offers": [{
     "@type": "Offer",
     "price": "0",
     "priceCurrency": "USD"
    },
+    {"@type": "Offer", "name": "VibeDeck Premium Mensual (Google Play)", "price": "1.99", "priceCurrency": "USD", "url": "https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=es"},
+    {"@type": "Offer", "name": "VibeDeck Premium Anual (Google Play)", "price": "14.99", "priceCurrency": "USD", "url": "https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=es"},
+    {"@type": "Offer", "name": "VibeDeck Premium De por vida (Google Play)", "price": "19.99", "priceCurrency": "USD", "url": "https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=es"}
+   ],
    "downloadUrl": [
     "https://apps.apple.com/app/vibedeck-player/id6784724920",
     "https://play.google.com/store/apps/details?id=com.vibedeck.player"
@@ -139,7 +143,7 @@
      "name": "¿Cuánto cuesta?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "La descarga es gratis y sin anuncios. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país."
+      "text": "La descarga es gratis y sin anuncios. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD)."
      }
     },
     {
@@ -155,7 +159,7 @@
      "name": "¿Cómo cambio el tono de una canción?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 semitonos, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck Premium."
+      "text": "Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 st, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck Premium."
      }
     },
     {
@@ -163,7 +167,7 @@
      "name": "¿Qué incluye VibeDeck Premium?",
      "acceptedAnswer": {
       "@type": "Answer",
-      "text": "Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida."
+      "text": "Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD)."
      }
     }
    ]
@@ -207,7 +211,7 @@
 <section class="section" aria-labelledby="features-title">
   <div class="wrap">
     <div class="sec-head" data-reveal><div><p class="tag eyebrow">VibeDeck <span class="dim">/ 03</span></p><h2 class="h2" id="features-title">Lo que puedes hacer con VibeDeck</h2></div></div>
-    <ul class="panels"><li class="panel glass" data-reveal style="--rd:0ms"><span class="num" aria-hidden="true">01</span><h3>Sin internet</h3><p>Escucha tu biblioteca en el avión o en zonas sin señal. No gastas datos móviles en música.</p></li><li class="panel glass" data-reveal style="--rd:90ms"><span class="num" aria-hidden="true">02</span><h3>Tu sonido</h3><p>Ecualizador con ganancia, refuerzo de graves, filtro y limitador. Muévete por la canción desde la forma de onda.</p></li><li class="panel glass" data-reveal style="--rd:180ms"><span class="num" aria-hidden="true">03</span><h3>Tono y tempo</h3><p>Cambia el tono hasta ±8 semitonos y el tempo por separado, para cantar, practicar o preparar una sesión.</p></li></ul>
+    <ul class="panels"><li class="panel glass" data-reveal style="--rd:0ms"><span class="num" aria-hidden="true">01</span><h3>Sin internet</h3><p>Escucha tu biblioteca en el avión o en zonas sin señal. No gastas datos móviles en música.</p></li><li class="panel glass" data-reveal style="--rd:90ms"><span class="num" aria-hidden="true">02</span><h3>Tu sonido</h3><p>Ecualizador con ganancia, refuerzo de graves, filtro y limitador. Muévete por la canción desde la forma de onda.</p></li><li class="panel glass" data-reveal style="--rd:180ms"><span class="num" aria-hidden="true">03</span><h3>Tono y tempo</h3><p>Cambia el tono hasta ±8 st y el tempo por separado, para cantar, practicar o preparar una sesión.</p></li></ul>
   </div>
 </section>
 
@@ -231,7 +235,7 @@
     <div class="duo-copy prose" data-reveal>
       <p class="tag eyebrow">VibeDeck</p>
       <h2 id="why-title">¿Por qué VibeDeck Player?</h2>
-      <p>VibeDeck Player es un <strong>reproductor de música sin conexión para iPhone, iPad y Android</strong> pensado para quienes tienen su propia música. Reproduce los archivos FLAC, WAV y MP3 que ya están en tu teléfono, sin wifi, sin cuenta, sin anuncios y sin rastreo. Tus archivos no salen de tu dispositivo.</p><p>Donde otros reproductores se quedan en reproducir y pausar, VibeDeck trata cada canción como material. Sube o baja el tono hasta ±8 semitonos y cambia el tempo por separado para practicar, cantar en tu tono o preparar una sesión de DJ. Ajusta el sonido con ecualizador con ganancia, refuerzo de graves, filtro, balance estéreo y limitador; recorre la forma de onda y consulta los BPM.</p><p>Las guías en inglés explican cómo <a href="/change-song-key-iphone/" hreflang="en" lang="en">cambiar el tono de una canción en iPhone</a>, cómo <a href="/slow-down-song/" hreflang="en" lang="en">ralentizar una canción sin cambiar el tono</a> y qué ofrece el <a href="/flac-player-android/" hreflang="en" lang="en">reproductor FLAC para Android</a>.</p>
+      <p>VibeDeck Player es un <strong>reproductor de música sin conexión para iPhone, iPad y Android</strong> pensado para quienes tienen su propia música. Reproduce los archivos FLAC, WAV y MP3 que ya están en tu teléfono, sin wifi, sin cuenta, sin anuncios y sin rastreo. Tus archivos no salen de tu dispositivo.</p><p>Donde otros reproductores se quedan en reproducir y pausar, VibeDeck trata cada canción como material. Sube o baja el tono hasta ±8 st y cambia el tempo por separado para practicar, cantar en tu tono o preparar una sesión de DJ. Ajusta el sonido con ecualizador con ganancia, refuerzo de graves, filtro, balance estéreo y limitador; recorre la forma de onda y consulta los BPM.</p><p>Las guías en inglés explican cómo <a href="/change-song-key-iphone/" hreflang="en" lang="en">cambiar el tono de una canción en iPhone</a>, cómo <a href="/slow-down-song/" hreflang="en" lang="en">ralentizar una canción sin cambiar el tono</a> y qué ofrece el <a href="/flac-player-android/" hreflang="en" lang="en">reproductor FLAC para Android</a>.</p>
     </div>
     <div class="duo-media media-solo">
       <div class="halo" aria-hidden="true"></div>
@@ -243,7 +247,7 @@
 <section class="section" aria-labelledby="specs-title">
   <div class="wrap specs" data-reveal>
     <h2 id="specs-title">Especificaciones</h2>
-    <ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 semitonos</li><li>Tempo</li><li>Ecualizador</li><li>Limitador</li><li>Sin conexión</li><li>Sin anuncios</li><li>Sin cuenta</li><li>Sin rastreo</li></ul>
+    <ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 st</li><li>Tempo</li><li>Ecualizador</li><li>Limitador</li><li>Sin conexión</li><li>Sin anuncios</li><li>Sin cuenta</li><li>Sin rastreo</li></ul>
   </div>
 </section>
 <section class="section">
@@ -252,18 +256,18 @@
 <section class="section" id="premium" aria-labelledby="premium-title">
   <div class="wrap">
     <div class="sec-head" data-reveal><div><p class="tag eyebrow">Premium</p><h2 class="h2" id="premium-title">VibeDeck Premium</h2></div><p class="lede">El reproductor básico es gratis y sin anuncios. Premium desbloquea todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata.</p></div>
-    <ul class="plans"><li class="plan glass" data-reveal style="--rd:0ms"><h3>Mensual</h3><p>Todo el motor de sonido, con cobro mensual a través de la tienda.</p></li><li class="plan glass" data-reveal style="--rd:90ms"><h3>Anual</h3><p>Todo el motor de sonido durante doce meses.</p></li><li class="plan glass plan--hi" data-reveal style="--rd:180ms"><span class="badge mono">Pago único</span><h3>De por vida</h3><p>Pagas una vez y el motor de sonido completo es tuyo para siempre.</p></li></ul><p class="note">Los precios dependen del país y de la tienda; el App Store y Google Play siempre muestran el precio local actual.</p>
+    <ul class="plans"><li class="plan glass" data-reveal style="--rd:0ms"><h3>Mensual</h3><dl class="prices"><div><dt class="mono">Google Play · Android</dt><dd class="price">$1.99<small>/ mes · USD</small></dd></div></dl><p>Todo el motor de sonido, con cobro mensual a través de la tienda.</p></li><li class="plan glass" data-reveal style="--rd:90ms"><h3>Anual</h3><dl class="prices"><div><dt class="mono">Google Play · Android</dt><dd class="price">$14.99<small>/ año · USD</small></dd></div></dl><p>Todo el motor de sonido durante doce meses.</p></li><li class="plan glass plan--hi" data-reveal style="--rd:180ms"><span class="badge mono">Pago único</span><h3>De por vida</h3><dl class="prices"><div><dt class="mono">Google Play · Android</dt><dd class="price">$19.99<small>pago único · USD</small></dd></div></dl><p>Pagas una vez y el motor de sonido completo es tuyo para siempre.</p></li></ul><p class="note">Los precios dependen del país y de la tienda; el App Store y Google Play siempre muestran el precio local actual.</p>
   </div>
 </section>
 
 <section class="section">
-  <div class="wrap"><div class="glass box prose" data-reveal><h2>VibeDeck Player de un vistazo</h2><div class="table-wrap"><table><tbody><tr><th scope="row">Plataformas</th><td>iPhone y iPad (iOS 17 o posterior), Android</td></tr><tr><th scope="row">Formatos de audio</th><td>MP3, WAV y FLAC</td></tr><tr><th scope="row">Sonido</th><td>Ecualizador con ganancia, refuerzo de graves, filtro, balance estéreo, limitador</td></tr><tr><th scope="row">Tono y tempo</th><td>Tono hasta ±8 semitonos; tempo independiente del tono</td></tr><tr><th scope="row">Visuales</th><td>AURA, VibeMod y TONE</td></tr><tr><th scope="row">Internet</th><td>No hace falta: reproduce archivos guardados en tu dispositivo</td></tr><tr><th scope="row">Anuncios, cuenta, rastreo</th><td>Ninguno</td></tr><tr><th scope="row">Precio</th><td>Gratis; Premium mensual, anual o de por vida (precio en la tienda)</td></tr></tbody></table></div></div></div>
+  <div class="wrap"><div class="glass box prose" data-reveal><h2>VibeDeck Player de un vistazo</h2><div class="table-wrap"><table><tbody><tr><th scope="row">Plataformas</th><td>iPhone y iPad (iOS 17 o posterior), Android</td></tr><tr><th scope="row">Formatos de audio</th><td>MP3, WAV y FLAC</td></tr><tr><th scope="row">Sonido</th><td>Ecualizador con ganancia, refuerzo de graves, filtro, balance estéreo, limitador</td></tr><tr><th scope="row">Tono y tempo</th><td>Tono hasta ±8 st; tempo independiente del tono</td></tr><tr><th scope="row">Visuales</th><td>AURA, VibeMod y TONE</td></tr><tr><th scope="row">Internet</th><td>No hace falta: reproduce archivos guardados en tu dispositivo</td></tr><tr><th scope="row">Anuncios, cuenta, rastreo</th><td>Ninguno</td></tr><tr><th scope="row">Precio</th><td>Gratis; Premium mensual, anual o de por vida (precio en la tienda)<br>En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).</td></tr></tbody></table></div></div></div>
 </section>
 
 <section class="section" id="faq" aria-labelledby="faq-title">
   <div class="wrap">
     <div class="sec-head" data-reveal><div><p class="tag eyebrow">FAQ <span class="dim">/ 09</span></p><h2 class="h2" id="faq-title">Preguntas frecuentes</h2></div></div>
-    <div class="faq" data-reveal><details><summary><h3>¿Funciona sin conexión a internet?</h3></summary><div class="a"><p>Sí. Las canciones se reproducen desde los archivos de tu teléfono, así que no necesitas internet para escucharlas.</p></div></details><details><summary><h3>¿Tiene anuncios?</h3></summary><div class="a"><p>No. Ni la versión gratuita ni Premium muestran anuncios, y no necesitas crear una cuenta.</p></div></details><details><summary><h3>¿Puedo reproducir archivos FLAC en iPhone y Android?</h3></summary><div class="a"><p>Sí. VibeDeck Player reproduce archivos FLAC sin convertirlos y sin conexión en iPhone, iPad y Android. También reproduce MP3 y WAV.</p></div></details><details><summary><h3>¿Funciona con apps de streaming?</h3></summary><div class="a"><p>No. VibeDeck solo abre archivos de audio guardados en tu dispositivo, así que no puede reproducir ni procesar canciones de servicios de streaming.</p></div></details><details><summary><h3>¿La app está en español?</h3></summary><div class="a"><p>Por ahora la interfaz de la app está en inglés.</p></div></details><details><summary><h3>¿Cuánto cuesta?</h3></summary><div class="a"><p>La descarga es gratis y sin anuncios. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país.</p></div></details><details><summary><h3>¿Necesito crear una cuenta?</h3></summary><div class="a"><p>No. No hay registro ni inicio de sesión. Importas tus archivos una vez y la reproducción, el ecualizador, el tono y el tempo funcionan en el dispositivo, incluso en modo avión.</p></div></details><details><summary><h3>¿Cómo cambio el tono de una canción?</h3></summary><div class="a"><p>Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 semitonos, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck Premium.</p></div></details><details><summary><h3>¿Qué incluye VibeDeck Premium?</h3></summary><div class="a"><p>Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida.</p></div></details></div>
+    <div class="faq" data-reveal><details><summary><h3>¿Funciona sin conexión a internet?</h3></summary><div class="a"><p>Sí. Las canciones se reproducen desde los archivos de tu teléfono, así que no necesitas internet para escucharlas.</p></div></details><details><summary><h3>¿Tiene anuncios?</h3></summary><div class="a"><p>No. Ni la versión gratuita ni Premium muestran anuncios, y no necesitas crear una cuenta.</p></div></details><details><summary><h3>¿Puedo reproducir archivos FLAC en iPhone y Android?</h3></summary><div class="a"><p>Sí. VibeDeck Player reproduce archivos FLAC sin convertirlos y sin conexión en iPhone, iPad y Android. También reproduce MP3 y WAV.</p></div></details><details><summary><h3>¿Funciona con apps de streaming?</h3></summary><div class="a"><p>No. VibeDeck solo abre archivos de audio guardados en tu dispositivo, así que no puede reproducir ni procesar canciones de servicios de streaming.</p></div></details><details><summary><h3>¿La app está en español?</h3></summary><div class="a"><p>Por ahora la interfaz de la app está en inglés.</p></div></details><details><summary><h3>¿Cuánto cuesta?</h3></summary><div class="a"><p>La descarga es gratis y sin anuncios. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).</p></div></details><details><summary><h3>¿Necesito crear una cuenta?</h3></summary><div class="a"><p>No. No hay registro ni inicio de sesión. Importas tus archivos una vez y la reproducción, el ecualizador, el tono y el tempo funcionan en el dispositivo, incluso en modo avión.</p></div></details><details><summary><h3>¿Cómo cambio el tono de una canción?</h3></summary><div class="a"><p>Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 st, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck Premium.</p></div></details><details><summary><h3>¿Qué incluye VibeDeck Premium?</h3></summary><div class="a"><p>Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).</p></div></details></div>
   </div>
 </section>
 
