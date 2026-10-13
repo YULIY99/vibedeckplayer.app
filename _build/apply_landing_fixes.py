@@ -12,8 +12,8 @@ old = '<div class="slider" aria-hidden="true"><div class="slider-top mono"><span
 new = '<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>Pitch</b> / Premium demo</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>RESET</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="Pitch in semitones" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>'
 s = s.replace(old, new)
 if '/assets/landing-controls.css' not in s:
-    s = s.replace('<link rel="stylesheet" href="/styles.css?v=13">', '<link rel="stylesheet" href="/styles.css?v=13">\n<link rel="stylesheet" href="/assets/landing-controls.css?v=1">')
-s = s.replace('/assets/site.js?v=2', '/assets/site.js?v=3')
+    s = s.replace('<link rel="stylesheet" href="/styles.css?v=13">', '<link rel="stylesheet" href="/styles.css?v=13">\n<link rel="stylesheet" href="/assets/landing-controls.css?v=2">')
+s = s.replace('/assets/site.js?v=2', '/assets/site.js?v=4')
 s = s.replace('VibeDeck is a premium music player for iOS and Android,', 'VibeDeck is a free music player with optional Premium for iOS and Android,')
 s = s.replace('Import your audio files and shape the sound in real time with an EQ and gain, bass boost, filter, limiter, pitch, tempo, and DJ tools,', 'Import and play your audio files for free. Premium adds EQ and gain, bass boost, filter, limiter, pitch, AURA, TONE and more,')
 s = s.replace('Every sound tool lives one move from the track:', 'Premium sound tools live one move from the track:')
