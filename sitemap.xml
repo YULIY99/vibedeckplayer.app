@@ -2,15 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://vibedeckplayer.app/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/audio-formats/</loc>
@@ -24,42 +25,45 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/change-song-key-iphone/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <lastmod>2026-10-07</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/flac-player-android/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-android/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-flac-android/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-android/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-android/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-flac-android/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-android/" />
     <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/flac-player-iphone/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/mp3-player-no-ads/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/music-player-pitch-tempo/</loc>
@@ -68,9 +72,9 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/offline-music-player-android/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/offline-music-player-android/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-offline-android/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/offline-music-player-android/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/offline-music-player-android/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-offline-android/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/offline-music-player-android/" />
     <lastmod>2026-10-11</lastmod>
     <priority>0.8</priority>
   </url>
@@ -81,9 +85,9 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/slow-down-song/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
     <lastmod>2026-10-07</lastmod>
     <priority>0.8</priority>
   </url>
@@ -139,190 +143,252 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ja/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ja/key-henkou-app/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/es/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/pt-br/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ja/tempo-henkou/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
     <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ja/flac-player/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/es/reproductor-flac/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/pt-br/player-offline-android/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/offline-music-player-android/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-offline-android/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/offline-music-player-android/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/offline-music-player-android/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-offline-android/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/offline-music-player-android/" />
     <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/pt-br/player-flac-android/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-android/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-flac-android/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-android/"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-android/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-flac-android/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-android/" />
     <lastmod>2026-10-11</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/"/>
-    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/tonart-aendern/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/flac-player/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/mp3-player-ohne-werbung/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/changer-tonalite/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/lecteur-flac/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/</loc>
-    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/"/>
-    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/"/>
-    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/"/>
-    <lastmod>2026-10-11</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <lastmod>2026-10-13</lastmod>
     <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
+    <lastmod>2026-10-13</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/cambiare-tonalita/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/lettore-flac/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/lettore-mp3-senza-pub/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+    <lastmod>2026-10-13</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>

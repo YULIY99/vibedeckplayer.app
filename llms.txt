@@ -51,3 +51,9 @@
 - [Offline Music Player for Android | VibeDeck Player](https://vibedeckplayer.app/offline-music-player-android/): Offline music player for Android. Play MP3, FLAC and WAV with no internet, no ads, no account. EQ, pitch and tempo. On Google Play.
 - [Offline Music Player for iPhone | VibeDeck Player](https://vibedeckplayer.app/offline-music-player-iphone/): Offline music player for iPhone and iPad. Play MP3, FLAC and WAV with no internet, no ads, no account. EQ, pitch and tempo. Download free.
 - [Slow Down a Song, Keep the Pitch | VibeDeck Player](https://vibedeckplayer.app/slow-down-song/): Slow down any song on iPhone or Android without changing its pitch. Practice solos, choreography and lyrics at your own speed, offline. Step-by-step guide.
+## Italiano
+
+- [Lettore musicale offline senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/)
+- [Cambiare la tonalità di una canzone su iPhone | VibeDeck](https://vibedeckplayer.app/it/cambiare-tonalita/)
+- [Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-flac/)
+- [Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-mp3-senza-pub/)
