@@ -2,6 +2,30 @@
 (function(){
   var d=document,w=window,root=d.documentElement;
   var reduce=w.matchMedia&&w.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  // Pitch demo: playback-rate BPM preview, not an audio player.
+  [].slice.call(d.querySelectorAll('[data-pitch-demo]')).forEach(function(demo){
+    var input=demo.querySelector('.pitch-input');
+    var value=demo.querySelector('[data-pitch-value]');
+    var bpm=demo.querySelector('[data-pitch-bpm]');
+    var thumb=demo.querySelector('.slider-thumb');
+    var base=Number(demo.getAttribute('data-base-bpm'));
+    if(!input||!value||!bpm||!isFinite(base)||base<=0)return;
+    function update(){
+      var st=Number(input.value),label=(st>=0?'+':'')+st.toFixed(1)+' st';
+      value.textContent=label;
+      input.setAttribute('aria-valuetext',label);
+      bpm.textContent='BPM '+(base*Math.pow(2,st/12)).toFixed(1);
+      if(thumb)thumb.style.left=((st+8)/16*100)+'%';
+    }
+    input.addEventListener('input',update);
+    demo.querySelector('[data-pitch-reset]').addEventListener('click',function(){input.value='0';update();});
+    update();
+  });
+  // Derive labels from the actual section content, not a manual total.
+  [].slice.call(d.querySelectorAll('[data-section-count]')).forEach(function(counter){
+    var section=counter.closest('section');
+    if(section)counter.textContent='/ '+section.querySelectorAll(counter.getAttribute('data-section-count')).length;
+  });
   // header hairline on scroll
   var hdr=d.querySelector('.site-header');
   // scroll reveal

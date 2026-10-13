@@ -1,0 +1,31 @@
+name: Apply targeted landing fixes (temporary)
+on:
+  push:
+    branches: [fix/landing-pitch-premium]
+    paths:
+      - '_build/apply_landing_fixes.py'
+      - '.github/workflows/apply-landing-fixes.yml'
+permissions:
+  contents: write
+jobs:
+  apply:
+    if: github.ref == 'refs/heads/fix/landing-pitch-premium'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: fix/landing-pitch-premium
+      - name: Apply only the reviewed landing corrections
+        run: |
+          python3 _build/apply_landing_fixes.py
+          node --check assets/site.js
+          node _build/test_pitch.js
+      - name: Commit generated static pages to the fix branch only
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add '*.html'
+          if ! git diff --cached --quiet; then
+            git commit -m 'fix: apply pitch, premium, counters, units and pricing to static pages'
+            git push origin HEAD:fix/landing-pitch-premium
+          fi
