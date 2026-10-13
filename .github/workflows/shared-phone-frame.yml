@@ -1,0 +1,45 @@
+name: Share canonical iPhone frame
+on:
+  push:
+    branches: [fix/shared-iphone-frame]
+    paths: [.github/workflows/shared-phone-frame.yml]
+permissions:
+  contents: write
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Reuse English home frame on localized pages and guides
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          p=Path('styles.css');s=p.read_text()
+          for old,new in [('.phone{position:relative','.phone,.poster{position:relative'),('.phone::before{','.phone::before,.poster::before{'),('.phone img{','.phone img,.poster img{'),('.phone--lg{','.phone--lg,.poster{')]:
+              assert s.count(old)==1,old
+              s=s.replace(old,new)
+          old='/* banner poster used as hero visual on guides */\n.poster{position:relative;z-index:1;margin:0;width:clamp(232px,66vw,320px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line-2);box-shadow:0 48px 120px -40px rgba(30,159,214,.5),0 24px 64px -24px rgba(0,0,0,.9)}\n.poster img{width:100%;height:auto}'
+          assert s.count(old)==1
+          s=s.replace(old,'/* Localized landing pages and guides reuse the English home phone frame. */\n.poster{margin:0}')
+          p.write_text(s)
+          count=0
+          for p in Path('.').rglob('*.html'):
+              if any(part.startswith(('_','.')) for part in p.parts):continue
+              text=p.read_text()
+              if 'class="poster"' not in text and p!=Path('index.html'):continue
+              new,n=re.subn(r'/styles\.css\?v=\d+','/styles.css?v=15',text)
+              assert n==1,p
+              p.write_text(new);count+=1
+          assert count==29,count
+          print('Updated canonical shared frame and 29 cache references; all page content preserved')
+          PY
+      - run: node _build/test_pitch.js && node _build/test_pitch_idle.js
+      - name: Commit clean output
+        run: |
+          git rm .github/workflows/shared-phone-frame.yml
+          git add styles.css '*.html'
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'fix: reuse English home iPhone frame across language pages and guides'
+          git push
