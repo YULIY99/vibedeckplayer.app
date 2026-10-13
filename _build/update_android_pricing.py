@@ -21,7 +21,7 @@ def faq_text(text, question, lang, home):
         return text.replace(OLD_EN, NEW_EN)
     if COPY[lang][2] in text or NEW_EN in text:
         return text
-    if 'Premium' in text and ((('Google Play' in text or 'ストア' in text) and PRICE_WORDS.search(text)) or (home and 'Premium' in question)):
+    if ('Premium' in text and ('Google Play' in text or 'ストア' in text) and PRICE_WORDS.search(text)) or (home and 'Premium' in question):
         return text + ' ' + COPY[lang][2]
     return text
 
