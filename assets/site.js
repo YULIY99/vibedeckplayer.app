@@ -10,16 +10,39 @@
     var thumb=demo.querySelector('.slider-thumb');
     var base=Number(demo.getAttribute('data-base-bpm'));
     if(!input||!value||!bpm||!isFinite(base)||base<=0)return;
-    function update(){
+    var idleFrame=0,idleElapsed=0,lastTime=0,manual=false;
+    function update(visualSt){
       var st=Number(input.value),label=(st>=0?'+':'')+st.toFixed(1)+' st';
-      value.textContent=label;
+      if(value.textContent!==label)value.textContent=label;
       input.setAttribute('aria-valuetext',label);
       bpm.textContent='BPM '+(base*Math.pow(2,st/12)).toFixed(1);
-      if(thumb)thumb.style.left=((st+8)/16*100)+'%';
+      if(thumb)thumb.style.left=(((typeof visualSt==='number'?visualSt:st)+8)/16*100)+'%';
     }
-    input.addEventListener('input',update);
-    demo.querySelector('[data-pitch-reset]').addEventListener('click',function(){input.value='0';update();});
-    update();
+    // One slow, small breath: +/-0.4 st over 12 seconds. Numbers stay on 0.1 st steps.
+    function idle(time){
+      if(manual||reduce)return;
+      if(lastTime)idleElapsed+=Math.min(time-lastTime,50);
+      lastTime=time;
+      var st=Math.sin(idleElapsed/12000*Math.PI*2)*.4;
+      input.value=(Math.round(st*10)/10).toFixed(1);
+      update(st);
+      idleFrame=w.requestAnimationFrame(idle);
+    }
+    function startIdle(){
+      idleElapsed=0;lastTime=0;
+      if(!reduce&&w.requestAnimationFrame)idleFrame=w.requestAnimationFrame(idle);
+    }
+    function takeControl(){
+      manual=true;
+      if(idleFrame){w.cancelAnimationFrame(idleFrame);idleFrame=0;}
+      update();
+    }
+    ['pointerdown','touchstart','focus','keydown'].forEach(function(event){input.addEventListener(event,takeControl);});
+    input.addEventListener('input',takeControl);
+    demo.querySelector('[data-pitch-reset]').addEventListener('click',function(){
+      takeControl();manual=false;input.value='0';update();startIdle();
+    });
+    update();startIdle();
   });
   // Derive labels from the actual section content, not a manual total.
   [].slice.call(d.querySelectorAll('[data-section-count]')).forEach(function(counter){
