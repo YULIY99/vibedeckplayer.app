@@ -42,3 +42,7 @@ for p in ROOT.rglob('*.html'):
     if t != s:
         p.write_text(t)
 print('Landing fixes applied without rebuilding the site.')
+
+# Keep Google Play pricing consistent with the current product plans.
+import runpy
+runpy.run_path(str(ROOT / "_build/update_android_pricing.py"), run_name="__main__")
