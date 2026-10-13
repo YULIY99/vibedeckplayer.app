@@ -133,10 +133,10 @@ ul,ol{margin:0;padding:0;list-style:none}
 @keyframes sweep{from{transform:translateX(-20%)}to{transform:translateX(560%)}}
 
 /* phone frame (real screenshot inside) */
-.phone{position:relative;z-index:1;width:clamp(232px,66vw,320px);padding:9px;border-radius:52px;background:linear-gradient(150deg,#2a3946 0%,#0d151d 30%,#070b10 70%,#1f2c37 100%);box-shadow:0 0 0 1px rgba(255,255,255,.09),0 1px 0 1px rgba(255,255,255,.06) inset,0 48px 120px -32px rgba(30,159,214,.45),0 24px 64px -24px rgba(0,0,0,.9)}
-.phone::before{content:"";position:absolute;z-index:2;top:21px;left:50%;width:30%;height:22px;transform:translateX(-50%);border-radius:999px;background:#000}
-.phone img{width:100%;aspect-ratio:1290/2796;border-radius:43px;background:#05080e}
-.phone--lg{width:clamp(248px,72vw,344px)}
+.phone,.poster{position:relative;z-index:1;width:clamp(232px,66vw,320px);padding:9px;border-radius:52px;background:linear-gradient(150deg,#2a3946 0%,#0d151d 30%,#070b10 70%,#1f2c37 100%);box-shadow:0 0 0 1px rgba(255,255,255,.09),0 1px 0 1px rgba(255,255,255,.06) inset,0 48px 120px -32px rgba(30,159,214,.45),0 24px 64px -24px rgba(0,0,0,.9)}
+.phone::before,.poster::before{content:"";position:absolute;z-index:2;top:21px;left:50%;width:30%;height:22px;transform:translateX(-50%);border-radius:999px;background:#000}
+.phone img,.poster img{width:100%;aspect-ratio:1290/2796;border-radius:43px;background:#05080e}
+.phone--lg,.poster{width:clamp(248px,72vw,344px)}
 .phone--sm{width:clamp(200px,52vw,272px)}
 .phone-caption{position:absolute;z-index:2;left:50%;bottom:16px;transform:translateX(-50%);white-space:nowrap;color:var(--muted)}
 
@@ -336,9 +336,8 @@ td:last-child{color:var(--ice)}
 .fb-1{top:14%;right:-8px}
 .fb-2{bottom:20%;left:-8px}
 @media (min-width:1024px){.fb-1{right:-48px}.fb-2{left:-64px}}
-/* banner poster used as hero visual on guides */
-.poster{position:relative;z-index:1;margin:0;width:clamp(232px,66vw,320px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line-2);box-shadow:0 48px 120px -40px rgba(30,159,214,.5),0 24px 64px -24px rgba(0,0,0,.9)}
-.poster img{width:100%;height:auto}
+/* Localized landing pages and guides reuse the English home phone frame. */
+.poster{margin:0}
 .hero--page{padding:48px 0 0}
 .hero--page .h1-plain{max-width:16ch}
 .hero--sub .h1-plain{display:block;max-width:14ch}
