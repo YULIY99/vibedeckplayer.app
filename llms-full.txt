@@ -378,5 +378,9 @@ A: 24-bit WAV without compression, M4A (AAC) and MP4 video with the VibeDeck mus
 **Q: When is VibeDeck Studio available?**
 
 A: It is coming in the next update of VibeDeck Player for iPhone. Install VibeDeck Player now and the update will add Studio automatically.
+## Italiano
 
-
+- [Lettore musicale offline senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/)
+- [Cambiare la tonalità di una canzone su iPhone | VibeDeck](https://vibedeckplayer.app/it/cambiare-tonalita/)
+- [Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-flac/)
+- [Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-mp3-senza-pub/)
