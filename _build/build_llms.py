@@ -12,7 +12,8 @@ import html, json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SITE = "https://vibedeckplayer.app"
 LANGS = [("en", "English"), ("de", "Deutsch"), ("fr", "Français"), ("it", "Italiano"),
-         ("es", "Español"), ("pt-BR", "Português (Brasil)"), ("ja", "日本語")]
+         ("es", "Español"), ("pt-BR", "Português (Brasil)"), ("ja", "日本語"),
+         ("ru", "Русский"), ("ko", "한국어"), ("tr", "Türkçe")]
 SKIP = {"/support.html", "/privacy.html", "/terms.html"}  # listed under Links
 
 

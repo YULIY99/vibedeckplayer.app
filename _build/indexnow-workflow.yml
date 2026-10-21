@@ -1,3 +1,5 @@
+# To enable: copy to .github/workflows/indexnow.yml (needs a token with "workflow" scope,
+# or create the file in the GitHub web editor).
 # After each push to main, wait for GitHub Pages to deploy, then tell
 # Bing / Yandex / Seznam / Naver (IndexNow) which pages changed.
 name: IndexNow
