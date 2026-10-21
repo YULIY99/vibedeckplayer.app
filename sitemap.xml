@@ -119,8 +119,21 @@
     <loc>https://vibedeckplayer.app/slow-down-song/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -259,8 +272,21 @@
     <loc>https://vibedeckplayer.app/ja/tempo-henkou/</loc>
     <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
     <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -1234,6 +1260,279 @@
     <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
     <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
     <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/es/ralentizar-una-cancion/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pt-br/desacelerar-musica/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/de/song-langsamer-abspielen/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/fr/ralentir-une-chanson/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/rallentare-una-canzone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ru/zamedlit-pesnyu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ko/tempo-byeongyeong/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/memperlambat-lagu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/zwolnic-piosenke/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/nummer-vertragen/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/lam-cham-bai-hat/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/slow-down-song/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/tempo-henkou/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/ralentizar-una-cancion/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/desacelerar-musica/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/song-langsamer-abspielen/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/ralentir-une-chanson/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/rallentare-una-canzone/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/zamedlit-pesnyu/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/tempo-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/memperlambat-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zwolnic-piosenke/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nummer-vertragen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/lam-cham-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>

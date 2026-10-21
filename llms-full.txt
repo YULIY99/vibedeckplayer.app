@@ -857,6 +857,33 @@ A: Ja. Im App Store für iPhone und iPad und bei Google Play für Android.
 
 A: Die App ist kostenlos und werbefrei. Premium schaltet die komplette Sound-Engine frei; den Preis zeigt der Store in deinem Land.
 
+## Song langsamer abspielen, Tonhöhe bleibt | VibeDeck
+
+URL: https://vibedeckplayer.app/de/song-langsamer-abspielen/
+Language: de
+
+Spiele Songs auf iPhone oder Android langsamer ab, ohne die Tonart zu ändern. Übe Soli, Choreos und schnelle Texte in deinem Tempo, offline und ohne Werbung.
+
+**Q: Wie spiele ich einen Song langsamer ab, ohne dass sich die Tonhöhe ändert?**
+
+A: Mit einem Player, der das Tempo unabhängig regelt, zum Beispiel VibeDeck Player. Senke das Tempo, und der Song läuft langsamer in derselben Tonart.
+
+**Q: Kann ich Musik auf dem iPhone verlangsamen?**
+
+A: Ja. VibeDeck Player verlangsamt lokale Musikdateien auf iPhone und iPad ohne Tonhöhenänderung, offline.
+
+**Q: Funktioniert das auf Android?**
+
+A: Ja. VibeDeck Player gibt es bei Google Play mit denselben Reglern für Tempo und Tonhöhe.
+
+**Q: Welche Dateien kann ich verlangsamen?**
+
+A: Alle Dateien, die VibeDeck Player abspielt: MP3, WAV und FLAC. Titel in Streaming-Apps können andere Apps nicht verarbeiten.
+
+**Q: Kann ich gleichzeitig die Tonart ändern?**
+
+A: Ja. Tonhöhe und Tempo sind unabhängig, du kannst einen Song also verlangsamen und zugleich um bis zu ±8 Halbtöne transponieren.
+
 ## Lecteur de musique hors ligne sans pub | VibeDeck
 
 URL: https://vibedeckplayer.app/fr/
@@ -992,6 +1019,33 @@ A: Oui. Sur l’App Store pour iPhone et iPad, et sur Google Play pour Android.
 **Q: C’est gratuit ?**
 
 A: L’appli est gratuite et sans pub. Premium débloque tout le moteur sonore ; le prix s’affiche sur le store de votre pays.
+
+## Ralentir une chanson sans changer la tonalité | VibeDeck
+
+URL: https://vibedeckplayer.app/fr/ralentir-une-chanson/
+Language: fr
+
+Ralentissez une chanson sur iPhone ou Android sans changer sa tonalité. Solos, chorégraphies et paroles rapides à votre rythme, hors ligne et sans pub.
+
+**Q: Comment ralentir une chanson sans changer la tonalité ?**
+
+A: Avec un lecteur qui règle le tempo indépendamment, comme VibeDeck Player. Baissez le tempo : le morceau joue plus lentement, dans la même tonalité.
+
+**Q: Peut-on ralentir de la musique sur iPhone ?**
+
+A: Oui. VibeDeck Player ralentit les fichiers musicaux de votre iPhone ou iPad sans changer la hauteur, hors ligne.
+
+**Q: Ça marche sur Android ?**
+
+A: Oui. VibeDeck Player est sur Google Play avec les mêmes réglages de tempo et de hauteur.
+
+**Q: Quels fichiers peut-on ralentir ?**
+
+A: Tous ceux que lit VibeDeck Player : MP3, WAV et FLAC. Les titres des applis de streaming ne peuvent pas être traités par d’autres applis.
+
+**Q: Peut-on aussi changer la tonalité ?**
+
+A: Oui. Hauteur et tempo sont indépendants : vous pouvez ralentir un morceau et le transposer jusqu’à ±8 demi-tons en même temps.
 
 ## Lettore musicale offline senza pubblicità | VibeDeck
 
@@ -1129,6 +1183,33 @@ A: Sì. Su App Store per iPhone e iPad e su Google Play per Android.
 
 A: L’app è gratuita e senza pubblicità. Premium sblocca il motore audio completo. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). Gli store mostrano il prezzo locale.
 
+## Rallentare una canzone senza cambiare tonalità | VibeDeck
+
+URL: https://vibedeckplayer.app/it/rallentare-una-canzone/
+Language: it
+
+Rallenta una canzone su iPhone o Android senza cambiarne la tonalità. Studia assoli, coreografie e testi veloci al tuo ritmo, offline e senza pubblicità.
+
+**Q: Come rallento una canzone senza cambiare la tonalità?**
+
+A: Con un lettore che regola il tempo in modo indipendente, come VibeDeck Player. Abbassa il tempo e il brano suona più lento nella stessa tonalità.
+
+**Q: Posso rallentare la musica su iPhone?**
+
+A: Sì. VibeDeck Player rallenta i file musicali su iPhone e iPad senza cambiare l’intonazione, offline.
+
+**Q: Funziona su Android?**
+
+A: Sì. VibeDeck Player è su Google Play con gli stessi controlli di tempo e intonazione.
+
+**Q: Quali file posso rallentare?**
+
+A: Tutti quelli che VibeDeck Player riproduce: MP3, WAV e FLAC. I brani delle app di streaming non possono essere elaborati da altre app.
+
+**Q: Posso cambiare anche la tonalità?**
+
+A: Sì. Intonazione e tempo sono indipendenti: puoi rallentare un brano e trasporlo fino a ±8 semitoni insieme.
+
 ## Reproductor de música sin conexión y sin anuncios | VibeDeck
 
 URL: https://vibedeckplayer.app/es/
@@ -1234,6 +1315,33 @@ A: Sí. Está en el App Store para iPhone y iPad, y en Google Play para Android.
 
 A: La app es gratis y sin anuncios. Premium desbloquea el motor de sonido completo; el precio aparece en la tienda de tu país.
 
+## Ralentizar una canción sin cambiar el tono | VibeDeck
+
+URL: https://vibedeckplayer.app/es/ralentizar-una-cancion/
+Language: es
+
+Ralentiza una canción en iPhone o Android sin cambiar su tono. Practica solos, coreografías y letras rápidas a tu ritmo, sin conexión y sin anuncios.
+
+**Q: ¿Cómo ralentizo una canción sin cambiar el tono?**
+
+A: Con un reproductor que controle el tempo por separado, como VibeDeck Player. Baja el tempo y la canción suena más lenta en el mismo tono.
+
+**Q: ¿Puedo ralentizar música en iPhone?**
+
+A: Sí. VibeDeck Player ralentiza archivos de música en iPhone y iPad sin cambiar el tono, sin conexión.
+
+**Q: ¿Funciona en Android?**
+
+A: Sí. VibeDeck Player está en Google Play con los mismos controles de tempo y tono.
+
+**Q: ¿Qué archivos puedo ralentizar?**
+
+A: Cualquiera que reproduzca VibeDeck Player: MP3, WAV y FLAC. Las canciones de apps de streaming no pueden procesarse en otras apps.
+
+**Q: ¿Puedo cambiar también el tono?**
+
+A: Sí. Tono y tempo son independientes: puedes ralentizar una canción y transponerla hasta ±8 semitonos a la vez.
+
 ## Player de música offline sem anúncios | VibeDeck
 
 URL: https://vibedeckplayer.app/pt-br/
@@ -1330,6 +1438,33 @@ A: Sim. Equalizador com ganho, reforço de graves, filtro, balanço estéreo e l
 **Q: Quanto custa no Android?**
 
 A: O download é grátis. O VibeDeck Premium é uma compra opcional no app; o Google Play mostra o preço atual do seu país. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
+
+## Desacelerar música sem mudar o tom | VibeDeck
+
+URL: https://vibedeckplayer.app/pt-br/desacelerar-musica/
+Language: pt-BR
+
+Deixe uma música mais lenta no iPhone ou Android sem mudar o tom. Treine solos, coreografias e letras rápidas no seu ritmo, offline e sem anúncios.
+
+**Q: Como deixar uma música mais lenta sem mudar o tom?**
+
+A: Use um player com controle de tempo independente, como o VibeDeck Player. Diminua o tempo e a música toca mais devagar no mesmo tom.
+
+**Q: Dá para desacelerar música no iPhone?**
+
+A: Sim. O VibeDeck Player desacelera arquivos de música no iPhone e iPad sem mudar o tom, offline.
+
+**Q: Funciona no Android?**
+
+A: Sim. O VibeDeck Player está no Google Play com os mesmos controles de tempo e tom.
+
+**Q: Quais arquivos posso desacelerar?**
+
+A: Qualquer arquivo que o VibeDeck Player toca: MP3, WAV e FLAC. Músicas de apps de streaming não podem ser processadas por outros apps.
+
+**Q: Posso mudar o tom também?**
+
+A: Sim. Tom e tempo são independentes: dá para desacelerar a música e transpor até ±8 semitons ao mesmo tempo.
 
 ## オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし
 
@@ -1603,6 +1738,33 @@ A: Да. В App Store для iPhone и iPad и в Google Play для Android.
 
 A: Приложение бесплатное и без рекламы. Premium открывает весь звуковой движок, цена указана в магазине вашей страны.
 
+## Как замедлить песню без изменения тональности | VibeDeck
+
+URL: https://vibedeckplayer.app/ru/zamedlit-pesnyu/
+Language: ru
+
+Замедлите песню на iPhone или Android, не меняя тональность. Разбирайте соло, хореографию и быстрый текст в своём темпе, без интернета и рекламы.
+
+**Q: Как замедлить песню, не меняя тональность?**
+
+A: Нужен плеер с отдельной регулировкой темпа, например VibeDeck Player. Уменьшите темп, и песня заиграет медленнее в той же тональности.
+
+**Q: Можно ли замедлить музыку на iPhone?**
+
+A: Да. VibeDeck Player замедляет музыкальные файлы на iPhone и iPad без изменения высоты тона и без интернета.
+
+**Q: Работает на Android?**
+
+A: Да. VibeDeck Player есть в Google Play с такими же регуляторами темпа и высоты тона.
+
+**Q: Какие файлы можно замедлить?**
+
+A: Любые, которые играет VibeDeck Player: MP3, WAV и FLAC. Треки внутри стриминговых приложений другие приложения обработать не могут.
+
+**Q: Можно одновременно сменить тональность?**
+
+A: Да. Высота тона и темп независимы, поэтому песню можно и замедлить, и транспонировать до ±8 полутонов.
+
 ## 광고 없는 오프라인 음악 플레이어 | VibeDeck
 
 URL: https://vibedeckplayer.app/ko/
@@ -1738,6 +1900,33 @@ A: 네. iPhone과 iPad는 App Store에서, Android는 Google Play에서 받을 �
 **Q: 무료인가요?**
 
 A: 앱은 무료이고 광고가 없습니다. Premium은 사운드 엔진 전체를 열어 주며, 가격은 내 나라의 스토어에 표시됩니다.
+
+## 음정 그대로 노래 속도 늦추기 | VibeDeck
+
+URL: https://vibedeckplayer.app/ko/tempo-byeongyeong/
+Language: ko
+
+iPhone이나 Android에서 키는 그대로 두고 노래를 느리게 재생하세요. 솔로, 안무, 빠른 가사를 내 속도로 연습할 수 있습니다. 오프라인, 광고 없음.
+
+**Q: 키를 바꾸지 않고 노래를 느리게 하려면?**
+
+A: VibeDeck Player처럼 템포를 따로 조절할 수 있는 플레이어를 쓰세요. 템포를 낮추면 같은 키로 느리게 재생됩니다.
+
+**Q: iPhone에서 음악을 느리게 할 수 있나요?**
+
+A: 네. VibeDeck Player는 iPhone과 iPad에 있는 음악 파일을 피치 변화 없이 오프라인으로 느리게 재생합니다.
+
+**Q: Android에서도 되나요?**
+
+A: 네. VibeDeck Player는 Google Play에 있으며 템포와 피치 조절도 똑같습니다.
+
+**Q: 어떤 파일을 느리게 할 수 있나요?**
+
+A: VibeDeck Player가 재생하는 MP3, WAV, FLAC 파일이면 됩니다. 스트리밍 앱 안의 곡은 다른 앱에서 처리할 수 없습니다.
+
+**Q: 키도 함께 바꿀 수 있나요?**
+
+A: 네. 피치와 템포가 독립적이라 곡을 느리게 하면서 ±8 반음까지 조옮김할 수 있습니다.
 
 ## Reklamsız çevrimdışı müzik çalar | VibeDeck
 
@@ -1875,6 +2064,33 @@ A: Evet. iPhone ve iPad için App Store’da, Android için Google Play’de.
 
 A: Uygulama ücretsiz ve reklamsız. Premium tüm ses motorunun kilidini açar; fiyat ülkendeki mağazada görünür.
 
+## Şarkıyı tonunu bozmadan yavaşlatma | VibeDeck
+
+URL: https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/
+Language: tr
+
+iPhone veya Android’de bir şarkıyı tonunu değiştirmeden yavaşlat. Soloları, koreografileri ve hızlı sözleri kendi hızında çalış; çevrimdışı ve reklamsız.
+
+**Q: Bir şarkıyı tonunu değiştirmeden nasıl yavaşlatırım?**
+
+A: VibeDeck Player gibi tempoyu ayrı ayarlayan bir çalar kullan. Tempoyu düşürdüğünde şarkı aynı tonda daha yavaş çalar.
+
+**Q: iPhone’da müziği yavaşlatabilir miyim?**
+
+A: Evet. VibeDeck Player, iPhone ve iPad’deki müzik dosyalarını tonu değiştirmeden ve çevrimdışı yavaşlatır.
+
+**Q: Android’de çalışır mı?**
+
+A: Evet. VibeDeck Player aynı tempo ve ton kontrolleriyle Google Play’de var.
+
+**Q: Hangi dosyaları yavaşlatabilirim?**
+
+A: VibeDeck Player’ın çaldığı her dosyayı: MP3, WAV ve FLAC. Akış uygulamalarındaki şarkılar başka uygulamalarca işlenemez.
+
+**Q: Tonu da aynı anda değiştirebilir miyim?**
+
+A: Evet. Ton ve tempo bağımsızdır; şarkıyı yavaşlatıp aynı anda ±8 yarım tona kadar transpoze edebilirsin.
+
 ## Pemutar musik offline tanpa iklan | VibeDeck
 
 URL: https://vibedeckplayer.app/id/
@@ -2010,6 +2226,33 @@ A: Ya. Di App Store untuk iPhone dan iPad, dan di Google Play untuk Android.
 **Q: Apakah gratis?**
 
 A: Aplikasinya gratis dan tanpa iklan. Premium membuka seluruh mesin suara; harganya tampil di toko aplikasi negaramu.
+
+## Cara memperlambat lagu tanpa mengubah nada | VibeDeck
+
+URL: https://vibedeckplayer.app/id/memperlambat-lagu/
+Language: id
+
+Perlambat lagu di iPhone atau Android tanpa mengubah nadanya. Latih solo, koreografi, dan lirik cepat sesuai kecepatanmu, offline dan tanpa iklan.
+
+**Q: Bagaimana cara memperlambat lagu tanpa mengubah nada?**
+
+A: Gunakan pemutar dengan pengatur tempo terpisah, seperti VibeDeck Player. Turunkan tempo dan lagu diputar lebih lambat di nada yang sama.
+
+**Q: Bisakah memperlambat musik di iPhone?**
+
+A: Bisa. VibeDeck Player memperlambat file musik di iPhone dan iPad tanpa mengubah nada, secara offline.
+
+**Q: Apakah bisa di Android?**
+
+A: Bisa. VibeDeck Player ada di Google Play dengan kontrol tempo dan nada yang sama.
+
+**Q: File apa saja yang bisa diperlambat?**
+
+A: Semua file yang diputar VibeDeck Player: MP3, WAV, dan FLAC. Lagu di aplikasi streaming tidak bisa diolah oleh aplikasi lain.
+
+**Q: Bisakah mengubah nada sekaligus?**
+
+A: Bisa. Nada dan tempo terpisah, jadi kamu bisa memperlambat lagu sekaligus mentranspose hingga ±8 semitone.
 
 ## Odtwarzacz muzyki offline bez reklam | VibeDeck
 
@@ -2147,6 +2390,33 @@ A: Tak. W App Store na iPhone’a i iPada oraz w Google Play na Androida.
 
 A: Aplikacja jest darmowa i bez reklam. Premium odblokowuje cały silnik dźwięku; cena jest widoczna w sklepie w Twoim kraju.
 
+## Jak zwolnić piosenkę bez zmiany tonacji | VibeDeck
+
+URL: https://vibedeckplayer.app/pl/zwolnic-piosenke/
+Language: pl
+
+Zwolnij piosenkę na iPhonie lub Androidzie bez zmiany tonacji. Ćwicz solówki, choreografie i szybkie teksty we własnym tempie, offline i bez reklam.
+
+**Q: Jak zwolnić piosenkę bez zmiany tonacji?**
+
+A: Użyj odtwarzacza z niezależną regulacją tempa, na przykład VibeDeck Player. Zmniejsz tempo, a utwór zagra wolniej w tej samej tonacji.
+
+**Q: Czy mogę zwolnić muzykę na iPhonie?**
+
+A: Tak. VibeDeck Player zwalnia pliki muzyczne na iPhonie i iPadzie bez zmiany wysokości dźwięku, offline.
+
+**Q: Czy działa na Androidzie?**
+
+A: Tak. VibeDeck Player jest w Google Play z tymi samymi regulacjami tempa i wysokości dźwięku.
+
+**Q: Jakie pliki mogę zwolnić?**
+
+A: Każdy plik, który odtwarza VibeDeck Player: MP3, WAV i FLAC. Utworów z aplikacji streamingowych nie mogą przetwarzać inne aplikacje.
+
+**Q: Czy mogę jednocześnie zmienić tonację?**
+
+A: Tak. Wysokość dźwięku i tempo są niezależne, więc możesz zwolnić utwór i jednocześnie transponować go o ±8 półtonów.
+
 ## Offline muziekspeler zonder advertenties | VibeDeck
 
 URL: https://vibedeckplayer.app/nl/
@@ -2282,6 +2552,33 @@ A: Ja. In de App Store voor iPhone en iPad, en op Google Play voor Android.
 **Q: Is het gratis?**
 
 A: De app is gratis en zonder advertenties. Premium ontgrendelt de hele geluidsengine; de prijs zie je in de store van jouw land.
+
+## Een nummer vertragen zonder toonhoogte | VibeDeck
+
+URL: https://vibedeckplayer.app/nl/nummer-vertragen/
+Language: nl
+
+Vertraag een nummer op iPhone of Android zonder de toonhoogte te veranderen. Oefen solo’s, choreografie en snelle teksten in je eigen tempo. Offline.
+
+**Q: Hoe vertraag ik een nummer zonder de toonhoogte te veranderen?**
+
+A: Gebruik een speler met een aparte temporegelaar, zoals VibeDeck Player. Zet het tempo lager en het nummer speelt langzamer in dezelfde toonsoort.
+
+**Q: Kan ik muziek vertragen op iPhone?**
+
+A: Ja. VibeDeck Player vertraagt muziekbestanden op iPhone en iPad zonder de toonhoogte te veranderen, offline.
+
+**Q: Werkt het op Android?**
+
+A: Ja. VibeDeck Player staat in Google Play met dezelfde regelaars voor tempo en toonhoogte.
+
+**Q: Welke bestanden kan ik vertragen?**
+
+A: Elk bestand dat VibeDeck Player afspeelt: MP3, WAV en FLAC. Nummers in streamingapps kunnen niet door andere apps worden bewerkt.
+
+**Q: Kan ik tegelijk de toonsoort veranderen?**
+
+A: Ja. Toonhoogte en tempo zijn onafhankelijk, dus je kunt een nummer vertragen en tegelijk tot ±8 halve tonen transponeren.
 
 ## Trình phát nhạc offline không quảng cáo | VibeDeck
 
@@ -2419,6 +2716,33 @@ A: Có. Trên App Store cho iPhone và iPad, và trên Google Play cho Android.
 
 A: Ứng dụng miễn phí và không quảng cáo. Premium mở khóa toàn bộ bộ máy âm thanh; giá hiển thị trên cửa hàng tại quốc gia của bạn.
 
+## Làm chậm bài hát mà không đổi tone | VibeDeck
+
+URL: https://vibedeckplayer.app/vi/lam-cham-bai-hat/
+Language: vi
+
+Làm chậm bài hát trên iPhone hoặc Android mà không đổi tone. Tập solo, vũ đạo và lời nhanh theo tốc độ của bạn, offline và không quảng cáo.
+
+**Q: Làm sao làm chậm bài hát mà không đổi tone?**
+
+A: Dùng trình phát có chỉnh tempo riêng, như VibeDeck Player. Giảm tempo, bài hát sẽ phát chậm hơn ở cùng tone.
+
+**Q: Có làm chậm nhạc trên iPhone được không?**
+
+A: Có. VibeDeck Player làm chậm file nhạc trên iPhone và iPad mà không đổi cao độ, hoàn toàn offline.
+
+**Q: Có dùng được trên Android không?**
+
+A: Có. VibeDeck Player có trên Google Play với cùng các nút chỉnh tempo và cao độ.
+
+**Q: Những file nào làm chậm được?**
+
+A: Mọi file VibeDeck Player phát được: MP3, WAV và FLAC. Bài hát trong ứng dụng streaming không thể xử lý bằng ứng dụng khác.
+
+**Q: Có đổi tone cùng lúc được không?**
+
+A: Có. Cao độ và tempo độc lập, nên bạn có thể vừa làm chậm vừa dịch giọng tối đa ±8 nửa cung.
+
 ## 無廣告離線音樂播放器 | VibeDeck
 
 URL: https://vibedeckplayer.app/zh-hant/
@@ -2554,3 +2878,30 @@ A: 可以。iPhone 和 iPad 請到 App Store，Android 請到 Google Play。
 **Q: 免費嗎？**
 
 A: App 免費且無廣告。Premium 解鎖完整音效引擎，價格以你所在國家的商店為準。
+
+## 不變調放慢歌曲速度 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/
+Language: zh-Hant
+
+在 iPhone 或 Android 上放慢歌曲，音調不變。用自己的速度練習獨奏、舞蹈和快歌詞，離線、無廣告。
+
+**Q: 怎麼放慢歌曲又不改變音調？**
+
+A: 使用能單獨調整速度的播放器，例如 VibeDeck Player。把速度調低，歌曲就會以相同的調慢慢播放。
+
+**Q: iPhone 可以放慢音樂嗎？**
+
+A: 可以。VibeDeck Player 能在 iPhone 和 iPad 上離線放慢音樂檔，音高不變。
+
+**Q: Android 可以用嗎？**
+
+A: 可以。VibeDeck Player 已在 Google Play 上架，速度與音高控制完全相同。
+
+**Q: 哪些檔案可以放慢？**
+
+A: VibeDeck Player 能播放的檔案都可以：MP3、WAV 和 FLAC。串流 App 裡的歌曲無法被其他 App 處理。
+
+**Q: 可以同時改調嗎？**
+
+A: 可以。音高和速度互相獨立，可以一邊放慢，一邊移調最多 ±8 個半音。

@@ -1,0 +1,731 @@
+{
+ "_note": "Localized versions of /slow-down-song/. {key} is the language's change-key page, {home} its home. Built by _build/add_local_guides.py.",
+ "de": {
+  "slug": "/de/song-langsamer-abspielen/",
+  "title": "Song langsamer abspielen, Tonhöhe bleibt | VibeDeck",
+  "desc": "Spiele Songs auf iPhone oder Android langsamer ab, ohne die Tonart zu ändern. Übe Soli, Choreos und schnelle Texte in deinem Tempo, offline und ohne Werbung.",
+  "crumb": "Song langsamer abspielen",
+  "eyebrow": [
+   "Anleitung",
+   "Tempo"
+  ],
+  "h1": "Einen Song langsamer abspielen, ohne die Tonhöhe zu ändern.",
+  "h1sub": "Tempo zum Üben",
+  "lede": "Um einen Song langsamer abzuspielen, ohne dass sich die Tonhöhe ändert, öffnest du ihn in VibeDeck Player und senkst das Tempo. Der Song läuft langsamer, bleibt aber in derselben Tonart. So lernst du ein Solo, eine Choreografie oder schnelle Textzeilen und bringst den Song danach zurück auf volles Tempo. Offline auf iPhone, iPad und Android.",
+  "alt": "Tempo-Regler in VibeDeck Player zum langsameren Abspielen eines Songs",
+  "statement": "Spielt ein einfacher Player einen Song langsamer ab, klingt er tief und dumpf, wie ein leiernder Kassettenrekorder. Time-Stretching hält die Tonart, während sich das Tempo ändert. Genau so üben Musiker und Tänzer: erst langsam, dann schneller, dann im Originaltempo.",
+  "features_title": "Gemacht zum Üben",
+  "features": [
+   [
+    "Gleiche Tonart, jedes Tempo",
+    "Das Tempo ist unabhängig von der Tonhöhe, also bleibt ein verlangsamter Song in Stimmung mit deinem Instrument."
+   ],
+   [
+    "Auch die Tonart ändern",
+    "Langsamer und tiefer? Kombiniere das Tempo mit einer Tonhöhenänderung bis ±8 Halbtöne."
+   ],
+   [
+    "Offline und privat",
+    "Deine Dateien bleiben auf dem Gerät. Kein Upload, kein Internet, keine Werbung beim Üben."
+   ]
+  ],
+  "prose": "<h2>Schritt für Schritt</h2><ol><li>Installiere <strong>VibeDeck Player</strong> aus dem App Store oder von Google Play.</li><li>Importiere den Song aus deinen Dateien.</li><li>Öffne den Regler <strong>Tempo</strong> und senke ihn, bis die schwierige Stelle angenehm ist.</li><li>Übe und erhöhe das Tempo dann schrittweise bis zum Originaltempo.</li></ol><h2>Wer es nutzt</h2><ul><li><strong>Gitarristen und Pianisten</strong>, die Soli und schnelle Passagen nach Gehör lernen.</li><li><strong>Tänzer und Trainer</strong>, die Choreografien langsamer proben.</li><li><strong>Sänger</strong>, die schnelle Texte und Läufe verstehen wollen.</li><li><strong>DJs</strong>, die Übergänge im passenden Tempo vorbereiten.</li><li><strong>Sprachlerner</strong>, die Songs und Aufnahmen langsamer hören.</li></ul><p>Tempo und Tonhöhe gehören zu VibeDeck Premium; der Player selbst ist kostenlos und ohne Werbung.</p><p>Siehe auch: <a href=\"{key}\">Tonart eines Songs ändern</a>.</p>",
+  "faq_title": "Songs verlangsamen: häufige Fragen",
+  "faq": [
+   [
+    "Wie spiele ich einen Song langsamer ab, ohne dass sich die Tonhöhe ändert?",
+    "Mit einem Player, der das Tempo unabhängig regelt, zum Beispiel VibeDeck Player. Senke das Tempo, und der Song läuft langsamer in derselben Tonart."
+   ],
+   [
+    "Kann ich Musik auf dem iPhone verlangsamen?",
+    "Ja. VibeDeck Player verlangsamt lokale Musikdateien auf iPhone und iPad ohne Tonhöhenänderung, offline."
+   ],
+   [
+    "Funktioniert das auf Android?",
+    "Ja. VibeDeck Player gibt es bei Google Play mit denselben Reglern für Tempo und Tonhöhe."
+   ],
+   [
+    "Welche Dateien kann ich verlangsamen?",
+    "Alle Dateien, die VibeDeck Player abspielt: MP3, WAV und FLAC. Titel in Streaming-Apps können andere Apps nicht verarbeiten."
+   ],
+   [
+    "Kann ich gleichzeitig die Tonart ändern?",
+    "Ja. Tonhöhe und Tempo sind unabhängig, du kannst einen Song also verlangsamen und zugleich um bis zu ±8 Halbtöne transponieren."
+   ]
+  ],
+  "cta": "Üben in deinem Tempo, in deiner Tonart. Offline. Ohne Werbung.",
+  "note": "Hinweis: Die App ist derzeit auf Englisch. Der Tempo-Regler heißt dort „Tempo“."
+ },
+ "fr": {
+  "slug": "/fr/ralentir-une-chanson/",
+  "title": "Ralentir une chanson sans changer la tonalité | VibeDeck",
+  "desc": "Ralentissez une chanson sur iPhone ou Android sans changer sa tonalité. Solos, chorégraphies et paroles rapides à votre rythme, hors ligne et sans pub.",
+  "crumb": "Ralentir une chanson",
+  "eyebrow": [
+   "Guide",
+   "Tempo"
+  ],
+  "h1": "Ralentir une chanson sans changer sa tonalité.",
+  "h1sub": "Le tempo pour travailler",
+  "lede": "Pour ralentir une chanson sans changer la tonalité, ouvrez-la dans VibeDeck Player et baissez le tempo. Le morceau joue plus lentement mais reste dans la même tonalité : vous apprenez un solo, une chorégraphie ou des paroles rapides, puis vous revenez à la vitesse d’origine. Hors ligne sur iPhone, iPad et Android.",
+  "alt": "Réglage du tempo dans VibeDeck Player pour ralentir une chanson",
+  "statement": "Ralenti sur un lecteur basique, un morceau devient grave et pâteux, comme une cassette qui s’essouffle. Le time-stretching garde la tonalité pendant que la vitesse change. C’est ainsi que les musiciens et les danseurs travaillent vraiment : lentement d’abord, puis plus vite, puis au tempo d’origine.",
+  "features_title": "Pensé pour travailler",
+  "features": [
+   [
+    "Même tonalité, toute vitesse",
+    "Le tempo est indépendant de la hauteur : un morceau ralenti reste accordé avec votre instrument."
+   ],
+   [
+    "Changer aussi la tonalité",
+    "Plus lent et plus grave ? Combinez le tempo avec un changement de hauteur jusqu’à ±8 demi-tons."
+   ],
+   [
+    "Hors ligne et privé",
+    "Vos fichiers restent sur l’appareil. Ni envoi, ni internet, ni pub pendant que vous travaillez."
+   ]
+  ],
+  "prose": "<h2>Étape par étape</h2><ol><li>Installez <strong>VibeDeck Player</strong> depuis l’App Store ou Google Play.</li><li>Importez le morceau depuis vos fichiers.</li><li>Ouvrez la commande <strong>Tempo</strong> et baissez-la jusqu’à ce que le passage difficile devienne confortable.</li><li>Travaillez, puis remontez le tempo pas à pas jusqu’à la vitesse d’origine.</li></ol><h2>Qui l’utilise</h2><ul><li><strong>Guitaristes et pianistes</strong> qui relèvent des solos et des passages rapides à l’oreille.</li><li><strong>Danseurs et coachs</strong> qui répètent une chorégraphie plus lentement.</li><li><strong>Chanteurs</strong> qui veulent saisir des paroles et des vocalises rapides.</li><li><strong>DJ</strong> qui préparent des transitions au bon tempo.</li><li><strong>Apprenants en langues</strong> qui écoutent des chansons ou des enregistrements plus lentement.</li></ul><p>Le tempo et la hauteur font partie de VibeDeck Premium ; le lecteur lui-même est gratuit et sans pub.</p><p>Voir aussi : <a href=\"{key}\">changer la tonalité d’une chanson</a>.</p>",
+  "faq_title": "Ralentir une chanson : questions fréquentes",
+  "faq": [
+   [
+    "Comment ralentir une chanson sans changer la tonalité ?",
+    "Avec un lecteur qui règle le tempo indépendamment, comme VibeDeck Player. Baissez le tempo : le morceau joue plus lentement, dans la même tonalité."
+   ],
+   [
+    "Peut-on ralentir de la musique sur iPhone ?",
+    "Oui. VibeDeck Player ralentit les fichiers musicaux de votre iPhone ou iPad sans changer la hauteur, hors ligne."
+   ],
+   [
+    "Ça marche sur Android ?",
+    "Oui. VibeDeck Player est sur Google Play avec les mêmes réglages de tempo et de hauteur."
+   ],
+   [
+    "Quels fichiers peut-on ralentir ?",
+    "Tous ceux que lit VibeDeck Player : MP3, WAV et FLAC. Les titres des applis de streaming ne peuvent pas être traités par d’autres applis."
+   ],
+   [
+    "Peut-on aussi changer la tonalité ?",
+    "Oui. Hauteur et tempo sont indépendants : vous pouvez ralentir un morceau et le transposer jusqu’à ±8 demi-tons en même temps."
+   ]
+  ],
+  "cta": "Travaillez à votre vitesse, dans votre tonalité. Hors ligne. Sans pub.",
+  "note": "Remarque : l’application est pour l’instant en anglais. Le réglage du tempo s’y appelle « Tempo »."
+ },
+ "it": {
+  "slug": "/it/rallentare-una-canzone/",
+  "title": "Rallentare una canzone senza cambiare tonalità | VibeDeck",
+  "desc": "Rallenta una canzone su iPhone o Android senza cambiarne la tonalità. Studia assoli, coreografie e testi veloci al tuo ritmo, offline e senza pubblicità.",
+  "crumb": "Rallentare una canzone",
+  "eyebrow": [
+   "Guida",
+   "Tempo"
+  ],
+  "h1": "Rallentare una canzone senza cambiarne la tonalità.",
+  "h1sub": "Il tempo per esercitarsi",
+  "lede": "Per rallentare una canzone senza cambiare la tonalità, aprila in VibeDeck Player e abbassa il tempo. Il brano suona più lento ma resta nella stessa tonalità: impari un assolo, una coreografia o un testo veloce e poi torni alla velocità originale. Offline su iPhone, iPad e Android.",
+  "alt": "Controllo del tempo in VibeDeck Player per rallentare una canzone",
+  "statement": "Rallentato con un lettore qualsiasi, un brano diventa grave e impastato, come una cassetta che si scarica. Il time-stretching mantiene la tonalità mentre cambia la velocità. È così che musicisti e ballerini si esercitano davvero: prima lenti, poi più veloci, poi a tempo pieno.",
+  "features_title": "Fatto per esercitarsi",
+  "features": [
+   [
+    "Stessa tonalità, ogni velocità",
+    "Il tempo è indipendente dall’intonazione, quindi un brano rallentato resta intonato con il tuo strumento."
+   ],
+   [
+    "Cambia anche la tonalità",
+    "Più lento e più grave? Combina il tempo con un cambio di intonazione fino a ±8 semitoni."
+   ],
+   [
+    "Offline e privato",
+    "I tuoi file restano sul dispositivo. Nessun caricamento, nessun internet, nessuna pubblicità mentre ti eserciti."
+   ]
+  ],
+  "prose": "<h2>Passo dopo passo</h2><ol><li>Installa <strong>VibeDeck Player</strong> da App Store o Google Play.</li><li>Importa il brano dai tuoi file.</li><li>Apri il controllo <strong>Tempo</strong> e abbassalo finché il passaggio difficile non diventa comodo.</li><li>Esercitati, poi alza il tempo un po’ alla volta fino alla velocità originale.</li></ol><h2>Chi lo usa</h2><ul><li><strong>Chitarristi e pianisti</strong> che imparano assoli e passaggi veloci a orecchio.</li><li><strong>Ballerini e insegnanti</strong> che provano le coreografie più lentamente.</li><li><strong>Cantanti</strong> che vogliono capire testi e vocalizzi veloci.</li><li><strong>DJ</strong> che preparano transizioni a tempo.</li><li><strong>Chi studia una lingua</strong> e vuole ascoltare canzoni o registrazioni più lentamente.</li></ul><p>Tempo e intonazione fanno parte di VibeDeck Premium; il lettore è gratuito e senza pubblicità.</p><p>Vedi anche: <a href=\"{key}\">cambiare la tonalità di una canzone</a>.</p>",
+  "faq_title": "Rallentare una canzone: domande frequenti",
+  "faq": [
+   [
+    "Come rallento una canzone senza cambiare la tonalità?",
+    "Con un lettore che regola il tempo in modo indipendente, come VibeDeck Player. Abbassa il tempo e il brano suona più lento nella stessa tonalità."
+   ],
+   [
+    "Posso rallentare la musica su iPhone?",
+    "Sì. VibeDeck Player rallenta i file musicali su iPhone e iPad senza cambiare l’intonazione, offline."
+   ],
+   [
+    "Funziona su Android?",
+    "Sì. VibeDeck Player è su Google Play con gli stessi controlli di tempo e intonazione."
+   ],
+   [
+    "Quali file posso rallentare?",
+    "Tutti quelli che VibeDeck Player riproduce: MP3, WAV e FLAC. I brani delle app di streaming non possono essere elaborati da altre app."
+   ],
+   [
+    "Posso cambiare anche la tonalità?",
+    "Sì. Intonazione e tempo sono indipendenti: puoi rallentare un brano e trasporlo fino a ±8 semitoni insieme."
+   ]
+  ],
+  "cta": "Esercitati al tuo ritmo, nella tua tonalità. Offline. Senza pubblicità.",
+  "note": "Nota: l’app è attualmente in inglese. Il controllo della velocità si chiama “Tempo”."
+ },
+ "es": {
+  "slug": "/es/ralentizar-una-cancion/",
+  "title": "Ralentizar una canción sin cambiar el tono | VibeDeck",
+  "desc": "Ralentiza una canción en iPhone o Android sin cambiar su tono. Practica solos, coreografías y letras rápidas a tu ritmo, sin conexión y sin anuncios.",
+  "crumb": "Ralentizar una canción",
+  "eyebrow": [
+   "Guía",
+   "Tempo"
+  ],
+  "h1": "Ralentizar una canción sin cambiar su tono.",
+  "h1sub": "Tempo para practicar",
+  "lede": "Para ralentizar una canción sin cambiar el tono, ábrela en VibeDeck Player y baja el tempo. La canción suena más lenta pero sigue en la misma tonalidad: aprendes un solo, una coreografía o una letra rápida y luego vuelves a la velocidad original. Sin conexión en iPhone, iPad y Android.",
+  "alt": "Control de tempo en VibeDeck Player para ralentizar una canción",
+  "statement": "Si un reproductor básico ralentiza una canción, suena grave y apagada, como una cinta que se queda sin pilas. El time-stretching mantiene el tono mientras cambia la velocidad. Así practican de verdad músicos y bailarines: primero lento, luego más rápido y al final a tempo original.",
+  "features_title": "Hecho para practicar",
+  "features": [
+   [
+    "Mismo tono, cualquier velocidad",
+    "El tempo es independiente del tono, así que una canción ralentizada sigue afinada con tu instrumento."
+   ],
+   [
+    "Cambia también el tono",
+    "¿Más lenta y más grave? Combina el tempo con un cambio de tono de hasta ±8 semitonos."
+   ],
+   [
+    "Sin conexión y privado",
+    "Tus archivos se quedan en el dispositivo. Sin subidas, sin internet y sin anuncios mientras practicas."
+   ]
+  ],
+  "prose": "<h2>Paso a paso</h2><ol><li>Instala <strong>VibeDeck Player</strong> desde App Store o Google Play.</li><li>Importa la canción desde tus archivos.</li><li>Abre el control <strong>Tempo</strong> y bájalo hasta que la parte difícil resulte cómoda.</li><li>Practica y sube el tempo poco a poco hasta llegar a la velocidad original.</li></ol><h2>Quién lo usa</h2><ul><li><strong>Guitarristas y pianistas</strong> que sacan solos y pasajes rápidos de oído.</li><li><strong>Bailarines y profesores</strong> que ensayan coreografías más despacio.</li><li><strong>Cantantes</strong> que quieren entender letras y adornos rápidos.</li><li><strong>DJ</strong> que preparan transiciones al tempo adecuado.</li><li><strong>Estudiantes de idiomas</strong> que escuchan canciones o grabaciones más despacio.</li></ul><p>El tempo y el tono forman parte de VibeDeck Premium; el reproductor es gratis y sin anuncios.</p><p>Ver también: <a href=\"{key}\">cambiar el tono de una canción</a>.</p>",
+  "faq_title": "Ralentizar canciones: preguntas frecuentes",
+  "faq": [
+   [
+    "¿Cómo ralentizo una canción sin cambiar el tono?",
+    "Con un reproductor que controle el tempo por separado, como VibeDeck Player. Baja el tempo y la canción suena más lenta en el mismo tono."
+   ],
+   [
+    "¿Puedo ralentizar música en iPhone?",
+    "Sí. VibeDeck Player ralentiza archivos de música en iPhone y iPad sin cambiar el tono, sin conexión."
+   ],
+   [
+    "¿Funciona en Android?",
+    "Sí. VibeDeck Player está en Google Play con los mismos controles de tempo y tono."
+   ],
+   [
+    "¿Qué archivos puedo ralentizar?",
+    "Cualquiera que reproduzca VibeDeck Player: MP3, WAV y FLAC. Las canciones de apps de streaming no pueden procesarse en otras apps."
+   ],
+   [
+    "¿Puedo cambiar también el tono?",
+    "Sí. Tono y tempo son independientes: puedes ralentizar una canción y transponerla hasta ±8 semitonos a la vez."
+   ]
+  ],
+  "cta": "Practica a tu ritmo y en tu tono. Sin conexión. Sin anuncios.",
+  "note": "Nota: por ahora la app está en inglés. El control de velocidad se llama “Tempo”."
+ },
+ "pt-BR": {
+  "slug": "/pt-br/desacelerar-musica/",
+  "title": "Desacelerar música sem mudar o tom | VibeDeck",
+  "desc": "Deixe uma música mais lenta no iPhone ou Android sem mudar o tom. Treine solos, coreografias e letras rápidas no seu ritmo, offline e sem anúncios.",
+  "crumb": "Desacelerar música",
+  "eyebrow": [
+   "Guia",
+   "Tempo"
+  ],
+  "h1": "Desacelerar uma música sem mudar o tom.",
+  "h1sub": "Tempo para treinar",
+  "lede": "Para deixar uma música mais lenta sem mudar o tom, abra no VibeDeck Player e diminua o tempo. A música toca mais devagar, mas continua no mesmo tom: você aprende um solo, uma coreografia ou uma letra rápida e depois volta para a velocidade original. Offline no iPhone, iPad e Android.",
+  "alt": "Controle de tempo do VibeDeck Player para desacelerar uma música",
+  "statement": "Num player comum, a música mais lenta fica grave e embolada, como fita cassete perdendo força. O time-stretching mantém o tom enquanto a velocidade muda. É assim que músicos e dançarinos treinam de verdade: primeiro devagar, depois mais rápido e por fim no tempo original.",
+  "features_title": "Feito para treinar",
+  "features": [
+   [
+    "Mesmo tom, qualquer velocidade",
+    "O tempo é independente do tom, então a música desacelerada continua afinada com o seu instrumento."
+   ],
+   [
+    "Mude o tom também",
+    "Mais lenta e mais grave? Combine o tempo com uma mudança de tom de até ±8 semitons."
+   ],
+   [
+    "Offline e privado",
+    "Seus arquivos ficam no aparelho. Sem upload, sem internet e sem anúncios enquanto você treina."
+   ]
+  ],
+  "prose": "<h2>Passo a passo</h2><ol><li>Instale o <strong>VibeDeck Player</strong> pela App Store ou pelo Google Play.</li><li>Importe a música dos seus arquivos.</li><li>Abra o controle <strong>Tempo</strong> e diminua até a parte difícil ficar confortável.</li><li>Treine e aumente o tempo aos poucos até chegar à velocidade original.</li></ol><h2>Quem usa</h2><ul><li><strong>Guitarristas e pianistas</strong> tirando solos e trechos rápidos de ouvido.</li><li><strong>Dançarinos e professores</strong> ensaiando coreografias mais devagar.</li><li><strong>Cantores</strong> pegando letras e floreios rápidos.</li><li><strong>DJs</strong> preparando transições no tempo certo.</li><li><strong>Quem estuda idiomas</strong> e quer ouvir músicas ou gravações mais devagar.</li></ul><p>Tempo e tom fazem parte do VibeDeck Premium; o player é gratuito e sem anúncios.</p><p>Veja também: <a href=\"{key}\">mudar o tom de uma música</a>.</p>",
+  "faq_title": "Desacelerar música: perguntas frequentes",
+  "faq": [
+   [
+    "Como deixar uma música mais lenta sem mudar o tom?",
+    "Use um player com controle de tempo independente, como o VibeDeck Player. Diminua o tempo e a música toca mais devagar no mesmo tom."
+   ],
+   [
+    "Dá para desacelerar música no iPhone?",
+    "Sim. O VibeDeck Player desacelera arquivos de música no iPhone e iPad sem mudar o tom, offline."
+   ],
+   [
+    "Funciona no Android?",
+    "Sim. O VibeDeck Player está no Google Play com os mesmos controles de tempo e tom."
+   ],
+   [
+    "Quais arquivos posso desacelerar?",
+    "Qualquer arquivo que o VibeDeck Player toca: MP3, WAV e FLAC. Músicas de apps de streaming não podem ser processadas por outros apps."
+   ],
+   [
+    "Posso mudar o tom também?",
+    "Sim. Tom e tempo são independentes: dá para desacelerar a música e transpor até ±8 semitons ao mesmo tempo."
+   ]
+  ],
+  "cta": "Treine no seu ritmo, no seu tom. Offline. Sem anúncios.",
+  "note": "Observação: por enquanto o app está em inglês. O controle de velocidade se chama “Tempo”."
+ },
+ "ru": {
+  "slug": "/ru/zamedlit-pesnyu/",
+  "title": "Как замедлить песню без изменения тональности | VibeDeck",
+  "desc": "Замедлите песню на iPhone или Android, не меняя тональность. Разбирайте соло, хореографию и быстрый текст в своём темпе, без интернета и рекламы.",
+  "crumb": "Замедлить песню",
+  "eyebrow": [
+   "Инструкция",
+   "Темп"
+  ],
+  "h1": "Как замедлить песню, не меняя тональность.",
+  "h1sub": "Темп для занятий",
+  "lede": "Чтобы замедлить песню без изменения тональности, откройте её в VibeDeck Player и уменьшите темп. Песня играет медленнее, но остаётся в той же тональности: можно выучить соло, связку или быстрый текст, а потом вернуть исходную скорость. Без интернета на iPhone, iPad и Android.",
+  "alt": "Регулятор темпа в VibeDeck Player для замедления песни",
+  "statement": "Если замедлить трек в обычном плеере, он становится низким и мутным, как зажёванная кассета. Растяжение по времени сохраняет тональность, пока меняется скорость. Именно так занимаются музыканты и танцоры: сначала медленно, потом быстрее, потом в оригинальном темпе.",
+  "features_title": "Сделано для занятий",
+  "features": [
+   [
+    "Та же тональность, любой темп",
+    "Темп не зависит от высоты тона, поэтому замедленная песня остаётся в строе с вашим инструментом."
+   ],
+   [
+    "Можно и тональность",
+    "Медленнее и ниже? Сочетайте темп со сдвигом высоты тона до ±8 полутонов."
+   ],
+   [
+    "Без интернета и приватно",
+    "Файлы остаются на устройстве. Никакой загрузки, интернета и рекламы во время занятий."
+   ]
+  ],
+  "prose": "<h2>По шагам</h2><ol><li>Установите <strong>VibeDeck Player</strong> из App Store или Google Play.</li><li>Загрузите песню из своих файлов.</li><li>Откройте регулятор <strong>Tempo</strong> и уменьшайте темп, пока сложное место не станет удобным.</li><li>Позанимайтесь, а затем постепенно поднимайте темп до исходного.</li></ol><h2>Кому пригодится</h2><ul><li><strong>Гитаристам и пианистам</strong>, которые снимают соло и быстрые пассажи на слух.</li><li><strong>Танцорам и тренерам</strong>, которые разучивают хореографию в медленном счёте.</li><li><strong>Вокалистам</strong>, которым нужно разобрать быстрый текст и распевки.</li><li><strong>Диджеям</strong>, которые готовят переходы в нужном темпе.</li><li><strong>Тем, кто учит язык</strong> и хочет слушать песни и записи медленнее.</li></ul><p>Темп и высота тона входят в VibeDeck Premium, а сам плеер бесплатный и без рекламы.</p><p>Читайте также: <a href=\"{key}\">как сменить тональность песни</a>.</p>",
+  "faq_title": "Замедление песен: частые вопросы",
+  "faq": [
+   [
+    "Как замедлить песню, не меняя тональность?",
+    "Нужен плеер с отдельной регулировкой темпа, например VibeDeck Player. Уменьшите темп, и песня заиграет медленнее в той же тональности."
+   ],
+   [
+    "Можно ли замедлить музыку на iPhone?",
+    "Да. VibeDeck Player замедляет музыкальные файлы на iPhone и iPad без изменения высоты тона и без интернета."
+   ],
+   [
+    "Работает на Android?",
+    "Да. VibeDeck Player есть в Google Play с такими же регуляторами темпа и высоты тона."
+   ],
+   [
+    "Какие файлы можно замедлить?",
+    "Любые, которые играет VibeDeck Player: MP3, WAV и FLAC. Треки внутри стриминговых приложений другие приложения обработать не могут."
+   ],
+   [
+    "Можно одновременно сменить тональность?",
+    "Да. Высота тона и темп независимы, поэтому песню можно и замедлить, и транспонировать до ±8 полутонов."
+   ]
+  ],
+  "cta": "Занимайтесь в своём темпе и в своей тональности. Без интернета и рекламы.",
+  "note": "Обратите внимание: приложение пока на английском. Регулятор темпа там называется «Tempo»."
+ },
+ "ko": {
+  "slug": "/ko/tempo-byeongyeong/",
+  "title": "음정 그대로 노래 속도 늦추기 | VibeDeck",
+  "desc": "iPhone이나 Android에서 키는 그대로 두고 노래를 느리게 재생하세요. 솔로, 안무, 빠른 가사를 내 속도로 연습할 수 있습니다. 오프라인, 광고 없음.",
+  "crumb": "노래 속도 늦추기",
+  "eyebrow": [
+   "가이드",
+   "템포"
+  ],
+  "h1": "음정은 그대로, 노래 속도만 늦추기.",
+  "h1sub": "연습을 위한 템포",
+  "lede": "키를 바꾸지 않고 노래를 느리게 듣고 싶다면 VibeDeck Player에서 곡을 열고 템포를 낮추세요. 곡은 느려지지만 키는 그대로입니다. 솔로, 안무, 빠른 가사를 익힌 뒤 다시 원래 속도로 돌려 보세요. iPhone, iPad, Android에서 오프라인으로 작동합니다.",
+  "alt": "VibeDeck Player에서 노래 속도를 늦추는 템포 조절",
+  "statement": "일반 플레이어로 속도를 늦추면 늘어진 테이프처럼 낮고 탁하게 들립니다. 타임 스트레칭은 속도가 바뀌어도 키를 유지합니다. 음악가와 댄서가 실제로 연습하는 방식이 바로 이것입니다. 먼저 느리게, 그다음 조금 빠르게, 마지막엔 원래 템포로.",
+  "features_title": "연습을 위해 만든 기능",
+  "features": [
+   [
+    "같은 키, 원하는 속도",
+    "템포가 음정과 독립적이라 느리게 재생해도 악기와 음이 맞습니다."
+   ],
+   [
+    "키도 함께",
+    "더 느리고 더 낮게? 템포와 함께 피치를 ±8 반음까지 조절하세요."
+   ],
+   [
+    "오프라인, 프라이버시",
+    "파일은 기기에 그대로 있습니다. 업로드도, 인터넷도, 연습 중 광고도 없습니다."
+   ]
+  ],
+  "prose": "<h2>단계별 안내</h2><ol><li>App Store나 Google Play에서 <strong>VibeDeck Player</strong>를 설치하세요.</li><li>내 파일에서 곡을 가져오세요.</li><li><strong>Tempo</strong> 조절을 열고 어려운 부분이 편해질 때까지 낮추세요.</li><li>연습한 뒤 원래 속도가 될 때까지 템포를 조금씩 올리세요.</li></ol><h2>이런 분들이 씁니다</h2><ul><li><strong>기타리스트와 피아니스트</strong>: 솔로와 빠른 구간을 귀로 따라갈 때.</li><li><strong>댄서와 강사</strong>: 안무를 느린 카운트로 연습할 때.</li><li><strong>보컬</strong>: 빠른 가사와 애드리브를 익힐 때.</li><li><strong>DJ</strong>: 템포에 맞춰 전환을 준비할 때.</li><li><strong>언어 학습자</strong>: 노래나 녹음을 천천히 들을 때.</li></ul><p>템포와 피치는 VibeDeck Premium 기능이며, 플레이어 자체는 무료이고 광고가 없습니다.</p><p>함께 보기: <a href=\"{key}\">노래 키 바꾸는 법</a>.</p>",
+  "faq_title": "노래 속도 늦추기: 자주 묻는 질문",
+  "faq": [
+   [
+    "키를 바꾸지 않고 노래를 느리게 하려면?",
+    "VibeDeck Player처럼 템포를 따로 조절할 수 있는 플레이어를 쓰세요. 템포를 낮추면 같은 키로 느리게 재생됩니다."
+   ],
+   [
+    "iPhone에서 음악을 느리게 할 수 있나요?",
+    "네. VibeDeck Player는 iPhone과 iPad에 있는 음악 파일을 피치 변화 없이 오프라인으로 느리게 재생합니다."
+   ],
+   [
+    "Android에서도 되나요?",
+    "네. VibeDeck Player는 Google Play에 있으며 템포와 피치 조절도 똑같습니다."
+   ],
+   [
+    "어떤 파일을 느리게 할 수 있나요?",
+    "VibeDeck Player가 재생하는 MP3, WAV, FLAC 파일이면 됩니다. 스트리밍 앱 안의 곡은 다른 앱에서 처리할 수 없습니다."
+   ],
+   [
+    "키도 함께 바꿀 수 있나요?",
+    "네. 피치와 템포가 독립적이라 곡을 느리게 하면서 ±8 반음까지 조옮김할 수 있습니다."
+   ]
+  ],
+  "cta": "내 속도, 내 키로 연습하세요. 오프라인, 광고 없음.",
+  "note": "참고: 앱은 현재 영어로 되어 있으며, 속도 조절은 'Tempo'라는 이름으로 표시됩니다."
+ },
+ "tr": {
+  "slug": "/tr/sarkiyi-yavaslatma/",
+  "title": "Şarkıyı tonunu bozmadan yavaşlatma | VibeDeck",
+  "desc": "iPhone veya Android’de bir şarkıyı tonunu değiştirmeden yavaşlat. Soloları, koreografileri ve hızlı sözleri kendi hızında çalış; çevrimdışı ve reklamsız.",
+  "crumb": "Şarkıyı yavaşlatma",
+  "eyebrow": [
+   "Rehber",
+   "Tempo"
+  ],
+  "h1": "Bir şarkıyı tonunu değiştirmeden yavaşlatmak.",
+  "h1sub": "Çalışmak için tempo",
+  "lede": "Bir şarkıyı tonunu değiştirmeden yavaşlatmak için VibeDeck Player’da aç ve tempoyu düşür. Şarkı daha yavaş çalar ama aynı tonda kalır: bir soloyu, bir koreografiyi ya da hızlı sözleri öğrenir, sonra orijinal hıza dönersin. iPhone, iPad ve Android’de çevrimdışı.",
+  "alt": "VibeDeck Player’da şarkıyı yavaşlatmak için tempo kontrolü",
+  "statement": "Sıradan bir çalarda yavaşlatılan şarkı, pili biten bir kaset gibi kalın ve boğuk duyulur. Zaman esnetme, hız değişirken tonu korur. Müzisyenler ve dansçılar da tam böyle çalışır: önce yavaş, sonra biraz daha hızlı, en sonunda orijinal tempoda.",
+  "features_title": "Çalışmak için yapıldı",
+  "features": [
+   [
+    "Aynı ton, her hız",
+    "Tempo tondan bağımsızdır; yavaşlatılmış şarkı enstrümanınla akortlu kalır."
+   ],
+   [
+    "Tonu da değiştir",
+    "Daha yavaş ve daha pes mi? Tempoyu ±8 yarım tona kadar ton değişimiyle birleştir."
+   ],
+   [
+    "Çevrimdışı ve gizli",
+    "Dosyaların cihazda kalır. Yükleme yok, internet yok, çalışırken reklam yok."
+   ]
+  ],
+  "prose": "<h2>Adım adım</h2><ol><li><strong>VibeDeck Player</strong>’ı App Store’dan ya da Google Play’den yükle.</li><li>Şarkıyı dosyalarından içe aktar.</li><li><strong>Tempo</strong> kontrolünü aç ve zor bölüm rahatlayana kadar düşür.</li><li>Çalış, sonra tempoyu adım adım orijinal hıza kadar yükselt.</li></ol><h2>Kimler kullanıyor</h2><ul><li><strong>Gitaristler ve piyanistler</strong>, soloları ve hızlı pasajları kulaktan çıkarırken.</li><li><strong>Dansçılar ve eğitmenler</strong>, koreografiyi daha yavaş sayarak prova ederken.</li><li><strong>Şarkıcılar</strong>, hızlı sözleri ve süslemeleri yakalarken.</li><li><strong>DJ’ler</strong>, geçişleri doğru tempoda hazırlarken.</li><li><strong>Dil öğrenenler</strong>, şarkıları ya da kayıtları daha yavaş dinlerken.</li></ul><p>Tempo ve ton VibeDeck Premium’a dahildir; çaların kendisi ücretsiz ve reklamsızdır.</p><p>Ayrıca bak: <a href=\"{key}\">bir şarkının tonunu değiştirmek</a>.</p>",
+  "faq_title": "Şarkı yavaşlatma: sık sorulan sorular",
+  "faq": [
+   [
+    "Bir şarkıyı tonunu değiştirmeden nasıl yavaşlatırım?",
+    "VibeDeck Player gibi tempoyu ayrı ayarlayan bir çalar kullan. Tempoyu düşürdüğünde şarkı aynı tonda daha yavaş çalar."
+   ],
+   [
+    "iPhone’da müziği yavaşlatabilir miyim?",
+    "Evet. VibeDeck Player, iPhone ve iPad’deki müzik dosyalarını tonu değiştirmeden ve çevrimdışı yavaşlatır."
+   ],
+   [
+    "Android’de çalışır mı?",
+    "Evet. VibeDeck Player aynı tempo ve ton kontrolleriyle Google Play’de var."
+   ],
+   [
+    "Hangi dosyaları yavaşlatabilirim?",
+    "VibeDeck Player’ın çaldığı her dosyayı: MP3, WAV ve FLAC. Akış uygulamalarındaki şarkılar başka uygulamalarca işlenemez."
+   ],
+   [
+    "Tonu da aynı anda değiştirebilir miyim?",
+    "Evet. Ton ve tempo bağımsızdır; şarkıyı yavaşlatıp aynı anda ±8 yarım tona kadar transpoze edebilirsin."
+   ]
+  ],
+  "cta": "Kendi hızında, kendi tonunda çalış. Çevrimdışı. Reklamsız.",
+  "note": "Not: Uygulama şimdilik İngilizce. Hız ayarının adı orada “Tempo”."
+ },
+ "id": {
+  "slug": "/id/memperlambat-lagu/",
+  "title": "Cara memperlambat lagu tanpa mengubah nada | VibeDeck",
+  "desc": "Perlambat lagu di iPhone atau Android tanpa mengubah nadanya. Latih solo, koreografi, dan lirik cepat sesuai kecepatanmu, offline dan tanpa iklan.",
+  "crumb": "Memperlambat lagu",
+  "eyebrow": [
+   "Panduan",
+   "Tempo"
+  ],
+  "h1": "Memperlambat lagu tanpa mengubah nadanya.",
+  "h1sub": "Tempo untuk latihan",
+  "lede": "Untuk memperlambat lagu tanpa mengubah nada, buka lagunya di VibeDeck Player lalu turunkan tempo. Lagu diputar lebih lambat tetapi tetap di nada yang sama: kamu bisa belajar solo, koreografi, atau lirik cepat, lalu kembali ke kecepatan asli. Offline di iPhone, iPad, dan Android.",
+  "alt": "Kontrol tempo di VibeDeck Player untuk memperlambat lagu",
+  "statement": "Kalau diperlambat dengan pemutar biasa, lagu jadi berat dan keruh seperti kaset yang kehabisan baterai. Time-stretching menjaga nada saat kecepatan berubah. Begitulah musisi dan penari benar-benar berlatih: pelan dulu, lalu lebih cepat, lalu tempo asli.",
+  "features_title": "Dibuat untuk latihan",
+  "features": [
+   [
+    "Nada sama, kecepatan bebas",
+    "Tempo terpisah dari nada, jadi lagu yang diperlambat tetap selaras dengan alat musikmu."
+   ],
+   [
+    "Ubah nada juga",
+    "Lebih lambat dan lebih rendah? Gabungkan tempo dengan perubahan nada hingga ±8 semitone."
+   ],
+   [
+    "Offline dan privat",
+    "File tetap di perangkat. Tanpa unggahan, tanpa internet, tanpa iklan saat latihan."
+   ]
+  ],
+  "prose": "<h2>Langkah demi langkah</h2><ol><li>Pasang <strong>VibeDeck Player</strong> dari App Store atau Google Play.</li><li>Impor lagu dari file kamu.</li><li>Buka kontrol <strong>Tempo</strong> dan turunkan sampai bagian yang sulit terasa nyaman.</li><li>Berlatih, lalu naikkan tempo sedikit demi sedikit sampai kecepatan asli.</li></ol><h2>Siapa yang memakainya</h2><ul><li><strong>Gitaris dan pianis</strong> yang belajar solo dan bagian cepat dengan mendengar.</li><li><strong>Penari dan pelatih</strong> yang berlatih koreografi dengan hitungan lebih lambat.</li><li><strong>Penyanyi</strong> yang ingin menangkap lirik dan cengkok cepat.</li><li><strong>DJ</strong> yang menyiapkan transisi di tempo yang pas.</li><li><strong>Pelajar bahasa</strong> yang ingin mendengar lagu atau rekaman lebih pelan.</li></ul><p>Tempo dan nada termasuk dalam VibeDeck Premium; pemutarnya sendiri gratis dan tanpa iklan.</p><p>Baca juga: <a href=\"{key}\">cara mengubah nada lagu</a>.</p>",
+  "faq_title": "Memperlambat lagu: pertanyaan umum",
+  "faq": [
+   [
+    "Bagaimana cara memperlambat lagu tanpa mengubah nada?",
+    "Gunakan pemutar dengan pengatur tempo terpisah, seperti VibeDeck Player. Turunkan tempo dan lagu diputar lebih lambat di nada yang sama."
+   ],
+   [
+    "Bisakah memperlambat musik di iPhone?",
+    "Bisa. VibeDeck Player memperlambat file musik di iPhone dan iPad tanpa mengubah nada, secara offline."
+   ],
+   [
+    "Apakah bisa di Android?",
+    "Bisa. VibeDeck Player ada di Google Play dengan kontrol tempo dan nada yang sama."
+   ],
+   [
+    "File apa saja yang bisa diperlambat?",
+    "Semua file yang diputar VibeDeck Player: MP3, WAV, dan FLAC. Lagu di aplikasi streaming tidak bisa diolah oleh aplikasi lain."
+   ],
+   [
+    "Bisakah mengubah nada sekaligus?",
+    "Bisa. Nada dan tempo terpisah, jadi kamu bisa memperlambat lagu sekaligus mentranspose hingga ±8 semitone."
+   ]
+  ],
+  "cta": "Latihan sesuai kecepatan dan nadamu. Offline. Tanpa iklan.",
+  "note": "Catatan: aplikasinya saat ini berbahasa Inggris. Pengaturan kecepatan di sana bernama “Tempo”."
+ },
+ "pl": {
+  "slug": "/pl/zwolnic-piosenke/",
+  "title": "Jak zwolnić piosenkę bez zmiany tonacji | VibeDeck",
+  "desc": "Zwolnij piosenkę na iPhonie lub Androidzie bez zmiany tonacji. Ćwicz solówki, choreografie i szybkie teksty we własnym tempie, offline i bez reklam.",
+  "crumb": "Zwolnić piosenkę",
+  "eyebrow": [
+   "Poradnik",
+   "Tempo"
+  ],
+  "h1": "Jak zwolnić piosenkę bez zmiany tonacji.",
+  "h1sub": "Tempo do ćwiczeń",
+  "lede": "Aby zwolnić piosenkę bez zmiany tonacji, otwórz ją w VibeDeck Player i zmniejsz tempo. Utwór gra wolniej, ale zostaje w tej samej tonacji: nauczysz się solówki, choreografii albo szybkiego tekstu, a potem wrócisz do oryginalnej prędkości. Offline na iPhonie, iPadzie i Androidzie.",
+  "alt": "Regulacja tempa w VibeDeck Player do zwalniania piosenki",
+  "statement": "Zwolniony w zwykłym odtwarzaczu utwór brzmi nisko i mętnie, jak kaseta, której kończą się baterie. Rozciąganie w czasie zachowuje tonację, gdy zmienia się prędkość. Tak naprawdę ćwiczą muzycy i tancerze: najpierw wolno, potem szybciej, a na końcu w oryginalnym tempie.",
+  "features_title": "Stworzone do ćwiczeń",
+  "features": [
+   [
+    "Ta sama tonacja, każda prędkość",
+    "Tempo nie zależy od wysokości dźwięku, więc zwolniony utwór stroi z Twoim instrumentem."
+   ],
+   [
+    "Zmień też tonację",
+    "Wolniej i niżej? Połącz tempo ze zmianą wysokości dźwięku do ±8 półtonów."
+   ],
+   [
+    "Offline i prywatnie",
+    "Pliki zostają na urządzeniu. Bez wysyłania, bez internetu, bez reklam podczas ćwiczeń."
+   ]
+  ],
+  "prose": "<h2>Krok po kroku</h2><ol><li>Zainstaluj <strong>VibeDeck Player</strong> z App Store albo Google Play.</li><li>Zaimportuj utwór ze swoich plików.</li><li>Otwórz regulację <strong>Tempo</strong> i zmniejszaj ją, aż trudny fragment stanie się wygodny.</li><li>Ćwicz, a potem stopniowo podnoś tempo do oryginalnej prędkości.</li></ol><h2>Kto z tego korzysta</h2><ul><li><strong>Gitarzyści i pianiści</strong>, którzy zgrywają ze słuchu solówki i szybkie pasaże.</li><li><strong>Tancerze i trenerzy</strong>, którzy ćwiczą choreografię na wolniejszym liczeniu.</li><li><strong>Wokaliści</strong>, którzy chcą wyłapać szybki tekst i ozdobniki.</li><li><strong>DJ-e</strong>, którzy przygotowują przejścia w odpowiednim tempie.</li><li><strong>Osoby uczące się języków</strong>, które chcą słuchać piosenek lub nagrań wolniej.</li></ul><p>Tempo i wysokość dźwięku są częścią VibeDeck Premium; sam odtwarzacz jest darmowy i bez reklam.</p><p>Zobacz też: <a href=\"{key}\">jak zmienić tonację piosenki</a>.</p>",
+  "faq_title": "Zwalnianie piosenek: najczęstsze pytania",
+  "faq": [
+   [
+    "Jak zwolnić piosenkę bez zmiany tonacji?",
+    "Użyj odtwarzacza z niezależną regulacją tempa, na przykład VibeDeck Player. Zmniejsz tempo, a utwór zagra wolniej w tej samej tonacji."
+   ],
+   [
+    "Czy mogę zwolnić muzykę na iPhonie?",
+    "Tak. VibeDeck Player zwalnia pliki muzyczne na iPhonie i iPadzie bez zmiany wysokości dźwięku, offline."
+   ],
+   [
+    "Czy działa na Androidzie?",
+    "Tak. VibeDeck Player jest w Google Play z tymi samymi regulacjami tempa i wysokości dźwięku."
+   ],
+   [
+    "Jakie pliki mogę zwolnić?",
+    "Każdy plik, który odtwarza VibeDeck Player: MP3, WAV i FLAC. Utworów z aplikacji streamingowych nie mogą przetwarzać inne aplikacje."
+   ],
+   [
+    "Czy mogę jednocześnie zmienić tonację?",
+    "Tak. Wysokość dźwięku i tempo są niezależne, więc możesz zwolnić utwór i jednocześnie transponować go o ±8 półtonów."
+   ]
+  ],
+  "cta": "Ćwicz we własnym tempie i swojej tonacji. Offline. Bez reklam.",
+  "note": "Uwaga: aplikacja jest na razie po angielsku. Regulacja tempa nazywa się w niej „Tempo”."
+ },
+ "nl": {
+  "slug": "/nl/nummer-vertragen/",
+  "title": "Een nummer vertragen zonder toonhoogte | VibeDeck",
+  "desc": "Vertraag een nummer op iPhone of Android zonder de toonhoogte te veranderen. Oefen solo’s, choreografie en snelle teksten in je eigen tempo. Offline.",
+  "crumb": "Nummer vertragen",
+  "eyebrow": [
+   "Handleiding",
+   "Tempo"
+  ],
+  "h1": "Een nummer vertragen zonder de toonhoogte te veranderen.",
+  "h1sub": "Tempo om te oefenen",
+  "lede": "Om een nummer te vertragen zonder de toonhoogte te veranderen, open je het in VibeDeck Player en zet je het tempo lager. Het nummer speelt langzamer maar blijft in dezelfde toonsoort: je leert een solo, een choreografie of een snelle tekst en gaat daarna terug naar de originele snelheid. Offline op iPhone, iPad en Android.",
+  "alt": "Temporegelaar in VibeDeck Player om een nummer te vertragen",
+  "statement": "Vertraag je een nummer in een gewone speler, dan klinkt het laag en dof, als een cassette met lege batterijen. Time-stretching houdt de toonsoort vast terwijl de snelheid verandert. Zo oefenen muzikanten en dansers echt: eerst langzaam, dan sneller, dan op het originele tempo.",
+  "features_title": "Gemaakt om te oefenen",
+  "features": [
+   [
+    "Zelfde toonsoort, elke snelheid",
+    "Het tempo staat los van de toonhoogte, dus een vertraagd nummer blijft gestemd met je instrument."
+   ],
+   [
+    "Ook de toonsoort",
+    "Langzamer en lager? Combineer het tempo met een toonhoogtewijziging tot ±8 halve tonen."
+   ],
+   [
+    "Offline en privé",
+    "Je bestanden blijven op je apparaat. Geen upload, geen internet, geen advertenties tijdens het oefenen."
+   ]
+  ],
+  "prose": "<h2>Stap voor stap</h2><ol><li>Installeer <strong>VibeDeck Player</strong> uit de App Store of Google Play.</li><li>Importeer het nummer uit je bestanden.</li><li>Open de regelaar <strong>Tempo</strong> en zet hem lager tot het moeilijke stuk comfortabel is.</li><li>Oefen en verhoog het tempo stap voor stap tot de originele snelheid.</li></ol><h2>Wie het gebruikt</h2><ul><li><strong>Gitaristen en pianisten</strong> die solo’s en snelle passages op het gehoor leren.</li><li><strong>Dansers en coaches</strong> die choreografie op een langzamere tel oefenen.</li><li><strong>Zangers</strong> die snelle teksten en loopjes willen verstaan.</li><li><strong>Dj’s</strong> die overgangen op het juiste tempo voorbereiden.</li><li><strong>Taalleerders</strong> die nummers of opnames langzamer willen horen.</li></ul><p>Tempo en toonhoogte horen bij VibeDeck Premium; de speler zelf is gratis en zonder advertenties.</p><p>Zie ook: <a href=\"{key}\">de toonsoort van een nummer veranderen</a>.</p>",
+  "faq_title": "Nummers vertragen: veelgestelde vragen",
+  "faq": [
+   [
+    "Hoe vertraag ik een nummer zonder de toonhoogte te veranderen?",
+    "Gebruik een speler met een aparte temporegelaar, zoals VibeDeck Player. Zet het tempo lager en het nummer speelt langzamer in dezelfde toonsoort."
+   ],
+   [
+    "Kan ik muziek vertragen op iPhone?",
+    "Ja. VibeDeck Player vertraagt muziekbestanden op iPhone en iPad zonder de toonhoogte te veranderen, offline."
+   ],
+   [
+    "Werkt het op Android?",
+    "Ja. VibeDeck Player staat in Google Play met dezelfde regelaars voor tempo en toonhoogte."
+   ],
+   [
+    "Welke bestanden kan ik vertragen?",
+    "Elk bestand dat VibeDeck Player afspeelt: MP3, WAV en FLAC. Nummers in streamingapps kunnen niet door andere apps worden bewerkt."
+   ],
+   [
+    "Kan ik tegelijk de toonsoort veranderen?",
+    "Ja. Toonhoogte en tempo zijn onafhankelijk, dus je kunt een nummer vertragen en tegelijk tot ±8 halve tonen transponeren."
+   ]
+  ],
+  "cta": "Oefen in je eigen tempo en toonsoort. Offline. Zonder advertenties.",
+  "note": "Let op: de app is voorlopig in het Engels. De temporegelaar heet daar “Tempo”."
+ },
+ "vi": {
+  "slug": "/vi/lam-cham-bai-hat/",
+  "title": "Làm chậm bài hát mà không đổi tone | VibeDeck",
+  "desc": "Làm chậm bài hát trên iPhone hoặc Android mà không đổi tone. Tập solo, vũ đạo và lời nhanh theo tốc độ của bạn, offline và không quảng cáo.",
+  "crumb": "Làm chậm bài hát",
+  "eyebrow": [
+   "Hướng dẫn",
+   "Tempo"
+  ],
+  "h1": "Làm chậm bài hát mà không đổi tone.",
+  "h1sub": "Tempo để luyện tập",
+  "lede": "Muốn làm chậm bài hát mà không đổi tone, hãy mở bài trong VibeDeck Player và giảm tempo. Bài hát phát chậm hơn nhưng vẫn giữ nguyên tone: bạn học solo, vũ đạo hay đoạn lời nhanh, rồi đưa về tốc độ gốc. Offline trên iPhone, iPad và Android.",
+  "alt": "Nút chỉnh tempo trong VibeDeck Player để làm chậm bài hát",
+  "statement": "Làm chậm bằng trình phát thông thường, bài hát sẽ trầm và đục như băng cassette sắp hết pin. Time-stretching giữ nguyên tone khi tốc độ thay đổi. Đó chính là cách nhạc công và vũ công luyện tập: chậm trước, rồi nhanh dần, cuối cùng là tempo gốc.",
+  "features_title": "Làm ra để luyện tập",
+  "features": [
+   [
+    "Cùng tone, mọi tốc độ",
+    "Tempo độc lập với cao độ, nên bài hát chậm lại vẫn khớp với nhạc cụ của bạn."
+   ],
+   [
+    "Đổi cả tone",
+    "Chậm hơn và thấp hơn? Kết hợp tempo với đổi cao độ tối đa ±8 nửa cung."
+   ],
+   [
+    "Offline và riêng tư",
+    "File nằm trên thiết bị. Không tải lên, không internet, không quảng cáo khi luyện tập."
+   ]
+  ],
+  "prose": "<h2>Từng bước</h2><ol><li>Cài <strong>VibeDeck Player</strong> từ App Store hoặc Google Play.</li><li>Nhập bài hát từ file của bạn.</li><li>Mở nút <strong>Tempo</strong> và giảm dần cho đến khi đoạn khó trở nên dễ chịu.</li><li>Luyện tập, rồi tăng tempo từng chút đến tốc độ gốc.</li></ol><h2>Ai dùng tính năng này</h2><ul><li><strong>Người chơi guitar và piano</strong> học solo và đoạn nhanh bằng tai.</li><li><strong>Vũ công và huấn luyện viên</strong> tập vũ đạo với nhịp đếm chậm hơn.</li><li><strong>Ca sĩ</strong> muốn bắt kịp lời và luyến láy nhanh.</li><li><strong>DJ</strong> chuẩn bị chuyển bài đúng tempo.</li><li><strong>Người học ngoại ngữ</strong> muốn nghe bài hát hoặc bản ghi chậm hơn.</li></ul><p>Tempo và cao độ thuộc VibeDeck Premium; trình phát thì miễn phí và không quảng cáo.</p><p>Xem thêm: <a href=\"{key}\">cách đổi tone bài hát</a>.</p>",
+  "faq_title": "Làm chậm bài hát: câu hỏi thường gặp",
+  "faq": [
+   [
+    "Làm sao làm chậm bài hát mà không đổi tone?",
+    "Dùng trình phát có chỉnh tempo riêng, như VibeDeck Player. Giảm tempo, bài hát sẽ phát chậm hơn ở cùng tone."
+   ],
+   [
+    "Có làm chậm nhạc trên iPhone được không?",
+    "Có. VibeDeck Player làm chậm file nhạc trên iPhone và iPad mà không đổi cao độ, hoàn toàn offline."
+   ],
+   [
+    "Có dùng được trên Android không?",
+    "Có. VibeDeck Player có trên Google Play với cùng các nút chỉnh tempo và cao độ."
+   ],
+   [
+    "Những file nào làm chậm được?",
+    "Mọi file VibeDeck Player phát được: MP3, WAV và FLAC. Bài hát trong ứng dụng streaming không thể xử lý bằng ứng dụng khác."
+   ],
+   [
+    "Có đổi tone cùng lúc được không?",
+    "Có. Cao độ và tempo độc lập, nên bạn có thể vừa làm chậm vừa dịch giọng tối đa ±8 nửa cung."
+   ]
+  ],
+  "cta": "Luyện tập theo tốc độ và tone của bạn. Offline. Không quảng cáo.",
+  "note": "Lưu ý: ứng dụng hiện vẫn bằng tiếng Anh. Nút chỉnh tốc độ trong ứng dụng có tên là “Tempo”."
+ },
+ "zh-Hant": {
+  "slug": "/zh-hant/fang-man-ge-qu/",
+  "title": "不變調放慢歌曲速度 | VibeDeck",
+  "desc": "在 iPhone 或 Android 上放慢歌曲，音調不變。用自己的速度練習獨奏、舞蹈和快歌詞，離線、無廣告。",
+  "crumb": "放慢歌曲",
+  "eyebrow": [
+   "教學",
+   "速度"
+  ],
+  "h1": "放慢歌曲，音調不變。",
+  "h1sub": "練習用的速度控制",
+  "lede": "想放慢歌曲又不改變音調，只要在 VibeDeck Player 裡打開歌曲，把速度調低。歌曲變慢，但調不變：可以先學會獨奏、舞蹈或快歌詞，再調回原速。支援 iPhone、iPad 和 Android，離線也能用。",
+  "alt": "VibeDeck Player 中用來放慢歌曲的速度控制",
+  "statement": "用一般播放器放慢，歌曲會變得又低又悶，像電池快沒電的錄音帶。時間伸縮能在改變速度時保持音調。音樂人和舞者真正的練習方式就是這樣：先慢，再快一點，最後回到原速。",
+  "features_title": "為練習而設計",
+  "features": [
+   [
+    "同樣的調，任意速度",
+    "速度和音高互相獨立，放慢後仍和你的樂器音準一致。"
+   ],
+   [
+    "也能改調",
+    "要更慢又更低？速度可搭配最多 ±8 個半音的音高調整。"
+   ],
+   [
+    "離線、隱私",
+    "檔案留在裝置上。不上傳、不用網路，練習時也沒有廣告。"
+   ]
+  ],
+  "prose": "<h2>操作步驟</h2><ol><li>從 App Store 或 Google Play 安裝 <strong>VibeDeck Player</strong>。</li><li>從你的檔案匯入歌曲。</li><li>打開 <strong>Tempo</strong> 控制，調低到困難段落變得順手為止。</li><li>練習後，再一點一點把速度調回原速。</li></ol><h2>誰會用到</h2><ul><li><strong>吉他手和鋼琴手</strong>：用耳朵扒獨奏和快速段落。</li><li><strong>舞者和老師</strong>：用較慢的拍子排練舞蹈。</li><li><strong>歌手</strong>：聽清楚快歌詞和轉音。</li><li><strong>DJ</strong>：在對的速度上準備銜接。</li><li><strong>學語言的人</strong>：放慢聆聽歌曲或錄音。</li></ul><p>速度與音高屬於 VibeDeck Premium 功能；播放器本身免費且無廣告。</p><p>延伸閱讀：<a href=\"{key}\">如何升降調</a>。</p>",
+  "faq_title": "放慢歌曲：常見問題",
+  "faq": [
+   [
+    "怎麼放慢歌曲又不改變音調？",
+    "使用能單獨調整速度的播放器，例如 VibeDeck Player。把速度調低，歌曲就會以相同的調慢慢播放。"
+   ],
+   [
+    "iPhone 可以放慢音樂嗎？",
+    "可以。VibeDeck Player 能在 iPhone 和 iPad 上離線放慢音樂檔，音高不變。"
+   ],
+   [
+    "Android 可以用嗎？",
+    "可以。VibeDeck Player 已在 Google Play 上架，速度與音高控制完全相同。"
+   ],
+   [
+    "哪些檔案可以放慢？",
+    "VibeDeck Player 能播放的檔案都可以：MP3、WAV 和 FLAC。串流 App 裡的歌曲無法被其他 App 處理。"
+   ],
+   [
+    "可以同時改調嗎？",
+    "可以。音高和速度互相獨立，可以一邊放慢，一邊移調最多 ±8 個半音。"
+   ]
+  ],
+  "cta": "用你的速度、你的調練習。離線、無廣告。",
+  "note": "注意：App 目前為英文介面，速度調整在 App 裡叫「Tempo」。"
+ }
+}
