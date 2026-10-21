@@ -109,6 +109,9 @@ for rel in ["styles.css", "site.webmanifest", "llms.txt", "llms-full.txt", "robo
         for r in re.findall(r'url\((/[^)]+)\)|"src":\s*"(/[^"]+)"|https://vibedeckplayer\.app(/[^\s)"\]>]*)', t):
             r = next(x for x in r if x)
             if not resolve(r): errors.append(f"{rel}: broken reference {r}")
+# llms.txt / llms-full.txt must match the pages
+if subprocess.run([sys.executable, os.path.join(ROOT, "_build", "build_llms.py"), "--check"]).returncode:
+    errors.append("llms.txt / llms-full.txt out of date: run python3 _build/build_llms.py")
 # public files removed/renamed vs base
 try:
     diff = subprocess.run(["git", "-C", ROOT, "diff", "--name-status", "-M", BASE, "--"], capture_output=True, text=True, check=True).stdout
