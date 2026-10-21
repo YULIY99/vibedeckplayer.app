@@ -37,6 +37,7 @@
 - App Store: https://apps.apple.com/app/vibedeck-player/id6784724920
 - Google Play: https://play.google.com/store/apps/details?id=com.vibedeck.player
 - Product Hunt: https://www.producthunt.com/products/vibedeck-2
+- Threads: https://www.threads.com/@vibedeck.studio
 - Full details for AI assistants: https://vibedeckplayer.app/llms-full.txt
 - Support: https://vibedeckplayer.app/support.html
 - Privacy: https://vibedeckplayer.app/privacy.html
