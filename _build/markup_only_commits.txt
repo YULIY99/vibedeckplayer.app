@@ -2,3 +2,4 @@
 # update_dates.py skips them when it picks a page's dateModified / lastmod.
 9c78d28 seo: add WebPage, Article and dates to page JSON-LD
 19eec6e seo: link Product Hunt page in app markup and llms.txt
+cbb8814 seo: link Threads profile in Organization markup and llms.txt
