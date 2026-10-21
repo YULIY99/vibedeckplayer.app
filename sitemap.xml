@@ -15,6 +15,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/audio-formats/</loc>
@@ -39,6 +44,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/flac-player-android/</loc>
@@ -62,6 +72,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/mp3-player-no-ads/</loc>
@@ -76,6 +91,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/music-player-pitch-tempo/</loc>
@@ -168,6 +188,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ja/key-henkou-app/</loc>
@@ -182,6 +207,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/es/</loc>
@@ -198,6 +228,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/pt-br/</loc>
@@ -214,6 +249,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ja/tempo-henkou/</loc>
@@ -237,6 +277,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/es/reproductor-flac/</loc>
@@ -252,6 +297,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/</loc>
@@ -266,6 +316,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/pt-br/player-offline-android/</loc>
@@ -298,6 +353,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/</loc>
@@ -314,6 +374,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/tonart-aendern/</loc>
@@ -328,6 +393,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/flac-player/</loc>
@@ -343,6 +413,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/de/mp3-player-ohne-werbung/</loc>
@@ -357,6 +432,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/changer-tonalite/</loc>
@@ -371,6 +451,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/lecteur-flac/</loc>
@@ -386,6 +471,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/</loc>
@@ -400,6 +490,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/it/</loc>
@@ -416,6 +511,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/it/cambiare-tonalita/</loc>
@@ -430,6 +530,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/it/lettore-flac/</loc>
@@ -445,6 +550,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/it/lettore-mp3-senza-pub/</loc>
@@ -459,6 +569,11 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ru/</loc>
@@ -475,6 +590,11 @@
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ru/smenit-tonalnost/</loc>
@@ -489,6 +609,11 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ru/flac-pleer/</loc>
@@ -504,6 +629,11 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/</loc>
@@ -518,6 +648,11 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ko/</loc>
@@ -534,6 +669,11 @@
     <lastmod>2026-10-21</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ko/key-byeongyeong/</loc>
@@ -548,6 +688,11 @@
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ko/flac-player/</loc>
@@ -563,6 +708,11 @@
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/ko/mp3-player/</loc>
@@ -577,6 +727,11 @@
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/tr/</loc>
@@ -593,6 +748,11 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
     <lastmod>2026-10-21</lastmod>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/tr/sarki-tonu-degistirme/</loc>
@@ -607,6 +767,11 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/tr/flac-calar/</loc>
@@ -622,6 +787,11 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/</loc>
@@ -636,6 +806,11 @@
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
   </url>
   <url>
     <loc>https://vibedeckplayer.app/play-flac-on-iphone/</loc>
@@ -664,6 +839,401 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/google-drive-music-player-android/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/ubah-nada-lagu/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/pemutar-flac/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/zmiana-tonacji/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/odtwarzacz-flac/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/toonsoort-veranderen/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/flac-speler/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/doi-tone-bai-hat/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/trinh-phat-flac/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/key-henkou-app/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/tonart-aendern/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/key-byeongyeong/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/sarki-tonu-degistirme/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/ubah-nada-lagu/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/zmiana-tonacji/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/toonsoort-veranderen/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/doi-tone-bai-hat/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/flac-player/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-flac/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/flac-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/flac-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-flac/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-flac/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/flac-speler/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-flac/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/flac-player/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/mp3-player/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/mp3-player/" />
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>

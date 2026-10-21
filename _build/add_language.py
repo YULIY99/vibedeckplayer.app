@@ -30,6 +30,21 @@ LANGS = {
     'tr': dict(name='Türkçe', locale='tr_TR', routes=['/tr/', '/tr/sarki-tonu-degistirme/', '/tr/flac-calar/', '/tr/reklamsiz-mp3-calar/'],
                plans=['Aylık', 'Yıllık', 'Ömür boyu'],
                app_store='App Store’da (iOS): aylık $2.99, yıllık $19.99 veya ömür boyu $49.99 (USD).'),
+    'id': dict(name='Bahasa Indonesia', locale='id_ID', routes=['/id/', '/id/ubah-nada-lagu/', '/id/pemutar-flac/', '/id/pemutar-mp3-tanpa-iklan/'],
+               plans=['Bulanan', 'Tahunan', 'Seumur hidup'],
+               app_store='Di App Store (iOS): $2.99 per bulan, $19.99 per tahun, atau $49.99 seumur hidup (USD).'),
+    'pl': dict(name='Polski', locale='pl_PL', routes=['/pl/', '/pl/zmiana-tonacji/', '/pl/odtwarzacz-flac/', '/pl/odtwarzacz-mp3-bez-reklam/'],
+               plans=['Miesięcznie', 'Rocznie', 'Dożywotnio'],
+               app_store='W App Store (iOS): $2.99 miesięcznie, $19.99 rocznie lub $49.99 dożywotnio (USD).'),
+    'nl': dict(name='Nederlands', locale='nl_NL', routes=['/nl/', '/nl/toonsoort-veranderen/', '/nl/flac-speler/', '/nl/mp3-speler-zonder-advertenties/'],
+               plans=['Maandelijks', 'Jaarlijks', 'Levenslang'],
+               app_store='In de App Store (iOS): $2.99 per maand, $19.99 per jaar of $49.99 levenslang (USD).'),
+    'vi': dict(name='Tiếng Việt', locale='vi_VN', routes=['/vi/', '/vi/doi-tone-bai-hat/', '/vi/trinh-phat-flac/', '/vi/trinh-phat-mp3-khong-quang-cao/'],
+               plans=['Hàng tháng', 'Hàng năm', 'Trọn đời'],
+               app_store='Trên App Store (iOS): $2.99 mỗi tháng, $19.99 mỗi năm hoặc $49.99 trọn đời (USD).'),
+    'zh-Hant': dict(name='繁體中文', locale='zh_TW', routes=['/zh-hant/', '/zh-hant/sheng-jiang-diao/', '/zh-hant/flac-player/', '/zh-hant/mp3-player/'],
+               plans=['每月', '每年', '終身'],
+               app_store='App Store（iOS）：每月 $2.99、每年 $19.99 或終身 $49.99（USD）。'),
 }
 TDIR = ROOT / '_build' / 'translations'
 
@@ -214,8 +229,12 @@ def main():
     expected = (TDIR / 'source.sha256').read_text().strip()
     if digest != expected: sys.exit('French source text changed; review translations, then update source.sha256')
     codes = [a for a in sys.argv[1:] if a in LANGS] or sys.exit(__doc__)
-    built = {code: build(code, soups, items) for code in codes}
-    for code, clusters in built.items():
+    for code in codes: build(code, soups, items)
+    # Link every added language everywhere, so new pages also get the languages added before them
+    for code in LANGS:
+        if not path(LANGS[code]['routes'][0]).exists(): continue
+        clusters = {soup.select_one('link[rel="alternate"][hreflang="en"]')['href'].replace(SITE, ''): route
+                    for (_, soup), route in zip(soups, LANGS[code]['routes'])}
         link_everywhere(code, clusters); extend_sitemap(code, clusters)
     print('generated', ', '.join(f'{c}: {", ".join(LANGS[c]["routes"])}' for c in codes))
 
