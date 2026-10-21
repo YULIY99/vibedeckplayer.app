@@ -554,6 +554,172 @@ A: Yes. REC captures clips of up to 2 minutes with fade in and fade out, and you
 
 A: No. VibeDeck is a DJ app for your own music files, not for streaming services. Import MP3, FLAC or WAV files you own and mix them offline.
 
+## How to Play FLAC Files on iPhone | VibeDeck Player
+
+URL: https://vibedeckplayer.app/play-flac-on-iphone/
+Language: en
+
+Play FLAC on iPhone in three steps: copy the files with AirDrop, iCloud Drive or Files, import them into VibeDeck Player and press play. Offline, no ads.
+
+**Q: Can iPhone play FLAC files?**
+
+A: Yes. iPhone can open FLAC files, but the Music app does not add them to your library. VibeDeck Player imports FLAC files and plays them offline with an EQ, pitch and tempo control.
+
+**Q: Do I need to convert FLAC to play it on iPhone?**
+
+A: No. VibeDeck Player plays FLAC directly, so there is nothing to convert and no quality is lost.
+
+**Q: How do I get FLAC files onto my iPhone without a cable?**
+
+A: Use AirDrop from a Mac, or upload the files to iCloud Drive from any computer. Then import them into VibeDeck Player from the Files app or iCloud Drive.
+
+**Q: Does FLAC playback work offline?**
+
+A: Yes. Once imported, the files are on your iPhone and play without WiFi or mobile data.
+
+**Q: Is it free?**
+
+A: The core player is free and has no ads. VibeDeck Premium is optional and unlocks the full sound engine: pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+
+## Change the Key of a Song for Karaoke | VibeDeck Player
+
+URL: https://vibedeckplayer.app/karaoke-key-change/
+Language: en
+
+Sing karaoke in your range: lower or raise a song by up to 8 semitones without changing the tempo. Works offline with your own files on iPhone and Android.
+
+**Q: Can I change the key of a karaoke track on my phone?**
+
+A: Yes. Open the track in VibeDeck Player and move Pitch by up to 8 semitones in either direction. The change happens in real time.
+
+**Q: Will the song get slower or faster?**
+
+A: No. Pitch and tempo are independent, so the speed stays the same unless you change the tempo yourself.
+
+**Q: Does VibeDeck remove the vocals?**
+
+A: No. It shifts the key of the whole track. For karaoke, import an instrumental or karaoke version of the song.
+
+**Q: Is the original file changed?**
+
+A: No. The key changes during playback and the file is never modified. Reset returns the track to its original key.
+
+**Q: Does it work with songs from streaming apps?**
+
+A: No. VibeDeck only opens audio files stored on your device, such as MP3, FLAC and WAV.
+
+**Q: Is key change free?**
+
+A: The download is free and has no ads. Changing the key is part of VibeDeck Premium.
+
+## Slowed + Reverb on Your Phone | VibeDeck Player
+
+URL: https://vibedeckplayer.app/slowed-reverb/
+Language: en
+
+Make slowed + reverb versions of your own songs on iPhone and iPad: lower the pitch and add the space effect in VibeDeck Studio, then record a 2-minute clip.
+
+**Q: Can I make slowed + reverb on iPhone?**
+
+A: Yes. In VibeDeck Studio, lower the pitch and add the space effect, which gives a soft reverb tail. Then record up to two minutes and share the clip.
+
+**Q: Is there a one-tap slowed + reverb preset?**
+
+A: No. You build the sound with pitch and the space effect. It takes a few seconds and you control how deep it goes.
+
+**Q: How long can the recording be?**
+
+A: Up to two minutes, with fade in and fade out.
+
+**Q: Does it work on Android?**
+
+A: Studio is available on iPhone and iPad for now. On Android you can change pitch and tempo in the player.
+
+**Q: Can I use songs from streaming apps?**
+
+A: No. VibeDeck only opens audio files stored on your device.
+
+## Put Music on iPhone Without iTunes | VibeDeck Player
+
+URL: https://vibedeckplayer.app/put-music-on-iphone-without-itunes/
+Language: en
+
+Put your own MP3, FLAC and WAV files on iPhone without iTunes or a cable: AirDrop, iCloud Drive or the Files app, then play them offline in VibeDeck Player.
+
+**Q: Can I put music on my iPhone without iTunes?**
+
+A: Yes. Copy the files with AirDrop, iCloud Drive or the Files app, then import them into VibeDeck Player. No sync and no cable needed.
+
+**Q: Which formats can I add?**
+
+A: MP3, WAV and FLAC. VibeDeck Player plays them without conversion.
+
+**Q: Do the songs need internet after import?**
+
+A: No. Imported songs are stored on your iPhone and play offline.
+
+**Q: Will the songs show up in the Music app?**
+
+A: No. They live in VibeDeck Player, which has its own library, queue and search.
+
+**Q: Do I need an account?**
+
+A: No. There is no sign-up and no login at any step.
+
+## WAV Player for iPhone, Offline, No Ads | VibeDeck Player
+
+URL: https://vibedeckplayer.app/wav-player-iphone/
+Language: en
+
+Play WAV files on iPhone and iPad offline: recordings, bounces and uncompressed rips, with EQ, waveform, pitch and tempo. FLAC and MP3 too. No ads.
+
+**Q: Can iPhone play WAV files?**
+
+A: Yes. With VibeDeck Player you import WAV files and play them offline, with an EQ, waveform, pitch and tempo.
+
+**Q: Do I need to convert WAV to MP3?**
+
+A: No. VibeDeck Player plays WAV directly. Converting to MP3 makes the file smaller but loses detail.
+
+**Q: Can I mix WAV with FLAC and MP3?**
+
+A: Yes. All three formats play in the same queue.
+
+**Q: Does it work on iPad?**
+
+A: Yes. VibeDeck Player runs on iPhone and iPad with iOS 17 or later.
+
+**Q: Is there an Android version?**
+
+A: Yes. VibeDeck Player is on Google Play and plays WAV, FLAC and MP3 offline.
+
+## Play Google Drive Music Offline on Android | VibeDeck Player
+
+URL: https://vibedeckplayer.app/google-drive-music-player-android/
+Language: en
+
+Listen to MP3, FLAC and WAV files from Google Drive on Android without internet: download them once, import into VibeDeck Player and play offline. No ads.
+
+**Q: Can I play music from Google Drive offline?**
+
+A: Yes. Download the files from Google Drive to your phone, import them into VibeDeck Player and they play without internet.
+
+**Q: Which formats work?**
+
+A: MP3, WAV and FLAC.
+
+**Q: Does VibeDeck stream from Google Drive?**
+
+A: No. VibeDeck plays files stored on your device. That is what makes it work offline.
+
+**Q: Does it have ads?**
+
+A: No. Neither the free version nor Premium shows ads, and you do not need an account.
+
+**Q: Is there an iPhone version?**
+
+A: Yes. On iPhone and iPad, import songs from the Files app, iCloud Drive or AirDrop.
+
 ## Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck
 
 URL: https://vibedeckplayer.app/de/

@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/audio-formats/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -87,12 +87,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/offline-music-player-android/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-offline-android/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/offline-music-player-android/" />
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/offline-music-player-iphone/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -130,7 +130,7 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/delay/</loc>
-    <lastmod>2026-10-13</lastmod>
+    <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -634,6 +634,36 @@
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
     <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/mp3-player/" />
     <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/" />
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/play-flac-on-iphone/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/karaoke-key-change/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/slowed-reverb/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/put-music-on-iphone-without-itunes/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/wav-player-iphone/</loc>
+    <lastmod>2026-10-21</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/google-drive-music-player-android/</loc>
     <lastmod>2026-10-21</lastmod>
     <priority>0.8</priority>
   </url>

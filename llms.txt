@@ -60,6 +60,12 @@
 - [Limiter: How to Prevent Clipping | VibeDeck Player](https://vibedeckplayer.app/limiter/): Stop clipping with the built-in limiter in VibeDeck Player Premium. Loud tracks stay clean on iPhone and Android, even at high volume. Works offline.
 - [Delay and Space Effect for Music Players | VibeDeck Player](https://vibedeckplayer.app/delay/): Get echo and space with the space effect in VibeDeck Studio. Add depth and movement to your loops on iPhone and iPad, offline, and record the result.
 - [DJ App for iPhone and Android | VibeDeck Player](https://vibedeckplayer.app/dj-app/): DJ app for iPhone and Android: pitch, tempo and filter in the player, plus beat-snapped loops and clip recording in VibeDeck Studio. Offline, no ads.
+- [How to Play FLAC Files on iPhone | VibeDeck Player](https://vibedeckplayer.app/play-flac-on-iphone/): Play FLAC on iPhone in three steps: copy the files with AirDrop, iCloud Drive or Files, import them into VibeDeck Player and press play. Offline, no ads.
+- [Change the Key of a Song for Karaoke | VibeDeck Player](https://vibedeckplayer.app/karaoke-key-change/): Sing karaoke in your range: lower or raise a song by up to 8 semitones without changing the tempo. Works offline with your own files on iPhone and Android.
+- [Slowed + Reverb on Your Phone | VibeDeck Player](https://vibedeckplayer.app/slowed-reverb/): Make slowed + reverb versions of your own songs on iPhone and iPad: lower the pitch and add the space effect in VibeDeck Studio, then record a 2-minute clip.
+- [Put Music on iPhone Without iTunes | VibeDeck Player](https://vibedeckplayer.app/put-music-on-iphone-without-itunes/): Put your own MP3, FLAC and WAV files on iPhone without iTunes or a cable: AirDrop, iCloud Drive or the Files app, then play them offline in VibeDeck Player.
+- [WAV Player for iPhone, Offline, No Ads | VibeDeck Player](https://vibedeckplayer.app/wav-player-iphone/): Play WAV files on iPhone and iPad offline: recordings, bounces and uncompressed rips, with EQ, waveform, pitch and tempo. FLAC and MP3 too. No ads.
+- [Play Google Drive Music Offline on Android | VibeDeck Player](https://vibedeckplayer.app/google-drive-music-player-android/): Listen to MP3, FLAC and WAV files from Google Drive on Android without internet: download them once, import into VibeDeck Player and play offline. No ads.
 
 ## Pages in Deutsch (de)
 
