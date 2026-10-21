@@ -1,0 +1,15 @@
+# After each push to main, wait for GitHub Pages to deploy, then tell
+# Bing / Yandex / Seznam / Naver (IndexNow) which pages changed.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - run: python3 _build/indexnow.py --wait ${{ github.event.before || 'all' }} ${{ github.sha }}

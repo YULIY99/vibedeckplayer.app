@@ -1,0 +1,3 @@
+# Commits that changed only hidden markup, not what visitors read.
+# update_dates.py skips them when it picks a page's dateModified / lastmod.
+9c78d28 seo: add WebPage, Article and dates to page JSON-LD
