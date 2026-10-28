@@ -138,7 +138,11 @@ def link_existing(rel_url, cluster):
     head, body = s.split('</head>', 1)
     have = set(re.findall(r'<link rel="alternate" hreflang="([^"]+)"', head))
     add = ''.join(f'<link rel="alternate" hreflang="{l}" href="{SITE}{cluster[l]}">\n' for l in ORDER if l in cluster and l not in have)
-    head = head.replace('<link rel="alternate" hreflang="x-default"', add + '<link rel="alternate" hreflang="x-default"', 1)
+    if 'x-default' in have:
+        head = head.replace('<link rel="alternate" hreflang="x-default"', add + '<link rel="alternate" hreflang="x-default"', 1)
+    else:  # page had no hreflang cluster yet: add it, with x-default, right after the canonical link
+        add += f'<link rel="alternate" hreflang="x-default" href="{SITE}{cluster["en"]}">\n'
+        head = re.sub(r'(<link rel="canonical"[^>]*>\n?)', lambda m: m.group(1) + ('' if m.group(1).endswith('\n') else '\n') + add, head, count=1)
     if '<footer' in body:
         i = body.index('<footer'); before, foot = body[:i], body[i:]
         def nav(m):
