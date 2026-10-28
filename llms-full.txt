@@ -728,7 +728,7 @@ A: Yes. On iPhone and iPad, import songs from the Files app, iCloud Drive or Air
 URL: https://vibedeckplayer.app/sampler/
 Language: en
 
-Press Rec in the VibeDeck Sampler and record any sound playing on your phone: YouTube, SoundCloud, any app. On iPhone and Android, no account, no ads.
+Press Rec and record any sound playing on your phone: YouTube, SoundCloud, any app. Then reshape it in VibeDeck Studio and share it. No account, no ads.
 
 **Q: Can I record sound from YouTube on my phone?**
 
@@ -749,6 +749,10 @@ A: Yes. The Sampler is part of VibeDeck Player on both iPhone and Android.
 **Q: Can I trim the recording?**
 
 A: Yes. Cut it to the part you want to keep. The recording stays in your VibeDeck library.
+
+**Q: Can I edit and share what I recorded?**
+
+A: Yes. Open it in VibeDeck Studio on iPhone or iPad, change the pitch, add filter, saturation and space, record your version up to 2 minutes and share the clip.
 
 ## Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck
 
