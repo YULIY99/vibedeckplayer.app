@@ -14,7 +14,7 @@
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record any sound playing on the phone, from YouTube, SoundCloud or any app, straight from the device (not through the microphone), then trim it. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. VibeDeck Premium: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) price shown in the store listing. Prices may vary by region
+- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO (called Premium on parts of this site): App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -27,6 +27,7 @@
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
+- "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit
 
@@ -52,7 +53,7 @@ Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch,
 
 **Q: Is VibeDeck Player free?**
 
-A: The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata. On the App Store Premium costs $2.99 per month, $19.99 per year or $49.99 for a lifetime license; on Google Play Premium costs $1.99 per month, $14.99 per year or $19.99 for a lifetime license (USD).
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler. On the App Store Premium costs $2.99 per month, $19.99 per year or $49.99 for a lifetime license; on Google Play Premium costs $1.99 per month, $14.99 per year or $19.99 for a lifetime license (USD).
 
 **Q: Which audio formats does VibeDeck Player play?**
 
@@ -219,7 +220,7 @@ A: Yes. VibeDeck Player offers real-time pitch shifting up to ±8 st and indepen
 
 **Q: Is VibeDeck Player free?**
 
-A: The core player is free with no ads. VibeDeck Premium unlocks the full sound engine: pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## MP3 Player With No Ads, Offline | VibeDeck Player
 
@@ -300,7 +301,7 @@ A: Your own collection: downloads, rips, purchases, DJ pools. If you own the fil
 
 **Q: Is VibeDeck Player free on Android?**
 
-A: The core offline player is free with no ads. Premium unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## Offline Music Player for iPhone: No Ads | VibeDeck Player
 
@@ -327,7 +328,7 @@ A: Your own collection: downloads, rips, Bandcamp purchases, DJ pools. If you ow
 
 **Q: Is VibeDeck Player free?**
 
-A: The core offline player is free with no ads. Premium unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## Slow Down a Song Without Changing Pitch | VibeDeck Player
 
@@ -582,7 +583,7 @@ A: Yes. Once imported, the files are on your iPhone and play without WiFi or mob
 
 **Q: Is it free?**
 
-A: The core player is free and has no ads. VibeDeck Premium is optional and unlocks the full sound engine: pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## Change the Key of a Song for Karaoke | VibeDeck Player
 
@@ -783,7 +784,7 @@ A: Die Oberfläche der App ist derzeit auf Englisch.
 
 **Q: Was kostet die App?**
 
-A: Der Download ist kostenlos und werbefrei. Pläne und Preis von Premium siehst du im App Store oder bei Google Play in deinem Land. Bei Google Play (Android) kostet Premium $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
+A: Der Download ist kostenlos und werbefrei. Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Pläne und Preis von Premium siehst du im App Store oder bei Google Play in deinem Land. Bei Google Play (Android) kostet Premium $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
 
 **Q: Brauche ich ein Konto?**
 
@@ -977,7 +978,7 @@ A: Pour l’instant, l’interface de l’application est en anglais.
 
 **Q: Combien ça coûte ?**
 
-A: Le téléchargement est gratuit et sans publicité. Les formules et le prix de Premium s’affichent sur l’App Store ou Google Play de votre pays. Sur Google Play (Android), Premium coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
+A: Le téléchargement est gratuit et sans publicité. Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Les formules et le prix de Premium s’affichent sur l’App Store ou Google Play de votre pays. Sur Google Play (Android), Premium coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
 
 **Q: Faut-il créer un compte ?**
 
@@ -1171,7 +1172,7 @@ A: Per ora l’interfaccia dell’app è in inglese. Questa è la versione itali
 
 **Q: Quanto costa?**
 
-A: Il download è gratuito e senza pubblicità. Su Google Play (Android), Premium costa $1.99 al mese, $14.99 all’anno o $19.99 a vita. Su App Store (iOS), costa $2.99 al mese, $19.99 all’anno o $49.99 a vita. Prezzi in USD; gli importi locali possono variare.
+A: Il download è gratuito e senza pubblicità. Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Su Google Play (Android), Premium costa $1.99 al mese, $14.99 all’anno o $19.99 a vita. Su App Store (iOS), costa $2.99 al mese, $19.99 all’anno o $49.99 a vita. Prezzi in USD; gli importi locali possono variare.
 
 **Q: Devo creare un account?**
 
@@ -1365,7 +1366,7 @@ A: Por ahora la interfaz de la app está en inglés.
 
 **Q: ¿Cuánto cuesta?**
 
-A: La descarga es gratis y sin anuncios. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
+A: La descarga es gratis y sin anuncios. Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
 
 **Q: ¿Necesito crear una cuenta?**
 
@@ -1528,7 +1529,7 @@ A: Por enquanto a interface do app está em inglês.
 
 **Q: Quanto custa?**
 
-A: O download é grátis e sem anúncios. Os planos e o preço do Premium aparecem no Google Play ou na App Store do seu país. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
+A: O download é grátis e sem anúncios. Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Os planos e o preço do Premium aparecem no Google Play ou na App Store do seu país. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
 
 **Q: Preciso criar uma conta?**
 
@@ -1850,7 +1851,7 @@ A: Пока интерфейс приложения на английском.
 
 **Q: Сколько это стоит?**
 
-A: Скачать можно бесплатно, рекламы нет. Тарифы и цена Premium указаны в App Store или Google Play вашей страны. В Google Play (Android) Premium стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
+A: Скачать можно бесплатно, рекламы нет. Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Тарифы и цена Premium указаны в App Store или Google Play вашей страны. В Google Play (Android) Premium стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
 
 **Q: Нужно ли создавать аккаунт?**
 
@@ -2044,7 +2045,7 @@ A: 현재 앱 화면은 영어로 되어 있습니다.
 
 **Q: 가격은 얼마인가요?**
 
-A: 다운로드는 무료이고 광고가 없습니다. Premium 요금제와 가격은 내 나라의 App Store나 Google Play에 표시됩니다. Google Play(Android)에서 Premium은 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
+A: 다운로드는 무료이고 광고가 없습니다. 모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. Premium 요금제와 가격은 내 나라의 App Store나 Google Play에 표시됩니다. Google Play(Android)에서 Premium은 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
 
 **Q: 계정을 만들어야 하나요?**
 
@@ -2238,7 +2239,7 @@ A: Uygulamanın arayüzü şimdilik İngilizce.
 
 **Q: Ne kadar?**
 
-A: İndirmesi ücretsiz ve reklamsız. Premium paketleri ve fiyatı, ülkendeki App Store ya da Google Play’de görünür. Google Play’de (Android) Premium aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
+A: İndirmesi ücretsiz ve reklamsız. Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Premium paketleri ve fiyatı, ülkendeki App Store ya da Google Play’de görünür. Google Play’de (Android) Premium aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
 
 **Q: Hesap açmam gerekir mi?**
 
@@ -2432,7 +2433,7 @@ A: Saat ini tampilan aplikasinya masih berbahasa Inggris.
 
 **Q: Berapa harganya?**
 
-A: Unduhannya gratis dan tanpa iklan. Paket dan harga Premium tampil di App Store atau Google Play negaramu. Di Google Play (Android), Premium seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
+A: Unduhannya gratis dan tanpa iklan. Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Paket dan harga Premium tampil di App Store atau Google Play negaramu. Di Google Play (Android), Premium seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
 
 **Q: Apakah harus membuat akun?**
 
@@ -2626,7 +2627,7 @@ A: Na razie interfejs aplikacji jest po angielsku.
 
 **Q: Ile to kosztuje?**
 
-A: Pobranie jest darmowe i bez reklam. Plany i cena Premium są widoczne w App Store lub Google Play w Twoim kraju. W Google Play (Android) Premium kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
+A: Pobranie jest darmowe i bez reklam. Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Plany i cena Premium są widoczne w App Store lub Google Play w Twoim kraju. W Google Play (Android) Premium kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
 
 **Q: Czy trzeba zakładać konto?**
 
@@ -2820,7 +2821,7 @@ A: De interface van de app is voorlopig in het Engels.
 
 **Q: Wat kost het?**
 
-A: Downloaden is gratis en zonder advertenties. De abonnementen en de prijs van Premium zie je in de App Store of Google Play van jouw land. In Google Play (Android) kost Premium $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
+A: Downloaden is gratis en zonder advertenties. Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. De abonnementen en de prijs van Premium zie je in de App Store of Google Play van jouw land. In Google Play (Android) kost Premium $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
 
 **Q: Moet ik een account aanmaken?**
 
@@ -3014,7 +3015,7 @@ A: Hiện giao diện ứng dụng vẫn bằng tiếng Anh.
 
 **Q: Giá bao nhiêu?**
 
-A: Tải về miễn phí và không quảng cáo. Các gói và giá Premium hiển thị trên App Store hoặc Google Play tại quốc gia của bạn. Trên Google Play (Android), Premium có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
+A: Tải về miễn phí và không quảng cáo. Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Các gói và giá Premium hiển thị trên App Store hoặc Google Play tại quốc gia của bạn. Trên Google Play (Android), Premium có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
 
 **Q: Có cần tạo tài khoản không?**
 

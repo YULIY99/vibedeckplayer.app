@@ -14,7 +14,7 @@
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record any sound playing on the phone, from YouTube, SoundCloud or any app, straight from the device (not through the microphone), then trim it. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. VibeDeck Premium: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) price shown in the store listing. Prices may vary by region
+- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO (called Premium on parts of this site): App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -27,6 +27,7 @@
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
+- "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit
 
