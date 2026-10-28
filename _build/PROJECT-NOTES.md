@@ -34,6 +34,8 @@
 4. «Premium» переименован в «PRO» везде (`_build/rename_premium.py`)
 5. 28.10 добавлены упрощённый китайский (zh-Hans) и тайский (th). `source.sha256` обновлён под текущий французский текст; переводы zh-Hans и th ему соответствуют, старые языки в `translations/` описывают старую цену (для пересборки их не использовать)
 6. Блок «Расскажите друзьям» внизу 17 главных страниц: WhatsApp, Telegram, Facebook, X, Threads (+ VK для ru, LINE для ja/th/zh-Hant), почта, «Скопировать ссылку», на телефонах кнопка «Ещё» (системное меню: Instagram, TikTok и т.д.). Нажатия и переходы видны в GoatCounter (share-*, utm_campaign=share). Скрипт `_build/add_share.py`, тексты `_build/share_i18n.json`
+7. Сэмплер на сайте: экран Sampler вверху страниц, баннеры превью ссылок на 17 языках (`make_sampler_og.py`), форматы MP3/AAC/WAV до 320 kbps, TikTok, Apple Music не пишется (защита). Блок сэмплера на всех главных перед Studio (`add_home_sampler.py`). После пересборки страниц сэмплера запускать `set_sampler_hero.py` и `make_sampler_og.py`
+8. Посты для Threads: шаблон и правила в папке `../threads-posts` (рядом с сайтом)
 
 ## Главные скрипты (в `_build`)
 - `verify_site.py`: проверка всего сайта перед публикацией
