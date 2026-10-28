@@ -12,6 +12,7 @@
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
+- VibeDeck Sampler (added in version 1.0.15, October 2026): captures audio playing on the device, lets you trim it and turn it into a loop to shape in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. VibeDeck Premium: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) price shown in the store listing. Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文

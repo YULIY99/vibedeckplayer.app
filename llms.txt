@@ -12,6 +12,7 @@
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
+- VibeDeck Sampler (added in version 1.0.15, October 2026): captures audio playing on the device, lets you trim it and turn it into a loop to shape in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. VibeDeck Premium: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) price shown in the store listing. Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文
@@ -68,6 +69,7 @@
 - [Put Music on iPhone Without iTunes | VibeDeck Player](https://vibedeckplayer.app/put-music-on-iphone-without-itunes/): Put your own MP3, FLAC and WAV files on iPhone without iTunes or a cable: AirDrop, iCloud Drive or the Files app, then play them offline in VibeDeck Player.
 - [WAV Player for iPhone, Offline, No Ads | VibeDeck Player](https://vibedeckplayer.app/wav-player-iphone/): Play WAV files on iPhone and iPad offline: recordings, bounces and uncompressed rips, with EQ, waveform, pitch and tempo. FLAC and MP3 too. No ads.
 - [Play Google Drive Music Offline on Android | VibeDeck Player](https://vibedeckplayer.app/google-drive-music-player-android/): Listen to MP3, FLAC and WAV files from Google Drive on Android without internet: download them once, import into VibeDeck Player and play offline. No ads.
+- [VibeDeck Sampler: Capture Audio and Make a Loop](https://vibedeckplayer.app/sampler/): Capture audio playing on your device with the VibeDeck Sampler, trim the best moment and turn it into a loop you can shape in VibeDeck Studio.
 
 ## Pages in Deutsch (de)
 

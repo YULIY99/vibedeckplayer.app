@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Add English how-to guides built on the /dj-loop/ page layout.
 
-    python3 _build/add_guides.py
+    python3 _build/add_guides.py [slug ...]   (no slug = every guide)
 
 Content lives in GUIDES below. Each guide gets its own page, JSON-LD (WebPage,
 Article, BreadcrumbList, FAQPage generated from the visible FAQ), a sitemap
@@ -30,6 +30,7 @@ CARDS = {
     '/music-player-pitch-tempo/': ('Pitch · Tempo', 'Music player with pitch and tempo control', 'Change the key by ±8 st and the speed independently, for practice and DJ prep.'),
     '/delay/': ('Studio · FX', 'Delay and space effect', 'Echo-like depth and a soft reverb tail for tracks and loops.'),
     '/saturation/': ('Studio · FX', 'Saturation effect', 'Add warmth and grit to your tracks with the Studio saturation effect.'),
+    '/sampler/': ('Sampler', 'VibeDeck Sampler: capture a moment', 'Capture audio playing on your device, trim it and turn it into a loop.'),
     '/dj-loop/': ('DJ · Loop', 'How to loop part of a song', 'Beat-snapped loops from half a bar to 8 bars, tuned to the grid.'),
     '/offline-music-player-iphone/': ('Offline · iPhone', 'Offline music player for iPhone', 'Your whole library on planes and in dead zones. No WiFi needed.'),
     '/offline-music-player-android/': ('Offline · Android', 'Offline music player for Android', 'MP3, FLAC and WAV with no internet, no ads and no account.'),
@@ -177,6 +178,29 @@ dict(slug='google-drive-music-player-android', android=True,
   related=['/offline-music-player-android/', '/flac-player-android/', '/mp3-player-no-ads/'],
   cta='Your Drive music, offline on Android. No ads.',
   link_from=('offline-music-player-android/index.html', 'Related: <a href="/offline-music-player-iphone/">', 'music from Google Drive offline')),
+
+dict(slug='sampler',
+  title='VibeDeck Sampler: Capture Audio and Make a Loop',
+  desc='Capture audio playing on your device with the VibeDeck Sampler, trim the best moment and turn it into a loop you can shape in VibeDeck Studio.',
+  crumb='VibeDeck Sampler', eyebrow=('Feature', 'Sampler'),
+  h1='Capture any moment with the Sampler.', h1sub='Record, trim, loop',
+  lede='The VibeDeck Sampler captures audio playing on your device, lets you trim the part you want and turns it into a loop. You can then shape that loop in VibeDeck Studio. It is part of the VibeDeck Player update and works with no account and no ads.',
+  alt='VibeDeck Sampler capturing and trimming audio in VibeDeck Player',
+  statement='A great moment in a song is short: a drum fill, a vocal line, a single chord. The Sampler lets you grab it while it plays, cut it to the exact length and keep it as a loop instead of searching for it again later.',
+  features_title='From a moment to a loop',
+  features=[('Capture', 'Record the audio playing on your device while it plays, without leaving the app.'),
+            ('Trim', 'Cut the capture to the exact part you want to keep.'),
+            ('Loop and shape', 'Turn the trimmed moment into a loop and shape it in VibeDeck Studio.')],
+  prose='<h2>How it works</h2><ol><li>Open <strong>VibeDeck Player</strong> and go to the Sampler.</li><li>Capture the moment while the audio plays.</li><li>Trim the capture to the part you want.</li><li>Turn it into a loop and open it in <strong>Studio</strong> to shape it.</li></ol><h2>Good to know</h2><ul><li><strong>Your library:</strong> the Sampler cards sit in the Library next to Studio.</li><li><strong>Offline:</strong> VibeDeck is an offline player, so captures stay on your device.</li><li><strong>Studio:</strong> loops from half a bar to 8 bars, pitch, filter, saturation, space and presets, and a clip recorder, on iPhone and iPad.</li></ul><p>Only capture audio you have the right to use. Samples of other people’s music may be protected by copyright.</p><p>Also see: <a href="/dj-loop/">how to loop part of a song</a>, <a href="/music-player-pitch-tempo/">music player with pitch and tempo control</a>.</p>',
+  faq_title='VibeDeck Sampler: FAQ',
+  faq=[('What is the VibeDeck Sampler?', 'The Sampler captures audio playing on your device and lets you trim it. You can turn the result into a loop and shape it in VibeDeck Studio.'),
+       ('Can I trim what I capture?', 'Yes. After capturing, you cut the recording to the part you want to keep.'),
+       ('Where do I shape the loop?', 'In VibeDeck Studio, which is part of VibeDeck Player on iPhone and iPad.'),
+       ('Do I need an account?', 'No. VibeDeck Player needs no account and shows no ads.'),
+       ('Is it free?', 'VibeDeck Player is free to download. New users also get 48 hours of VibeDeck PRO as a welcome gift, with everything unlocked and no card needed.')],
+  related=['/dj-loop/', '/music-player-pitch-tempo/', '/offline-music-player-iphone/'],
+  cta='Capture a moment. Turn it into a loop. Offline.',
+  link_from=('dj-loop/index.html', 'Also see: <a href="/slow-down-song/">', 'VibeDeck Sampler')),
 ]
 
 
@@ -283,10 +307,12 @@ def extend_sitemap(slugs):
 def main():
     template = BeautifulSoup(TEMPLATE.read_text(), 'html.parser')
     android = BeautifulSoup(ANDROID_HERO.read_text(), 'html.parser')
-    for g in GUIDES:
+    only = sys.argv[1:]
+    guides = [g for g in GUIDES if not only or g['slug'] in only]
+    for g in guides:
         build(g, template, android); link_in(g)
-    extend_sitemap([g['slug'] for g in GUIDES])
-    print('generated', ', '.join('/' + g['slug'] + '/' for g in GUIDES))
+    extend_sitemap([g['slug'] for g in guides])
+    print('generated', ', '.join('/' + g['slug'] + '/' for g in guides))
 
 
 if __name__ == '__main__':

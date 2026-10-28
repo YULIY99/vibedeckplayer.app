@@ -12,6 +12,7 @@
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
+- VibeDeck Sampler (added in version 1.0.15, October 2026): captures audio playing on the device, lets you trim it and turn it into a loop to shape in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. VibeDeck Premium: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) price shown in the store listing. Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文
@@ -721,6 +722,33 @@ A: No. Neither the free version nor Premium shows ads, and you do not need an ac
 **Q: Is there an iPhone version?**
 
 A: Yes. On iPhone and iPad, import songs from the Files app, iCloud Drive or AirDrop.
+
+## VibeDeck Sampler: Capture Audio and Make a Loop
+
+URL: https://vibedeckplayer.app/sampler/
+Language: en
+
+Capture audio playing on your device with the VibeDeck Sampler, trim the best moment and turn it into a loop you can shape in VibeDeck Studio.
+
+**Q: What is the VibeDeck Sampler?**
+
+A: The Sampler captures audio playing on your device and lets you trim it. You can turn the result into a loop and shape it in VibeDeck Studio.
+
+**Q: Can I trim what I capture?**
+
+A: Yes. After capturing, you cut the recording to the part you want to keep.
+
+**Q: Where do I shape the loop?**
+
+A: In VibeDeck Studio, which is part of VibeDeck Player on iPhone and iPad.
+
+**Q: Do I need an account?**
+
+A: No. VibeDeck Player needs no account and shows no ads.
+
+**Q: Is it free?**
+
+A: VibeDeck Player is free to download. New users also get 48 hours of VibeDeck PRO as a welcome gift, with everything unlocked and no card needed.
 
 ## Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck
 
