@@ -12,7 +12,7 @@
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
-- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record any sound playing on the phone, from YouTube, SoundCloud or any app, straight from the device (not through the microphone), then trim it. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
+- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
@@ -729,7 +729,7 @@ A: Yes. On iPhone and iPad, import songs from the Files app, iCloud Drive or Air
 URL: https://vibedeckplayer.app/sampler/
 Language: en
 
-Record any sound playing on your phone: YouTube, SoundCloud, any app. Edit it on the waveform, then share it, save it as a track or open it in Studio.
+Record any sound playing on your phone: YouTube, SoundCloud, TikTok and more. Edit it on the waveform, then share it, save it as a track or open it in Studio.
 
 **Q: How do I record internal audio on my phone?**
 
@@ -741,15 +741,19 @@ A: Yes. Start recording in VibeDeck, then play the video in YouTube. The sound p
 
 **Q: Does it use the microphone?**
 
-A: No. It records the system audio, so there is no room noise in the recording.
+A: No. It records the system audio, so there is no room noise in the recording. Microphone and video are not saved.
 
 **Q: What quality is the recording?**
 
-A: AAC, 256 kbps, 44.1 kHz.
+A: Choose MP3 for any device, AAC for smaller files or WAV for uncompressed sound. Bitrate from 128 to 320 kbps, 44.1 kHz stereo.
 
 **Q: Does it work on Android?**
 
 A: Yes. The Sampler works the same way on iPhone and Android.
+
+**Q: Can I record Apple Music?**
+
+A: No. Music protected by streaming services such as Apple Music is blocked by the system and records as silence. YouTube, SoundCloud and TikTok record fine.
 
 **Q: Is it free?**
 
@@ -935,15 +939,19 @@ A: Ja. Starte die Aufnahme in VibeDeck und spiel dann das Video in YouTube ab. D
 
 **Q: Wird das Mikrofon benutzt?**
 
-A: Nein. Aufgenommen wird der Systemton, deshalb sind keine Raumgeräusche zu hören.
+A: Nein. Aufgenommen wird der Systemton, deshalb sind keine Raumgeräusche zu hören. Mikrofon und Video werden nicht gespeichert.
 
 **Q: Welche Qualität hat die Aufnahme?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Wähle MP3 für jedes Gerät, AAC für kleinere Dateien oder WAV für unkomprimierten Klang. Bitrate von 128 bis 320 kbps, 44,1 kHz Stereo.
 
 **Q: Funktioniert das auf Android?**
 
 A: Ja. Der Sampler funktioniert auf iPhone und Android gleich.
+
+**Q: Kann ich Apple Music aufnehmen?**
+
+A: Nein. Geschützte Musik von Streamingdiensten wie Apple Music blockiert das System, die Aufnahme bleibt stumm. YouTube, SoundCloud und TikTok lassen sich problemlos aufnehmen.
 
 **Q: Ist das kostenlos?**
 
@@ -1129,15 +1137,19 @@ A: Oui. Lancez l'enregistrement dans VibeDeck, puis lisez la vidéo dans YouTube
 
 **Q: Est-ce que le micro est utilisé ?**
 
-A: Non. C'est le son du système qui est enregistré, donc aucun bruit de la pièce.
+A: Non. C'est le son du système qui est enregistré, donc aucun bruit de la pièce. Le micro et la vidéo ne sont pas enregistrés.
 
 **Q: Quelle est la qualité de l'enregistrement ?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Choisissez MP3 pour tous les appareils, AAC pour des fichiers plus légers ou WAV pour un son non compressé. Débit de 128 à 320 kbps, 44,1 kHz en stéréo.
 
 **Q: Est-ce que ça marche sur Android ?**
 
 A: Oui. Le Sampler fonctionne de la même façon sur iPhone et sur Android.
+
+**Q: Puis-je enregistrer Apple Music ?**
+
+A: Non. La musique protégée des services de streaming comme Apple Music est bloquée par le système et s'enregistre en silence. YouTube, SoundCloud et TikTok s'enregistrent sans problème.
 
 **Q: C'est gratuit ?**
 
@@ -1323,15 +1335,19 @@ A: Sì. Avvia la registrazione in VibeDeck, poi fai partire il video su YouTube.
 
 **Q: Usa il microfono?**
 
-A: No. Registra l'audio di sistema, quindi non entra il rumore della stanza.
+A: No. Registra l'audio di sistema, quindi non entra il rumore della stanza. Microfono e video non vengono salvati.
 
 **Q: Che qualità ha la registrazione?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Scegli MP3 per qualsiasi dispositivo, AAC per file più leggeri o WAV per un suono non compresso. Bitrate da 128 a 320 kbps, 44,1 kHz stereo.
 
 **Q: Funziona su Android?**
 
 A: Sì. Il Sampler funziona allo stesso modo su iPhone e su Android.
+
+**Q: Posso registrare Apple Music?**
+
+A: No. La musica protetta dei servizi di streaming come Apple Music viene bloccata dal sistema e si registra in silenzio. YouTube, SoundCloud e TikTok si registrano senza problemi.
 
 **Q: È gratis?**
 
@@ -1486,15 +1502,19 @@ A: Sí. Empieza a grabar en VibeDeck y luego reproduce el vídeo en YouTube. Se 
 
 **Q: ¿Usa el micrófono?**
 
-A: No. Graba el audio del sistema, así que no entra ruido de la habitación.
+A: No. Graba el audio del sistema, así que no entra ruido de la habitación. El micrófono y el vídeo no se guardan.
 
 **Q: ¿Qué calidad tiene la grabación?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Elige MP3 para cualquier dispositivo, AAC para archivos más pequeños o WAV para sonido sin compresión. Bitrate de 128 a 320 kbps, 44,1 kHz en estéreo.
 
 **Q: ¿Funciona en Android?**
 
 A: Sí. El Sampler funciona igual en iPhone y en Android.
+
+**Q: ¿Puedo grabar Apple Music?**
+
+A: No. La música protegida de servicios de streaming como Apple Music la bloquea el sistema y se graba en silencio. YouTube, SoundCloud y TikTok se graban sin problema.
 
 **Q: ¿Es gratis?**
 
@@ -1641,15 +1661,19 @@ A: Sim. Comece a gravar no VibeDeck e depois toque o vídeo no YouTube. O som qu
 
 **Q: Ele usa o microfone?**
 
-A: Não. Ele grava o áudio do sistema, então não entra barulho do ambiente.
+A: Não. Ele grava o áudio do sistema, então não entra barulho do ambiente. O microfone e o vídeo não são salvos.
 
 **Q: Qual é a qualidade da gravação?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Escolha MP3 para qualquer aparelho, AAC para arquivos menores ou WAV para som sem compressão. Taxa de 128 a 320 kbps, 44,1 kHz estéreo.
 
 **Q: Funciona no Android?**
 
 A: Sim. O Sampler funciona do mesmo jeito no iPhone e no Android.
+
+**Q: Dá para gravar o Apple Music?**
+
+A: Não. Músicas protegidas de serviços de streaming como o Apple Music são bloqueadas pelo sistema e gravam em silêncio. YouTube, SoundCloud e TikTok gravam normalmente.
 
 **Q: É grátis?**
 
@@ -1808,15 +1832,19 @@ A: はい。VibeDeckで録音を始めてから、YouTubeで動画を再生し�
 
 **Q: マイクを使いますか?**
 
-A: いいえ。システム音声を録音するので、部屋の雑音は入りません。
+A: いいえ。システム音声を録音するので、部屋の雑音は入りません。マイクの音と映像は保存されません。
 
 **Q: 録音の音質は?**
 
-A: AAC、256 kbps、44.1 kHzです。
+A: どの端末でも開けるMP3、ファイルが小さいAAC、非圧縮のWAVから選べます。ビットレートは128〜320 kbps、44.1 kHzステレオです。
 
 **Q: Androidでも使えますか?**
 
 A: はい。SamplerはiPhoneでもAndroidでも同じように使えます。
+
+**Q: Apple Musicの曲も録音できますか?**
+
+A: いいえ。Apple Musicなどストリーミングサービスの保護された音楽はシステムがブロックし、無音で録音されます。YouTube、SoundCloud、TikTokは問題なく録音できます。
 
 **Q: 無料ですか?**
 
@@ -2002,15 +2030,19 @@ A: Да. Начните запись в VibeDeck, затем включите в
 
 **Q: Запись идёт через микрофон?**
 
-A: Нет. Записывается системный звук, поэтому шума комнаты в записи нет.
+A: Нет. Записывается системный звук, поэтому шума комнаты в записи нет. Микрофон и видео не сохраняются.
 
 **Q: Какое качество у записи?**
 
-A: AAC, 256 кбит/с, 44,1 кГц.
+A: MP3 откроется на любом устройстве, AAC даёт файлы меньше, WAV записывает без сжатия. Битрейт от 128 до 320 кбит/с, 44,1 кГц, стерео.
 
 **Q: Работает на Android?**
 
 A: Да. Сэмплер работает одинаково на iPhone и на Android.
+
+**Q: Можно записать Apple Music?**
+
+A: Нет. Защищённую музыку из стриминговых сервисов вроде Apple Music система блокирует, и запись получается тихой. YouTube, SoundCloud и TikTok записываются без проблем.
 
 **Q: Это бесплатно?**
 
@@ -2196,15 +2228,19 @@ A: 네. VibeDeck에서 녹음을 시작한 뒤 YouTube에서 영상을 재생하
 
 **Q: 마이크를 사용하나요?**
 
-A: 아니요. 시스템 오디오를 녹음하므로 방 소음이 들어가지 않습니다.
+A: 아니요. 시스템 오디오를 녹음하므로 방 소음이 들어가지 않습니다. 마이크 소리와 영상은 저장되지 않습니다.
 
 **Q: 녹음 음질은 어떤가요?**
 
-A: AAC, 256 kbps, 44.1 kHz입니다.
+A: 어디서나 열리는 MP3, 파일이 작은 AAC, 무압축 WAV 중에서 고를 수 있습니다. 비트레이트는 128~320 kbps, 44.1 kHz 스테레오입니다.
 
 **Q: 안드로이드에서도 되나요?**
 
 A: 네. Sampler는 아이폰과 안드로이드에서 똑같이 작동합니다.
+
+**Q: Apple Music도 녹음할 수 있나요?**
+
+A: 아니요. Apple Music 같은 스트리밍 서비스의 보호된 음악은 시스템이 막기 때문에 무음으로 녹음됩니다. YouTube, SoundCloud, TikTok은 문제없이 녹음됩니다.
 
 **Q: 무료인가요?**
 
@@ -2390,15 +2426,19 @@ A: Evet. VibeDeck'te kaydı başlatın, sonra videoyu YouTube'da oynatın. Telef
 
 **Q: Mikrofon kullanılıyor mu?**
 
-A: Hayır. Sistem sesi kaydedilir, bu yüzden kayıtta oda gürültüsü olmaz.
+A: Hayır. Sistem sesi kaydedilir, bu yüzden kayıtta oda gürültüsü olmaz. Mikrofon ve video kaydedilmez.
 
 **Q: Kayıt kalitesi nedir?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Her cihazda açılan MP3, daha küçük dosyalar için AAC ya da sıkıştırılmamış ses için WAV seçin. Bit hızı 128 ile 320 kbps arası, 44,1 kHz stereo.
 
 **Q: Android'de çalışıyor mu?**
 
 A: Evet. Sampler iPhone'da ve Android'de aynı şekilde çalışır.
+
+**Q: Apple Music kaydedebilir miyim?**
+
+A: Hayır. Apple Music gibi yayın hizmetlerinin korumalı müziklerini sistem engeller ve kayıt sessiz olur. YouTube, SoundCloud ve TikTok sorunsuz kaydedilir.
 
 **Q: Ücretsiz mi?**
 
@@ -2584,15 +2624,19 @@ A: Bisa. Mulai rekam di VibeDeck, lalu putar videonya di YouTube. Suara yang dip
 
 **Q: Apakah memakai mikrofon?**
 
-A: Tidak. Yang direkam adalah audio sistem, jadi tidak ada suara ruangan.
+A: Tidak. Yang direkam adalah audio sistem, jadi tidak ada suara ruangan. Mikrofon dan video tidak disimpan.
 
 **Q: Bagaimana kualitas rekamannya?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Pilih MP3 agar bisa dibuka di perangkat apa pun, AAC untuk file lebih kecil, atau WAV untuk suara tanpa kompresi. Bitrate 128 sampai 320 kbps, 44,1 kHz stereo.
 
 **Q: Apakah bisa di Android?**
 
 A: Bisa. Sampler bekerja sama persis di iPhone dan Android.
+
+**Q: Bisa merekam Apple Music?**
+
+A: Tidak. Musik terlindungi dari layanan streaming seperti Apple Music diblokir oleh sistem dan terekam tanpa suara. YouTube, SoundCloud, dan TikTok bisa direkam dengan lancar.
 
 **Q: Apakah gratis?**
 
@@ -2778,15 +2822,19 @@ A: Tak. Zacznij nagrywanie w VibeDeck, a potem odtwórz film w YouTube. Nagra si
 
 **Q: Czy nagrywa przez mikrofon?**
 
-A: Nie. Nagrywany jest dźwięk systemowy, więc w nagraniu nie ma szumu z pokoju.
+A: Nie. Nagrywany jest dźwięk systemowy, więc w nagraniu nie ma szumu z pokoju. Mikrofon i obraz nie są zapisywane.
 
 **Q: Jaka jest jakość nagrania?**
 
-A: AAC, 256 kb/s, 44,1 kHz.
+A: Wybierz MP3 na każde urządzenie, AAC dla mniejszych plików albo WAV dla dźwięku bez kompresji. Bitrate od 128 do 320 kb/s, 44,1 kHz stereo.
 
 **Q: Czy działa na Androidzie?**
 
 A: Tak. Sampler działa tak samo na iPhonie i na Androidzie.
+
+**Q: Czy mogę nagrać Apple Music?**
+
+A: Nie. Chronioną muzykę z serwisów streamingowych, takich jak Apple Music, system blokuje i nagranie jest ciche. YouTube, SoundCloud i TikTok nagrywają się bez problemu.
 
 **Q: Czy to jest darmowe?**
 
@@ -2972,15 +3020,19 @@ A: Ja. Start de opname in VibeDeck en speel daarna de video af in YouTube. Het g
 
 **Q: Gebruikt het de microfoon?**
 
-A: Nee. Het systeemgeluid wordt opgenomen, dus er komt geen geluid uit de kamer in de opname.
+A: Nee. Het systeemgeluid wordt opgenomen, dus er komt geen geluid uit de kamer in de opname. Microfoon en video worden niet bewaard.
 
 **Q: Wat is de kwaliteit van de opname?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Kies MP3 voor elk apparaat, AAC voor kleinere bestanden of WAV voor ongecomprimeerd geluid. Bitrate van 128 tot 320 kbps, 44,1 kHz stereo.
 
 **Q: Werkt het op Android?**
 
 A: Ja. De Sampler werkt op iPhone en Android op dezelfde manier.
+
+**Q: Kan ik Apple Music opnemen?**
+
+A: Nee. Beveiligde muziek van streamingdiensten zoals Apple Music wordt door het systeem geblokkeerd en neemt op als stilte. YouTube, SoundCloud en TikTok nemen gewoon op.
 
 **Q: Is het gratis?**
 
@@ -3166,15 +3218,19 @@ A: Có. Bắt đầu ghi trong VibeDeck rồi phát video trên YouTube. Âm tha
 
 **Q: Có dùng micro không?**
 
-A: Không. Ứng dụng ghi âm thanh hệ thống nên bản ghi không lẫn tiếng ồn trong phòng.
+A: Không. Ứng dụng ghi âm thanh hệ thống nên bản ghi không lẫn tiếng ồn trong phòng. Âm thanh từ micro và video không được lưu.
 
 **Q: Chất lượng bản ghi thế nào?**
 
-A: AAC, 256 kbps, 44,1 kHz.
+A: Chọn MP3 để mở trên mọi thiết bị, AAC cho file nhỏ hơn hoặc WAV cho âm thanh không nén. Bitrate từ 128 đến 320 kbps, 44,1 kHz stereo.
 
 **Q: Có dùng được trên Android không?**
 
 A: Có. Sampler hoạt động giống nhau trên iPhone và Android.
+
+**Q: Có ghi được Apple Music không?**
+
+A: Không. Nhạc được bảo vệ từ các dịch vụ nghe nhạc trực tuyến như Apple Music bị hệ thống chặn và ghi ra im lặng. YouTube, SoundCloud và TikTok ghi bình thường.
 
 **Q: Có miễn phí không?**
 
@@ -3360,15 +3416,19 @@ A: 可以。先在 VibeDeck 開始錄音，再到 YouTube 播放影片，手機�
 
 **Q: 會用到麥克風嗎？**
 
-A: 不會。錄的是系統音訊，所以不會錄進環境噪音。
+A: 不會。錄的是系統音訊，所以不會錄進環境噪音。麥克風聲音和影像都不會儲存。
 
 **Q: 錄音品質如何？**
 
-A: AAC、256 kbps、44.1 kHz。
+A: MP3 在任何裝置都能開，AAC 檔案較小，WAV 則是無壓縮。位元率 128 到 320 kbps，44.1 kHz 立體聲。
 
 **Q: Android 可以用嗎？**
 
 A: 可以。Sampler 在 iPhone 和 Android 上的用法完全相同。
+
+**Q: 可以錄 Apple Music 嗎？**
+
+A: 不行。Apple Music 等串流服務的受保護音樂會被系統阻擋，錄下來是無聲的。YouTube、SoundCloud 和 TikTok 都能正常錄。
 
 **Q: 是免費的嗎？**
 
@@ -3554,15 +3614,19 @@ A: 可以。先在 VibeDeck 开始录音，再到 YouTube 播放视频，手机�
 
 **Q: 会用到麦克风吗？**
 
-A: 不会。录的是系统音频，所以不会录进环境噪音。
+A: 不会。录的是系统音频，所以不会录进环境噪音。麦克风声音和画面都不会保存。
 
 **Q: 录音品质如何？**
 
-A: AAC、256 kbps、44.1 kHz。
+A: MP3 在任何设备都能打开，AAC 文件更小，WAV 则是无压缩。码率 128 到 320 kbps，44.1 kHz 立体声。
 
 **Q: Android 可以用吗？**
 
 A: 可以。Sampler 在 iPhone 和 Android 上的用法完全相同。
+
+**Q: 可以录 Apple Music 吗？**
+
+A: 不行。Apple Music 等流媒体服务的受保护音乐会被系统拦截，录下来是无声的。YouTube、SoundCloud 和 TikTok 都能正常录。
 
 **Q: 是免费的吗？**
 
@@ -3748,15 +3812,19 @@ A: ได้ เริ่มอัดใน VibeDeck แล้วเปิดว
 
 **Q: ใช้ไมโครโฟนไหม**
 
-A: ไม่ใช้ แอปอัดเสียงระบบ จึงไม่มีเสียงรบกวนในห้อง
+A: ไม่ใช้ แอปอัดเสียงระบบ จึงไม่มีเสียงรบกวนในห้อง และไม่บันทึกเสียงไมโครโฟนหรือวิดีโอ
 
 **Q: คุณภาพเสียงที่อัดเป็นอย่างไร**
 
-A: AAC, 256 kbps, 44.1 kHz
+A: เลือก MP3 เพื่อเปิดได้ทุกเครื่อง AAC สำหรับไฟล์เล็กกว่า หรือ WAV สำหรับเสียงไม่บีบอัด บิตเรตตั้งแต่ 128 ถึง 320 kbps, 44.1 kHz สเตอริโอ
 
 **Q: ใช้บน Android ได้ไหม**
 
 A: ได้ Sampler ทำงานแบบเดียวกันทั้งบน iPhone และ Android
+
+**Q: อัด Apple Music ได้ไหม**
+
+A: ไม่ได้ เพลงที่มีการป้องกันจากบริการสตรีมมิง เช่น Apple Music ระบบจะบล็อกไว้และอัดออกมาเป็นความเงียบ ส่วน YouTube, SoundCloud และ TikTok อัดได้ปกติ
 
 **Q: ฟรีไหม**
 

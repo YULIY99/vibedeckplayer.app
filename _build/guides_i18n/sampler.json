@@ -11,18 +11,18 @@
   ],
   "h1": "スマホで流れている音を、そのまま録音。",
   "h1sub": "Recを押して、再生して、残す",
-  "lede": "VibeDeck Samplerは、スマホで再生中の音をシステムから直接録音します。Recを押してYouTubeやSoundCloudなど好きなアプリに切り替え、録り終えたら戻るだけ。マイクも、部屋の雑音も、パソコンもいりません。iPhoneとAndroidに対応しています。",
+  "lede": "VibeDeck Samplerは、スマホで再生中の音をシステムから直接録音します。Recを押してYouTube、SoundCloud、TikTokなど多くのアプリに切り替え、録り終えたら戻るだけ。マイクも、部屋の雑音も、パソコンもいりません。iPhoneとAndroidに対応しています。",
   "alt": "iPhoneでシステム音声を録音するVibeDeck Sampler",
   "statement": "動画や配信、DJセットで気になる音を見つけても、ダウンロードボタンはありません。別のスマホをスピーカーに近づけて録ると音は台無しです。Samplerなら再生中の音をスマホから直接、クリアに録音できます。",
   "features_title": "聴いて、Recを押して、残す",
   "features": [
    [
     "どのアプリでも",
-    "YouTube、SoundCloud、ブラウザ、ゲーム、ボイスメッセージ。スマホで鳴る音なら録音できます。"
+    "YouTube、SoundCloud、TikTok、ブラウザ、ゲーム、ボイスメッセージ。スマホで鳴る音の多くを録音できます。"
    ],
    [
     "クリアなシステム音声",
-    "AAC 256 kbps、44.1 kHzでスマホから直接録音。メーターで録音中の音を確認できます。"
+    "MP3、AAC、WAVから選べて、最大320 kbps、44.1 kHzステレオでスマホから直接録音。メーターで録音中の音を確認できます。"
    ],
    [
     "波形で編集",
@@ -42,15 +42,19 @@
    ],
    [
     "マイクを使いますか?",
-    "いいえ。システム音声を録音するので、部屋の雑音は入りません。"
+    "いいえ。システム音声を録音するので、部屋の雑音は入りません。マイクの音と映像は保存されません。"
    ],
    [
     "録音の音質は?",
-    "AAC、256 kbps、44.1 kHzです。"
+    "どの端末でも開けるMP3、ファイルが小さいAAC、非圧縮のWAVから選べます。ビットレートは128〜320 kbps、44.1 kHzステレオです。"
    ],
    [
     "Androidでも使えますか?",
     "はい。SamplerはiPhoneでもAndroidでも同じように使えます。"
+   ],
+   [
+    "Apple Musicの曲も録音できますか?",
+    "いいえ。Apple Musicなどストリーミングサービスの保護された音楽はシステムがブロックし、無音で録音されます。YouTube、SoundCloud、TikTokは問題なく録音できます。"
    ],
    [
     "無料ですか?",
@@ -71,18 +75,18 @@
   ],
   "h1": "Graba cualquier sonido que suene en tu móvil.",
   "h1sub": "Pulsa Rec. Reproduce lo que quieras. Guárdalo",
-  "lede": "VibeDeck Sampler graba el sonido que suena en tu móvil, directamente del sistema. Pulsa Rec, cambia a YouTube, SoundCloud o cualquier app y vuelve cuando tengas lo que buscabas. Sin micrófono, sin ruido de la habitación y sin ordenador. En iPhone y Android.",
+  "lede": "VibeDeck Sampler graba el sonido que suena en tu móvil, directamente del sistema. Pulsa Rec, cambia a YouTube, SoundCloud, TikTok o la mayoría de apps y vuelve cuando tengas lo que buscabas. Sin micrófono, sin ruido de la habitación y sin ordenador. En iPhone y Android.",
   "alt": "VibeDeck Sampler grabando el audio del sistema en iPhone",
   "statement": "Oyes algo genial en un vídeo, un directo o una sesión de DJ, y no hay botón de descarga. Acercar otro móvil al altavoz suena fatal. El Sampler graba el sonido directamente del móvil, limpio, mientras suena.",
   "features_title": "Lo oyes, pulsas Rec, te lo quedas",
   "features": [
    [
     "Cualquier app",
-    "YouTube, SoundCloud, el navegador, un juego, un mensaje de voz. Si tu móvil lo reproduce, el Sampler lo graba."
+    "YouTube, SoundCloud, TikTok, el navegador, un juego, un mensaje de voz. La mayoría de apps que suenan en tu móvil se pueden grabar."
    ],
    [
     "Audio limpio del sistema",
-    "AAC a 256 kbps y 44,1 kHz, directo del móvil. Un medidor muestra el sonido que entra."
+    "MP3, AAC o WAV hasta 320 kbps, 44,1 kHz en estéreo, directo del móvil. Un medidor muestra el sonido que entra."
    ],
    [
     "Edición en la onda",
@@ -102,15 +106,19 @@
    ],
    [
     "¿Usa el micrófono?",
-    "No. Graba el audio del sistema, así que no entra ruido de la habitación."
+    "No. Graba el audio del sistema, así que no entra ruido de la habitación. El micrófono y el vídeo no se guardan."
    ],
    [
     "¿Qué calidad tiene la grabación?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Elige MP3 para cualquier dispositivo, AAC para archivos más pequeños o WAV para sonido sin compresión. Bitrate de 128 a 320 kbps, 44,1 kHz en estéreo."
    ],
    [
     "¿Funciona en Android?",
     "Sí. El Sampler funciona igual en iPhone y en Android."
+   ],
+   [
+    "¿Puedo grabar Apple Music?",
+    "No. La música protegida de servicios de streaming como Apple Music la bloquea el sistema y se graba en silencio. YouTube, SoundCloud y TikTok se graban sin problema."
    ],
    [
     "¿Es gratis?",
@@ -131,18 +139,18 @@
   ],
   "h1": "Grave qualquer som que toca no seu celular.",
   "h1sub": "Toque em Rec. Toque o que quiser. Guarde",
-  "lede": "O VibeDeck Sampler grava o som que está tocando no celular, direto do sistema. Toque em Rec, vá para o YouTube, o SoundCloud ou qualquer app e volte quando tiver o que queria. Sem microfone, sem barulho do ambiente e sem computador. No iPhone e no Android.",
+  "lede": "O VibeDeck Sampler grava o som que está tocando no celular, direto do sistema. Toque em Rec, vá para o YouTube, o SoundCloud, o TikTok ou a maioria dos apps e volte quando tiver o que queria. Sem microfone, sem barulho do ambiente e sem computador. No iPhone e no Android.",
   "alt": "VibeDeck Sampler gravando o áudio do sistema no iPhone",
   "statement": "Você ouve algo incrível num vídeo, numa live ou num set de DJ, e não existe botão de download. Encostar outro celular no alto-falante fica horrível. O Sampler grava o som direto do celular, limpo, enquanto ele toca.",
   "features_title": "Ouviu, tocou em Rec, guardou",
   "features": [
    [
     "Qualquer app",
-    "YouTube, SoundCloud, o navegador, um jogo, uma mensagem de voz. Se o celular toca, o Sampler grava."
+    "YouTube, SoundCloud, TikTok, o navegador, um jogo, uma mensagem de voz. A maioria dos apps que tocam som no celular pode ser gravada."
    ],
    [
     "Áudio limpo do sistema",
-    "AAC a 256 kbps e 44,1 kHz, direto do celular. Um medidor mostra o som entrando."
+    "MP3, AAC ou WAV até 320 kbps, 44,1 kHz estéreo, direto do celular. Um medidor mostra o som entrando."
    ],
    [
     "Edição na forma de onda",
@@ -162,15 +170,19 @@
    ],
    [
     "Ele usa o microfone?",
-    "Não. Ele grava o áudio do sistema, então não entra barulho do ambiente."
+    "Não. Ele grava o áudio do sistema, então não entra barulho do ambiente. O microfone e o vídeo não são salvos."
    ],
    [
     "Qual é a qualidade da gravação?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Escolha MP3 para qualquer aparelho, AAC para arquivos menores ou WAV para som sem compressão. Taxa de 128 a 320 kbps, 44,1 kHz estéreo."
    ],
    [
     "Funciona no Android?",
     "Sim. O Sampler funciona do mesmo jeito no iPhone e no Android."
+   ],
+   [
+    "Dá para gravar o Apple Music?",
+    "Não. Músicas protegidas de serviços de streaming como o Apple Music são bloqueadas pelo sistema e gravam em silêncio. YouTube, SoundCloud e TikTok gravam normalmente."
    ],
    [
     "É grátis?",
@@ -191,18 +203,18 @@
   ],
   "h1": "Nimm jeden Ton auf, der auf deinem Handy läuft.",
   "h1sub": "Rec drücken. Abspielen. Behalten",
-  "lede": "Der VibeDeck Sampler nimmt den Ton auf, der auf deinem Handy läuft, direkt aus dem System. Drück auf Rec, wechsle zu YouTube, SoundCloud oder einer anderen App und komm zurück, wenn du alles hast. Kein Mikrofon, keine Raumgeräusche, kein Computer. Auf iPhone und Android.",
+  "lede": "Der VibeDeck Sampler nimmt den Ton auf, der auf deinem Handy läuft, direkt aus dem System. Drück auf Rec, wechsle zu YouTube, SoundCloud, TikTok oder den meisten anderen Apps und komm zurück, wenn du alles hast. Kein Mikrofon, keine Raumgeräusche, kein Computer. Auf iPhone und Android.",
   "alt": "VibeDeck Sampler nimmt den Systemton auf dem iPhone auf",
   "statement": "Du hörst etwas Großartiges in einem Video, einem Stream oder einem DJ-Set, und es gibt keinen Download-Button. Ein zweites Handy an den Lautsprecher halten klingt furchtbar. Der Sampler nimmt den Ton direkt vom Handy auf, sauber, während er läuft.",
   "features_title": "Hören, Rec drücken, behalten",
   "features": [
    [
     "Jede App",
-    "YouTube, SoundCloud, der Browser, ein Spiel, eine Sprachnachricht. Was dein Handy abspielt, nimmt der Sampler auf."
+    "YouTube, SoundCloud, TikTok, der Browser, ein Spiel, eine Sprachnachricht. Die meisten Apps, die auf deinem Handy Ton abspielen, lassen sich aufnehmen."
    ],
    [
     "Sauberer Systemton",
-    "AAC mit 256 kbps und 44,1 kHz, direkt vom Handy. Eine Pegelanzeige zeigt, dass Ton ankommt."
+    "MP3, AAC oder WAV mit bis zu 320 kbps, 44,1 kHz Stereo, direkt vom Handy. Eine Pegelanzeige zeigt, dass Ton ankommt."
    ],
    [
     "Schnitt in der Wellenform",
@@ -222,15 +234,19 @@
    ],
    [
     "Wird das Mikrofon benutzt?",
-    "Nein. Aufgenommen wird der Systemton, deshalb sind keine Raumgeräusche zu hören."
+    "Nein. Aufgenommen wird der Systemton, deshalb sind keine Raumgeräusche zu hören. Mikrofon und Video werden nicht gespeichert."
    ],
    [
     "Welche Qualität hat die Aufnahme?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Wähle MP3 für jedes Gerät, AAC für kleinere Dateien oder WAV für unkomprimierten Klang. Bitrate von 128 bis 320 kbps, 44,1 kHz Stereo."
    ],
    [
     "Funktioniert das auf Android?",
     "Ja. Der Sampler funktioniert auf iPhone und Android gleich."
+   ],
+   [
+    "Kann ich Apple Music aufnehmen?",
+    "Nein. Geschützte Musik von Streamingdiensten wie Apple Music blockiert das System, die Aufnahme bleibt stumm. YouTube, SoundCloud und TikTok lassen sich problemlos aufnehmen."
    ],
    [
     "Ist das kostenlos?",
@@ -251,18 +267,18 @@
   ],
   "h1": "Enregistrez tout son joué sur votre téléphone.",
   "h1sub": "Appuyez sur Rec. Lancez le son. Gardez-le",
-  "lede": "VibeDeck Sampler enregistre le son joué sur votre téléphone, directement depuis le système. Appuyez sur Rec, passez sur YouTube, SoundCloud ou n'importe quelle app, et revenez quand vous avez ce qu'il vous faut. Pas de micro, pas de bruit de la pièce, pas d'ordinateur. Sur iPhone et Android.",
+  "lede": "VibeDeck Sampler enregistre le son joué sur votre téléphone, directement depuis le système. Appuyez sur Rec, passez sur YouTube, SoundCloud, TikTok ou la plupart des apps, et revenez quand vous avez ce qu'il vous faut. Pas de micro, pas de bruit de la pièce, pas d'ordinateur. Sur iPhone et Android.",
   "alt": "VibeDeck Sampler enregistre le son du système sur iPhone",
   "statement": "Vous entendez un passage génial dans une vidéo, un live ou un set de DJ, et il n'y a pas de bouton de téléchargement. Coller un autre téléphone au haut-parleur donne un son horrible. Le Sampler enregistre le son directement depuis le téléphone, propre, pendant la lecture.",
   "features_title": "Vous l'entendez, vous appuyez sur Rec, vous le gardez",
   "features": [
    [
     "N'importe quelle app",
-    "YouTube, SoundCloud, le navigateur, un jeu, un message vocal. Si votre téléphone le joue, le Sampler l'enregistre."
+    "YouTube, SoundCloud, TikTok, le navigateur, un jeu, un message vocal. La plupart des apps qui jouent du son sur votre téléphone peuvent être enregistrées."
    ],
    [
     "Son système propre",
-    "AAC à 256 kbps et 44,1 kHz, directement depuis le téléphone. Un vumètre montre le son qui arrive."
+    "MP3, AAC ou WAV jusqu'à 320 kbps, 44,1 kHz en stéréo, directement depuis le téléphone. Un vumètre montre le son qui arrive."
    ],
    [
     "Montage sur la forme d'onde",
@@ -282,15 +298,19 @@
    ],
    [
     "Est-ce que le micro est utilisé ?",
-    "Non. C'est le son du système qui est enregistré, donc aucun bruit de la pièce."
+    "Non. C'est le son du système qui est enregistré, donc aucun bruit de la pièce. Le micro et la vidéo ne sont pas enregistrés."
    ],
    [
     "Quelle est la qualité de l'enregistrement ?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Choisissez MP3 pour tous les appareils, AAC pour des fichiers plus légers ou WAV pour un son non compressé. Débit de 128 à 320 kbps, 44,1 kHz en stéréo."
    ],
    [
     "Est-ce que ça marche sur Android ?",
     "Oui. Le Sampler fonctionne de la même façon sur iPhone et sur Android."
+   ],
+   [
+    "Puis-je enregistrer Apple Music ?",
+    "Non. La musique protégée des services de streaming comme Apple Music est bloquée par le système et s'enregistre en silence. YouTube, SoundCloud et TikTok s'enregistrent sans problème."
    ],
    [
     "C'est gratuit ?",
@@ -311,18 +331,18 @@
   ],
   "h1": "Registra qualsiasi suono che passa sul telefono.",
   "h1sub": "Premi Rec. Fai partire il suono. Tienilo",
-  "lede": "VibeDeck Sampler registra il suono che passa sul telefono, direttamente dal sistema. Premi Rec, passa a YouTube, SoundCloud o a qualsiasi app e torna quando hai quello che ti serve. Niente microfono, niente rumore della stanza, niente computer. Su iPhone e Android.",
+  "lede": "VibeDeck Sampler registra il suono che passa sul telefono, direttamente dal sistema. Premi Rec, passa a YouTube, SoundCloud, TikTok o alla maggior parte delle app e torna quando hai quello che ti serve. Niente microfono, niente rumore della stanza, niente computer. Su iPhone e Android.",
   "alt": "VibeDeck Sampler che registra l'audio di sistema su iPhone",
   "statement": "Senti qualcosa di bellissimo in un video, in una diretta o in un DJ set, e non c'è nessun pulsante per scaricarlo. Avvicinare un altro telefono all'altoparlante suona malissimo. Il Sampler registra il suono direttamente dal telefono, pulito, mentre suona.",
   "features_title": "Lo senti, premi Rec, lo tieni",
   "features": [
    [
     "Qualsiasi app",
-    "YouTube, SoundCloud, il browser, un gioco, un messaggio vocale. Se il telefono lo riproduce, il Sampler lo registra."
+    "YouTube, SoundCloud, TikTok, il browser, un gioco, un messaggio vocale. La maggior parte delle app che suonano sul telefono si può registrare."
    ],
    [
     "Audio di sistema pulito",
-    "AAC a 256 kbps e 44,1 kHz, direttamente dal telefono. Un indicatore mostra il suono in ingresso."
+    "MP3, AAC o WAV fino a 320 kbps, 44,1 kHz stereo, direttamente dal telefono. Un indicatore mostra il suono in ingresso."
    ],
    [
     "Modifica sulla forma d'onda",
@@ -342,15 +362,19 @@
    ],
    [
     "Usa il microfono?",
-    "No. Registra l'audio di sistema, quindi non entra il rumore della stanza."
+    "No. Registra l'audio di sistema, quindi non entra il rumore della stanza. Microfono e video non vengono salvati."
    ],
    [
     "Che qualità ha la registrazione?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Scegli MP3 per qualsiasi dispositivo, AAC per file più leggeri o WAV per un suono non compresso. Bitrate da 128 a 320 kbps, 44,1 kHz stereo."
    ],
    [
     "Funziona su Android?",
     "Sì. Il Sampler funziona allo stesso modo su iPhone e su Android."
+   ],
+   [
+    "Posso registrare Apple Music?",
+    "No. La musica protetta dei servizi di streaming come Apple Music viene bloccata dal sistema e si registra in silenzio. YouTube, SoundCloud e TikTok si registrano senza problemi."
    ],
    [
     "È gratis?",
@@ -371,18 +395,18 @@
   ],
   "h1": "Записывайте любой звук, который играет на телефоне.",
   "h1sub": "Нажали Rec. Включили звук. Сохранили",
-  "lede": "VibeDeck Sampler записывает звук, который играет на телефоне, прямо из системы. Нажмите Rec, переключитесь в YouTube, SoundCloud или любое приложение и вернитесь, когда записали нужное. Без микрофона, без шума комнаты и без компьютера. На iPhone и Android.",
+  "lede": "VibeDeck Sampler записывает звук, который играет на телефоне, прямо из системы. Нажмите Rec, переключитесь в YouTube, SoundCloud, TikTok или почти любое приложение и вернитесь, когда записали нужное. Без микрофона, без шума комнаты и без компьютера. На iPhone и Android.",
   "alt": "VibeDeck Sampler записывает системный звук на iPhone",
   "statement": "Вы слышите что-то классное в видео, трансляции или диджей-сете, а кнопки «скачать» нет. Если поднести второй телефон к динамику, звук будет ужасным. Сэмплер записывает звук прямо с телефона, чисто, пока он играет.",
   "features_title": "Услышали, нажали Rec, сохранили",
   "features": [
    [
     "Любое приложение",
-    "YouTube, SoundCloud, браузер, игра, голосовое сообщение. Если телефон это играет, Сэмплер это запишет."
+    "YouTube, SoundCloud, TikTok, браузер, игра, голосовое сообщение. Записать можно звук из большинства приложений на телефоне."
    ],
    [
     "Чистый системный звук",
-    "AAC 256 кбит/с, 44,1 кГц, прямо с телефона. Индикатор показывает, что звук записывается."
+    "MP3, AAC или WAV до 320 кбит/с, 44,1 кГц, стерео, прямо с телефона. Индикатор показывает, что звук записывается."
    ],
    [
     "Редактирование по волне",
@@ -402,15 +426,19 @@
    ],
    [
     "Запись идёт через микрофон?",
-    "Нет. Записывается системный звук, поэтому шума комнаты в записи нет."
+    "Нет. Записывается системный звук, поэтому шума комнаты в записи нет. Микрофон и видео не сохраняются."
    ],
    [
     "Какое качество у записи?",
-    "AAC, 256 кбит/с, 44,1 кГц."
+    "MP3 откроется на любом устройстве, AAC даёт файлы меньше, WAV записывает без сжатия. Битрейт от 128 до 320 кбит/с, 44,1 кГц, стерео."
    ],
    [
     "Работает на Android?",
     "Да. Сэмплер работает одинаково на iPhone и на Android."
+   ],
+   [
+    "Можно записать Apple Music?",
+    "Нет. Защищённую музыку из стриминговых сервисов вроде Apple Music система блокирует, и запись получается тихой. YouTube, SoundCloud и TikTok записываются без проблем."
    ],
    [
     "Это бесплатно?",
@@ -431,18 +459,18 @@
   ],
   "h1": "휴대폰에서 재생되는 모든 소리를 녹음하세요.",
   "h1sub": "Rec를 누르고, 재생하고, 간직하세요",
-  "lede": "VibeDeck Sampler는 휴대폰에서 재생되는 소리를 시스템에서 바로 녹음합니다. Rec를 누르고 YouTube, SoundCloud 등 원하는 앱으로 이동했다가, 필요한 부분을 녹음하면 돌아오면 됩니다. 마이크도, 방 소음도, 컴퓨터도 필요 없습니다. 아이폰과 안드로이드에서 사용할 수 있습니다.",
+  "lede": "VibeDeck Sampler는 휴대폰에서 재생되는 소리를 시스템에서 바로 녹음합니다. Rec를 누르고 YouTube, SoundCloud, TikTok 등 대부분의 앱으로 이동했다가, 필요한 부분을 녹음하면 돌아오면 됩니다. 마이크도, 방 소음도, 컴퓨터도 필요 없습니다. 아이폰과 안드로이드에서 사용할 수 있습니다.",
   "alt": "아이폰에서 시스템 오디오를 녹음하는 VibeDeck Sampler",
   "statement": "영상이나 라이브 방송, DJ 세트에서 멋진 소리를 들어도 다운로드 버튼은 없습니다. 다른 휴대폰을 스피커에 대고 녹음하면 소리가 엉망이 됩니다. Sampler는 재생 중인 소리를 휴대폰에서 바로, 깨끗하게 녹음합니다.",
   "features_title": "듣고, Rec를 누르고, 간직하세요",
   "features": [
    [
     "모든 앱",
-    "YouTube, SoundCloud, 브라우저, 게임, 음성 메시지. 휴대폰에서 나오는 소리라면 Sampler가 녹음합니다."
+    "YouTube, SoundCloud, TikTok, 브라우저, 게임, 음성 메시지. 휴대폰에서 나오는 대부분의 소리를 녹음할 수 있습니다."
    ],
    [
     "깨끗한 시스템 오디오",
-    "AAC 256 kbps, 44.1 kHz로 휴대폰에서 바로 녹음합니다. 레벨 미터로 소리가 들어오는 것을 확인할 수 있습니다."
+    "MP3, AAC, WAV 중에서 고르고 최대 320 kbps, 44.1 kHz 스테레오로 휴대폰에서 바로 녹음합니다. 레벨 미터로 소리가 들어오는 것을 확인할 수 있습니다."
    ],
    [
     "파형에서 편집",
@@ -462,15 +490,19 @@
    ],
    [
     "마이크를 사용하나요?",
-    "아니요. 시스템 오디오를 녹음하므로 방 소음이 들어가지 않습니다."
+    "아니요. 시스템 오디오를 녹음하므로 방 소음이 들어가지 않습니다. 마이크 소리와 영상은 저장되지 않습니다."
    ],
    [
     "녹음 음질은 어떤가요?",
-    "AAC, 256 kbps, 44.1 kHz입니다."
+    "어디서나 열리는 MP3, 파일이 작은 AAC, 무압축 WAV 중에서 고를 수 있습니다. 비트레이트는 128~320 kbps, 44.1 kHz 스테레오입니다."
    ],
    [
     "안드로이드에서도 되나요?",
     "네. Sampler는 아이폰과 안드로이드에서 똑같이 작동합니다."
+   ],
+   [
+    "Apple Music도 녹음할 수 있나요?",
+    "아니요. Apple Music 같은 스트리밍 서비스의 보호된 음악은 시스템이 막기 때문에 무음으로 녹음됩니다. YouTube, SoundCloud, TikTok은 문제없이 녹음됩니다."
    ],
    [
     "무료인가요?",
@@ -491,18 +523,18 @@
   ],
   "h1": "Telefonunuzda çalan her sesi kaydedin.",
   "h1sub": "Rec'e basın. Çalın. Saklayın",
-  "lede": "VibeDeck Sampler, telefonunuzda çalan sesi doğrudan sistemden kaydeder. Rec'e basın, YouTube, SoundCloud ya da istediğiniz uygulamaya geçin ve istediğinizi kaydedince geri dönün. Mikrofon yok, oda gürültüsü yok, bilgisayar yok. iPhone ve Android'de.",
+  "lede": "VibeDeck Sampler, telefonunuzda çalan sesi doğrudan sistemden kaydeder. Rec'e basın, YouTube, SoundCloud, TikTok ya da çoğu uygulamaya geçin ve istediğinizi kaydedince geri dönün. Mikrofon yok, oda gürültüsü yok, bilgisayar yok. iPhone ve Android'de.",
   "alt": "iPhone'da sistem sesini kaydeden VibeDeck Sampler",
   "statement": "Bir videoda, canlı yayında ya da DJ setinde harika bir şey duyuyorsunuz ve indirme düğmesi yok. Başka bir telefonu hoparlöre tutmak berbat ses verir. Sampler sesi çalarken doğrudan telefondan, temiz şekilde kaydeder.",
   "features_title": "Duyun, Rec'e basın, saklayın",
   "features": [
    [
     "Her uygulama",
-    "YouTube, SoundCloud, tarayıcı, bir oyun, bir sesli mesaj. Telefonunuz çalıyorsa Sampler kaydeder."
+    "YouTube, SoundCloud, TikTok, tarayıcı, bir oyun, bir sesli mesaj. Telefonunuzda ses çalan uygulamaların çoğu kaydedilebilir."
    ],
    [
     "Temiz sistem sesi",
-    "AAC 256 kbps, 44,1 kHz, doğrudan telefondan. Bir seviye göstergesi gelen sesi gösterir."
+    "MP3, AAC veya WAV, 320 kbps'ye kadar, 44,1 kHz stereo, doğrudan telefondan. Bir seviye göstergesi gelen sesi gösterir."
    ],
    [
     "Dalga formunda düzenleme",
@@ -522,15 +554,19 @@
    ],
    [
     "Mikrofon kullanılıyor mu?",
-    "Hayır. Sistem sesi kaydedilir, bu yüzden kayıtta oda gürültüsü olmaz."
+    "Hayır. Sistem sesi kaydedilir, bu yüzden kayıtta oda gürültüsü olmaz. Mikrofon ve video kaydedilmez."
    ],
    [
     "Kayıt kalitesi nedir?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Her cihazda açılan MP3, daha küçük dosyalar için AAC ya da sıkıştırılmamış ses için WAV seçin. Bit hızı 128 ile 320 kbps arası, 44,1 kHz stereo."
    ],
    [
     "Android'de çalışıyor mu?",
     "Evet. Sampler iPhone'da ve Android'de aynı şekilde çalışır."
+   ],
+   [
+    "Apple Music kaydedebilir miyim?",
+    "Hayır. Apple Music gibi yayın hizmetlerinin korumalı müziklerini sistem engeller ve kayıt sessiz olur. YouTube, SoundCloud ve TikTok sorunsuz kaydedilir."
    ],
    [
     "Ücretsiz mi?",
@@ -551,18 +587,18 @@
   ],
   "h1": "Rekam suara apa pun yang diputar di HP kamu.",
   "h1sub": "Tekan Rec. Putar apa saja. Simpan",
-  "lede": "VibeDeck Sampler merekam suara yang diputar di HP kamu, langsung dari sistem. Tekan Rec, pindah ke YouTube, SoundCloud, atau aplikasi apa saja, lalu kembali setelah dapat yang kamu mau. Tanpa mikrofon, tanpa suara ruangan, tanpa komputer. Di iPhone dan Android.",
+  "lede": "VibeDeck Sampler merekam suara yang diputar di HP kamu, langsung dari sistem. Tekan Rec, pindah ke YouTube, SoundCloud, TikTok, atau hampir semua aplikasi, lalu kembali setelah dapat yang kamu mau. Tanpa mikrofon, tanpa suara ruangan, tanpa komputer. Di iPhone dan Android.",
   "alt": "VibeDeck Sampler merekam audio sistem di iPhone",
   "statement": "Kamu mendengar sesuatu yang keren di video, siaran langsung, atau set DJ, dan tidak ada tombol unduh. Mendekatkan HP lain ke speaker hasilnya jelek. Sampler merekam suara langsung dari HP, bersih, saat suara diputar.",
   "features_title": "Dengar, tekan Rec, simpan",
   "features": [
    [
     "Aplikasi apa saja",
-    "YouTube, SoundCloud, browser, game, pesan suara. Kalau HP kamu memutarnya, Sampler merekamnya."
+    "YouTube, SoundCloud, TikTok, browser, game, pesan suara. Sebagian besar aplikasi yang memutar suara di HP bisa direkam."
    ],
    [
     "Audio sistem yang bersih",
-    "AAC 256 kbps, 44,1 kHz, langsung dari HP. Indikator level menunjukkan suara yang masuk."
+    "MP3, AAC, atau WAV hingga 320 kbps, 44,1 kHz stereo, langsung dari HP. Indikator level menunjukkan suara yang masuk."
    ],
    [
     "Edit di gelombang suara",
@@ -582,15 +618,19 @@
    ],
    [
     "Apakah memakai mikrofon?",
-    "Tidak. Yang direkam adalah audio sistem, jadi tidak ada suara ruangan."
+    "Tidak. Yang direkam adalah audio sistem, jadi tidak ada suara ruangan. Mikrofon dan video tidak disimpan."
    ],
    [
     "Bagaimana kualitas rekamannya?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Pilih MP3 agar bisa dibuka di perangkat apa pun, AAC untuk file lebih kecil, atau WAV untuk suara tanpa kompresi. Bitrate 128 sampai 320 kbps, 44,1 kHz stereo."
    ],
    [
     "Apakah bisa di Android?",
     "Bisa. Sampler bekerja sama persis di iPhone dan Android."
+   ],
+   [
+    "Bisa merekam Apple Music?",
+    "Tidak. Musik terlindungi dari layanan streaming seperti Apple Music diblokir oleh sistem dan terekam tanpa suara. YouTube, SoundCloud, dan TikTok bisa direkam dengan lancar."
    ],
    [
     "Apakah gratis?",
@@ -611,18 +651,18 @@
   ],
   "h1": "Nagrywaj każdy dźwięk, który gra w telefonie.",
   "h1sub": "Naciśnij Rec. Odtwórz. Zachowaj",
-  "lede": "VibeDeck Sampler nagrywa dźwięk, który gra w telefonie, prosto z systemu. Naciśnij Rec, przejdź do YouTube, SoundCloud albo dowolnej aplikacji i wróć, kiedy masz to, czego potrzebujesz. Bez mikrofonu, bez szumu z pokoju, bez komputera. Na iPhonie i Androidzie.",
+  "lede": "VibeDeck Sampler nagrywa dźwięk, który gra w telefonie, prosto z systemu. Naciśnij Rec, przejdź do YouTube, SoundCloud, TikToka albo większości aplikacji i wróć, kiedy masz to, czego potrzebujesz. Bez mikrofonu, bez szumu z pokoju, bez komputera. Na iPhonie i Androidzie.",
   "alt": "VibeDeck Sampler nagrywa dźwięk systemowy na iPhonie",
   "statement": "Słyszysz coś świetnego w filmie, na transmisji albo w secie DJ-a i nie ma przycisku pobierania. Przystawianie drugiego telefonu do głośnika brzmi fatalnie. Sampler nagrywa dźwięk prosto z telefonu, czysto, w trakcie odtwarzania.",
   "features_title": "Usłyszysz, naciśniesz Rec, zachowasz",
   "features": [
    [
     "Dowolna aplikacja",
-    "YouTube, SoundCloud, przeglądarka, gra, wiadomość głosowa. Jeśli telefon to odtwarza, Sampler to nagra."
+    "YouTube, SoundCloud, TikTok, przeglądarka, gra, wiadomość głosowa. Większość aplikacji, które grają w telefonie, da się nagrać."
    ],
    [
     "Czysty dźwięk systemowy",
-    "AAC 256 kb/s, 44,1 kHz, prosto z telefonu. Wskaźnik poziomu pokazuje, że dźwięk się nagrywa."
+    "MP3, AAC albo WAV do 320 kb/s, 44,1 kHz stereo, prosto z telefonu. Wskaźnik poziomu pokazuje, że dźwięk się nagrywa."
    ],
    [
     "Edycja na fali",
@@ -642,15 +682,19 @@
    ],
    [
     "Czy nagrywa przez mikrofon?",
-    "Nie. Nagrywany jest dźwięk systemowy, więc w nagraniu nie ma szumu z pokoju."
+    "Nie. Nagrywany jest dźwięk systemowy, więc w nagraniu nie ma szumu z pokoju. Mikrofon i obraz nie są zapisywane."
    ],
    [
     "Jaka jest jakość nagrania?",
-    "AAC, 256 kb/s, 44,1 kHz."
+    "Wybierz MP3 na każde urządzenie, AAC dla mniejszych plików albo WAV dla dźwięku bez kompresji. Bitrate od 128 do 320 kb/s, 44,1 kHz stereo."
    ],
    [
     "Czy działa na Androidzie?",
     "Tak. Sampler działa tak samo na iPhonie i na Androidzie."
+   ],
+   [
+    "Czy mogę nagrać Apple Music?",
+    "Nie. Chronioną muzykę z serwisów streamingowych, takich jak Apple Music, system blokuje i nagranie jest ciche. YouTube, SoundCloud i TikTok nagrywają się bez problemu."
    ],
    [
     "Czy to jest darmowe?",
@@ -671,18 +715,18 @@
   ],
   "h1": "Neem elk geluid op dat op je telefoon speelt.",
   "h1sub": "Druk op Rec. Speel iets af. Bewaar het",
-  "lede": "De VibeDeck Sampler neemt het geluid op dat op je telefoon speelt, rechtstreeks uit het systeem. Druk op Rec, ga naar YouTube, SoundCloud of een andere app en kom terug als je hebt wat je wilt. Geen microfoon, geen geluid uit de kamer, geen computer. Op iPhone en Android.",
+  "lede": "De VibeDeck Sampler neemt het geluid op dat op je telefoon speelt, rechtstreeks uit het systeem. Druk op Rec, ga naar YouTube, SoundCloud, TikTok of de meeste andere apps en kom terug als je hebt wat je wilt. Geen microfoon, geen geluid uit de kamer, geen computer. Op iPhone en Android.",
   "alt": "VibeDeck Sampler neemt systeemgeluid op een iPhone op",
   "statement": "Je hoort iets geweldigs in een video, een livestream of een DJ-set, en er is geen downloadknop. Een tweede telefoon bij de speaker houden klinkt vreselijk. De Sampler neemt het geluid rechtstreeks van je telefoon op, schoon, terwijl het speelt.",
   "features_title": "Horen, op Rec drukken, bewaren",
   "features": [
    [
     "Elke app",
-    "YouTube, SoundCloud, de browser, een game, een spraakbericht. Als je telefoon het afspeelt, neemt de Sampler het op."
+    "YouTube, SoundCloud, TikTok, de browser, een game, een spraakbericht. De meeste apps die geluid afspelen op je telefoon kun je opnemen."
    ],
    [
     "Schoon systeemgeluid",
-    "AAC met 256 kbps en 44,1 kHz, rechtstreeks van de telefoon. Een niveaumeter laat zien dat er geluid binnenkomt."
+    "MP3, AAC of WAV tot 320 kbps, 44,1 kHz stereo, rechtstreeks van de telefoon. Een niveaumeter laat zien dat er geluid binnenkomt."
    ],
    [
     "Bewerken op de golfvorm",
@@ -702,15 +746,19 @@
    ],
    [
     "Gebruikt het de microfoon?",
-    "Nee. Het systeemgeluid wordt opgenomen, dus er komt geen geluid uit de kamer in de opname."
+    "Nee. Het systeemgeluid wordt opgenomen, dus er komt geen geluid uit de kamer in de opname. Microfoon en video worden niet bewaard."
    ],
    [
     "Wat is de kwaliteit van de opname?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Kies MP3 voor elk apparaat, AAC voor kleinere bestanden of WAV voor ongecomprimeerd geluid. Bitrate van 128 tot 320 kbps, 44,1 kHz stereo."
    ],
    [
     "Werkt het op Android?",
     "Ja. De Sampler werkt op iPhone en Android op dezelfde manier."
+   ],
+   [
+    "Kan ik Apple Music opnemen?",
+    "Nee. Beveiligde muziek van streamingdiensten zoals Apple Music wordt door het systeem geblokkeerd en neemt op als stilte. YouTube, SoundCloud en TikTok nemen gewoon op."
    ],
    [
     "Is het gratis?",
@@ -731,18 +779,18 @@
   ],
   "h1": "Ghi lại mọi âm thanh đang phát trên điện thoại.",
   "h1sub": "Nhấn Rec. Phát bất cứ thứ gì. Giữ lại",
-  "lede": "VibeDeck Sampler ghi lại âm thanh đang phát trên điện thoại, lấy trực tiếp từ hệ thống. Nhấn Rec, chuyển sang YouTube, SoundCloud hoặc bất kỳ ứng dụng nào, rồi quay lại khi đã có đoạn bạn cần. Không cần micro, không lẫn tiếng ồn trong phòng, không cần máy tính. Trên iPhone và Android.",
+  "lede": "VibeDeck Sampler ghi lại âm thanh đang phát trên điện thoại, lấy trực tiếp từ hệ thống. Nhấn Rec, chuyển sang YouTube, SoundCloud, TikTok hoặc hầu hết ứng dụng khác, rồi quay lại khi đã có đoạn bạn cần. Không cần micro, không lẫn tiếng ồn trong phòng, không cần máy tính. Trên iPhone và Android.",
   "alt": "VibeDeck Sampler ghi âm âm thanh hệ thống trên iPhone",
   "statement": "Bạn nghe thấy một đoạn tuyệt vời trong video, buổi phát trực tiếp hay set DJ, nhưng không có nút tải xuống. Đưa một chiếc điện thoại khác lại gần loa thì tiếng rất tệ. Sampler ghi âm thanh trực tiếp từ điện thoại, rõ ràng, ngay khi đang phát.",
   "features_title": "Nghe, nhấn Rec, giữ lại",
   "features": [
    [
     "Mọi ứng dụng",
-    "YouTube, SoundCloud, trình duyệt, trò chơi, tin nhắn thoại. Điện thoại phát được thì Sampler ghi được."
+    "YouTube, SoundCloud, TikTok, trình duyệt, trò chơi, tin nhắn thoại. Hầu hết ứng dụng phát âm thanh trên điện thoại đều ghi được."
    ],
    [
     "Âm thanh hệ thống sạch",
-    "AAC 256 kbps, 44,1 kHz, lấy trực tiếp từ điện thoại. Thanh đo mức cho thấy âm thanh đang được ghi."
+    "MP3, AAC hoặc WAV tối đa 320 kbps, 44,1 kHz stereo, lấy trực tiếp từ điện thoại. Thanh đo mức cho thấy âm thanh đang được ghi."
    ],
    [
     "Chỉnh sửa trên dạng sóng",
@@ -762,15 +810,19 @@
    ],
    [
     "Có dùng micro không?",
-    "Không. Ứng dụng ghi âm thanh hệ thống nên bản ghi không lẫn tiếng ồn trong phòng."
+    "Không. Ứng dụng ghi âm thanh hệ thống nên bản ghi không lẫn tiếng ồn trong phòng. Âm thanh từ micro và video không được lưu."
    ],
    [
     "Chất lượng bản ghi thế nào?",
-    "AAC, 256 kbps, 44,1 kHz."
+    "Chọn MP3 để mở trên mọi thiết bị, AAC cho file nhỏ hơn hoặc WAV cho âm thanh không nén. Bitrate từ 128 đến 320 kbps, 44,1 kHz stereo."
    ],
    [
     "Có dùng được trên Android không?",
     "Có. Sampler hoạt động giống nhau trên iPhone và Android."
+   ],
+   [
+    "Có ghi được Apple Music không?",
+    "Không. Nhạc được bảo vệ từ các dịch vụ nghe nhạc trực tuyến như Apple Music bị hệ thống chặn và ghi ra im lặng. YouTube, SoundCloud và TikTok ghi bình thường."
    ],
    [
     "Có miễn phí không?",
@@ -791,18 +843,18 @@
   ],
   "h1": "錄下手機上正在播放的任何聲音。",
   "h1sub": "按下 Rec，播放，留下來",
-  "lede": "VibeDeck Sampler 直接從系統錄下手機正在播放的聲音。按下 Rec，切換到 YouTube、SoundCloud 或任何 App，錄到想要的部分再回來就好。不用麥克風，沒有環境噪音，也不需要電腦。支援 iPhone 和 Android。",
+  "lede": "VibeDeck Sampler 直接從系統錄下手機正在播放的聲音。按下 Rec，切換到 YouTube、SoundCloud、TikTok 或大多數 App，錄到想要的部分再回來就好。不用麥克風，沒有環境噪音，也不需要電腦。支援 iPhone 和 Android。",
   "alt": "VibeDeck Sampler 在 iPhone 上錄製系統音訊",
   "statement": "在影片、直播或 DJ set 裡聽到很棒的聲音，卻沒有下載按鈕。拿另一支手機靠近喇叭錄，聲音會很糟。Sampler 在播放的同時直接從手機錄音，乾淨清楚。",
   "features_title": "聽到、按 Rec、留下來",
   "features": [
    [
     "任何 App",
-    "YouTube、SoundCloud、瀏覽器、遊戲、語音訊息。只要手機播得出來，Sampler 就錄得下來。"
+    "YouTube、SoundCloud、TikTok、瀏覽器、遊戲、語音訊息。手機上大多數會發出聲音的 App 都能錄。"
    ],
    [
     "乾淨的系統音訊",
-    "AAC 256 kbps、44.1 kHz，直接從手機錄製。音量表會顯示正在錄進來的聲音。"
+    "可選 MP3、AAC 或 WAV，最高 320 kbps、44.1 kHz 立體聲，直接從手機錄製。音量表會顯示正在錄進來的聲音。"
    ],
    [
     "在波形上剪輯",
@@ -822,15 +874,19 @@
    ],
    [
     "會用到麥克風嗎？",
-    "不會。錄的是系統音訊，所以不會錄進環境噪音。"
+    "不會。錄的是系統音訊，所以不會錄進環境噪音。麥克風聲音和影像都不會儲存。"
    ],
    [
     "錄音品質如何？",
-    "AAC、256 kbps、44.1 kHz。"
+    "MP3 在任何裝置都能開，AAC 檔案較小，WAV 則是無壓縮。位元率 128 到 320 kbps，44.1 kHz 立體聲。"
    ],
    [
     "Android 可以用嗎？",
     "可以。Sampler 在 iPhone 和 Android 上的用法完全相同。"
+   ],
+   [
+    "可以錄 Apple Music 嗎？",
+    "不行。Apple Music 等串流服務的受保護音樂會被系統阻擋，錄下來是無聲的。YouTube、SoundCloud 和 TikTok 都能正常錄。"
    ],
    [
     "是免費的嗎？",
@@ -851,18 +907,18 @@
   ],
   "h1": "录下手机上正在播放的任何声音。",
   "h1sub": "按下 Rec，播放，留下来",
-  "lede": "VibeDeck Sampler 直接从系统录下手机正在播放的声音。按下 Rec，切换到 YouTube、SoundCloud 或任何 App，录到想要的部分再回来就好。不用麦克风，没有环境噪音，也不需要电脑。支持 iPhone 和 Android。",
+  "lede": "VibeDeck Sampler 直接从系统录下手机正在播放的声音。按下 Rec，切换到 YouTube、SoundCloud、TikTok 或大多数 App，录到想要的部分再回来就好。不用麦克风，没有环境噪音，也不需要电脑。支持 iPhone 和 Android。",
   "alt": "VibeDeck Sampler 在 iPhone 上录制系统音频",
   "statement": "在视频、直播或 DJ set 里听到很棒的声音，却没有下载按钮。拿另一支手机靠近喇叭录，声音会很糟。Sampler 在播放的同时直接从手机录音，干净清楚。",
   "features_title": "听到、按 Rec、留下来",
   "features": [
    [
     "任何 App",
-    "YouTube、SoundCloud、浏览器、游戏、语音频息。只要手机播得出来，Sampler 就录得下来。"
+    "YouTube、SoundCloud、TikTok、浏览器、游戏、语音消息。手机上大多数会发出声音的 App 都能录。"
    ],
    [
     "干净的系统音频",
-    "AAC 256 kbps、44.1 kHz，直接从手机录制。音量表会显示正在录进来的声音。"
+    "可选 MP3、AAC 或 WAV，最高 320 kbps、44.1 kHz 立体声，直接从手机录制。音量表会显示正在录进来的声音。"
    ],
    [
     "在波形上剪辑",
@@ -882,15 +938,19 @@
    ],
    [
     "会用到麦克风吗？",
-    "不会。录的是系统音频，所以不会录进环境噪音。"
+    "不会。录的是系统音频，所以不会录进环境噪音。麦克风声音和画面都不会保存。"
    ],
    [
     "录音品质如何？",
-    "AAC、256 kbps、44.1 kHz。"
+    "MP3 在任何设备都能打开，AAC 文件更小，WAV 则是无压缩。码率 128 到 320 kbps，44.1 kHz 立体声。"
    ],
    [
     "Android 可以用吗？",
     "可以。Sampler 在 iPhone 和 Android 上的用法完全相同。"
+   ],
+   [
+    "可以录 Apple Music 吗？",
+    "不行。Apple Music 等流媒体服务的受保护音乐会被系统拦截，录下来是无声的。YouTube、SoundCloud 和 TikTok 都能正常录。"
    ],
    [
     "是免费的吗？",
@@ -911,18 +971,18 @@
   ],
   "h1": "อัดทุกเสียง ที่เล่นอยู่ในมือถือของคุณ",
   "h1sub": "กด Rec เปิดเสียง แล้วเก็บไว้",
-  "lede": "VibeDeck Sampler อัดเสียงที่เล่นอยู่ในมือถือได้ตรงจากระบบ กด Rec แล้วสลับไปที่ YouTube, SoundCloud หรือแอปไหนก็ได้ พอได้ท่อนที่ต้องการก็กลับมา ไม่ใช้ไมโครโฟน ไม่มีเสียงรบกวนในห้อง และไม่ต้องใช้คอมพิวเตอร์ ใช้ได้บน iPhone และ Android",
+  "lede": "VibeDeck Sampler อัดเสียงที่เล่นอยู่ในมือถือได้ตรงจากระบบ กด Rec แล้วสลับไปที่ YouTube, SoundCloud, TikTok หรือแอปส่วนใหญ่ พอได้ท่อนที่ต้องการก็กลับมา ไม่ใช้ไมโครโฟน ไม่มีเสียงรบกวนในห้อง และไม่ต้องใช้คอมพิวเตอร์ ใช้ได้บน iPhone และ Android",
   "alt": "VibeDeck Sampler กำลังอัดเสียงระบบบน iPhone",
   "statement": "คุณได้ยินอะไรเจ๋ง ๆ ในวิดีโอ ไลฟ์ หรือเซ็ตดีเจ แต่ไม่มีปุ่มดาวน์โหลด ถ้าเอามือถืออีกเครื่องไปจ่อลำโพง เสียงจะแย่มาก Sampler อัดเสียงตรงจากมือถือ ชัดและสะอาด ในขณะที่เสียงกำลังเล่น",
   "features_title": "ได้ยิน กด Rec แล้วเก็บไว้",
   "features": [
    [
     "แอปไหนก็ได้",
-    "YouTube, SoundCloud, เบราว์เซอร์, เกม, ข้อความเสียง ถ้ามือถือเล่นได้ Sampler ก็อัดได้"
+    "YouTube, SoundCloud, TikTok, เบราว์เซอร์, เกม, ข้อความเสียง แอปส่วนใหญ่ที่มีเสียงในมือถืออัดได้"
    ],
    [
     "เสียงระบบที่สะอาด",
-    "AAC 256 kbps, 44.1 kHz ตรงจากมือถือ มีมิเตอร์แสดงว่าเสียงกำลังเข้ามา"
+    "เลือก MP3, AAC หรือ WAV ได้สูงสุด 320 kbps, 44.1 kHz สเตอริโอ ตรงจากมือถือ มีมิเตอร์แสดงว่าเสียงกำลังเข้ามา"
    ],
    [
     "ตัดต่อบนรูปคลื่นเสียง",
@@ -942,15 +1002,19 @@
    ],
    [
     "ใช้ไมโครโฟนไหม",
-    "ไม่ใช้ แอปอัดเสียงระบบ จึงไม่มีเสียงรบกวนในห้อง"
+    "ไม่ใช้ แอปอัดเสียงระบบ จึงไม่มีเสียงรบกวนในห้อง และไม่บันทึกเสียงไมโครโฟนหรือวิดีโอ"
    ],
    [
     "คุณภาพเสียงที่อัดเป็นอย่างไร",
-    "AAC, 256 kbps, 44.1 kHz"
+    "เลือก MP3 เพื่อเปิดได้ทุกเครื่อง AAC สำหรับไฟล์เล็กกว่า หรือ WAV สำหรับเสียงไม่บีบอัด บิตเรตตั้งแต่ 128 ถึง 320 kbps, 44.1 kHz สเตอริโอ"
    ],
    [
     "ใช้บน Android ได้ไหม",
     "ได้ Sampler ทำงานแบบเดียวกันทั้งบน iPhone และ Android"
+   ],
+   [
+    "อัด Apple Music ได้ไหม",
+    "ไม่ได้ เพลงที่มีการป้องกันจากบริการสตรีมมิง เช่น Apple Music ระบบจะบล็อกไว้และอัดออกมาเป็นความเงียบ ส่วน YouTube, SoundCloud และ TikTok อัดได้ปกติ"
    ],
    [
     "ฟรีไหม",
