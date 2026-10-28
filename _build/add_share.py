@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Add the "Tell a friend" share block to the 17 home pages, after the download section.
+"""Add the "Tell a friend" share block to the 17 home pages and the 17 Sampler pages, after the download section.
 
     python3 _build/add_share.py
 
@@ -41,9 +41,9 @@ def href(net, url, msg):
             'vk': f'https://vk.com/share.php?url={u}'}[net]
 
 
-def block(c):
+def block(c, path=None):
     e = html.escape
-    page = SITE + c['home']
+    page = SITE + (path or c['home'])
     native_url = page + '?utm_source=native&utm_medium=share&utm_campaign=share'
     # Phones only (site.js unhides it): the system share sheet reaches Instagram, TikTok, Messenger, Viber and the rest
     items = [f'<li hidden><button class="share-pill" type="button" data-share-native data-url="{e(native_url)}" data-text="{e(c["msg"])}">{NATIVE}<span>{e(c["more"])}</span></button></li>']
@@ -69,15 +69,20 @@ def block(c):
 
 def main():
     data = {k: v for k, v in json.loads((ROOT / '_build/share_i18n.json').read_text(encoding='utf-8')).items() if not k.startswith('_')}
+    sampler = {k: v['slug'] for k, v in json.loads((ROOT / '_build/guides_i18n/sampler.json').read_text(encoding='utf-8')).items() if not k.startswith('_')}
+    sampler['en'] = '/sampler/'
+    count = 0
     for code, c in data.items():
-        p = ROOT / (c['home'].strip('/') + '/index.html' if c['home'] != '/' else 'index.html')
-        s = p.read_text(encoding='utf-8')
-        s = re.sub(r'<section class="section" id="share".*?</section>\n', '', s, flags=re.S)
-        i = s.index('<section class="section" id="download"')
-        j = s.index('</section>', i) + len('</section>\n')
-        s = s[:j] + block(c) + s[j:]
-        p.write_text(s, encoding='utf-8')
-    print('share block on', len(data), 'home pages')
+        for path in [c['home'], sampler.get(code)]:  # home page and the Sampler page of that language
+            if not path: continue
+            p = ROOT / (path.strip('/') + '/index.html' if path != '/' else 'index.html')
+            s = p.read_text(encoding='utf-8')
+            s = re.sub(r'<section class="section" id="share".*?</section>\n', '', s, flags=re.S)
+            i = s.index('<section class="section" id="download"')
+            j = s.index('</section>', i) + len('</section>\n')
+            s = s[:j] + block(c, path) + s[j:]
+            p.write_text(s, encoding='utf-8'); count += 1
+    print('share block on', count, 'pages')
 
 
 if __name__ == '__main__':
