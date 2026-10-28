@@ -24,17 +24,18 @@ NAMES = {'en': 'English', 'ja': '日本語', 'es': 'Español', 'pt-BR': 'Portugu
          'it': 'Italiano', 'ru': 'Русский', 'ko': '한국어', 'tr': 'Türkçe', 'id': 'Bahasa Indonesia', 'pl': 'Polski',
          'nl': 'Nederlands', 'vi': 'Tiếng Việt', 'zh-Hant': '繁體中文'}
 # Layout template per language: a guide page with hero, features, prose, FAQ, related and download sections
-TEMPLATES = {'de': '/de/tonart-aendern/', 'fr': '/fr/changer-tonalite/', 'it': '/it/cambiare-tonalita/',
+TEMPLATES = {'ja': '/ja/tempo-henkou/', 'de': '/de/tonart-aendern/', 'fr': '/fr/changer-tonalite/', 'it': '/it/cambiare-tonalita/',
              'es': '/es/reproductor-flac/', 'pt-BR': '/pt-br/player-flac-android/', 'ru': '/ru/smenit-tonalnost/',
              'ko': '/ko/key-byeongyeong/', 'tr': '/tr/sarki-tonu-degistirme/', 'id': '/id/ubah-nada-lagu/',
              'pl': '/pl/zmiana-tonacji/', 'nl': '/nl/toonsoort-veranderen/', 'vi': '/vi/doi-tone-bai-hat/',
              'zh-Hant': '/zh-hant/sheng-jiang-diao/'}
-KEY_PAGES = {'de': '/de/tonart-aendern/', 'fr': '/fr/changer-tonalite/', 'it': '/it/cambiare-tonalita/',
+KEY_PAGES = {'ja': '/ja/key-henkou-app/', 'de': '/de/tonart-aendern/', 'fr': '/fr/changer-tonalite/', 'it': '/it/cambiare-tonalita/',
              'es': '/change-song-key-iphone/', 'pt-BR': '/change-song-key-iphone/', 'ru': '/ru/smenit-tonalnost/',
              'ko': '/ko/key-byeongyeong/', 'tr': '/tr/sarki-tonu-degistirme/', 'id': '/id/ubah-nada-lagu/',
              'pl': '/pl/zmiana-tonacji/', 'nl': '/nl/toonsoort-veranderen/', 'vi': '/vi/doi-tone-bai-hat/',
              'zh-Hant': '/zh-hant/sheng-jiang-diao/'}
-GUIDES = {'slow-down': {'en': '/slow-down-song/', 'existing': {'ja': '/ja/tempo-henkou/'}, 'campaign': 'slow-down'}}
+GUIDES = {'slow-down': {'en': '/slow-down-song/', 'existing': {'ja': '/ja/tempo-henkou/'}, 'campaign': 'slow-down'},
+          'sampler': {'en': '/sampler/', 'existing': {}, 'campaign': 'sampler'}}
 
 
 class Ordered(HTMLFormatter):

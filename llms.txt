@@ -69,7 +69,7 @@
 - [Put Music on iPhone Without iTunes | VibeDeck Player](https://vibedeckplayer.app/put-music-on-iphone-without-itunes/): Put your own MP3, FLAC and WAV files on iPhone without iTunes or a cable: AirDrop, iCloud Drive or the Files app, then play them offline in VibeDeck Player.
 - [WAV Player for iPhone, Offline, No Ads | VibeDeck Player](https://vibedeckplayer.app/wav-player-iphone/): Play WAV files on iPhone and iPad offline: recordings, bounces and uncompressed rips, with EQ, waveform, pitch and tempo. FLAC and MP3 too. No ads.
 - [Play Google Drive Music Offline on Android | VibeDeck Player](https://vibedeckplayer.app/google-drive-music-player-android/): Listen to MP3, FLAC and WAV files from Google Drive on Android without internet: download them once, import into VibeDeck Player and play offline. No ads.
-- [Record Any Sound Playing on Your Phone | VibeDeck](https://vibedeckplayer.app/sampler/): Press Rec and record any sound playing on your phone: YouTube, SoundCloud, any app. Then reshape it in VibeDeck Studio and share it. No account, no ads.
+- [Record Internal Audio on iPhone and Android | VibeDeck](https://vibedeckplayer.app/sampler/): Record any sound playing on your phone: YouTube, SoundCloud, any app. Edit it on the waveform, then share it, save it as a track or open it in Studio.
 
 ## Pages in Deutsch (de)
 
@@ -78,6 +78,7 @@
 - [FLAC-Player für iPhone und Android, ohne Werbung | VibeDeck](https://vibedeckplayer.app/de/flac-player/): Spiele FLAC ohne Umwandlung und ohne Internet auf iPhone, iPad und Android. Equalizer, Limiter, Tonart und Tempo. Ohne Werbung und Konto.
 - [MP3-Player ohne Werbung, offline und kostenlos | VibeDeck](https://vibedeckplayer.app/de/mp3-player-ohne-werbung/): Kostenloser MP3-Player ohne Werbung, ohne Konto und ohne Tracking für iPhone und Android. Deine Dateien ohne Internet, mit Equalizer, Tonart und Tempo.
 - [Song langsamer abspielen, Tonhöhe bleibt | VibeDeck](https://vibedeckplayer.app/de/song-langsamer-abspielen/): Spiele Songs auf iPhone oder Android langsamer ab, ohne die Tonart zu ändern. Übe Soli, Choreos und schnelle Texte in deinem Tempo, offline und ohne Werbung.
+- [Internen Ton am Handy aufnehmen | VibeDeck](https://vibedeckplayer.app/de/internen-ton-aufnehmen/): Nimm jeden Ton auf, der auf deinem iPhone oder Android läuft: YouTube, SoundCloud, jede App. Schneide ihn in der Wellenform und öffne ihn im Studio.
 
 ## Pages in Français (fr)
 
@@ -86,6 +87,7 @@
 - [Lecteur FLAC pour iPhone et Android, sans pub | VibeDeck](https://vibedeckplayer.app/fr/lecteur-flac/): Lisez vos FLAC sans conversion et sans internet sur iPhone, iPad et Android. Égaliseur, limiteur, tonalité et tempo. Sans pub ni compte.
 - [Lecteur MP3 sans pub, hors ligne et gratuit | VibeDeck](https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/): Lecteur MP3 gratuit sans pub, sans compte et sans pistage pour iPhone et Android. Vos fichiers sans internet, avec égaliseur, tonalité et tempo.
 - [Ralentir une chanson sans changer la tonalité | VibeDeck](https://vibedeckplayer.app/fr/ralentir-une-chanson/): Ralentissez une chanson sur iPhone ou Android sans changer sa tonalité. Solos, chorégraphies et paroles rapides à votre rythme, hors ligne et sans pub.
+- [Enregistrer le son interne du téléphone | VibeDeck](https://vibedeckplayer.app/fr/enregistrer-son-interne/): Enregistrez tout son joué sur votre iPhone ou Android : YouTube, SoundCloud, n'importe quelle app. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.
 
 ## Pages in Italiano (it)
 
@@ -94,6 +96,7 @@
 - [Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-flac/): Ascolta i tuoi FLAC senza conversioni e offline su iPhone, iPad e Android. Equalizzatore, limiter, pitch e tempo con Premium. Senza pubblicità o account.
 - [Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-mp3-senza-pub/): Lettore MP3 gratuito senza pubblicità, account o tracciamento per iPhone e Android. Riproduzione offline; equalizzatore, pitch e tempo con Premium.
 - [Rallentare una canzone senza cambiare tonalità | VibeDeck](https://vibedeckplayer.app/it/rallentare-una-canzone/): Rallenta una canzone su iPhone o Android senza cambiarne la tonalità. Studia assoli, coreografie e testi veloci al tuo ritmo, offline e senza pubblicità.
+- [Registrare l'audio interno del telefono | VibeDeck](https://vibedeckplayer.app/it/registrare-audio-interno/): Registra qualsiasi suono riprodotto su iPhone o Android: YouTube, SoundCloud, qualsiasi app. Taglialo sulla forma d'onda e aprilo in Studio.
 
 ## Pages in Español (es)
 
@@ -101,6 +104,7 @@
 - [Reproductor FLAC para iPhone y Android | VibeDeck](https://vibedeckplayer.app/es/reproductor-flac/): Reproduce FLAC sin convertir y sin internet en iPhone, iPad y Android. Ecualizador, limitador, tono y tempo. Sin anuncios ni cuenta. También WAV y MP3.
 - [Reproductor MP3 sin anuncios y sin conexión | VibeDeck](https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/): Reproductor MP3 gratis, sin anuncios, sin cuenta y sin rastreo para iPhone y Android. Tus archivos sin internet, con ecualizador, tono y tempo.
 - [Ralentizar una canción sin cambiar el tono | VibeDeck](https://vibedeckplayer.app/es/ralentizar-una-cancion/): Ralentiza una canción en iPhone o Android sin cambiar su tono. Practica solos, coreografías y letras rápidas a tu ritmo, sin conexión y sin anuncios.
+- [Grabar el audio interno del móvil | VibeDeck](https://vibedeckplayer.app/es/grabar-audio-interno/): Graba cualquier sonido que suene en tu iPhone o Android: YouTube, SoundCloud, cualquier app. Edítalo en la onda, compártelo o ábrelo en Studio.
 
 ## Pages in Português (Brasil) (pt-BR)
 
@@ -108,6 +112,7 @@
 - [Player de música offline para Android | VibeDeck](https://vibedeckplayer.app/pt-br/player-offline-android/): Ouça MP3, FLAC e WAV sem internet no Android. Sem anúncios, sem conta e sem rastreamento. Equalizador, tom e andamento. Download grátis no Google Play.
 - [Player FLAC para Android, sem anúncios | VibeDeck](https://vibedeckplayer.app/pt-br/player-flac-android/): Toque FLAC sem perda e sem internet no Android. Equalizador com ganho, limitador, tom e andamento. Sem anúncios e sem conta. Também WAV e MP3.
 - [Desacelerar música sem mudar o tom | VibeDeck](https://vibedeckplayer.app/pt-br/desacelerar-musica/): Deixe uma música mais lenta no iPhone ou Android sem mudar o tom. Treine solos, coreografias e letras rápidas no seu ritmo, offline e sem anúncios.
+- [Gravar o áudio interno do celular | VibeDeck](https://vibedeckplayer.app/pt-br/gravar-audio-interno/): Grave qualquer som que toca no seu iPhone ou Android: YouTube, SoundCloud, qualquer app. Edite na forma de onda, compartilhe ou abra no Studio.
 
 ## Pages in 日本語 (ja)
 
@@ -115,6 +120,7 @@
 - [曲のキー変更アプリ｜半音単位で移調・テンポはそのまま｜VibeDeck](https://vibedeckplayer.app/ja/key-henkou-app/): カラオケ練習や耳コピに。VibeDeck Playerなら手持ちの曲のキーを±8 stの範囲で変更でき、テンポは独立して調整できます。オフライン・広告なし。iPhone・Android対応。
 - [音程を変えずにテンポを変えるアプリ｜曲を遅く再生｜VibeDeck](https://vibedeckplayer.app/ja/tempo-henkou/): 耳コピや楽器・ダンスの練習に。VibeDeck Playerなら手持ちの曲を音程を変えずに遅く・速く再生できます。キー変更（±8 st）との併用も可能。オフライン・広告なし。iPhone・Android対応。
 - [iPhone・AndroidのFLACプレーヤー｜オフライン・広告なし｜VibeDeck](https://vibedeckplayer.app/ja/flac-player/): CDから取り込んだFLACを、変換せずにiPhone・iPad・Androidでオフライン再生。EQ、リミッター、キー・テンポ変更、波形表示つき。広告なし・アカウント不要。WAV・MP3にも対応。
+- [iPhone・Androidで内部音声を録音する方法 | VibeDeck](https://vibedeckplayer.app/ja/naibu-onsei-rokuon/): YouTubeやSoundCloudなど、スマホで流れている音をそのまま録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。
 
 ## Pages in Русский (ru)
 
@@ -123,6 +129,7 @@
 - [FLAC-плеер для iPhone и Android без рекламы | VibeDeck](https://vibedeckplayer.app/ru/flac-pleer/): Слушайте FLAC без конвертации и без интернета на iPhone, iPad и Android. Эквалайзер, лимитер, тональность и темп. Без рекламы и аккаунта.
 - [Бесплатный MP3-плеер без рекламы и интернета | VibeDeck](https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/): Бесплатный MP3-плеер без рекламы, аккаунта и слежки для iPhone и Android. Ваши файлы без интернета, с эквалайзером, тональностью и темпом.
 - [Как замедлить песню без изменения тональности | VibeDeck](https://vibedeckplayer.app/ru/zamedlit-pesnyu/): Замедлите песню на iPhone или Android, не меняя тональность. Разбирайте соло, хореографию и быстрый текст в своём темпе, без интернета и рекламы.
+- [Как записать звук с телефона из любого приложения | VibeDeck](https://vibedeckplayer.app/ru/zapis-zvuka-s-telefona/): Записывайте любой звук, который играет на iPhone или Android: YouTube, SoundCloud, любое приложение. Режьте запись по волне и открывайте в Studio.
 
 ## Pages in 한국어 (ko)
 
@@ -131,6 +138,7 @@
 - [광고 없는 iPhone·Android FLAC 플레이어 | VibeDeck](https://vibedeckplayer.app/ko/flac-player/): iPhone, iPad, Android에서 FLAC를 변환 없이 인터넷 없이 재생하세요. 이퀄라이저, 리미터, 키, 템포 조절. 광고와 계정 없음.
 - [광고 없는 무료 오프라인 MP3 플레이어 | VibeDeck](https://vibedeckplayer.app/ko/mp3-player/): iPhone과 Android용 무료 MP3 플레이어. 광고, 계정, 추적 없이 내 파일을 인터넷 없이 재생하고 이퀄라이저, 키, 템포를 조절하세요.
 - [음정 그대로 노래 속도 늦추기 | VibeDeck](https://vibedeckplayer.app/ko/tempo-byeongyeong/): iPhone이나 Android에서 키는 그대로 두고 노래를 느리게 재생하세요. 솔로, 안무, 빠른 가사를 내 속도로 연습할 수 있습니다. 오프라인, 광고 없음.
+- [아이폰·안드로이드 내부 소리 녹음 | VibeDeck](https://vibedeckplayer.app/ko/naebu-sori-nokeum/): YouTube, SoundCloud 등 휴대폰에서 재생되는 모든 소리를 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.
 
 ## Pages in Türkçe (tr)
 
@@ -139,6 +147,7 @@
 - [iPhone ve Android için reklamsız FLAC çalar | VibeDeck](https://vibedeckplayer.app/tr/flac-calar/): FLAC dosyalarını iPhone, iPad ve Android’de dönüştürmeden ve internetsiz çal. Ekolayzer, limiter, ton ve tempo. Reklam ve hesap yok.
 - [Ücretsiz, çevrimdışı ve reklamsız MP3 çalar | VibeDeck](https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/): iPhone ve Android için reklamsız, hesapsız ve takipsiz ücretsiz MP3 çalar. Dosyaların internetsiz; ekolayzer, ton ve tempo ayarıyla.
 - [Şarkıyı tonunu bozmadan yavaşlatma | VibeDeck](https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/): iPhone veya Android’de bir şarkıyı tonunu değiştirmeden yavaşlat. Soloları, koreografileri ve hızlı sözleri kendi hızında çalış; çevrimdışı ve reklamsız.
+- [Telefonda dahili ses kaydı | VibeDeck](https://vibedeckplayer.app/tr/dahili-ses-kaydi/): iPhone veya Android'de çalan her sesi kaydedin: YouTube, SoundCloud, her uygulama. Dalga formunda kesin, paylaşın ya da Studio'da açın.
 
 ## Pages in Bahasa Indonesia (id)
 
@@ -147,6 +156,7 @@
 - [Pemutar FLAC iPhone dan Android tanpa iklan | VibeDeck](https://vibedeckplayer.app/id/pemutar-flac/): Putar FLAC tanpa konversi dan tanpa internet di iPhone, iPad, dan Android. Equalizer, limiter, nada, dan tempo. Tanpa iklan dan akun.
 - [Pemutar MP3 gratis, offline, tanpa iklan | VibeDeck](https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/): Pemutar MP3 gratis tanpa iklan, akun, dan pelacakan untuk iPhone dan Android. File kamu tanpa internet, dengan equalizer, nada, dan tempo.
 - [Cara memperlambat lagu tanpa mengubah nada | VibeDeck](https://vibedeckplayer.app/id/memperlambat-lagu/): Perlambat lagu di iPhone atau Android tanpa mengubah nadanya. Latih solo, koreografi, dan lirik cepat sesuai kecepatanmu, offline dan tanpa iklan.
+- [Cara merekam audio internal HP | VibeDeck](https://vibedeckplayer.app/id/rekam-audio-internal/): Rekam suara apa pun yang diputar di iPhone atau Android: YouTube, SoundCloud, aplikasi apa saja. Potong di gelombang suara, bagikan, atau buka di Studio.
 
 ## Pages in Polski (pl)
 
@@ -155,6 +165,7 @@
 - [Odtwarzacz FLAC na iPhone’a i Androida bez reklam | VibeDeck](https://vibedeckplayer.app/pl/odtwarzacz-flac/): Słuchaj FLAC bez konwersji i bez internetu na iPhonie, iPadzie i Androidzie. Korektor, limiter, tonacja i tempo. Bez reklam i konta.
 - [Darmowy odtwarzacz MP3 offline bez reklam | VibeDeck](https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/): Darmowy odtwarzacz MP3 bez reklam, konta i śledzenia na iPhone’a i Androida. Twoje pliki bez internetu, z korektorem, tonacją i tempem.
 - [Jak zwolnić piosenkę bez zmiany tonacji | VibeDeck](https://vibedeckplayer.app/pl/zwolnic-piosenke/): Zwolnij piosenkę na iPhonie lub Androidzie bez zmiany tonacji. Ćwicz solówki, choreografie i szybkie teksty we własnym tempie, offline i bez reklam.
+- [Jak nagrać dźwięk wewnętrzny telefonu | VibeDeck](https://vibedeckplayer.app/pl/nagrywanie-dzwieku-z-telefonu/): Nagrywaj każdy dźwięk grający na iPhonie lub Androidzie: YouTube, SoundCloud, dowolna aplikacja. Przytnij go na fali i otwórz w Studio.
 
 ## Pages in Nederlands (nl)
 
@@ -163,6 +174,7 @@
 - [FLAC-speler voor iPhone en Android, geen ads | VibeDeck](https://vibedeckplayer.app/nl/flac-speler/): Speel je FLAC zonder conversie en zonder internet af op iPhone, iPad en Android. Equalizer, limiter, toonhoogte en tempo. Geen advertenties, geen account.
 - [Gratis MP3-speler, offline en zonder ads | VibeDeck](https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/): Gratis MP3-speler zonder advertenties, account of tracking voor iPhone en Android. Je bestanden zonder internet, met equalizer, toonhoogte en tempo.
 - [Een nummer vertragen zonder toonhoogte | VibeDeck](https://vibedeckplayer.app/nl/nummer-vertragen/): Vertraag een nummer op iPhone of Android zonder de toonhoogte te veranderen. Oefen solo’s, choreografie en snelle teksten in je eigen tempo. Offline.
+- [Intern geluid opnemen op je telefoon | VibeDeck](https://vibedeckplayer.app/nl/intern-geluid-opnemen/): Neem elk geluid op dat op je iPhone of Android speelt: YouTube, SoundCloud, elke app. Knip het op de golfvorm, deel het of open het in Studio.
 
 ## Pages in Tiếng Việt (vi)
 
@@ -171,6 +183,7 @@
 - [Trình phát FLAC iPhone và Android không quảng cáo | VibeDeck](https://vibedeckplayer.app/vi/trinh-phat-flac/): Nghe FLAC không cần chuyển đổi và không cần internet trên iPhone, iPad và Android. Equalizer, limiter, tone và tempo. Không quảng cáo, không tài khoản.
 - [Trình phát MP3 miễn phí, offline, không quảng cáo | VibeDeck](https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/): Trình phát MP3 miễn phí không quảng cáo, không tài khoản, không theo dõi cho iPhone và Android. File của bạn không cần internet, có equalizer, tone và tempo.
 - [Làm chậm bài hát mà không đổi tone | VibeDeck](https://vibedeckplayer.app/vi/lam-cham-bai-hat/): Làm chậm bài hát trên iPhone hoặc Android mà không đổi tone. Tập solo, vũ đạo và lời nhanh theo tốc độ của bạn, offline và không quảng cáo.
+- [Cách ghi âm âm thanh nội bộ trên điện thoại | VibeDeck](https://vibedeckplayer.app/vi/ghi-am-am-thanh-noi-bo/): Ghi lại mọi âm thanh đang phát trên iPhone hoặc Android: YouTube, SoundCloud, mọi ứng dụng. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.
 
 ## Pages in 繁體中文 (zh-Hant)
 
@@ -179,3 +192,4 @@
 - [iPhone 與 Android 無廣告 FLAC 播放器 | VibeDeck](https://vibedeckplayer.app/zh-hant/flac-player/): 在 iPhone、iPad 和 Android 上，不用轉檔、不用網路播放 FLAC。等化器、限幅器、音調和速度。無廣告、免帳號。
 - [免費離線無廣告 MP3 播放器 | VibeDeck](https://vibedeckplayer.app/zh-hant/mp3-player/): 適用於 iPhone 和 Android 的免費 MP3 播放器，無廣告、免帳號、不追蹤。不用網路播放你的檔案，還能調整等化器、音調和速度。
 - [不變調放慢歌曲速度 | VibeDeck](https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/): 在 iPhone 或 Android 上放慢歌曲，音調不變。用自己的速度練習獨奏、舞蹈和快歌詞，離線、無廣告。
+- [iPhone、Android 內部錄音：錄下手機正在播放的聲音 | VibeDeck](https://vibedeckplayer.app/zh-hant/nei-bu-lu-yin/): 錄下手機上播放的任何聲音：YouTube、SoundCloud、任何 App。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。
