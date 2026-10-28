@@ -55,4 +55,5 @@
 - Когда выйдет эффект караоке: обновить /karaoke-key-change/ и перевести
 - Через неделю: проверить индексацию в Search Console и Bing
 - Обновить описание на Product Hunt (текст в `_build/OUTREACH.md`)
+- 28.10 запрошена индексация в Google: /sampler/ и ru, es, ja, pt-br, de, fr, it, tr, pl. 29.10 запросить ko, id, nl, vi, zh-hant (лимит Google около 10 в день)
 - Поставить баннеры (скриншоты Sampler и Trim) на страницы сэмплера, когда владелец пришлёт
