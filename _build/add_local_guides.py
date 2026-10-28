@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Translate an English guide into other languages, using each language's own guide page as layout.
 
-    python3 _build/add_local_guides.py slow-down
+    python3 _build/add_local_guides.py slow-down [lang ...]   (only rebuild these languages, link the others)
 
 Content: _build/guides_i18n/<guide>.json, one entry per language. Each page keeps
 the localized header, footer, related cards and store links of its template and
@@ -19,21 +19,21 @@ from bs4.formatter import HTMLFormatter
 ROOT = Path(__file__).resolve().parents[1]
 SITE = 'https://vibedeckplayer.app'
 TODAY = datetime.date.today().isoformat()
-ORDER = ['en', 'ja', 'es', 'pt-BR', 'de', 'fr', 'it', 'ru', 'ko', 'tr', 'id', 'pl', 'nl', 'vi', 'zh-Hant']
+ORDER = ['en', 'ja', 'es', 'pt-BR', 'de', 'fr', 'it', 'ru', 'ko', 'tr', 'id', 'pl', 'nl', 'vi', 'zh-Hant', 'zh-Hans', 'th']
 NAMES = {'en': 'English', 'ja': '日本語', 'es': 'Español', 'pt-BR': 'Português', 'de': 'Deutsch', 'fr': 'Français',
          'it': 'Italiano', 'ru': 'Русский', 'ko': '한국어', 'tr': 'Türkçe', 'id': 'Bahasa Indonesia', 'pl': 'Polski',
-         'nl': 'Nederlands', 'vi': 'Tiếng Việt', 'zh-Hant': '繁體中文'}
+         'nl': 'Nederlands', 'vi': 'Tiếng Việt', 'zh-Hant': '繁體中文', 'zh-Hans': '简体中文', 'th': 'ไทย'}
 # Layout template per language: a guide page with hero, features, prose, FAQ, related and download sections
 TEMPLATES = {'ja': '/ja/tempo-henkou/', 'de': '/de/tonart-aendern/', 'fr': '/fr/changer-tonalite/', 'it': '/it/cambiare-tonalita/',
              'es': '/es/reproductor-flac/', 'pt-BR': '/pt-br/player-flac-android/', 'ru': '/ru/smenit-tonalnost/',
              'ko': '/ko/key-byeongyeong/', 'tr': '/tr/sarki-tonu-degistirme/', 'id': '/id/ubah-nada-lagu/',
              'pl': '/pl/zmiana-tonacji/', 'nl': '/nl/toonsoort-veranderen/', 'vi': '/vi/doi-tone-bai-hat/',
-             'zh-Hant': '/zh-hant/sheng-jiang-diao/'}
+             'zh-Hant': '/zh-hant/sheng-jiang-diao/', 'zh-Hans': '/zh-hans/sheng-jiang-diao/', 'th': '/th/plian-key-phleng/'}
 KEY_PAGES = {'ja': '/ja/key-henkou-app/', 'de': '/de/tonart-aendern/', 'fr': '/fr/changer-tonalite/', 'it': '/it/cambiare-tonalita/',
              'es': '/change-song-key-iphone/', 'pt-BR': '/change-song-key-iphone/', 'ru': '/ru/smenit-tonalnost/',
              'ko': '/ko/key-byeongyeong/', 'tr': '/tr/sarki-tonu-degistirme/', 'id': '/id/ubah-nada-lagu/',
              'pl': '/pl/zmiana-tonacji/', 'nl': '/nl/toonsoort-veranderen/', 'vi': '/vi/doi-tone-bai-hat/',
-             'zh-Hant': '/zh-hant/sheng-jiang-diao/'}
+             'zh-Hant': '/zh-hant/sheng-jiang-diao/', 'zh-Hans': '/zh-hans/sheng-jiang-diao/', 'th': '/th/plian-key-phleng/'}
 GUIDES = {'slow-down': {'en': '/slow-down-song/', 'existing': {'ja': '/ja/tempo-henkou/'}, 'campaign': 'slow-down'},
           'sampler': {'en': '/sampler/', 'existing': {}, 'campaign': 'sampler'}}
 
@@ -184,8 +184,11 @@ def main():
     content = {k: v for k, v in json.loads((ROOT / '_build/guides_i18n' / f'{name}.json').read_text()).items() if not k.startswith('_')}
     for code, c in content.items(): check(code, c)
     cluster = {'en': g['en'], **g['existing'], **{code: c['slug'] for code, c in content.items()}}
-    for code, c in content.items(): build(code, c, cluster, f"{code.lower()}-{g['campaign']}")
-    for rel_url in [g['en'], *g['existing'].values()]: link_existing(rel_url, cluster)
+    only = [a for a in sys.argv[2:] if a in content]  # build only these languages; link the rest as text
+    for code, c in content.items():
+        if not only or code in only: build(code, c, cluster, f"{code.lower()}-{g['campaign']}")
+    rest = [g['en'], *g['existing'].values()] + ([c['slug'] for code, c in content.items() if code not in only] if only else [])
+    for rel_url in rest: link_existing(rel_url, cluster)
     sitemap(cluster)
     print(f'{name}: {len(content)} pages, cluster of {len(cluster)} languages')
 

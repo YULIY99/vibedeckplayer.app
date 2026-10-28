@@ -45,6 +45,12 @@ LANGS = {
     'zh-Hant': dict(name='繁體中文', locale='zh_TW', routes=['/zh-hant/', '/zh-hant/sheng-jiang-diao/', '/zh-hant/flac-player/', '/zh-hant/mp3-player/'],
                plans=['每月', '每年', '終身'],
                app_store='App Store（iOS）：每月 $2.99、每年 $19.99 或終身 $49.99（USD）。'),
+    'zh-Hans': dict(name='简体中文', locale='zh_CN', routes=['/zh-hans/', '/zh-hans/sheng-jiang-diao/', '/zh-hans/flac-player/', '/zh-hans/mp3-player/'],
+               plans=['每月', '每年', '终身'],
+               app_store='App Store（iOS）：每月 $2.99、每年 $19.99 或终身 $49.99（USD）。'),
+    'th': dict(name='ไทย', locale='th_TH', routes=['/th/', '/th/plian-key-phleng/', '/th/flac-player/', '/th/mp3-player-mai-mi-khotsana/'],
+               plans=['รายเดือน', 'รายปี', 'ตลอดชีพ'],
+               app_store='ใน App Store (iOS): $2.99 ต่อเดือน $19.99 ต่อปี หรือ $49.99 ตลอดชีพ (USD)'),
 }
 TDIR = ROOT / '_build' / 'translations'
 
@@ -164,7 +170,7 @@ def build(code, soups, items):
                 obj['offers'] = [{'@type': 'Offer', 'price': '0', 'priceCurrency': 'USD'}]
                 for store, prices, url in [('Google Play', ['1.99', '14.99', '19.99'], f'https://play.google.com/store/apps/details?id=com.vibedeck.player&hl={code}'),
                                            ('App Store', ['2.99', '19.99', '49.99'], 'https://apps.apple.com/app/vibedeck-player/id6784724920')]:
-                    obj['offers'] += [{'@type': 'Offer', 'name': f'VibeDeck Premium {name} ({store})', 'price': price, 'priceCurrency': 'USD', 'url': url} for name, price in zip(cfg['plans'], prices)]
+                    obj['offers'] += [{'@type': 'Offer', 'name': f'VibeDeck PRO {name} ({store})', 'price': price, 'priceCurrency': 'USD', 'url': url} for name, price in zip(cfg['plans'], prices)]
         script.string = '\n' + json.dumps(graph, ensure_ascii=False, indent=1) + '\n'
         faq_count = soup.select_one('#faq .tag .dim')
         if faq_count:
