@@ -55,5 +55,5 @@
 - Когда выйдет эффект караоке: обновить /karaoke-key-change/ и перевести
 - Через неделю: проверить индексацию в Search Console и Bing
 - Обновить описание на Product Hunt (текст в `_build/OUTREACH.md`)
-- 28.10 запрошена индексация в Google: /sampler/ и ru, es, ja, pt-br, de, fr, it, tr, pl. 29.10 запросить сэмплер ko, id, nl, vi, zh-hant и новые /zh-hans/, /th/ (с подстраницами) (лимит Google около 10 в день)
+- 28.10 запрошена индексация в Google: /sampler/ и ru, es, ja, pt-br, de, fr, it, tr, pl. /zh-hans/ тоже отправлена 28.10. 29.10 запросить: /th/, сэмплер ko, id, nl, vi, zh-hant, zh-hans, th; 30.10 остальные подстраницы /zh-hans/ и /th/ (лимит около 11 в день) (лимит Google около 10 в день)
 - Поставить баннеры (скриншоты Sampler и Trim) на страницы сэмплера, когда владелец пришлёт
