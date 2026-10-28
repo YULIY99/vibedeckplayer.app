@@ -1,0 +1,219 @@
+{
+ "_note": "Texts for the 'Tell a friend' block on the 17 home pages. Built by _build/add_share.py. extra: networks added for that language.",
+ "en": {
+  "home": "/",
+  "tag": "Share",
+  "dim": "/ 48 h free",
+  "title": "Tell a friend",
+  "text": "Know someone who would love it? New users get 48 hours with everything unlocked, no card. Send them VibeDeck Player.",
+  "copy": "Copy link",
+  "copied": "Link copied",
+  "email": "Email",
+  "msg": "VibeDeck Player: an offline music player that changes pitch and tempo and records any sound on your phone. 48 hours free, no card.",
+  "more": "More"
+ },
+ "ja": {
+  "home": "/ja/",
+  "extra": [
+   "line"
+  ],
+  "tag": "シェア",
+  "dim": "/ 48時間無料",
+  "title": "友だちに教える",
+  "text": "気に入りそうな人はいませんか？新しいユーザーは48時間すべての機能を無料で使えます。カードも不要です。VibeDeck Playerを送ってみてください。",
+  "copy": "リンクをコピー",
+  "copied": "コピーしました",
+  "email": "メール",
+  "msg": "VibeDeck Player：キーとテンポを変えられて、スマホで流れる音をそのまま録音できるオフラインプレーヤー。48時間無料、カード不要。",
+  "more": "その他"
+ },
+ "es": {
+  "home": "/es/",
+  "tag": "Compartir",
+  "dim": "/ 48 h gratis",
+  "title": "Cuéntaselo a tus amigos",
+  "text": "¿Conoces a alguien a quien le encantaría? Los usuarios nuevos tienen 48 horas con todo desbloqueado, sin tarjeta. Envíale VibeDeck Player.",
+  "copy": "Copiar enlace",
+  "copied": "Enlace copiado",
+  "email": "Correo",
+  "msg": "VibeDeck Player: reproductor sin conexión que cambia el tono y el tempo y graba cualquier sonido del móvil. 48 horas gratis, sin tarjeta.",
+  "more": "Más"
+ },
+ "pt-BR": {
+  "home": "/pt-br/",
+  "tag": "Compartilhar",
+  "dim": "/ 48 h grátis",
+  "title": "Conte para os amigos",
+  "text": "Conhece alguém que ia adorar? Usuários novos ganham 48 horas com tudo liberado, sem cartão. Mande o VibeDeck Player.",
+  "copy": "Copiar link",
+  "copied": "Link copiado",
+  "email": "E-mail",
+  "msg": "VibeDeck Player: player offline que muda o tom e o andamento e grava qualquer som do celular. 48 horas grátis, sem cartão.",
+  "more": "Mais"
+ },
+ "de": {
+  "home": "/de/",
+  "tag": "Teilen",
+  "dim": "/ 48 Std. gratis",
+  "title": "Erzähl es weiter",
+  "text": "Kennst du jemanden, dem das gefällt? Neue Nutzer bekommen 48 Stunden mit allen Funktionen, ohne Karte. Schick ihnen VibeDeck Player.",
+  "copy": "Link kopieren",
+  "copied": "Link kopiert",
+  "email": "E-Mail",
+  "msg": "VibeDeck Player: Offline-Musikplayer, der Tonart und Tempo ändert und jeden Ton auf dem Handy aufnimmt. 48 Stunden gratis, ohne Karte.",
+  "more": "Mehr"
+ },
+ "fr": {
+  "home": "/fr/",
+  "tag": "Partager",
+  "dim": "/ 48 h offertes",
+  "title": "Parlez-en autour de vous",
+  "text": "Vous connaissez quelqu’un à qui ça plairait ? Les nouveaux utilisateurs ont 48 heures avec tout débloqué, sans carte. Envoyez-lui VibeDeck Player.",
+  "copy": "Copier le lien",
+  "copied": "Lien copié",
+  "email": "E-mail",
+  "msg": "VibeDeck Player : un lecteur hors ligne qui change la tonalité et le tempo et enregistre tout son joué sur le téléphone. 48 heures offertes, sans carte.",
+  "more": "Plus"
+ },
+ "it": {
+  "home": "/it/",
+  "tag": "Condividi",
+  "dim": "/ 48 ore gratis",
+  "title": "Dillo agli amici",
+  "text": "Conosci qualcuno a cui piacerebbe? I nuovi utenti hanno 48 ore con tutto sbloccato, senza carta. Mandagli VibeDeck Player.",
+  "copy": "Copia link",
+  "copied": "Link copiato",
+  "email": "Email",
+  "msg": "VibeDeck Player: lettore offline che cambia tonalità e tempo e registra qualsiasi suono del telefono. 48 ore gratis, senza carta.",
+  "more": "Altro"
+ },
+ "ru": {
+  "home": "/ru/",
+  "extra": [
+   "vk"
+  ],
+  "tag": "Поделиться",
+  "dim": "/ 48 ч бесплатно",
+  "title": "Расскажите друзьям",
+  "text": "Знаете кого-то, кому это понравится? Новые пользователи получают 48 часов со всеми функциями, без карты. Отправьте им VibeDeck Player.",
+  "copy": "Скопировать ссылку",
+  "copied": "Ссылка скопирована",
+  "email": "Почта",
+  "msg": "VibeDeck Player: офлайн-плеер, который меняет тональность и темп и записывает любой звук с телефона. 48 часов бесплатно, без карты.",
+  "more": "Ещё"
+ },
+ "ko": {
+  "home": "/ko/",
+  "tag": "공유",
+  "dim": "/ 48시간 무료",
+  "title": "친구에게 알려 주세요",
+  "text": "좋아할 만한 사람이 있나요? 신규 사용자는 카드 없이 48시간 동안 모든 기능을 사용할 수 있습니다. VibeDeck Player를 보내 보세요.",
+  "copy": "링크 복사",
+  "copied": "링크를 복사했습니다",
+  "email": "이메일",
+  "msg": "VibeDeck Player: 키와 템포를 바꾸고 휴대폰에서 나오는 모든 소리를 녹음하는 오프라인 플레이어. 카드 없이 48시간 무료.",
+  "more": "더보기"
+ },
+ "tr": {
+  "home": "/tr/",
+  "tag": "Paylaş",
+  "dim": "/ 48 saat ücretsiz",
+  "title": "Arkadaşlarına anlat",
+  "text": "Bunu sevecek birini tanıyor musun? Yeni kullanıcılar kart olmadan 48 saat boyunca tüm özellikleri kullanır. Ona VibeDeck Player’ı gönder.",
+  "copy": "Bağlantıyı kopyala",
+  "copied": "Bağlantı kopyalandı",
+  "email": "E-posta",
+  "msg": "VibeDeck Player: tonu ve tempoyu değiştiren, telefonda çalan her sesi kaydeden çevrimdışı çalar. 48 saat ücretsiz, kart gerekmez.",
+  "more": "Diğer"
+ },
+ "id": {
+  "home": "/id/",
+  "tag": "Bagikan",
+  "dim": "/ gratis 48 jam",
+  "title": "Ceritakan ke teman",
+  "text": "Kenal seseorang yang bakal suka? Pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu. Kirimkan VibeDeck Player.",
+  "copy": "Salin tautan",
+  "copied": "Tautan disalin",
+  "email": "Email",
+  "msg": "VibeDeck Player: pemutar offline yang bisa mengubah nada dan tempo serta merekam suara apa pun di HP. Gratis 48 jam, tanpa kartu.",
+  "more": "Lainnya"
+ },
+ "pl": {
+  "home": "/pl/",
+  "tag": "Udostępnij",
+  "dim": "/ 48 h za darmo",
+  "title": "Powiedz znajomym",
+  "text": "Znasz kogoś, komu to się spodoba? Nowi użytkownicy dostają 48 godzin ze wszystkimi funkcjami, bez karty. Wyślij mu VibeDeck Player.",
+  "copy": "Kopiuj link",
+  "copied": "Link skopiowany",
+  "email": "E-mail",
+  "msg": "VibeDeck Player: odtwarzacz offline, który zmienia tonację i tempo i nagrywa każdy dźwięk z telefonu. 48 godzin za darmo, bez karty.",
+  "more": "Więcej"
+ },
+ "nl": {
+  "home": "/nl/",
+  "tag": "Delen",
+  "dim": "/ 48 uur gratis",
+  "title": "Vertel het je vrienden",
+  "text": "Ken je iemand die dit geweldig vindt? Nieuwe gebruikers krijgen 48 uur met alles ontgrendeld, zonder kaart. Stuur ze VibeDeck Player.",
+  "copy": "Link kopiëren",
+  "copied": "Link gekopieerd",
+  "email": "E-mail",
+  "msg": "VibeDeck Player: offline speler die toonhoogte en tempo verandert en elk geluid op je telefoon opneemt. 48 uur gratis, zonder kaart.",
+  "more": "Meer"
+ },
+ "vi": {
+  "home": "/vi/",
+  "tag": "Chia sẻ",
+  "dim": "/ miễn phí 48 giờ",
+  "title": "Kể cho bạn bè",
+  "text": "Bạn biết ai sẽ thích ứng dụng này không? Người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ. Gửi VibeDeck Player cho họ nhé.",
+  "copy": "Sao chép liên kết",
+  "copied": "Đã sao chép liên kết",
+  "email": "Email",
+  "msg": "VibeDeck Player: trình phát offline đổi tone và tempo, ghi lại mọi âm thanh trên điện thoại. Miễn phí 48 giờ, không cần thẻ.",
+  "more": "Khác"
+ },
+ "zh-Hant": {
+  "home": "/zh-hant/",
+  "extra": [
+   "line"
+  ],
+  "tag": "分享",
+  "dim": "/ 免費 48 小時",
+  "title": "告訴朋友",
+  "text": "身邊有人會喜歡嗎？新用戶可免費使用全部功能 48 小時，不需綁卡。把 VibeDeck Player 分享給他們吧。",
+  "copy": "複製連結",
+  "copied": "已複製連結",
+  "email": "電子郵件",
+  "msg": "VibeDeck Player：能升降調、改速度，還能錄下手機播放聲音的離線播放器。免費 48 小時，不需綁卡。",
+  "more": "更多"
+ },
+ "zh-Hans": {
+  "home": "/zh-hans/",
+  "tag": "分享",
+  "dim": "/ 免费 48 小时",
+  "title": "告诉朋友",
+  "text": "身边有人会喜欢吗？新用户可免费使用全部功能 48 小时，无需绑卡。把 VibeDeck Player 分享给他们吧。",
+  "copy": "复制链接",
+  "copied": "已复制链接",
+  "email": "电子邮件",
+  "msg": "VibeDeck Player：能升降调、改速度，还能录下手机播放声音的离线播放器。免费 48 小时，无需绑卡。",
+  "more": "更多"
+ },
+ "th": {
+  "home": "/th/",
+  "extra": [
+   "line"
+  ],
+  "tag": "แชร์",
+  "dim": "/ ฟรี 48 ชั่วโมง",
+  "title": "บอกเพื่อน",
+  "text": "รู้จักใครที่น่าจะชอบไหม ผู้ใช้ใหม่ใช้ฟีเจอร์ทั้งหมดได้ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตร ส่ง VibeDeck Player ให้เขาเลย",
+  "copy": "คัดลอกลิงก์",
+  "copied": "คัดลอกลิงก์แล้ว",
+  "email": "อีเมล",
+  "msg": "VibeDeck Player: เครื่องเล่นเพลงออฟไลน์ที่ปรับคีย์และเทมโปได้ และอัดทุกเสียงในมือถือได้ ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตร",
+  "more": "อื่น ๆ"
+ }
+}

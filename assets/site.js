@@ -89,4 +89,27 @@
     if(prev)prev.addEventListener('click',function(){go(shots[Math.max(0,current()-1)]);});
     if(next)next.addEventListener('click',function(){go(shots[Math.min(shots.length-1,current()+1)]);});
   }
+  // Share block: copy the link, count share clicks as GoatCounter events (no third-party scripts).
+  function countShare(net){if(w.goatcounter&&w.goatcounter.count)w.goatcounter.count({path:'share-'+net,title:'Share: '+net,event:true});}
+  [].slice.call(d.querySelectorAll('[data-share]')).forEach(function(a){a.addEventListener('click',function(){countShare(a.getAttribute('data-share'));});});
+  if(navigator.share&&w.matchMedia&&w.matchMedia('(pointer: coarse)').matches){
+    [].slice.call(d.querySelectorAll('[data-share-native]')).forEach(function(btn){
+      btn.parentNode.hidden=false;
+      btn.addEventListener('click',function(){
+        countShare('native');
+        navigator.share({title:'VibeDeck Player',text:btn.getAttribute('data-text'),url:btn.getAttribute('data-url')}).catch(function(){});
+      });
+    });
+  }
+  [].slice.call(d.querySelectorAll('[data-share-copy]')).forEach(function(btn){
+    var label=btn.querySelector('span'),text=label.textContent;
+    function done(){label.textContent=btn.getAttribute('data-copied');btn.classList.add('is-done');setTimeout(function(){label.textContent=text;btn.classList.remove('is-done');},2000);}
+    btn.addEventListener('click',function(){
+      var url=btn.getAttribute('data-share-copy');countShare('copy');
+      if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(done,function(){});return;}
+      var t=d.createElement('textarea');t.value=url;t.setAttribute('readonly','');t.style.position='fixed';t.style.opacity='0';d.body.appendChild(t);t.select();
+      try{if(d.execCommand('copy'))done();}catch(e){}
+      d.body.removeChild(t);
+    });
+  });
 })();
