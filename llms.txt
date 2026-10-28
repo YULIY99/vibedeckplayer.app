@@ -14,7 +14,7 @@
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record any sound playing on the phone, from YouTube, SoundCloud or any app, straight from the device (not through the microphone), then trim it. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO (called Premium on parts of this site): App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
+- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -46,7 +46,7 @@
 
 ## Pages
 
-- [VibeDeck: Offline FLAC & MP3 Player for iPhone & Android](https://vibedeckplayer.app/): Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch, filter, EQ, limiter, AURA and TONE require Premium. No ads, no account.
+- [VibeDeck: Offline FLAC & MP3 Player for iPhone & Android](https://vibedeckplayer.app/): Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch, filter, EQ, limiter, AURA and TONE require PRO. No ads, no account.
 - [Audio Formats: FLAC, WAV & MP3 Player | VibeDeck Player](https://vibedeckplayer.app/audio-formats/): One offline music player for FLAC, WAV and MP3 on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.
 - [Best Offline Music Player in 2026 | VibeDeck Player](https://vibedeckplayer.app/best-offline-music-player/): How to choose the best offline music player in 2026: formats, EQ, pitch and tempo, ads, privacy, price. A clear checklist and how VibeDeck Player compares.
 - [Change the Key of a Song on iPhone | VibeDeck Player](https://vibedeckplayer.app/change-song-key-iphone/): Change a song's key on iPhone in seconds: transpose up or down by up to 8 st, keep the tempo, work offline. Step-by-step guide with VibeDeck Player.
@@ -61,7 +61,7 @@
 - [Bass Booster for iPhone and Android | VibeDeck Player](https://vibedeckplayer.app/bass-booster/): No separate bass button? No problem. Boost bass on iPhone and Android with VibeDeck Player’s EQ: raise the low band and add gain. Offline, no ads.
 - [DJ Filter Effect: How to Use It | VibeDeck Player](https://vibedeckplayer.app/dj-filter/): Sweep the DJ filter from low-pass to high-pass in VibeDeck Studio, stack it with pitch, saturation and space, and record your mix. Offline, no ads.
 - [Saturation Effect: Add Warmth to Music | VibeDeck Player](https://vibedeckplayer.app/saturation/): Add warmth and body to your tracks with the saturation effect in VibeDeck Studio, alongside pitch, filter and space. For iPhone and iPad, offline.
-- [Limiter: How to Prevent Clipping | VibeDeck Player](https://vibedeckplayer.app/limiter/): Stop clipping with the built-in limiter in VibeDeck Player Premium. Loud tracks stay clean on iPhone and Android, even at high volume. Works offline.
+- [Limiter: How to Prevent Clipping | VibeDeck Player](https://vibedeckplayer.app/limiter/): Stop clipping with the built-in limiter in VibeDeck Player PRO. Loud tracks stay clean on iPhone and Android, even at high volume. Works offline.
 - [Delay and Space Effect for Music Players | VibeDeck Player](https://vibedeckplayer.app/delay/): Get echo and space with the space effect in VibeDeck Studio. Add depth and movement to your loops on iPhone and iPad, offline, and record the result.
 - [DJ App for iPhone and Android | VibeDeck Player](https://vibedeckplayer.app/dj-app/): DJ app for iPhone and Android: pitch, tempo and filter in the player, plus beat-snapped loops and clip recording in VibeDeck Studio. Offline, no ads.
 - [How to Play FLAC Files on iPhone | VibeDeck Player](https://vibedeckplayer.app/play-flac-on-iphone/): Play FLAC on iPhone in three steps: copy the files with AirDrop, iCloud Drive or Files, import them into VibeDeck Player and press play. Offline, no ads.
@@ -92,10 +92,10 @@
 
 ## Pages in Italiano (it)
 
-- [Lettore musicale offline senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/): Ascolta FLAC, MP3 e WAV offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con Premium. Download gratuito.
-- [Cambiare la tonalità di una canzone su iPhone | VibeDeck](https://vibedeckplayer.app/it/cambiare-tonalita/): Trasponi i brani fino a ±8 st senza cambiare il tempo. Per cantare ed esercitarti su iPhone e Android. Pitch con Premium; download gratuito.
-- [Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-flac/): Ascolta i tuoi FLAC senza conversioni e offline su iPhone, iPad e Android. Equalizzatore, limiter, pitch e tempo con Premium. Senza pubblicità o account.
-- [Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-mp3-senza-pub/): Lettore MP3 gratuito senza pubblicità, account o tracciamento per iPhone e Android. Riproduzione offline; equalizzatore, pitch e tempo con Premium.
+- [Lettore musicale offline senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/): Ascolta FLAC, MP3 e WAV offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con PRO. Download gratuito.
+- [Cambiare la tonalità di una canzone su iPhone | VibeDeck](https://vibedeckplayer.app/it/cambiare-tonalita/): Trasponi i brani fino a ±8 st senza cambiare il tempo. Per cantare ed esercitarti su iPhone e Android. Pitch con PRO; download gratuito.
+- [Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-flac/): Ascolta i tuoi FLAC senza conversioni e offline su iPhone, iPad e Android. Equalizzatore, limiter, pitch e tempo con PRO. Senza pubblicità o account.
+- [Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-mp3-senza-pub/): Lettore MP3 gratuito senza pubblicità, account o tracciamento per iPhone e Android. Riproduzione offline; equalizzatore, pitch e tempo con PRO.
 - [Rallentare una canzone senza cambiare tonalità | VibeDeck](https://vibedeckplayer.app/it/rallentare-una-canzone/): Rallenta una canzone su iPhone o Android senza cambiarne la tonalità. Studia assoli, coreografie e testi veloci al tuo ritmo, offline e senza pubblicità.
 - [Registrare l'audio interno del telefono | VibeDeck](https://vibedeckplayer.app/it/registrare-audio-interno/): Registra qualsiasi suono riprodotto su iPhone o Android: YouTube, SoundCloud, qualsiasi app. Taglialo sulla forma d'onda e aprilo in Studio.
 

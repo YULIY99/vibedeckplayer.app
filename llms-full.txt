@@ -14,7 +14,7 @@
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record any sound playing on the phone, from YouTube, SoundCloud or any app, straight from the device (not through the microphone), then trim it. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends) and 48 hours of VibeDeck PRO for new users
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO (called Premium on parts of this site): App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
+- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt and 繁體中文
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -49,11 +49,11 @@
 URL: https://vibedeckplayer.app/
 Language: en
 
-Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch, filter, EQ, limiter, AURA and TONE require Premium. No ads, no account.
+Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch, filter, EQ, limiter, AURA and TONE require PRO. No ads, no account.
 
 **Q: Is VibeDeck Player free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler. On the App Store Premium costs $2.99 per month, $19.99 per year or $49.99 for a lifetime license; on Google Play Premium costs $1.99 per month, $14.99 per year or $19.99 for a lifetime license (USD).
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler. On the App Store PRO costs $2.99 per month, $19.99 per year or $49.99 for a lifetime license; on Google Play PRO costs $1.99 per month, $14.99 per year or $19.99 for a lifetime license (USD).
 
 **Q: Which audio formats does VibeDeck Player play?**
 
@@ -73,11 +73,11 @@ A: Yes. There is no sign-up, no login and no cloud library. You import your own 
 
 **Q: How do I change the pitch of a song on iPhone?**
 
-A: Open the track in VibeDeck Player and drag the Pitch / Filter slider on the main player screen. Pitch moves in real time up to ±8 st, tempo can be changed independently, and Reset returns the song to its original key. The file itself is never modified. Pitch and filter are part of VibeDeck Premium.
+A: Open the track in VibeDeck Player and drag the Pitch / Filter slider on the main player screen. Pitch moves in real time up to ±8 st, tempo can be changed independently, and Reset returns the song to its original key. The file itself is never modified. Pitch and filter are part of VibeDeck PRO.
 
 **Q: What is the best ad-free offline music player?**
 
-A: It depends on what you need. If you want an offline music player with no ads that also changes pitch and tempo, runs on both iPhone and Android, and offers a one-time lifetime license, VibeDeck Player is built for exactly that. The core player is free with no ads; Premium is optional.
+A: It depends on what you need. If you want an offline music player with no ads that also changes pitch and tempo, runs on both iPhone and Android, and offers a one-time lifetime license, VibeDeck Player is built for exactly that. The core player is free with no ads; PRO is optional.
 
 **Q: Is VibeDeck Player available for iPhone and Android?**
 
@@ -135,7 +135,7 @@ A: Yes, if the files are stored on the phone. Copy or download your music, impor
 
 **Q: Is there a free offline music player with no ads?**
 
-A: Yes. VibeDeck Player is free to download and has no ads. Premium adds the full sound engine with pitch, EQ gain, limiter and visuals.
+A: Yes. VibeDeck Player is free to download and has no ads. PRO adds the full sound engine with pitch, EQ gain, limiter and visuals.
 
 **Q: Which audio formats should an offline player support?**
 
@@ -166,7 +166,7 @@ A: Yes. Transposing happens on your iPhone, with no internet connection and no u
 
 **Q: Is pitch control free?**
 
-A: VibeDeck Player is free to download with no ads. Pitch and the full sound engine are part of VibeDeck Premium: monthly, yearly or a one-time lifetime purchase.
+A: VibeDeck Player is free to download with no ads. Pitch and the full sound engine are part of VibeDeck PRO: monthly, yearly or a one-time lifetime purchase.
 
 ## FLAC Player for Android, Lossless, No Ads | VibeDeck Player
 
@@ -181,7 +181,7 @@ A: Yes. Android supports FLAC, and VibeDeck Player adds what basic players lack:
 
 **Q: Is there a FLAC player for Android without ads?**
 
-A: Yes. VibeDeck Player has no ads in the free version or in Premium, and needs no account.
+A: Yes. VibeDeck Player has no ads in the free version or in PRO, and needs no account.
 
 **Q: Does it work offline?**
 
@@ -193,7 +193,7 @@ A: Yes. An EQ with gain, bass boost, filter, stereo balance and a limiter.
 
 **Q: How much does it cost on Android?**
 
-A: Free to download. VibeDeck Premium is an optional in-app purchase; Google Play shows the current price for your country. Prices may vary by region. Google Play (Android): $1.99/month, $14.99/year or $19.99 lifetime (USD).
+A: Free to download. VibeDeck PRO is an optional in-app purchase; Google Play shows the current price for your country. Prices may vary by region. Google Play (Android): $1.99/month, $14.99/year or $19.99 lifetime (USD).
 
 ## FLAC Player for iPhone, Lossless | VibeDeck Player
 
@@ -231,7 +231,7 @@ An MP3 player with no ads, no account and no tracking. Play your MP3 files offli
 
 **Q: Is there really no ads in VibeDeck Player?**
 
-A: Correct. VibeDeck Player shows no banner ads, no video ads and no popups. The free version is supported by an optional Premium upgrade, not by advertising.
+A: Correct. VibeDeck Player shows no banner ads, no video ads and no popups. The free version is supported by an optional PRO upgrade, not by advertising.
 
 **Q: Can I play my own MP3 files offline?**
 
@@ -247,7 +247,7 @@ A: Yes. VibeDeck Player also plays FLAC and WAV, so you can mix formats in one o
 
 **Q: Is VibeDeck Player free?**
 
-A: The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: The core player is free with no ads. PRO unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 ## Music Player with Pitch & Tempo Control | VibeDeck Player
 
@@ -274,7 +274,7 @@ A: Yes. All processing happens on the device. Pitch, tempo, EQ and filter work i
 
 **Q: Is VibeDeck Player free?**
 
-A: The core player is free with no ads. Premium unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: The core player is free with no ads. PRO unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 ## Offline Music Player for Android: No Ads | VibeDeck Player
 
@@ -478,7 +478,7 @@ A: Yes. Like everything in VibeDeck Player, Studio effects work offline on files
 URL: https://vibedeckplayer.app/limiter/
 Language: en
 
-Stop clipping with the built-in limiter in VibeDeck Player Premium. Loud tracks stay clean on iPhone and Android, even at high volume. Works offline.
+Stop clipping with the built-in limiter in VibeDeck Player PRO. Loud tracks stay clean on iPhone and Android, even at high volume. Works offline.
 
 **Q: What is a limiter?**
 
@@ -488,9 +488,9 @@ A: A limiter is a safety ceiling for volume: it keeps the loudest peaks of a tra
 
 A: It does not change the character of the mix. Only the loudest peaks are tamed; quiet and mid-level parts are left untouched.
 
-**Q: Is the limiter a Premium feature?**
+**Q: Is the limiter a PRO feature?**
 
-A: Yes. The limiter is part of VibeDeck Premium, which unlocks the full sound engine on iPhone, iPad and Android.
+A: Yes. The limiter is part of VibeDeck PRO, which unlocks the full sound engine on iPhone, iPad and Android.
 
 **Q: Does it work on iPhone and Android?**
 
@@ -614,7 +614,7 @@ A: No. VibeDeck only opens audio files stored on your device, such as MP3, FLAC 
 
 **Q: Is key change free?**
 
-A: The download is free and has no ads. Changing the key is part of VibeDeck Premium.
+A: The download is free and has no ads. Changing the key is part of VibeDeck PRO.
 
 ## Slowed + Reverb on Your Phone | VibeDeck Player
 
@@ -718,7 +718,7 @@ A: No. VibeDeck plays files stored on your device. That is what makes it work of
 
 **Q: Does it have ads?**
 
-A: No. Neither the free version nor Premium shows ads, and you do not need an account.
+A: No. Neither the free version nor PRO shows ads, and you do not need an account.
 
 **Q: Is there an iPhone version?**
 
@@ -768,7 +768,7 @@ A: Ja. Die Songs werden aus den Dateien auf deinem Gerät abgespielt, deshalb br
 
 **Q: Gibt es Werbung?**
 
-A: Nein. Weder die kostenlose Version noch Premium zeigt Werbung, und du brauchst kein Konto.
+A: Nein. Weder die kostenlose Version noch PRO zeigt Werbung, und du brauchst kein Konto.
 
 **Q: Kann ich FLAC auf iPhone und Android abspielen?**
 
@@ -784,7 +784,7 @@ A: Die Oberfläche der App ist derzeit auf Englisch.
 
 **Q: Was kostet die App?**
 
-A: Der Download ist kostenlos und werbefrei. Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Pläne und Preis von Premium siehst du im App Store oder bei Google Play in deinem Land. Bei Google Play (Android) kostet Premium $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
+A: Der Download ist kostenlos und werbefrei. Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Pläne und Preis von PRO siehst du im App Store oder bei Google Play in deinem Land. Bei Google Play (Android) kostet PRO $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
 
 **Q: Brauche ich ein Konto?**
 
@@ -792,11 +792,11 @@ A: Nein. Es gibt keine Registrierung und keinen Login. Du importierst deine Date
 
 **Q: Wie ändere ich die Tonart eines Songs?**
 
-A: Öffne den Song und bewege den Regler Pitch / Filter im Hauptbildschirm. Die Tonart ändert sich in Echtzeit um bis zu ±8 st, das Tempo stellst du separat ein, und Reset bringt den Song zurück in die Originaltonart. Die Datei selbst wird nie verändert. Tonhöhe und Filter gehören zu VibeDeck Premium.
+A: Öffne den Song und bewege den Regler Pitch / Filter im Hauptbildschirm. Die Tonart ändert sich in Echtzeit um bis zu ±8 st, das Tempo stellst du separat ein, und Reset bringt den Song zurück in die Originaltonart. Die Datei selbst wird nie verändert. Tonhöhe und Filter gehören zu VibeDeck PRO.
 
-**Q: Was enthält VibeDeck Premium?**
+**Q: Was enthält VibeDeck PRO?**
 
-A: Die komplette Sound-Engine: Tonhöhe und Filter, Equalizer mit Gain, Limiter, VibeMod, TONE, AURA und Smart Metadata. Du kannst monatlich, jährlich oder einmalig lebenslang zahlen. Bei Google Play (Android) kostet Premium $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
+A: Die komplette Sound-Engine: Tonhöhe und Filter, Equalizer mit Gain, Limiter, VibeMod, TONE, AURA und Smart Metadata. Du kannst monatlich, jährlich oder einmalig lebenslang zahlen. Bei Google Play (Android) kostet PRO $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
 
 ## Tonart eines Songs ändern, Tempo bleibt gleich | VibeDeck
 
@@ -823,7 +823,7 @@ A: Ja. Die Tonart wird direkt auf dem Gerät geändert, ohne Internet und ohne U
 
 **Q: Ist das kostenlos?**
 
-A: Der Download ist kostenlos und werbefrei, die Tonartänderung gehört aber zu VibeDeck Premium. Pläne und Preise findest du im App Store und bei Google Play. Bei Google Play (Android) kostet Premium $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
+A: Der Download ist kostenlos und werbefrei, die Tonartänderung gehört aber zu VibeDeck PRO. Pläne und Preise findest du im App Store und bei Google Play. Bei Google Play (Android) kostet PRO $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
 
 **Q: Geht das auch auf Android?**
 
@@ -858,7 +858,7 @@ A: Ja. VibeDeck Player gibt es bei Google Play; er spielt FLAC, WAV und MP3 offl
 
 **Q: Ist die App kostenlos?**
 
-A: Der Download ist kostenlos und werbefrei. Premium ist ein optionaler In-App-Kauf; App Store und Google Play zeigen den Preis in deinem Land. Bei Google Play (Android) kostet Premium $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
+A: Der Download ist kostenlos und werbefrei. PRO ist ein optionaler In-App-Kauf; App Store und Google Play zeigen den Preis in deinem Land. Bei Google Play (Android) kostet PRO $1.99 pro Monat, $14.99 pro Jahr oder $19.99 lebenslang (USD).
 
 ## MP3-Player ohne Werbung, offline und kostenlos | VibeDeck
 
@@ -869,7 +869,7 @@ Kostenloser MP3-Player ohne Werbung, ohne Konto und ohne Tracking für iPhone un
 
 **Q: Gibt es wirklich keine Werbung?**
 
-A: Ja, wirklich. VibeDeck Player zeigt keine Banner, keine Videos und keine Pop-ups. Die kostenlose Version wird durch ein optionales Premium-Upgrade finanziert, nicht durch Werbung.
+A: Ja, wirklich. VibeDeck Player zeigt keine Banner, keine Videos und keine Pop-ups. Die kostenlose Version wird durch ein optionales PRO-Upgrade finanziert, nicht durch Werbung.
 
 **Q: Kann ich meine MP3-Dateien offline hören?**
 
@@ -889,7 +889,7 @@ A: Ja. Im App Store für iPhone und iPad und bei Google Play für Android.
 
 **Q: Ist die App kostenlos?**
 
-A: Die App ist kostenlos und werbefrei. Premium schaltet die komplette Sound-Engine frei; den Preis zeigt der Store in deinem Land.
+A: Die App ist kostenlos und werbefrei. PRO schaltet die komplette Sound-Engine frei; den Preis zeigt der Store in deinem Land.
 
 ## Song langsamer abspielen, Tonhöhe bleibt | VibeDeck
 
@@ -962,7 +962,7 @@ A: Oui. Les morceaux sont lus depuis les fichiers de votre téléphone : pas be
 
 **Q: Y a-t-il des publicités ?**
 
-A: Non. Ni la version gratuite ni Premium n’affichent de publicité, et aucun compte n’est nécessaire.
+A: Non. Ni la version gratuite ni PRO n’affichent de publicité, et aucun compte n’est nécessaire.
 
 **Q: Peut-on lire des FLAC sur iPhone et Android ?**
 
@@ -978,7 +978,7 @@ A: Pour l’instant, l’interface de l’application est en anglais.
 
 **Q: Combien ça coûte ?**
 
-A: Le téléchargement est gratuit et sans publicité. Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Les formules et le prix de Premium s’affichent sur l’App Store ou Google Play de votre pays. Sur Google Play (Android), Premium coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
+A: Le téléchargement est gratuit et sans publicité. Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Les formules et le prix de PRO s’affichent sur l’App Store ou Google Play de votre pays. Sur Google Play (Android), PRO coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
 
 **Q: Faut-il créer un compte ?**
 
@@ -986,11 +986,11 @@ A: Non. Aucune inscription ni connexion. Vous importez vos fichiers une fois, pu
 
 **Q: Comment changer la tonalité d’un morceau ?**
 
-A: Ouvrez le morceau et déplacez la commande Pitch / Filter de l’écran principal. La tonalité change en temps réel jusqu’à ±8 st, le tempo se règle séparément et Reset rétablit la tonalité d’origine. Le fichier n’est jamais modifié. La hauteur et le filtre font partie de VibeDeck Premium.
+A: Ouvrez le morceau et déplacez la commande Pitch / Filter de l’écran principal. La tonalité change en temps réel jusqu’à ±8 st, le tempo se règle séparément et Reset rétablit la tonalité d’origine. Le fichier n’est jamais modifié. La hauteur et le filtre font partie de VibeDeck PRO.
 
-**Q: Que comprend VibeDeck Premium ?**
+**Q: Que comprend VibeDeck PRO ?**
 
-A: Tout le moteur sonore : hauteur et filtre, égaliseur avec gain, limiteur, VibeMod, TONE, AURA et Smart Metadata. Vous pouvez payer au mois, à l’année ou une seule fois, à vie. Sur Google Play (Android), Premium coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
+A: Tout le moteur sonore : hauteur et filtre, égaliseur avec gain, limiteur, VibeMod, TONE, AURA et Smart Metadata. Vous pouvez payer au mois, à l’année ou une seule fois, à vie. Sur Google Play (Android), PRO coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
 
 ## Changer la tonalité d’une chanson sur iPhone | VibeDeck
 
@@ -1017,7 +1017,7 @@ A: Oui. Le changement de tonalité est calculé sur l’appareil, sans internet 
 
 **Q: C’est gratuit ?**
 
-A: Le téléchargement est gratuit et sans publicité, mais le changement de tonalité fait partie de VibeDeck Premium. Les formules et les prix sont indiqués sur l’App Store et Google Play. Sur Google Play (Android), Premium coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
+A: Le téléchargement est gratuit et sans publicité, mais le changement de tonalité fait partie de VibeDeck PRO. Les formules et les prix sont indiqués sur l’App Store et Google Play. Sur Google Play (Android), PRO coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
 
 **Q: Et sur Android ?**
 
@@ -1052,7 +1052,7 @@ A: Oui. VibeDeck Player est sur Google Play et lit les FLAC, WAV et MP3 hors lig
 
 **Q: C’est gratuit ?**
 
-A: Le téléchargement est gratuit et sans pub. Premium est un achat intégré facultatif ; l’App Store ou Google Play affichent le prix de votre pays. Sur Google Play (Android), Premium coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
+A: Le téléchargement est gratuit et sans pub. PRO est un achat intégré facultatif ; l’App Store ou Google Play affichent le prix de votre pays. Sur Google Play (Android), PRO coûte $1.99 par mois, $14.99 par an ou $19.99 à vie (USD).
 
 ## Lecteur MP3 sans pub, hors ligne et gratuit | VibeDeck
 
@@ -1063,7 +1063,7 @@ Lecteur MP3 gratuit sans pub, sans compte et sans pistage pour iPhone et Android
 
 **Q: Il n’y a vraiment aucune pub ?**
 
-A: Aucune. VibeDeck Player n’affiche ni bannières, ni vidéos, ni pop-ups. La version gratuite est financée par une option Premium, pas par la publicité.
+A: Aucune. VibeDeck Player n’affiche ni bannières, ni vidéos, ni pop-ups. La version gratuite est financée par une option PRO, pas par la publicité.
 
 **Q: Puis-je écouter mes MP3 hors ligne ?**
 
@@ -1083,7 +1083,7 @@ A: Oui. Sur l’App Store pour iPhone et iPad, et sur Google Play pour Android.
 
 **Q: C’est gratuit ?**
 
-A: L’appli est gratuite et sans pub. Premium débloque tout le moteur sonore ; le prix s’affiche sur le store de votre pays.
+A: L’appli est gratuite et sans pub. PRO débloque tout le moteur sonore ; le prix s’affiche sur le store de votre pays.
 
 ## Ralentir une chanson sans changer la tonalité | VibeDeck
 
@@ -1148,7 +1148,7 @@ A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et san
 URL: https://vibedeckplayer.app/it/
 Language: it
 
-Ascolta FLAC, MP3 e WAV offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con Premium. Download gratuito.
+Ascolta FLAC, MP3 e WAV offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con PRO. Download gratuito.
 
 **Q: Funziona senza connessione internet?**
 
@@ -1156,7 +1156,7 @@ A: Sì. I brani vengono riprodotti dai file sul telefono: non serve internet per
 
 **Q: Ci sono pubblicità?**
 
-A: No. Né la versione gratuita né Premium mostrano pubblicità e non serve un account.
+A: No. Né la versione gratuita né PRO mostrano pubblicità e non serve un account.
 
 **Q: Posso riprodurre FLAC su iPhone e Android?**
 
@@ -1172,17 +1172,17 @@ A: Per ora l’interfaccia dell’app è in inglese. Questa è la versione itali
 
 **Q: Quanto costa?**
 
-A: Il download è gratuito e senza pubblicità. Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Su Google Play (Android), Premium costa $1.99 al mese, $14.99 all’anno o $19.99 a vita. Su App Store (iOS), costa $2.99 al mese, $19.99 all’anno o $49.99 a vita. Prezzi in USD; gli importi locali possono variare.
+A: Il download è gratuito e senza pubblicità. Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Su Google Play (Android), PRO costa $1.99 al mese, $14.99 all’anno o $19.99 a vita. Su App Store (iOS), costa $2.99 al mese, $19.99 all’anno o $49.99 a vita. Prezzi in USD; gli importi locali possono variare.
 
 **Q: Devo creare un account?**
 
-A: No. Non servono registrazione o accesso. Importa i tuoi file e ascoltali sul dispositivo, anche in modalità aereo. Le funzioni audio di Premium vengono elaborate sul dispositivo.
+A: No. Non servono registrazione o accesso. Importa i tuoi file e ascoltali sul dispositivo, anche in modalità aereo. Le funzioni audio di PRO vengono elaborate sul dispositivo.
 
 **Q: Come cambio la tonalità di un brano?**
 
-A: Apri il brano e sposta il controllo Pitch / Filter nella schermata principale. La tonalità cambia in tempo reale fino a ±8 st, il tempo si regola separatamente e Reset ripristina la tonalità originale. Il file non viene modificato. Pitch e filtro fanno parte di VibeDeck Premium.
+A: Apri il brano e sposta il controllo Pitch / Filter nella schermata principale. La tonalità cambia in tempo reale fino a ±8 st, il tempo si regola separatamente e Reset ripristina la tonalità originale. Il file non viene modificato. Pitch e filtro fanno parte di VibeDeck PRO.
 
-**Q: Cosa include VibeDeck Premium?**
+**Q: Cosa include VibeDeck PRO?**
 
 A: Il motore audio completo: pitch e filtro, equalizzatore con gain, limiter, VibeMod, TONE, AURA e Smart Metadata. Puoi scegliere un piano mensile, annuale o un acquisto unico a vita. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD).
 
@@ -1191,11 +1191,11 @@ A: Il motore audio completo: pitch e filtro, equalizzatore con gain, limiter, Vi
 URL: https://vibedeckplayer.app/it/cambiare-tonalita/
 Language: it
 
-Trasponi i brani fino a ±8 st senza cambiare il tempo. Per cantare ed esercitarti su iPhone e Android. Pitch con Premium; download gratuito.
+Trasponi i brani fino a ±8 st senza cambiare il tempo. Per cantare ed esercitarti su iPhone e Android. Pitch con PRO; download gratuito.
 
 **Q: Posso cambiare la tonalità di una canzone su iPhone?**
 
-A: Non con l’app Musica. Con VibeDeck Player puoi cambiare il pitch dei tuoi brani in tempo reale fino a ±8 st. È una funzione Premium.
+A: Non con l’app Musica. Con VibeDeck Player puoi cambiare il pitch dei tuoi brani in tempo reale fino a ±8 st. È una funzione PRO.
 
 **Q: Cambiando tonalità cambia anche il tempo?**
 
@@ -1211,7 +1211,7 @@ A: Sì. Il cambio di tonalità viene elaborato sul dispositivo, senza internet o
 
 **Q: È gratuito?**
 
-A: Il download è gratuito e senza pubblicità, ma il cambio di tonalità fa parte di VibeDeck Premium. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). I prezzi locali e quelli iOS sono indicati nei rispettivi store.
+A: Il download è gratuito e senza pubblicità, ma il cambio di tonalità fa parte di VibeDeck PRO. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). I prezzi locali e quelli iOS sono indicati nei rispettivi store.
 
 **Q: Funziona anche su Android?**
 
@@ -1222,11 +1222,11 @@ A: Sì. Pitch e tempo si regolano anche nella versione Android. Studio, per crea
 URL: https://vibedeckplayer.app/it/lettore-flac/
 Language: it
 
-Ascolta i tuoi FLAC senza conversioni e offline su iPhone, iPad e Android. Equalizzatore, limiter, pitch e tempo con Premium. Senza pubblicità o account.
+Ascolta i tuoi FLAC senza conversioni e offline su iPhone, iPad e Android. Equalizzatore, limiter, pitch e tempo con PRO. Senza pubblicità o account.
 
 **Q: L’iPhone può riprodurre file FLAC?**
 
-A: Sì. Con VibeDeck Player puoi importare e ascoltare i tuoi FLAC offline. I controlli audio avanzati fanno parte di Premium.
+A: Sì. Con VibeDeck Player puoi importare e ascoltare i tuoi FLAC offline. I controlli audio avanzati fanno parte di PRO.
 
 **Q: Devo convertire i FLAC in MP3?**
 
@@ -1238,7 +1238,7 @@ A: Sì. I file FLAC, WAV e MP3 salvati sul dispositivo si riproducono senza Wi-F
 
 **Q: C’è un equalizzatore per i FLAC?**
 
-A: Sì, con Premium: gain, bass boost, filtro, bilanciamento stereo e limiter, applicati in tempo reale.
+A: Sì, con PRO: gain, bass boost, filtro, bilanciamento stereo e limiter, applicati in tempo reale.
 
 **Q: Funziona su Android?**
 
@@ -1246,18 +1246,18 @@ A: Sì. VibeDeck Player è disponibile su Google Play e riproduce FLAC, WAV e MP
 
 **Q: È gratuito?**
 
-A: Il download è gratuito e senza pubblicità. Premium è un acquisto in-app facoltativo. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). Gli store mostrano il prezzo locale.
+A: Il download è gratuito e senza pubblicità. PRO è un acquisto in-app facoltativo. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). Gli store mostrano il prezzo locale.
 
 ## Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck
 
 URL: https://vibedeckplayer.app/it/lettore-mp3-senza-pub/
 Language: it
 
-Lettore MP3 gratuito senza pubblicità, account o tracciamento per iPhone e Android. Riproduzione offline; equalizzatore, pitch e tempo con Premium.
+Lettore MP3 gratuito senza pubblicità, account o tracciamento per iPhone e Android. Riproduzione offline; equalizzatore, pitch e tempo con PRO.
 
 **Q: Non ci sono davvero pubblicità?**
 
-A: Nessuna. VibeDeck Player non mostra banner, video o pop-up pubblicitari. La versione gratuita è sostenuta dall’opzione Premium, non dalla pubblicità.
+A: Nessuna. VibeDeck Player non mostra banner, video o pop-up pubblicitari. La versione gratuita è sostenuta dall’opzione PRO, non dalla pubblicità.
 
 **Q: Posso ascoltare i miei MP3 offline?**
 
@@ -1277,7 +1277,7 @@ A: Sì. Su App Store per iPhone e iPad e su Google Play per Android.
 
 **Q: È gratuito?**
 
-A: L’app è gratuita e senza pubblicità. Premium sblocca il motore audio completo. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). Gli store mostrano il prezzo locale.
+A: L’app è gratuita e senza pubblicità. PRO sblocca il motore audio completo. Su Google Play (Android): $1.99 al mese, $14.99 all’anno o $19.99 a vita (USD). Gli store mostrano il prezzo locale.
 
 ## Rallentare una canzone senza cambiare tonalità | VibeDeck
 
@@ -1350,7 +1350,7 @@ A: Sí. Las canciones se reproducen desde los archivos de tu teléfono, así que
 
 **Q: ¿Tiene anuncios?**
 
-A: No. Ni la versión gratuita ni Premium muestran anuncios, y no necesitas crear una cuenta.
+A: No. Ni la versión gratuita ni PRO muestran anuncios, y no necesitas crear una cuenta.
 
 **Q: ¿Puedo reproducir archivos FLAC en iPhone y Android?**
 
@@ -1366,7 +1366,7 @@ A: Por ahora la interfaz de la app está en inglés.
 
 **Q: ¿Cuánto cuesta?**
 
-A: La descarga es gratis y sin anuncios. Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Los planes y el precio de Premium aparecen en el App Store o en Google Play de tu país. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
+A: La descarga es gratis y sin anuncios. Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Los planes y el precio de PRO aparecen en el App Store o en Google Play de tu país. En Google Play (Android), PRO cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
 
 **Q: ¿Necesito crear una cuenta?**
 
@@ -1374,11 +1374,11 @@ A: No. No hay registro ni inicio de sesión. Importas tus archivos una vez y la 
 
 **Q: ¿Cómo cambio el tono de una canción?**
 
-A: Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 st, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck Premium.
+A: Abre la canción y mueve el control Pitch / Filter de la pantalla principal. El tono cambia en tiempo real hasta ±8 st, el tempo se ajusta por separado y Reset devuelve la canción a su tono original. El archivo nunca se modifica. Tono y filtro forman parte de VibeDeck PRO.
 
-**Q: ¿Qué incluye VibeDeck Premium?**
+**Q: ¿Qué incluye VibeDeck PRO?**
 
-A: Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
+A: Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida. En Google Play (Android), PRO cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
 
 ## Reproductor FLAC para iPhone y Android | VibeDeck
 
@@ -1409,7 +1409,7 @@ A: Sí. VibeDeck Player está en Google Play y reproduce FLAC, WAV y MP3 sin con
 
 **Q: ¿Es gratis?**
 
-A: La descarga es gratis y sin anuncios. Premium es una compra opcional dentro de la app; el App Store o Google Play muestran el precio de tu país. En Google Play (Android), Premium cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
+A: La descarga es gratis y sin anuncios. PRO es una compra opcional dentro de la app; el App Store o Google Play muestran el precio de tu país. En Google Play (Android), PRO cuesta $1.99 al mes, $14.99 al año o $19.99 de por vida (USD).
 
 ## Reproductor MP3 sin anuncios y sin conexión | VibeDeck
 
@@ -1420,7 +1420,7 @@ Reproductor MP3 gratis, sin anuncios, sin cuenta y sin rastreo para iPhone y And
 
 **Q: ¿De verdad no tiene anuncios?**
 
-A: Sí. VibeDeck Player no muestra banners, videos ni ventanas emergentes. La versión gratuita se financia con una mejora Premium opcional, no con publicidad.
+A: Sí. VibeDeck Player no muestra banners, videos ni ventanas emergentes. La versión gratuita se financia con una mejora PRO opcional, no con publicidad.
 
 **Q: ¿Puedo escuchar mis MP3 sin conexión?**
 
@@ -1440,7 +1440,7 @@ A: Sí. Está en el App Store para iPhone y iPad, y en Google Play para Android.
 
 **Q: ¿Es gratis?**
 
-A: La app es gratis y sin anuncios. Premium desbloquea el motor de sonido completo; el precio aparece en la tienda de tu país.
+A: La app es gratis y sin anuncios. PRO desbloquea el motor de sonido completo; el precio aparece en la tienda de tu país.
 
 ## Ralentizar una canción sin cambiar el tono | VibeDeck
 
@@ -1513,7 +1513,7 @@ A: Sim. As músicas tocam a partir dos arquivos do seu celular, então você nã
 
 **Q: Tem anúncios?**
 
-A: Não. Nem a versão gratuita nem a Premium têm anúncios, e você não precisa criar conta.
+A: Não. Nem a versão gratuita nem a PRO têm anúncios, e você não precisa criar conta.
 
 **Q: Toca arquivos FLAC no Android e no iPhone?**
 
@@ -1529,7 +1529,7 @@ A: Por enquanto a interface do app está em inglês.
 
 **Q: Quanto custa?**
 
-A: O download é grátis e sem anúncios. Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Os planos e o preço do Premium aparecem no Google Play ou na App Store do seu país. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
+A: O download é grátis e sem anúncios. Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Os planos e o preço do PRO aparecem no Google Play ou na App Store do seu país. No Google Play (Android), o PRO custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
 
 **Q: Preciso criar uma conta?**
 
@@ -1537,11 +1537,11 @@ A: Não. Não há cadastro nem login. Você importa seus arquivos uma vez e a re
 
 **Q: Como mudo o tom de uma música?**
 
-A: Abra a faixa e arraste o controle Pitch / Filter na tela principal. O tom muda em tempo real em até ±8 st, o andamento é ajustado separadamente e o Reset volta a música ao tom original. O arquivo nunca é alterado. Tom e filtro fazem parte do VibeDeck Premium.
+A: Abra a faixa e arraste o controle Pitch / Filter na tela principal. O tom muda em tempo real em até ±8 st, o andamento é ajustado separadamente e o Reset volta a música ao tom original. O arquivo nunca é alterado. Tom e filtro fazem parte do VibeDeck PRO.
 
-**Q: O que vem no VibeDeck Premium?**
+**Q: O que vem no VibeDeck PRO?**
 
-A: Todo o motor de som: tom e filtro, equalizador com ganho, limitador, VibeMod, TONE, AURA e Smart Metadata. Você escolhe entre plano mensal, anual ou pagamento único vitalício. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
+A: Todo o motor de som: tom e filtro, equalizador com ganho, limitador, VibeMod, TONE, AURA e Smart Metadata. Você escolhe entre plano mensal, anual ou pagamento único vitalício. No Google Play (Android), o PRO custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
 
 ## Player de música offline para Android | VibeDeck
 
@@ -1568,7 +1568,7 @@ A: Não. Não há cadastro nem login.
 
 **Q: É grátis no Android?**
 
-A: O player offline básico é grátis e sem anúncios. O Premium é uma compra opcional no app; o Google Play mostra o preço do seu país. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
+A: O player offline básico é grátis e sem anúncios. O PRO é uma compra opcional no app; o Google Play mostra o preço do seu país. No Google Play (Android), o PRO custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
 
 ## Player FLAC para Android, sem anúncios | VibeDeck
 
@@ -1583,7 +1583,7 @@ A: Sim. O Android aceita FLAC, e o VibeDeck Player acrescenta o que falta nos pl
 
 **Q: Existe player FLAC para Android sem anúncios?**
 
-A: Sim. O VibeDeck Player não tem anúncios nem na versão gratuita nem no Premium, e não pede conta.
+A: Sim. O VibeDeck Player não tem anúncios nem na versão gratuita nem no PRO, e não pede conta.
 
 **Q: Funciona offline?**
 
@@ -1595,7 +1595,7 @@ A: Sim. Equalizador com ganho, reforço de graves, filtro, balanço estéreo e l
 
 **Q: Quanto custa no Android?**
 
-A: O download é grátis. O VibeDeck Premium é uma compra opcional no app; o Google Play mostra o preço atual do seu país. No Google Play (Android), o Premium custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
+A: O download é grátis. O VibeDeck PRO é uma compra opcional no app; o Google Play mostra o preço atual do seu país. No Google Play (Android), o PRO custa $1.99 por mês, $14.99 por ano ou $19.99 vitalício (USD).
 
 ## Desacelerar música sem mudar o tom | VibeDeck
 
@@ -1672,7 +1672,7 @@ A: はい。曲は端末内のファイルから再生するため、再生に�
 
 **Q: 広告はありますか？**
 
-A: ありません。無料版にもPremiumにも広告はなく、アカウント登録も不要です。
+A: ありません。無料版にもPROにも広告はなく、アカウント登録も不要です。
 
 **Q: ストリーミングアプリの曲も再生できますか？**
 
@@ -1692,11 +1692,11 @@ A: いいえ。登録もログインも不要です。ファイルを一度読�
 
 **Q: 曲のキーを変えるには？**
 
-A: 曲を開き、メイン画面のPitch / Filterスライダーを動かします。キーは±8 stの範囲でリアルタイムに変わり、テンポは別に調整できます。Resetで元のキーに戻ります。元のファイルは変更されません。ピッチとフィルターはVibeDeck Premiumの機能です。
+A: 曲を開き、メイン画面のPitch / Filterスライダーを動かします。キーは±8 stの範囲でリアルタイムに変わり、テンポは別に調整できます。Resetで元のキーに戻ります。元のファイルは変更されません。ピッチとフィルターはVibeDeck PROの機能です。
 
-**Q: VibeDeck Premiumでは何が使えますか？**
+**Q: VibeDeck PROでは何が使えますか？**
 
-A: ピッチとフィルター、ゲイン付きEQ、リミッター、VibeMod、TONE、AURA、スマートメタデータなど、すべてのサウンド機能です。月額、年額、買い切りから選べます。 Google Play（Android）のPremiumは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
+A: ピッチとフィルター、ゲイン付きEQ、リミッター、VibeMod、TONE、AURA、スマートメタデータなど、すべてのサウンド機能です。月額、年額、買い切りから選べます。 Google Play（Android）のPROは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
 
 ## 曲のキー変更アプリ｜半音単位で移調・テンポはそのまま｜VibeDeck
 
@@ -1723,7 +1723,7 @@ A: はい。キー変更は端末内で処理されるため、ネット接続�
 
 **Q: 無料で使えますか？**
 
-A: ダウンロードは無料で広告もありませんが、キー変更はVibeDeck Premiumの機能です。プランと価格はApp Store・Google Playで確認できます。 Google Play（Android）のPremiumは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
+A: ダウンロードは無料で広告もありませんが、キー変更はVibeDeck PROの機能です。プランと価格はApp Store・Google Playで確認できます。 Google Play（Android）のPROは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
 
 **Q: Androidでも使えますか？**
 
@@ -1758,7 +1758,7 @@ A: はい。テンポとピッチは独立しているので、遅くしなが�
 
 **Q: 無料で使えますか？**
 
-A: ダウンロードは無料で広告もありませんが、テンポとピッチの調整はVibeDeck Premiumの機能です。プランと価格はApp Store・Google Playで確認できます。 Google Play（Android）のPremiumは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
+A: ダウンロードは無料で広告もありませんが、テンポとピッチの調整はVibeDeck PROの機能です。プランと価格はApp Store・Google Playで確認できます。 Google Play（Android）のPROは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
 
 ## iPhone・AndroidのFLACプレーヤー｜オフライン・広告なし｜VibeDeck
 
@@ -1789,7 +1789,7 @@ A: はい。Google Play版のVibeDeck Playerでも、FLAC・WAV・MP3をオフ�
 
 **Q: 無料ですか？**
 
-A: プレーヤー本体は無料で広告もありません。サウンドエンジン全体はVibeDeck Premiumで使えます。価格はApp Store・Google Playで確認できます。 Google Play（Android）のPremiumは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
+A: プレーヤー本体は無料で広告もありません。サウンドエンジン全体はVibeDeck PROで使えます。価格はApp Store・Google Playで確認できます。 Google Play（Android）のPROは月額$1.99、年額$14.99、買い切り$19.99です（米ドル）。
 
 ## iPhone・Androidで内部音声を録音する方法 | VibeDeck
 
@@ -1835,7 +1835,7 @@ A: Да. Треки играют из файлов на вашем телефо�
 
 **Q: Есть реклама?**
 
-A: Нет. Рекламы нет ни в бесплатной версии, ни в Premium, и аккаунт не нужен.
+A: Нет. Рекламы нет ни в бесплатной версии, ни в PRO, и аккаунт не нужен.
 
 **Q: Можно слушать FLAC на iPhone и Android?**
 
@@ -1851,7 +1851,7 @@ A: Пока интерфейс приложения на английском.
 
 **Q: Сколько это стоит?**
 
-A: Скачать можно бесплатно, рекламы нет. Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Тарифы и цена Premium указаны в App Store или Google Play вашей страны. В Google Play (Android) Premium стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
+A: Скачать можно бесплатно, рекламы нет. Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Тарифы и цена PRO указаны в App Store или Google Play вашей страны. В Google Play (Android) PRO стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
 
 **Q: Нужно ли создавать аккаунт?**
 
@@ -1859,11 +1859,11 @@ A: Нет. Ни регистрации, ни входа. Вы один раз з
 
 **Q: Как поменять тональность трека?**
 
-A: Откройте трек и сдвиньте регулятор Pitch / Filter на главном экране. Тональность меняется в реальном времени в пределах ±8 полутонов, темп настраивается отдельно, а кнопка Reset возвращает исходную тональность. Сам файл не меняется. Высота тона и фильтр входят в VibeDeck Premium.
+A: Откройте трек и сдвиньте регулятор Pitch / Filter на главном экране. Тональность меняется в реальном времени в пределах ±8 полутонов, темп настраивается отдельно, а кнопка Reset возвращает исходную тональность. Сам файл не меняется. Высота тона и фильтр входят в VibeDeck PRO.
 
-**Q: Что входит в VibeDeck Premium?**
+**Q: Что входит в VibeDeck PRO?**
 
-A: Весь звуковой движок: высота тона и фильтр, эквалайзер с усилением, лимитер, VibeMod, TONE, AURA и Smart Metadata. Платить можно помесячно, за год или один раз навсегда. В Google Play (Android) Premium стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
+A: Весь звуковой движок: высота тона и фильтр, эквалайзер с усилением, лимитер, VibeMod, TONE, AURA и Smart Metadata. Платить можно помесячно, за год или один раз навсегда. В Google Play (Android) PRO стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
 
 ## Как сменить тональность песни на iPhone | VibeDeck
 
@@ -1890,7 +1890,7 @@ A: Да. Тональность пересчитывается на самом �
 
 **Q: Это бесплатно?**
 
-A: Скачать можно бесплатно, рекламы нет, но смена тональности входит в VibeDeck Premium. Тарифы и цены указаны в App Store и Google Play. В Google Play (Android) Premium стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
+A: Скачать можно бесплатно, рекламы нет, но смена тональности входит в VibeDeck PRO. Тарифы и цены указаны в App Store и Google Play. В Google Play (Android) PRO стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
 
 **Q: А на Android?**
 
@@ -1925,7 +1925,7 @@ A: Да. VibeDeck Player есть в Google Play и играет FLAC, WAV и MP
 
 **Q: Это бесплатно?**
 
-A: Скачать можно бесплатно, рекламы нет. Premium покупается внутри приложения по желанию, а App Store или Google Play покажут цену для вашей страны. В Google Play (Android) Premium стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
+A: Скачать можно бесплатно, рекламы нет. PRO покупается внутри приложения по желанию, а App Store или Google Play покажут цену для вашей страны. В Google Play (Android) PRO стоит $1.99 в месяц, $14.99 в год или $19.99 навсегда (USD).
 
 ## Бесплатный MP3-плеер без рекламы и интернета | VibeDeck
 
@@ -1936,7 +1936,7 @@ Language: ru
 
 **Q: Рекламы правда совсем нет?**
 
-A: Совсем. VibeDeck Player не показывает ни баннеров, ни видео, ни всплывающих окон. Бесплатную версию оплачивает Premium, а не реклама.
+A: Совсем. VibeDeck Player не показывает ни баннеров, ни видео, ни всплывающих окон. Бесплатную версию оплачивает PRO, а не реклама.
 
 **Q: Можно слушать MP3 без интернета?**
 
@@ -1956,7 +1956,7 @@ A: Да. В App Store для iPhone и iPad и в Google Play для Android.
 
 **Q: Это бесплатно?**
 
-A: Приложение бесплатное и без рекламы. Premium открывает весь звуковой движок, цена указана в магазине вашей страны.
+A: Приложение бесплатное и без рекламы. PRO открывает весь звуковой движок, цена указана в магазине вашей страны.
 
 ## Как замедлить песню без изменения тональности | VibeDeck
 
@@ -2029,7 +2029,7 @@ A: 네. 휴대폰에 저장된 파일을 재생하므로 듣는 데 인터넷이
 
 **Q: 광고가 있나요?**
 
-A: 아니요. 무료 버전에도 Premium에도 광고가 없고, 계정도 필요 없습니다.
+A: 아니요. 무료 버전에도 PRO에도 광고가 없고, 계정도 필요 없습니다.
 
 **Q: iPhone과 Android에서 FLAC를 들을 수 있나요?**
 
@@ -2045,7 +2045,7 @@ A: 현재 앱 화면은 영어로 되어 있습니다.
 
 **Q: 가격은 얼마인가요?**
 
-A: 다운로드는 무료이고 광고가 없습니다. 모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. Premium 요금제와 가격은 내 나라의 App Store나 Google Play에 표시됩니다. Google Play(Android)에서 Premium은 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
+A: 다운로드는 무료이고 광고가 없습니다. 모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. PRO 요금제와 가격은 내 나라의 App Store나 Google Play에 표시됩니다. Google Play(Android)에서 PRO는 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
 
 **Q: 계정을 만들어야 하나요?**
 
@@ -2053,11 +2053,11 @@ A: 아니요. 가입도 로그인도 없습니다. 파일을 한 번 가져오�
 
 **Q: 곡의 키는 어떻게 바꾸나요?**
 
-A: 곡을 열고 메인 화면의 Pitch / Filter 컨트롤을 움직이세요. 키가 ±8 반음 범위에서 실시간으로 바뀌고, 템포는 따로 조절하며, Reset을 누르면 원래 키로 돌아갑니다. 파일 자체는 바뀌지 않습니다. 피치와 필터는 VibeDeck Premium 기능입니다.
+A: 곡을 열고 메인 화면의 Pitch / Filter 컨트롤을 움직이세요. 키가 ±8 반음 범위에서 실시간으로 바뀌고, 템포는 따로 조절하며, Reset을 누르면 원래 키로 돌아갑니다. 파일 자체는 바뀌지 않습니다. 피치와 필터는 VibeDeck PRO 기능입니다.
 
-**Q: VibeDeck Premium에는 무엇이 포함되나요?**
+**Q: VibeDeck PRO에는 무엇이 포함되나요?**
 
-A: 사운드 엔진 전체입니다. 피치와 필터, 게인 이퀄라이저, 리미터, VibeMod, TONE, AURA, Smart Metadata가 포함됩니다. 월간, 연간 또는 한 번 결제로 평생 이용할 수 있습니다. Google Play(Android)에서 Premium은 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
+A: 사운드 엔진 전체입니다. 피치와 필터, 게인 이퀄라이저, 리미터, VibeMod, TONE, AURA, Smart Metadata가 포함됩니다. 월간, 연간 또는 한 번 결제로 평생 이용할 수 있습니다. Google Play(Android)에서 PRO는 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
 
 ## iPhone에서 노래 키 바꾸는 법 | VibeDeck
 
@@ -2084,7 +2084,7 @@ A: 네. 키 변경은 기기에서 직접 계산되며 인터넷이나 파일 �
 
 **Q: 무료인가요?**
 
-A: 다운로드는 무료이고 광고가 없지만, 키 변경은 VibeDeck Premium 기능입니다. 요금제와 가격은 App Store와 Google Play에서 확인할 수 있습니다. Google Play(Android)에서 Premium은 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
+A: 다운로드는 무료이고 광고가 없지만, 키 변경은 VibeDeck PRO 기능입니다. 요금제와 가격은 App Store와 Google Play에서 확인할 수 있습니다. Google Play(Android)에서 PRO는 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
 
 **Q: Android에서는요?**
 
@@ -2119,7 +2119,7 @@ A: 네. VibeDeck Player는 Google Play에 있으며 FLAC, WAV, MP3를 오프라�
 
 **Q: 무료인가요?**
 
-A: 다운로드는 무료이고 광고가 없습니다. Premium은 선택 사항인 인앱 구매이며, App Store나 Google Play에 내 나라 가격이 표시됩니다. Google Play(Android)에서 Premium은 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
+A: 다운로드는 무료이고 광고가 없습니다. PRO는 선택 사항인 인앱 구매이며, App Store나 Google Play에 내 나라 가격이 표시됩니다. Google Play(Android)에서 PRO는 월 $1.99, 연 $14.99, 평생 $19.99(USD)입니다.
 
 ## 광고 없는 무료 오프라인 MP3 플레이어 | VibeDeck
 
@@ -2130,7 +2130,7 @@ iPhone과 Android용 무료 MP3 플레이어. 광고, 계정, 추적 없이 내 
 
 **Q: 정말 광고가 하나도 없나요?**
 
-A: 하나도 없습니다. VibeDeck Player는 배너, 동영상, 팝업을 띄우지 않습니다. 무료 버전은 광고가 아니라 Premium으로 유지됩니다.
+A: 하나도 없습니다. VibeDeck Player는 배너, 동영상, 팝업을 띄우지 않습니다. 무료 버전은 광고가 아니라 PRO로 유지됩니다.
 
 **Q: MP3를 오프라인으로 들을 수 있나요?**
 
@@ -2150,7 +2150,7 @@ A: 네. iPhone과 iPad는 App Store에서, Android는 Google Play에서 받을 �
 
 **Q: 무료인가요?**
 
-A: 앱은 무료이고 광고가 없습니다. Premium은 사운드 엔진 전체를 열어 주며, 가격은 내 나라의 스토어에 표시됩니다.
+A: 앱은 무료이고 광고가 없습니다. PRO는 사운드 엔진 전체를 열어 주며, 가격은 내 나라의 스토어에 표시됩니다.
 
 ## 음정 그대로 노래 속도 늦추기 | VibeDeck
 
@@ -2223,7 +2223,7 @@ A: Evet. Şarkılar telefonundaki dosyalardan çalınır; dinlemek için interne
 
 **Q: Reklam var mı?**
 
-A: Hayır. Ne ücretsiz sürümde ne de Premium’da reklam var ve hesap da gerekmiyor.
+A: Hayır. Ne ücretsiz sürümde ne de PRO’da reklam var ve hesap da gerekmiyor.
 
 **Q: iPhone ve Android’de FLAC dinlenebilir mi?**
 
@@ -2239,7 +2239,7 @@ A: Uygulamanın arayüzü şimdilik İngilizce.
 
 **Q: Ne kadar?**
 
-A: İndirmesi ücretsiz ve reklamsız. Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Premium paketleri ve fiyatı, ülkendeki App Store ya da Google Play’de görünür. Google Play’de (Android) Premium aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
+A: İndirmesi ücretsiz ve reklamsız. Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. PRO paketleri ve fiyatı, ülkendeki App Store ya da Google Play’de görünür. Google Play’de (Android) PRO aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
 
 **Q: Hesap açmam gerekir mi?**
 
@@ -2247,11 +2247,11 @@ A: Hayır. Kayıt da giriş de yok. Dosyalarını bir kez içe aktarırsın, son
 
 **Q: Bir şarkının tonunu nasıl değiştiririm?**
 
-A: Şarkıyı aç ve ana ekrandaki Pitch / Filter kontrolünü kaydır. Ton ±8 yarım tona kadar gerçek zamanlı değişir, tempo ayrı ayarlanır ve Reset orijinal tona döndürür. Dosyanın kendisi hiç değişmez. Ton ve filtre VibeDeck Premium’un parçası.
+A: Şarkıyı aç ve ana ekrandaki Pitch / Filter kontrolünü kaydır. Ton ±8 yarım tona kadar gerçek zamanlı değişir, tempo ayrı ayarlanır ve Reset orijinal tona döndürür. Dosyanın kendisi hiç değişmez. Ton ve filtre VibeDeck PRO’nun parçası.
 
-**Q: VibeDeck Premium’da neler var?**
+**Q: VibeDeck PRO’da neler var?**
 
-A: Tüm ses motoru: ton ve filtre, kazançlı ekolayzer, limiter, VibeMod, TONE, AURA ve Smart Metadata. Aylık, yıllık ya da tek seferde ömür boyu ödeyebilirsin. Google Play’de (Android) Premium aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
+A: Tüm ses motoru: ton ve filtre, kazançlı ekolayzer, limiter, VibeMod, TONE, AURA ve Smart Metadata. Aylık, yıllık ya da tek seferde ömür boyu ödeyebilirsin. Google Play’de (Android) PRO aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
 
 ## iPhone’da şarkının tonunu değiştirme | VibeDeck
 
@@ -2278,7 +2278,7 @@ A: Evet. Ton değişimi cihazın üzerinde hesaplanır; internet ya da dosya yü
 
 **Q: Ücretsiz mi?**
 
-A: İndirmesi ücretsiz ve reklamsız, ancak ton değiştirme VibeDeck Premium’a dahil. Paketler ve fiyatlar App Store ile Google Play’de yazıyor. Google Play’de (Android) Premium aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
+A: İndirmesi ücretsiz ve reklamsız, ancak ton değiştirme VibeDeck PRO’ya dahil. Paketler ve fiyatlar App Store ile Google Play’de yazıyor. Google Play’de (Android) PRO aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
 
 **Q: Android’de durum ne?**
 
@@ -2313,7 +2313,7 @@ A: Evet. VibeDeck Player Google Play’de ve FLAC, WAV ile MP3’ü çevrimdış
 
 **Q: Ücretsiz mi?**
 
-A: İndirmesi ücretsiz ve reklamsız. Premium isteğe bağlı bir uygulama içi satın alma; App Store ya da Google Play ülkendeki fiyatı gösterir. Google Play’de (Android) Premium aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
+A: İndirmesi ücretsiz ve reklamsız. PRO isteğe bağlı bir uygulama içi satın alma; App Store ya da Google Play ülkendeki fiyatı gösterir. Google Play’de (Android) PRO aylık $1.99, yıllık $14.99 veya ömür boyu $19.99 (USD).
 
 ## Ücretsiz, çevrimdışı ve reklamsız MP3 çalar | VibeDeck
 
@@ -2324,7 +2324,7 @@ iPhone ve Android için reklamsız, hesapsız ve takipsiz ücretsiz MP3 çalar. 
 
 **Q: Gerçekten hiç reklam yok mu?**
 
-A: Hiç yok. VibeDeck Player banner, video ya da açılır pencere göstermez. Ücretsiz sürümü reklamlar değil, Premium ayakta tutar.
+A: Hiç yok. VibeDeck Player banner, video ya da açılır pencere göstermez. Ücretsiz sürümü reklamlar değil, PRO ayakta tutar.
 
 **Q: MP3’lerimi çevrimdışı dinleyebilir miyim?**
 
@@ -2344,7 +2344,7 @@ A: Evet. iPhone ve iPad için App Store’da, Android için Google Play’de.
 
 **Q: Ücretsiz mi?**
 
-A: Uygulama ücretsiz ve reklamsız. Premium tüm ses motorunun kilidini açar; fiyat ülkendeki mağazada görünür.
+A: Uygulama ücretsiz ve reklamsız. PRO tüm ses motorunun kilidini açar; fiyat ülkendeki mağazada görünür.
 
 ## Şarkıyı tonunu bozmadan yavaşlatma | VibeDeck
 
@@ -2417,7 +2417,7 @@ A: Bisa. Lagu diputar dari file di ponselmu, jadi tidak perlu internet untuk men
 
 **Q: Apakah ada iklan?**
 
-A: Tidak. Versi gratis maupun Premium tidak menampilkan iklan, dan kamu tidak perlu akun.
+A: Tidak. Versi gratis maupun PRO tidak menampilkan iklan, dan kamu tidak perlu akun.
 
 **Q: Bisakah memutar FLAC di iPhone dan Android?**
 
@@ -2433,7 +2433,7 @@ A: Saat ini tampilan aplikasinya masih berbahasa Inggris.
 
 **Q: Berapa harganya?**
 
-A: Unduhannya gratis dan tanpa iklan. Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Paket dan harga Premium tampil di App Store atau Google Play negaramu. Di Google Play (Android), Premium seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
+A: Unduhannya gratis dan tanpa iklan. Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Paket dan harga PRO tampil di App Store atau Google Play negaramu. Di Google Play (Android), PRO seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
 
 **Q: Apakah harus membuat akun?**
 
@@ -2441,11 +2441,11 @@ A: Tidak. Tidak ada pendaftaran atau login. Kamu cukup mengimpor file sekali, la
 
 **Q: Bagaimana cara mengubah nada sebuah lagu?**
 
-A: Buka lagunya dan geser kontrol Pitch / Filter di layar utama. Nada berubah secara real time hingga ±8 semitone, tempo diatur terpisah, dan Reset mengembalikan nada asli. File aslinya tidak pernah diubah. Nada dan filter termasuk dalam VibeDeck Premium.
+A: Buka lagunya dan geser kontrol Pitch / Filter di layar utama. Nada berubah secara real time hingga ±8 semitone, tempo diatur terpisah, dan Reset mengembalikan nada asli. File aslinya tidak pernah diubah. Nada dan filter termasuk dalam VibeDeck PRO.
 
-**Q: Apa saja isi VibeDeck Premium?**
+**Q: Apa saja isi VibeDeck PRO?**
 
-A: Seluruh mesin suara: nada dan filter, equalizer dengan gain, limiter, VibeMod, TONE, AURA, dan Smart Metadata. Kamu bisa bayar bulanan, tahunan, atau sekali untuk seumur hidup. Di Google Play (Android), Premium seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
+A: Seluruh mesin suara: nada dan filter, equalizer dengan gain, limiter, VibeMod, TONE, AURA, dan Smart Metadata. Kamu bisa bayar bulanan, tahunan, atau sekali untuk seumur hidup. Di Google Play (Android), PRO seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
 
 ## Cara mengubah nada lagu di iPhone | VibeDeck
 
@@ -2472,7 +2472,7 @@ A: Bisa. Perubahan nada dihitung langsung di perangkat, tanpa internet dan tanpa
 
 **Q: Apakah gratis?**
 
-A: Unduhannya gratis dan tanpa iklan, tetapi pengubah nada termasuk dalam VibeDeck Premium. Paket dan harga tercantum di App Store dan Google Play. Di Google Play (Android), Premium seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
+A: Unduhannya gratis dan tanpa iklan, tetapi pengubah nada termasuk dalam VibeDeck PRO. Paket dan harga tercantum di App Store dan Google Play. Di Google Play (Android), PRO seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
 
 **Q: Bagaimana dengan Android?**
 
@@ -2507,7 +2507,7 @@ A: Bisa. VibeDeck Player ada di Google Play dan memutar FLAC, WAV, dan MP3 secar
 
 **Q: Apakah gratis?**
 
-A: Unduhannya gratis dan tanpa iklan. Premium adalah pembelian dalam aplikasi yang opsional; App Store atau Google Play menampilkan harga untuk negaramu. Di Google Play (Android), Premium seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
+A: Unduhannya gratis dan tanpa iklan. PRO adalah pembelian dalam aplikasi yang opsional; App Store atau Google Play menampilkan harga untuk negaramu. Di Google Play (Android), PRO seharga $1.99 per bulan, $14.99 per tahun, atau $19.99 seumur hidup (USD).
 
 ## Pemutar MP3 gratis, offline, tanpa iklan | VibeDeck
 
@@ -2518,7 +2518,7 @@ Pemutar MP3 gratis tanpa iklan, akun, dan pelacakan untuk iPhone dan Android. Fi
 
 **Q: Benar-benar tidak ada iklan?**
 
-A: Tidak ada sama sekali. VibeDeck Player tidak menampilkan banner, video, atau pop-up. Versi gratisnya dibiayai oleh Premium, bukan oleh iklan.
+A: Tidak ada sama sekali. VibeDeck Player tidak menampilkan banner, video, atau pop-up. Versi gratisnya dibiayai oleh PRO, bukan oleh iklan.
 
 **Q: Bisakah mendengarkan MP3 secara offline?**
 
@@ -2538,7 +2538,7 @@ A: Ya. Di App Store untuk iPhone dan iPad, dan di Google Play untuk Android.
 
 **Q: Apakah gratis?**
 
-A: Aplikasinya gratis dan tanpa iklan. Premium membuka seluruh mesin suara; harganya tampil di toko aplikasi negaramu.
+A: Aplikasinya gratis dan tanpa iklan. PRO membuka seluruh mesin suara; harganya tampil di toko aplikasi negaramu.
 
 ## Cara memperlambat lagu tanpa mengubah nada | VibeDeck
 
@@ -2611,7 +2611,7 @@ A: Tak. Utwory są odtwarzane z plików w telefonie, więc do słuchania nie pot
 
 **Q: Czy są reklamy?**
 
-A: Nie. Ani wersja darmowa, ani Premium nie wyświetlają reklam i nie potrzebujesz konta.
+A: Nie. Ani wersja darmowa, ani PRO nie wyświetlają reklam i nie potrzebujesz konta.
 
 **Q: Czy można słuchać FLAC na iPhonie i Androidzie?**
 
@@ -2627,7 +2627,7 @@ A: Na razie interfejs aplikacji jest po angielsku.
 
 **Q: Ile to kosztuje?**
 
-A: Pobranie jest darmowe i bez reklam. Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Plany i cena Premium są widoczne w App Store lub Google Play w Twoim kraju. W Google Play (Android) Premium kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
+A: Pobranie jest darmowe i bez reklam. Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Plany i cena PRO są widoczne w App Store lub Google Play w Twoim kraju. W Google Play (Android) PRO kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
 
 **Q: Czy trzeba zakładać konto?**
 
@@ -2635,11 +2635,11 @@ A: Nie. Bez rejestracji i logowania. Importujesz pliki raz, a potem odtwarzanie,
 
 **Q: Jak zmienić tonację utworu?**
 
-A: Otwórz utwór i przesuń suwak Pitch / Filter na ekranie głównym. Tonacja zmienia się w czasie rzeczywistym w zakresie ±8 półtonów, tempo ustawiasz osobno, a Reset przywraca oryginalną tonację. Sam plik nigdy się nie zmienia. Wysokość dźwięku i filtr są częścią VibeDeck Premium.
+A: Otwórz utwór i przesuń suwak Pitch / Filter na ekranie głównym. Tonacja zmienia się w czasie rzeczywistym w zakresie ±8 półtonów, tempo ustawiasz osobno, a Reset przywraca oryginalną tonację. Sam plik nigdy się nie zmienia. Wysokość dźwięku i filtr są częścią VibeDeck PRO.
 
-**Q: Co zawiera VibeDeck Premium?**
+**Q: Co zawiera VibeDeck PRO?**
 
-A: Cały silnik dźwięku: wysokość dźwięku i filtr, korektor ze wzmocnieniem, limiter, VibeMod, TONE, AURA i Smart Metadata. Możesz płacić co miesiąc, co rok albo raz, dożywotnio. W Google Play (Android) Premium kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
+A: Cały silnik dźwięku: wysokość dźwięku i filtr, korektor ze wzmocnieniem, limiter, VibeMod, TONE, AURA i Smart Metadata. Możesz płacić co miesiąc, co rok albo raz, dożywotnio. W Google Play (Android) PRO kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
 
 ## Jak zmienić tonację piosenki na iPhonie | VibeDeck
 
@@ -2666,7 +2666,7 @@ A: Tak. Zmiana tonacji jest liczona na urządzeniu, bez internetu i bez wysyłan
 
 **Q: Czy to jest darmowe?**
 
-A: Pobranie jest darmowe i bez reklam, ale zmiana tonacji jest częścią VibeDeck Premium. Plany i ceny są podane w App Store i Google Play. W Google Play (Android) Premium kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
+A: Pobranie jest darmowe i bez reklam, ale zmiana tonacji jest częścią VibeDeck PRO. Plany i ceny są podane w App Store i Google Play. W Google Play (Android) PRO kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
 
 **Q: A na Androidzie?**
 
@@ -2701,7 +2701,7 @@ A: Tak. VibeDeck Player jest w Google Play i odtwarza FLAC, WAV i MP3 offline.
 
 **Q: Czy to jest darmowe?**
 
-A: Pobranie jest darmowe i bez reklam. Premium to opcjonalny zakup w aplikacji; App Store lub Google Play pokażą cenę w Twoim kraju. W Google Play (Android) Premium kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
+A: Pobranie jest darmowe i bez reklam. PRO to opcjonalny zakup w aplikacji; App Store lub Google Play pokażą cenę w Twoim kraju. W Google Play (Android) PRO kosztuje $1.99 miesięcznie, $14.99 rocznie albo $19.99 dożywotnio (USD).
 
 ## Darmowy odtwarzacz MP3 offline bez reklam | VibeDeck
 
@@ -2712,7 +2712,7 @@ Darmowy odtwarzacz MP3 bez reklam, konta i śledzenia na iPhone’a i Androida. 
 
 **Q: Naprawdę nie ma żadnych reklam?**
 
-A: Żadnych. VibeDeck Player nie wyświetla banerów, filmów ani wyskakujących okienek. Darmową wersję finansuje Premium, a nie reklamy.
+A: Żadnych. VibeDeck Player nie wyświetla banerów, filmów ani wyskakujących okienek. Darmową wersję finansuje PRO, a nie reklamy.
 
 **Q: Czy mogę słuchać MP3 offline?**
 
@@ -2732,7 +2732,7 @@ A: Tak. W App Store na iPhone’a i iPada oraz w Google Play na Androida.
 
 **Q: Czy to jest darmowe?**
 
-A: Aplikacja jest darmowa i bez reklam. Premium odblokowuje cały silnik dźwięku; cena jest widoczna w sklepie w Twoim kraju.
+A: Aplikacja jest darmowa i bez reklam. PRO odblokowuje cały silnik dźwięku; cena jest widoczna w sklepie w Twoim kraju.
 
 ## Jak zwolnić piosenkę bez zmiany tonacji | VibeDeck
 
@@ -2805,7 +2805,7 @@ A: Ja. Nummers worden afgespeeld vanaf de bestanden op je telefoon, dus je hebt 
 
 **Q: Zijn er advertenties?**
 
-A: Nee. Zowel de gratis versie als Premium tonen geen advertenties, en je hebt geen account nodig.
+A: Nee. Zowel de gratis versie als PRO tonen geen advertenties, en je hebt geen account nodig.
 
 **Q: Kan ik FLAC afspelen op iPhone en Android?**
 
@@ -2821,7 +2821,7 @@ A: De interface van de app is voorlopig in het Engels.
 
 **Q: Wat kost het?**
 
-A: Downloaden is gratis en zonder advertenties. Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. De abonnementen en de prijs van Premium zie je in de App Store of Google Play van jouw land. In Google Play (Android) kost Premium $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
+A: Downloaden is gratis en zonder advertenties. Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. De abonnementen en de prijs van PRO zie je in de App Store of Google Play van jouw land. In Google Play (Android) kost PRO $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
 
 **Q: Moet ik een account aanmaken?**
 
@@ -2829,11 +2829,11 @@ A: Nee. Geen registratie en geen login. Je importeert je bestanden één keer, d
 
 **Q: Hoe verander ik de toonsoort van een nummer?**
 
-A: Open het nummer en verschuif de Pitch / Filter-regelaar op het hoofdscherm. De toonhoogte verandert realtime tot ±8 halve tonen, het tempo stel je apart in en Reset zet de oorspronkelijke toonsoort terug. Het bestand zelf verandert nooit. Toonhoogte en filter horen bij VibeDeck Premium.
+A: Open het nummer en verschuif de Pitch / Filter-regelaar op het hoofdscherm. De toonhoogte verandert realtime tot ±8 halve tonen, het tempo stel je apart in en Reset zet de oorspronkelijke toonsoort terug. Het bestand zelf verandert nooit. Toonhoogte en filter horen bij VibeDeck PRO.
 
-**Q: Wat zit er in VibeDeck Premium?**
+**Q: Wat zit er in VibeDeck PRO?**
 
-A: De hele geluidsengine: toonhoogte en filter, equalizer met gain, limiter, VibeMod, TONE, AURA en Smart Metadata. Je betaalt per maand, per jaar of één keer voor altijd. In Google Play (Android) kost Premium $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
+A: De hele geluidsengine: toonhoogte en filter, equalizer met gain, limiter, VibeMod, TONE, AURA en Smart Metadata. Je betaalt per maand, per jaar of één keer voor altijd. In Google Play (Android) kost PRO $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
 
 ## Toonsoort van een nummer veranderen op iPhone | VibeDeck
 
@@ -2860,7 +2860,7 @@ A: Ja. De toonsoortwijziging wordt op het apparaat zelf berekend, zonder interne
 
 **Q: Is het gratis?**
 
-A: Downloaden is gratis en zonder advertenties, maar toonsoort veranderen hoort bij VibeDeck Premium. De abonnementen en prijzen staan in de App Store en Google Play. In Google Play (Android) kost Premium $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
+A: Downloaden is gratis en zonder advertenties, maar toonsoort veranderen hoort bij VibeDeck PRO. De abonnementen en prijzen staan in de App Store en Google Play. In Google Play (Android) kost PRO $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
 
 **Q: En op Android?**
 
@@ -2895,7 +2895,7 @@ A: Ja. VibeDeck Player staat in Google Play en speelt FLAC, WAV en MP3 offline a
 
 **Q: Is het gratis?**
 
-A: Downloaden is gratis en zonder advertenties. Premium is een optionele in-app-aankoop; de App Store of Google Play toont de prijs voor jouw land. In Google Play (Android) kost Premium $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
+A: Downloaden is gratis en zonder advertenties. PRO is een optionele in-app-aankoop; de App Store of Google Play toont de prijs voor jouw land. In Google Play (Android) kost PRO $1.99 per maand, $14.99 per jaar of $19.99 levenslang (USD).
 
 ## Gratis MP3-speler, offline en zonder ads | VibeDeck
 
@@ -2906,7 +2906,7 @@ Gratis MP3-speler zonder advertenties, account of tracking voor iPhone en Androi
 
 **Q: Echt helemaal geen advertenties?**
 
-A: Helemaal geen. VibeDeck Player toont geen banners, video’s of pop-ups. De gratis versie wordt betaald door Premium, niet door advertenties.
+A: Helemaal geen. VibeDeck Player toont geen banners, video’s of pop-ups. De gratis versie wordt betaald door PRO, niet door advertenties.
 
 **Q: Kan ik mijn MP3’s offline luisteren?**
 
@@ -2926,7 +2926,7 @@ A: Ja. In de App Store voor iPhone en iPad, en op Google Play voor Android.
 
 **Q: Is het gratis?**
 
-A: De app is gratis en zonder advertenties. Premium ontgrendelt de hele geluidsengine; de prijs zie je in de store van jouw land.
+A: De app is gratis en zonder advertenties. PRO ontgrendelt de hele geluidsengine; de prijs zie je in de store van jouw land.
 
 ## Een nummer vertragen zonder toonhoogte | VibeDeck
 
@@ -2999,7 +2999,7 @@ A: Có. Bài hát được phát từ file trong điện thoại nên bạn khô
 
 **Q: Có quảng cáo không?**
 
-A: Không. Cả bản miễn phí lẫn Premium đều không có quảng cáo, và bạn không cần tài khoản.
+A: Không. Cả bản miễn phí lẫn PRO đều không có quảng cáo, và bạn không cần tài khoản.
 
 **Q: Có nghe FLAC được trên iPhone và Android không?**
 
@@ -3015,7 +3015,7 @@ A: Hiện giao diện ứng dụng vẫn bằng tiếng Anh.
 
 **Q: Giá bao nhiêu?**
 
-A: Tải về miễn phí và không quảng cáo. Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Các gói và giá Premium hiển thị trên App Store hoặc Google Play tại quốc gia của bạn. Trên Google Play (Android), Premium có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
+A: Tải về miễn phí và không quảng cáo. Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Các gói và giá PRO hiển thị trên App Store hoặc Google Play tại quốc gia của bạn. Trên Google Play (Android), PRO có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
 
 **Q: Có cần tạo tài khoản không?**
 
@@ -3023,11 +3023,11 @@ A: Không. Không đăng ký, không đăng nhập. Bạn chỉ cần nhập fil
 
 **Q: Làm sao để đổi tone một bài hát?**
 
-A: Mở bài hát và kéo nút Pitch / Filter ở màn hình chính. Tone thay đổi theo thời gian thực tối đa ±8 nửa cung, tempo chỉnh riêng, còn Reset đưa bài về tone gốc. File gốc không bao giờ bị thay đổi. Cao độ và filter thuộc VibeDeck Premium.
+A: Mở bài hát và kéo nút Pitch / Filter ở màn hình chính. Tone thay đổi theo thời gian thực tối đa ±8 nửa cung, tempo chỉnh riêng, còn Reset đưa bài về tone gốc. File gốc không bao giờ bị thay đổi. Cao độ và filter thuộc VibeDeck PRO.
 
-**Q: VibeDeck Premium có gì?**
+**Q: VibeDeck PRO có gì?**
 
-A: Toàn bộ bộ máy âm thanh: cao độ và filter, equalizer có gain, limiter, VibeMod, TONE, AURA và Smart Metadata. Bạn có thể trả theo tháng, theo năm hoặc một lần trọn đời. Trên Google Play (Android), Premium có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
+A: Toàn bộ bộ máy âm thanh: cao độ và filter, equalizer có gain, limiter, VibeMod, TONE, AURA và Smart Metadata. Bạn có thể trả theo tháng, theo năm hoặc một lần trọn đời. Trên Google Play (Android), PRO có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
 
 ## Cách đổi tone bài hát trên iPhone | VibeDeck
 
@@ -3054,7 +3054,7 @@ A: Có. Việc đổi tone được tính ngay trên thiết bị, không cần 
 
 **Q: Có miễn phí không?**
 
-A: Tải về miễn phí và không quảng cáo, nhưng đổi tone thuộc VibeDeck Premium. Các gói và giá có trên App Store và Google Play. Trên Google Play (Android), Premium có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
+A: Tải về miễn phí và không quảng cáo, nhưng đổi tone thuộc VibeDeck PRO. Các gói và giá có trên App Store và Google Play. Trên Google Play (Android), PRO có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
 
 **Q: Còn trên Android thì sao?**
 
@@ -3089,7 +3089,7 @@ A: Có. VibeDeck Player có trên Google Play và phát FLAC, WAV và MP3 offlin
 
 **Q: Có miễn phí không?**
 
-A: Tải về miễn phí và không quảng cáo. Premium là gói mua trong ứng dụng không bắt buộc; App Store hoặc Google Play sẽ hiển thị giá tại quốc gia của bạn. Trên Google Play (Android), Premium có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
+A: Tải về miễn phí và không quảng cáo. PRO là gói mua trong ứng dụng không bắt buộc; App Store hoặc Google Play sẽ hiển thị giá tại quốc gia của bạn. Trên Google Play (Android), PRO có giá $1.99 mỗi tháng, $14.99 mỗi năm hoặc $19.99 trọn đời (USD).
 
 ## Trình phát MP3 miễn phí, offline, không quảng cáo | VibeDeck
 
@@ -3100,7 +3100,7 @@ Trình phát MP3 miễn phí không quảng cáo, không tài khoản, không th
 
 **Q: Thật sự không có quảng cáo nào?**
 
-A: Không có. VibeDeck Player không hiển thị banner, video hay pop-up. Bản miễn phí được duy trì nhờ Premium, không phải nhờ quảng cáo.
+A: Không có. VibeDeck Player không hiển thị banner, video hay pop-up. Bản miễn phí được duy trì nhờ PRO, không phải nhờ quảng cáo.
 
 **Q: Tôi có nghe MP3 offline được không?**
 
@@ -3120,7 +3120,7 @@ A: Có. Trên App Store cho iPhone và iPad, và trên Google Play cho Android.
 
 **Q: Có miễn phí không?**
 
-A: Ứng dụng miễn phí và không quảng cáo. Premium mở khóa toàn bộ bộ máy âm thanh; giá hiển thị trên cửa hàng tại quốc gia của bạn.
+A: Ứng dụng miễn phí và không quảng cáo. PRO mở khóa toàn bộ bộ máy âm thanh; giá hiển thị trên cửa hàng tại quốc gia của bạn.
 
 ## Làm chậm bài hát mà không đổi tone | VibeDeck
 
@@ -3193,7 +3193,7 @@ A: 可以。歌曲是從手機裡的檔案播放的，聽音樂不需要網路�
 
 **Q: 有廣告嗎？**
 
-A: 沒有。免費版和 Premium 都沒有廣告，也不需要帳號。
+A: 沒有。免費版和 PRO 都沒有廣告，也不需要帳號。
 
 **Q: iPhone 和 Android 能播放 FLAC 嗎？**
 
@@ -3209,7 +3209,7 @@ A: 目前 App 介面為英文。
 
 **Q: 要多少錢？**
 
-A: 下載免費且無廣告。Premium 方案和價格會顯示在你所在國家的 App Store 或 Google Play。在 Google Play（Android）上，Premium 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
+A: 下載免費且無廣告。PRO 方案和價格會顯示在你所在國家的 App Store 或 Google Play。在 Google Play（Android）上，PRO 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
 
 **Q: 需要註冊帳號嗎？**
 
@@ -3217,11 +3217,11 @@ A: 不需要。不用註冊，也不用登入。檔案匯入一次後，播放�
 
 **Q: 怎麼幫歌曲升降調？**
 
-A: 打開歌曲，拖動主畫面上的 Pitch / Filter 控制。音調會即時變化，最多 ±8 個半音，速度另外調整，按 Reset 就能回到原調。原始檔案永遠不會被修改。音高與濾波器屬於 VibeDeck Premium 功能。
+A: 打開歌曲，拖動主畫面上的 Pitch / Filter 控制。音調會即時變化，最多 ±8 個半音，速度另外調整，按 Reset 就能回到原調。原始檔案永遠不會被修改。音高與濾波器屬於 VibeDeck PRO 功能。
 
-**Q: VibeDeck Premium 包含什麼？**
+**Q: VibeDeck PRO 包含什麼？**
 
-A: 完整音效引擎：音高與濾波器、帶增益的等化器、限幅器、VibeMod、TONE、AURA 和 Smart Metadata。可以月付、年付，或一次付清終身使用。在 Google Play（Android）上，Premium 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
+A: 完整音效引擎：音高與濾波器、帶增益的等化器、限幅器、VibeMod、TONE、AURA 和 Smart Metadata。可以月付、年付，或一次付清終身使用。在 Google Play（Android）上，PRO 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
 
 ## iPhone 歌曲升降調教學 | VibeDeck
 
@@ -3248,7 +3248,7 @@ A: 可以。升降調直接在裝置上運算，不需要網路，也不會傳�
 
 **Q: 免費嗎？**
 
-A: 下載免費且無廣告，但升降調屬於 VibeDeck Premium。方案和價格請見 App Store 和 Google Play。在 Google Play（Android）上，Premium 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
+A: 下載免費且無廣告，但升降調屬於 VibeDeck PRO。方案和價格請見 App Store 和 Google Play。在 Google Play（Android）上，PRO 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
 
 **Q: Android 呢？**
 
@@ -3283,7 +3283,7 @@ A: 可以。VibeDeck Player 已在 Google Play 上架，能離線播放 FLAC、W
 
 **Q: 免費嗎？**
 
-A: 下載免費且無廣告。Premium 是可選的 App 內購買，App Store 或 Google Play 會顯示你所在國家的價格。在 Google Play（Android）上，Premium 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
+A: 下載免費且無廣告。PRO 是可選的 App 內購買，App Store 或 Google Play 會顯示你所在國家的價格。在 Google Play（Android）上，PRO 為每月 $1.99、每年 $14.99 或終身 $19.99（USD）。
 
 ## 免費離線無廣告 MP3 播放器 | VibeDeck
 
@@ -3294,7 +3294,7 @@ Language: zh-Hant
 
 **Q: 真的完全沒有廣告嗎？**
 
-A: 完全沒有。VibeDeck Player 不顯示橫幅、影片或彈出視窗。免費版是靠 Premium 支撐，而不是靠廣告。
+A: 完全沒有。VibeDeck Player 不顯示橫幅、影片或彈出視窗。免費版是靠 PRO 支撐，而不是靠廣告。
 
 **Q: 可以離線聽 MP3 嗎？**
 
@@ -3314,7 +3314,7 @@ A: 可以。iPhone 和 iPad 請到 App Store，Android 請到 Google Play。
 
 **Q: 免費嗎？**
 
-A: App 免費且無廣告。Premium 解鎖完整音效引擎，價格以你所在國家的商店為準。
+A: App 免費且無廣告。PRO 解鎖完整音效引擎，價格以你所在國家的商店為準。
 
 ## 不變調放慢歌曲速度 | VibeDeck
 
