@@ -104,12 +104,15 @@
   [].slice.call(d.querySelectorAll('[data-share-copy]')).forEach(function(btn){
     var label=btn.querySelector('span'),text=label.textContent;
     function done(){label.textContent=btn.getAttribute('data-copied');btn.classList.add('is-done');setTimeout(function(){label.textContent=text;btn.classList.remove('is-done');},2000);}
-    btn.addEventListener('click',function(){
-      var url=btn.getAttribute('data-share-copy');countShare('copy');
-      if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(done,function(){});return;}
+    function fallback(url){
       var t=d.createElement('textarea');t.value=url;t.setAttribute('readonly','');t.style.position='fixed';t.style.opacity='0';d.body.appendChild(t);t.select();
       try{if(d.execCommand('copy'))done();}catch(e){}
       d.body.removeChild(t);
+    }
+    btn.addEventListener('click',function(){
+      var url=btn.getAttribute('data-share-copy');countShare('copy');
+      if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(url).then(done,function(){fallback(url);});return;}
+      fallback(url);
     });
   });
 })();
