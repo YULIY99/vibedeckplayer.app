@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Render 1200x630 link-preview images for the Sampler pages, one per language, and point
+"""Render 1200x630 link-preview images for a feature's pages, one per language, and point
 og:image / twitter:image at them.
 
-    python3 _build/make_sampler_og.py      (needs Google Chrome and Pillow; serves the repo on 127.0.0.1:8766)
+    python3 _build/make_sampler_og.py [sampler|stems]   (default: sampler; needs Google Chrome and Pillow; serves the repo on 127.0.0.1:8766)
 """
-import html, json, re, subprocess, threading, functools, http.server, socketserver
+import html, json, re, subprocess, sys, threading, functools, http.server, socketserver
 from pathlib import Path
 from PIL import Image
 
@@ -12,7 +12,11 @@ ROOT = Path(__file__).resolve().parents[1]
 SITE = 'https://vibedeckplayer.app'
 CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 OUT = ROOT / 'assets/img/og'
-SHOT = '/assets/img/vibedeck-sampler-iphone-800.webp'
+# feature: (screen, page data, English page, English h1, eyebrow, chips, format line)
+FEATURES = {'sampler': ('/assets/img/vibedeck-sampler-iphone-800.webp', 'sampler.json', '/sampler/', 'Record any sound playing on your phone.',
+                        'VibeDeck / Sampler', ('YouTube', 'TikTok', 'SoundCloud'), 'MP3 · AAC · WAV · 320 kbps'),
+            'stems': ('/assets/img/vibedeck-stems-iphone-800.webp', 'stems.json', '/vocal-remover/', 'Split any song into vocals and instrumental.',
+                      'VibeDeck / Stems', ('Original', 'Vocal', 'Instrumental'), 'iPhone · AI on device')}
 
 PAGE = '''<!doctype html><html lang="{lang}"><head><meta charset="utf-8"><link rel="stylesheet" href="/styles.css"><style>
 html,body{{width:1200px;height:630px;overflow:hidden;margin:0;background:#04070d}}
@@ -30,18 +34,21 @@ h1{{margin:34px 0 0;font-weight:800;font-size:64px;line-height:1.04;letter-spaci
 .ph{{position:absolute;right:70px;top:48px;width:262px;height:568px;border-radius:44px;padding:9px;background:#0a1118;border:2px solid rgba(143,211,240,.42);box-shadow:0 0 0 6px rgba(4,7,13,.9),0 30px 90px rgba(30,159,214,.3)}}
 .ph img{{width:100%;height:100%;object-fit:cover;object-position:top;border-radius:36px;display:block}}
 </style></head><body><div class="bg"></div>
-<div class="left"><div class="t">VibeDeck / Sampler</div><h1 id="h">{h1}</h1>
-<div class="apps"><span class="app"><i></i>YouTube</span><span class="app"><i></i>TikTok</span><span class="app"><i></i>SoundCloud</span></div>
-<div class="foot"><b>{free}</b> · MP3 · AAC · WAV · 320 kbps</div></div>
+<div class="left"><div class="t">{eyebrow}</div><h1 id="h">{h1}</h1>
+<div class="apps">{chips}</div>
+<div class="foot"><b>{free}</b> · {formats}</div></div>
 <div class="ph"><img src="{shot}"></div>
 <script>var h=document.getElementById('h'),s=64;while(h.scrollHeight>230&&s>34){{s-=2;h.style.fontSize=s+'px';}}</script>
 </body></html>'''
 
 
 def main():
+    feature = sys.argv[1] if len(sys.argv) > 1 else 'sampler'
+    shot, data, en_slug, en_h1, eyebrow, chips, formats = FEATURES[feature]
+    chips = ''.join(f'<span class="app"><i></i>{c}</span>' for c in chips)
     share = json.loads((ROOT / '_build/share_i18n.json').read_text(encoding='utf-8'))
-    pages = json.loads((ROOT / '_build/guides_i18n/sampler.json').read_text(encoding='utf-8'))
-    langs = {'en': ('/sampler/', 'Record any sound playing on your phone.')}
+    pages = json.loads((ROOT / '_build/guides_i18n' / data).read_text(encoding='utf-8'))
+    langs = {'en': (en_slug, en_h1)}
     for code, c in pages.items():
         if not code.startswith('_'): langs[code] = (c['slug'], c['h1'])
     OUT.mkdir(parents=True, exist_ok=True)
@@ -52,12 +59,12 @@ def main():
         for code, (slug, h1) in langs.items():
             free = share[code]['dim'].lstrip('/ ').strip()
             tmp = ROOT / f'_og_{code}.html'
-            tmp.write_text(PAGE.format(lang=code, h1=html.escape(h1), free=html.escape(free), shot=SHOT), encoding='utf-8')
+            tmp.write_text(PAGE.format(lang=code, h1=html.escape(h1), free=html.escape(free), shot=shot, eyebrow=eyebrow, chips=chips, formats=formats), encoding='utf-8')
             png = ROOT / f'_og_{code}.png'
             subprocess.run([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--user-data-dir=/tmp/vd-og-chrome',
                             '--window-size=1200,630', '--virtual-time-budget=3000', f'--screenshot={png}',
                             f'http://127.0.0.1:8766/_og_{code}.html'], capture_output=True)
-            name = f'vibedeck-sampler-og-{code.lower()}.jpg'
+            name = f'vibedeck-{feature}-og-{code.lower()}.jpg'
             Image.open(png).convert('RGB').save(OUT / name, quality=86, optimize=True, progressive=True)
             tmp.unlink(); png.unlink()
             p = ROOT / slug.strip('/') / 'index.html'; s = p.read_text(encoding='utf-8')

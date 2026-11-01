@@ -1,6 +1,6 @@
 # VibeDeck Player
 
-> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter and music-reactive visuals. No ads, no account, no streaming, no tracking.
+> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter, music-reactive visuals and, on iPhone, an AI vocal remover (VibeDeck Stems). No ads, no account, no streaming, no tracking.
 
 ## Key facts
 
@@ -13,8 +13,9 @@
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
+- VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
+- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -27,6 +28,7 @@
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
+- "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
 - "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit

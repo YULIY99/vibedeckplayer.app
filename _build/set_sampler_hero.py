@@ -1,14 +1,18 @@
 #!/usr/bin/env python3
-"""Put the real Sampler screen in the hero of every Sampler page (English + 16 languages).
+"""Put the real app screen in the hero of every page of a feature (English + 16 languages).
+
+    python3 _build/set_sampler_hero.py [sampler|stems]   (default: sampler)
 
 The guide builders copy the hero image of their template page, so re-run this after
 add_guides.py sampler or add_local_guides.py sampler. Idempotent.
 """
-import json, re
+import json, re, sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-IMG = '/assets/img/vibedeck-sampler-iphone'
+FEATURES = {'sampler': ('/assets/img/vibedeck-sampler-iphone', '/sampler/', 'sampler.json'),
+            'stems': ('/assets/img/vibedeck-stems-iphone', '/vocal-remover/', 'stems.json')}
+IMG = ''
 SIZES = '(min-width: 1024px) 326px, 66vw'
 
 
@@ -20,7 +24,10 @@ def picture(alt):
 
 
 def main():
-    slugs = ['/sampler/'] + [c['slug'] for k, c in json.loads((ROOT / '_build/guides_i18n/sampler.json').read_text(encoding='utf-8')).items() if not k.startswith('_')]
+    global IMG
+    IMG, en, data = FEATURES[sys.argv[1] if len(sys.argv) > 1 else 'sampler']
+    src = ROOT / '_build/guides_i18n' / data
+    slugs = [en] + ([c['slug'] for k, c in json.loads(src.read_text(encoding='utf-8')).items() if not k.startswith('_')] if src.exists() else [])
     for slug in slugs:
         p = ROOT / slug.strip('/') / 'index.html'
         s = p.read_text(encoding='utf-8')

@@ -1,0 +1,479 @@
+{
+ "_note": "Stems block on the 17 home pages, placed before the Sampler section. Built by _build/add_home_sampler.py stems. points: [title, text] x4. page: the localized Stems page.",
+ "en": {
+  "home": "/",
+  "page": "/vocal-remover/",
+  "new": "New",
+  "h2": "Split any song into vocals and instrumental.",
+  "soft": "On your iPhone. Nothing uploaded.",
+  "lede": "VibeDeck Stems separates a song from your library into the vocals and the instrumental with an AI model that runs on the phone. Switch parts while it plays and export the one you need.",
+  "points": [
+   [
+    "Vocal and instrumental",
+    "Karaoke, a cappella, covers and remixes from your own songs."
+   ],
+   [
+    "Switch while it plays",
+    "Original, Vocal or Instrumental, and you keep your place."
+   ],
+   [
+    "Tempo, loops, effects",
+    "The Studio tools keep working on every part."
+   ],
+   [
+    "Export each part",
+    "Share the vocal or the instrumental as its own file."
+   ]
+  ],
+  "link": "How Stems works",
+  "alt": "VibeDeck Stems screen on iPhone: Original, Vocal and Instrumental"
+ },
+ "ja": {
+  "home": "/ja/",
+  "page": "/ja/vocal-bunri/",
+  "new": "新機能",
+  "h2": "曲をボーカルとインストに分離。",
+  "soft": "iPhoneの中で。アップロードなし。",
+  "lede": "VibeDeck Stemsは、ライブラリの曲をボーカルとインストゥルメンタルに分けます。AIモデルはスマホの中で動きます。再生しながら切り替えて、必要なパートを書き出せます。",
+  "points": [
+   [
+    "ボーカルとインスト",
+    "カラオケ、アカペラ、カバー、リミックスに。"
+   ],
+   [
+    "再生中に切り替え",
+    "Original、Vocal、Instrumental。再生位置はそのまま。"
+   ],
+   [
+    "テンポ、ループ、エフェクト",
+    "Studioのツールはどのパートでも使えます。"
+   ],
+   [
+    "パートごとに書き出し",
+    "ボーカルやインストを単独のファイルで共有。"
+   ]
+  ],
+  "link": "Stemsの使い方",
+  "alt": "iPhoneのVibeDeck Stems画面: Original、Vocal、Instrumental"
+ },
+ "es": {
+  "home": "/es/",
+  "page": "/es/separar-voz-de-cancion/",
+  "new": "Nuevo",
+  "h2": "Separa cualquier canción en voz e instrumental.",
+  "soft": "En tu iPhone. Sin subir nada.",
+  "lede": "VibeDeck Stems separa una canción de tu biblioteca en la voz y la pista instrumental con un modelo de IA que funciona en el teléfono. Cambia de parte mientras suena y exporta la que necesites.",
+  "points": [
+   [
+    "Voz e instrumental",
+    "Karaoke, a cappella, covers y remixes con tus canciones."
+   ],
+   [
+    "Cambia mientras suena",
+    "Original, Vocal o Instrumental, sin perder el punto."
+   ],
+   [
+    "Tempo, loops, efectos",
+    "Las herramientas de Studio siguen funcionando en cada parte."
+   ],
+   [
+    "Exporta cada parte",
+    "Comparte la voz o el instrumental como archivo propio."
+   ]
+  ],
+  "link": "Cómo funciona Stems",
+  "alt": "Pantalla de VibeDeck Stems en iPhone: Original, Vocal e Instrumental"
+ },
+ "pt-BR": {
+  "home": "/pt-br/",
+  "page": "/pt-br/separar-voz-da-musica/",
+  "new": "Novo",
+  "h2": "Separe qualquer música em voz e instrumental.",
+  "soft": "No seu iPhone. Sem enviar nada.",
+  "lede": "O VibeDeck Stems separa uma música da sua biblioteca em voz e instrumental com um modelo de IA que roda no celular. Troque de parte enquanto toca e exporte a que você precisa.",
+  "points": [
+   [
+    "Voz e instrumental",
+    "Karaokê, a cappella, covers e remixes com suas músicas."
+   ],
+   [
+    "Troque enquanto toca",
+    "Original, Vocal ou Instrumental, sem perder o ponto."
+   ],
+   [
+    "Tempo, loops, efeitos",
+    "As ferramentas do Studio continuam funcionando em cada parte."
+   ],
+   [
+    "Exporte cada parte",
+    "Compartilhe a voz ou o instrumental como arquivo próprio."
+   ]
+  ],
+  "link": "Como o Stems funciona",
+  "alt": "Tela do VibeDeck Stems no iPhone: Original, Vocal e Instrumental"
+ },
+ "de": {
+  "home": "/de/",
+  "page": "/de/gesang-entfernen/",
+  "new": "Neu",
+  "h2": "Jeden Song in Gesang und Instrumental trennen.",
+  "soft": "Auf dem iPhone. Ohne Upload.",
+  "lede": "VibeDeck Stems trennt einen Song aus deiner Mediathek in Gesang und Instrumental, mit einem KI-Modell, das auf dem Handy läuft. Wechsle die Spur beim Abspielen und exportiere die, die du brauchst.",
+  "points": [
+   [
+    "Gesang und Instrumental",
+    "Karaoke, A cappella, Covers und Remixe aus deinen Songs."
+   ],
+   [
+    "Wechseln beim Abspielen",
+    "Original, Vocal oder Instrumental, die Position bleibt."
+   ],
+   [
+    "Tempo, Loops, Effekte",
+    "Die Studio-Werkzeuge funktionieren auf jeder Spur."
+   ],
+   [
+    "Jede Spur exportieren",
+    "Teile Gesang oder Instrumental als eigene Datei."
+   ]
+  ],
+  "link": "So funktioniert Stems",
+  "alt": "VibeDeck Stems auf dem iPhone: Original, Vocal und Instrumental"
+ },
+ "fr": {
+  "home": "/fr/",
+  "page": "/fr/supprimer-voix/",
+  "new": "Nouveau",
+  "h2": "Séparez n'importe quel morceau en voix et instrumental.",
+  "soft": "Sur votre iPhone. Sans envoi.",
+  "lede": "VibeDeck Stems sépare un morceau de votre bibliothèque en voix et instrumental, avec un modèle d'IA qui tourne sur le téléphone. Changez de partie pendant la lecture et exportez celle qu'il vous faut.",
+  "points": [
+   [
+    "Voix et instrumental",
+    "Karaoké, a cappella, reprises et remix avec vos morceaux."
+   ],
+   [
+    "Changez en pleine lecture",
+    "Original, Vocal ou Instrumental, sans perdre votre place."
+   ],
+   [
+    "Tempo, boucles, effets",
+    "Les outils de Studio marchent sur chaque partie."
+   ],
+   [
+    "Exportez chaque partie",
+    "Partagez la voix ou l'instrumental en fichier séparé."
+   ]
+  ],
+  "link": "Comment marche Stems",
+  "alt": "Écran VibeDeck Stems sur iPhone : Original, Vocal et Instrumental"
+ },
+ "it": {
+  "home": "/it/",
+  "page": "/it/rimuovere-voce/",
+  "new": "Novità",
+  "h2": "Separa qualsiasi brano in voce e base.",
+  "soft": "Sul tuo iPhone. Senza caricare nulla.",
+  "lede": "VibeDeck Stems separa un brano della tua libreria in voce e base strumentale, con un modello di IA che gira sul telefono. Cambia parte mentre suona ed esporta quella che ti serve.",
+  "points": [
+   [
+    "Voce e base",
+    "Karaoke, a cappella, cover e remix con i tuoi brani."
+   ],
+   [
+    "Cambia mentre suona",
+    "Original, Vocal o Instrumental, senza perdere il punto."
+   ],
+   [
+    "Tempo, loop, effetti",
+    "Gli strumenti di Studio funzionano su ogni parte."
+   ],
+   [
+    "Esporta ogni parte",
+    "Condividi la voce o la base come file a sé."
+   ]
+  ],
+  "link": "Come funziona Stems",
+  "alt": "Schermata di VibeDeck Stems su iPhone: Original, Vocal e Instrumental"
+ },
+ "ru": {
+  "home": "/ru/",
+  "page": "/ru/otdelit-golos-ot-muzyki/",
+  "new": "Новое",
+  "h2": "Разделите любую песню на голос и минус.",
+  "soft": "На iPhone. Без загрузки в интернет.",
+  "lede": "VibeDeck Stems разделяет песню из вашей библиотеки на вокал и инструментал с помощью ИИ-модели, которая работает прямо на телефоне. Переключайте партии во время воспроизведения и сохраняйте нужную.",
+  "points": [
+   [
+    "Голос и минус",
+    "Караоке, акапелла, каверы и ремиксы из ваших песен."
+   ],
+   [
+    "Переключение на ходу",
+    "Original, Vocal или Instrumental, место в треке сохраняется."
+   ],
+   [
+    "Темп, лупы, эффекты",
+    "Инструменты Studio работают с каждой партией."
+   ],
+   [
+    "Экспорт каждой партии",
+    "Отправьте голос или минус отдельным файлом."
+   ]
+  ],
+  "link": "Как работает Stems",
+  "alt": "Экран VibeDeck Stems на iPhone: Original, Vocal и Instrumental"
+ },
+ "ko": {
+  "home": "/ko/",
+  "page": "/ko/vocal-bunri/",
+  "new": "새 기능",
+  "h2": "어떤 곡이든 보컬과 반주로 분리.",
+  "soft": "iPhone 안에서. 업로드 없이.",
+  "lede": "VibeDeck Stems는 라이브러리의 곡을 보컬과 반주로 나눕니다. AI 모델은 휴대폰 안에서 작동합니다. 재생 중에 파트를 바꾸고 필요한 파트를 내보내세요.",
+  "points": [
+   [
+    "보컬과 반주",
+    "노래방, 아카펠라, 커버, 리믹스에."
+   ],
+   [
+    "재생 중 전환",
+    "Original, Vocal, Instrumental. 재생 위치는 그대로."
+   ],
+   [
+    "템포, 루프, 이펙트",
+    "Studio 도구는 모든 파트에서 작동합니다."
+   ],
+   [
+    "파트별 내보내기",
+    "보컬이나 반주를 별도 파일로 공유."
+   ]
+  ],
+  "link": "Stems 사용 방법",
+  "alt": "iPhone의 VibeDeck Stems 화면: Original, Vocal, Instrumental"
+ },
+ "tr": {
+  "home": "/tr/",
+  "page": "/tr/vokal-ayirma/",
+  "new": "Yeni",
+  "h2": "Her şarkıyı vokal ve enstrümantale ayırın.",
+  "soft": "iPhone'unuzda. Yükleme yok.",
+  "lede": "VibeDeck Stems, kitaplığınızdaki bir şarkıyı telefonda çalışan bir yapay zekâ modeliyle vokal ve enstrümantal olarak ayırır. Çalarken parçalar arasında geçin ve ihtiyacınız olanı dışa aktarın.",
+  "points": [
+   [
+    "Vokal ve enstrümantal",
+    "Karaoke, a cappella, cover ve remix için."
+   ],
+   [
+    "Çalarken geçiş",
+    "Original, Vocal veya Instrumental, yeriniz korunur."
+   ],
+   [
+    "Tempo, döngü, efekt",
+    "Studio araçları her parçada çalışır."
+   ],
+   [
+    "Her parçayı dışa aktar",
+    "Vokali veya enstrümantali ayrı dosya olarak paylaşın."
+   ]
+  ],
+  "link": "Stems nasıl çalışır",
+  "alt": "iPhone'da VibeDeck Stems ekranı: Original, Vocal ve Instrumental"
+ },
+ "id": {
+  "home": "/id/",
+  "page": "/id/pisahkan-vokal/",
+  "new": "Baru",
+  "h2": "Pisahkan lagu apa pun jadi vokal dan instrumental.",
+  "soft": "Di iPhone. Tanpa upload.",
+  "lede": "VibeDeck Stems memisahkan lagu dari pustakamu menjadi vokal dan instrumental dengan model AI yang berjalan di ponsel. Ganti bagian saat lagu diputar dan ekspor yang kamu perlukan.",
+  "points": [
+   [
+    "Vokal dan instrumental",
+    "Karaoke, a cappella, cover, dan remix dari lagumu."
+   ],
+   [
+    "Ganti saat diputar",
+    "Original, Vocal, atau Instrumental, posisi tetap."
+   ],
+   [
+    "Tempo, loop, efek",
+    "Alat Studio tetap bekerja di setiap bagian."
+   ],
+   [
+    "Ekspor tiap bagian",
+    "Bagikan vokal atau instrumental sebagai file sendiri."
+   ]
+  ],
+  "link": "Cara kerja Stems",
+  "alt": "Layar VibeDeck Stems di iPhone: Original, Vocal, dan Instrumental"
+ },
+ "pl": {
+  "home": "/pl/",
+  "page": "/pl/usuwanie-wokalu/",
+  "new": "Nowość",
+  "h2": "Rozdziel każdą piosenkę na wokal i podkład.",
+  "soft": "Na iPhonie. Bez wysyłania.",
+  "lede": "VibeDeck Stems rozdziela utwór z twojej biblioteki na wokal i podkład za pomocą modelu AI, który działa w telefonie. Przełączaj partie podczas odtwarzania i eksportuj tę, której potrzebujesz.",
+  "points": [
+   [
+    "Wokal i podkład",
+    "Karaoke, a cappella, covery i remiksy z twoich utworów."
+   ],
+   [
+    "Przełączanie w trakcie",
+    "Original, Vocal lub Instrumental, miejsce w utworze zostaje."
+   ],
+   [
+    "Tempo, pętle, efekty",
+    "Narzędzia Studio działają na każdej partii."
+   ],
+   [
+    "Eksport każdej partii",
+    "Udostępnij wokal lub podkład jako osobny plik."
+   ]
+  ],
+  "link": "Jak działa Stems",
+  "alt": "Ekran VibeDeck Stems na iPhonie: Original, Vocal i Instrumental"
+ },
+ "nl": {
+  "home": "/nl/",
+  "page": "/nl/zang-verwijderen/",
+  "new": "Nieuw",
+  "h2": "Splits elk nummer in zang en instrumentaal.",
+  "soft": "Op je iPhone. Niets uploaden.",
+  "lede": "VibeDeck Stems splitst een nummer uit je bibliotheek in zang en instrumentaal, met een AI-model dat op de telefoon draait. Wissel tijdens het afspelen en exporteer het deel dat je nodig hebt.",
+  "points": [
+   [
+    "Zang en instrumentaal",
+    "Karaoke, a capella, covers en remixen van je eigen nummers."
+   ],
+   [
+    "Wisselen tijdens het spelen",
+    "Original, Vocal of Instrumental, je plek blijft."
+   ],
+   [
+    "Tempo, loops, effecten",
+    "De Studio-tools werken op elk deel."
+   ],
+   [
+    "Elk deel exporteren",
+    "Deel de zang of het instrumentaal als eigen bestand."
+   ]
+  ],
+  "link": "Zo werkt Stems",
+  "alt": "VibeDeck Stems op de iPhone: Original, Vocal en Instrumental"
+ },
+ "vi": {
+  "home": "/vi/",
+  "page": "/vi/tach-giong-hat/",
+  "new": "Mới",
+  "h2": "Tách bài hát bất kỳ thành giọng hát và nhạc nền.",
+  "soft": "Ngay trên iPhone. Không tải lên.",
+  "lede": "VibeDeck Stems tách một bài trong thư viện của bạn thành giọng hát và nhạc nền bằng mô hình AI chạy trên điện thoại. Chuyển phần khi đang phát và xuất phần bạn cần.",
+  "points": [
+   [
+    "Giọng hát và nhạc nền",
+    "Karaoke, a cappella, cover và remix từ bài của bạn."
+   ],
+   [
+    "Chuyển khi đang phát",
+    "Original, Vocal hoặc Instrumental, giữ nguyên vị trí."
+   ],
+   [
+    "Tempo, vòng lặp, hiệu ứng",
+    "Công cụ Studio vẫn hoạt động với mọi phần."
+   ],
+   [
+    "Xuất từng phần",
+    "Chia sẻ giọng hát hoặc nhạc nền thành tệp riêng."
+   ]
+  ],
+  "link": "Cách Stems hoạt động",
+  "alt": "Màn hình VibeDeck Stems trên iPhone: Original, Vocal và Instrumental"
+ },
+ "zh-Hant": {
+  "home": "/zh-hant/",
+  "page": "/zh-hant/ren-sheng-fen-li/",
+  "new": "新功能",
+  "h2": "把任何歌曲分離成人聲和伴奏。",
+  "soft": "在 iPhone 上完成，不必上傳。",
+  "lede": "VibeDeck Stems 用在手機上運行的 AI 模型，把資料庫裡的歌曲分成人聲和伴奏。播放時隨時切換，並匯出需要的部分。",
+  "points": [
+   [
+    "人聲和伴奏",
+    "KTV、清唱、翻唱和混音都適用。"
+   ],
+   [
+    "播放中切換",
+    "Original、Vocal、Instrumental，播放位置不變。"
+   ],
+   [
+    "速度、循環、效果",
+    "Studio 工具在每個部分都能用。"
+   ],
+   [
+    "分別匯出",
+    "把人聲或伴奏分享成獨立檔案。"
+   ]
+  ],
+  "link": "Stems 怎麼用",
+  "alt": "iPhone 上的 VibeDeck Stems 畫面：Original、Vocal、Instrumental"
+ },
+ "zh-Hans": {
+  "home": "/zh-hans/",
+  "page": "/zh-hans/ren-sheng-fen-li/",
+  "new": "新功能",
+  "h2": "把任何歌曲分离成人声和伴奏。",
+  "soft": "在 iPhone 上完成，无需上传。",
+  "lede": "VibeDeck Stems 用在手机上运行的 AI 模型，把资料库里的歌曲分成人声和伴奏。播放时随时切换，并导出需要的部分。",
+  "points": [
+   [
+    "人声和伴奏",
+    "K歌、清唱、翻唱和混音都适用。"
+   ],
+   [
+    "播放中切换",
+    "Original、Vocal、Instrumental，播放位置不变。"
+   ],
+   [
+    "速度、循环、效果",
+    "Studio 工具在每个部分都能用。"
+   ],
+   [
+    "分别导出",
+    "把人声或伴奏分享为独立文件。"
+   ]
+  ],
+  "link": "Stems 怎么用",
+  "alt": "iPhone 上的 VibeDeck Stems 界面：Original、Vocal、Instrumental"
+ },
+ "th": {
+  "home": "/th/",
+  "page": "/th/yaek-siang-rong/",
+  "new": "ใหม่",
+  "h2": "แยกเพลงไหนก็ได้เป็นเสียงร้องและดนตรี",
+  "soft": "บน iPhone ไม่ต้องอัปโหลด",
+  "lede": "VibeDeck Stems แยกเพลงในคลังของคุณเป็นเสียงร้องและดนตรีด้วยโมเดล AI ที่ทำงานบนโทรศัพท์ สลับส่วนได้ระหว่างเล่น และส่งออกส่วนที่ต้องการ",
+  "points": [
+   [
+    "เสียงร้องและดนตรี",
+    "คาราโอเกะ อะแคปเปลลา คัฟเวอร์ และรีมิกซ์"
+   ],
+   [
+    "สลับระหว่างเล่น",
+    "Original, Vocal หรือ Instrumental ตำแหน่งเพลงไม่หาย"
+   ],
+   [
+    "เทมโป ลูป เอฟเฟกต์",
+    "เครื่องมือ Studio ใช้ได้กับทุกส่วน"
+   ],
+   [
+    "ส่งออกแต่ละส่วน",
+    "แชร์เสียงร้องหรือดนตรีเป็นไฟล์แยก"
+   ]
+  ],
+  "link": "Stems ทำงานอย่างไร",
+  "alt": "หน้าจอ VibeDeck Stems บน iPhone: Original, Vocal และ Instrumental"
+ }
+}

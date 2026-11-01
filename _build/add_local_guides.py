@@ -35,7 +35,8 @@ KEY_PAGES = {'ja': '/ja/key-henkou-app/', 'de': '/de/tonart-aendern/', 'fr': '/f
              'pl': '/pl/zmiana-tonacji/', 'nl': '/nl/toonsoort-veranderen/', 'vi': '/vi/doi-tone-bai-hat/',
              'zh-Hant': '/zh-hant/sheng-jiang-diao/', 'zh-Hans': '/zh-hans/sheng-jiang-diao/', 'th': '/th/plian-key-phleng/'}
 GUIDES = {'slow-down': {'en': '/slow-down-song/', 'existing': {'ja': '/ja/tempo-henkou/'}, 'campaign': 'slow-down'},
-          'sampler': {'en': '/sampler/', 'existing': {}, 'campaign': 'sampler'}}
+          'sampler': {'en': '/sampler/', 'existing': {}, 'campaign': 'sampler'},
+          'stems': {'en': '/vocal-remover/', 'existing': {}, 'campaign': 'stems'}}
 
 
 class Ordered(HTMLFormatter):

@@ -1,6 +1,6 @@
 # VibeDeck Player
 
-> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter and music-reactive visuals. No ads, no account, no streaming, no tracking.
+> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter, music-reactive visuals and, on iPhone, an AI vocal remover (VibeDeck Stems). No ads, no account, no streaming, no tracking.
 
 ## Key facts
 
@@ -13,8 +13,9 @@
 - Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
+- VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
+- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -27,6 +28,7 @@
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
+- "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
 - "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit
@@ -600,9 +602,9 @@ A: Yes. Open the track in VibeDeck Player and move Pitch by up to 8 semitones in
 
 A: No. Pitch and tempo are independent, so the speed stays the same unless you change the tempo yourself.
 
-**Q: Does VibeDeck remove the vocals?**
+**Q: Can VibeDeck remove the vocals?**
 
-A: No. It shifts the key of the whole track. For karaoke, import an instrumental or karaoke version of the song.
+A: Yes, on iPhone. Open the song in Studio, tap STEMS and choose Instrumental. Pitch shifts the key of whatever part is playing.
 
 **Q: Is the original file changed?**
 
@@ -758,6 +760,41 @@ A: No. Music protected by streaming services such as Apple Music is blocked by t
 **Q: Is it free?**
 
 A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. The Sampler, Studio, pitch and the other tools need VibeDeck PRO.
+
+## Vocal Remover and Stem Splitter for iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/vocal-remover/
+Language: en
+
+Split any song into vocals and instrumental on your iPhone. Switch parts while it plays, keep tempo and loops, export each one. Nothing is uploaded.
+
+**Q: How do I remove vocals from a song on iPhone?**
+
+A: Open the song in VibeDeck Studio, tap STEMS and choose Instrumental when the stems are ready. You can also export the instrumental as its own file.
+
+**Q: Can I get only the vocals (a cappella)?**
+
+A: Yes. Choose Vocal to hear only the voice, or export it with the Vocal button.
+
+**Q: Is my music uploaded?**
+
+A: No. The separation runs on your iPhone. Only the separation engine is downloaded, once, the first time you use Stems.
+
+**Q: How long does it take?**
+
+A: On a recent iPhone Pro, about as long as the song. Older iPhones take longer. If you leave the app, the split pauses and continues when you return.
+
+**Q: Can I slow down or loop the instrumental?**
+
+A: Yes. Tempo, loops and effects stay available after you switch parts, and switching keeps your place in the track.
+
+**Q: Which files can I split?**
+
+A: Songs in your VibeDeck library: MP3, WAV, FLAC and the other formats VibeDeck plays.
+
+**Q: Is it free?**
+
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. Stems, Studio, the Sampler, pitch and the other tools need VibeDeck PRO.
 
 ## Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck
 
@@ -957,6 +994,33 @@ A: Nein. Geschützte Musik von Streamingdiensten wie Apple Music blockiert das S
 
 A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab, auch im Hintergrund. Sampler, Studio, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO.
 
+## Gesang und Instrumental trennen auf dem iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/de/gesang-entfernen/
+Language: de
+
+Trenne jeden Song auf dem iPhone in Gesang und Instrumental. Wechsle beim Abspielen, Tempo und Loops bleiben, exportiere jede Spur. Ohne Upload.
+
+**Q: Wie entferne ich den Gesang aus einem Song auf dem iPhone?**
+
+A: Öffne den Song in VibeDeck Studio, tippe auf STEMS und wähle Instrumental, sobald die Stems fertig sind. Du kannst das Instrumental auch als eigene Datei exportieren.
+
+**Q: Kann ich nur den Gesang (A cappella) bekommen?**
+
+A: Ja. Wähle Vocal, um nur die Stimme zu hören, oder exportiere sie mit dem Vocal-Button.
+
+**Q: Wird meine Musik hochgeladen?**
+
+A: Nein. Die Trennung läuft auf dem iPhone. Nur die Trenn-Engine wird einmal geladen, bei der ersten Nutzung.
+
+**Q: Wie lange dauert es?**
+
+A: Auf einem aktuellen iPhone Pro etwa so lange wie der Song. Ältere iPhones brauchen länger. Wenn du die App verlässt, pausiert die Trennung und läuft danach weiter.
+
+**Q: Ist es kostenlos?**
+
+A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab. Stems, Studio, der Sampler, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO.
+
 ## Lecteur de musique hors ligne sans pub | VibeDeck
 
 URL: https://vibedeckplayer.app/fr/
@@ -1154,6 +1218,33 @@ A: Non. La musique protégée des services de streaming comme Apple Music est bl
 **Q: C'est gratuit ?**
 
 A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, y compris en arrière-plan. Le Sampler, Studio, le pitch et les autres outils demandent VibeDeck PRO.
+
+## Séparer la voix et l'instrumental sur iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/fr/supprimer-voix/
+Language: fr
+
+Séparez n'importe quel morceau en voix et instrumental sur iPhone. Changez de partie en lecture, gardez tempo et boucles, exportez chacune. Sans envoi.
+
+**Q: Comment enlever la voix d'un morceau sur iPhone ?**
+
+A: Ouvrez le morceau dans VibeDeck Studio, touchez STEMS et choisissez Instrumental quand les stems sont prêts. Vous pouvez aussi exporter l'instrumental en fichier.
+
+**Q: Puis-je garder seulement la voix (a cappella) ?**
+
+A: Oui. Choisissez Vocal pour n'entendre que la voix, ou exportez-la avec le bouton Vocal.
+
+**Q: Ma musique est-elle envoyée ?**
+
+A: Non. La séparation se fait sur votre iPhone. Seul le moteur de séparation est téléchargé, une fois, à la première utilisation.
+
+**Q: Combien de temps ça prend ?**
+
+A: Sur un iPhone Pro récent, à peu près la durée du morceau. Les iPhone plus anciens prennent plus de temps. Si vous quittez l'app, la séparation se met en pause et reprend ensuite.
+
+**Q: Est-ce gratuit ?**
+
+A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique. Stems, Studio, le Sampler, le pitch et les autres outils demandent VibeDeck PRO.
 
 ## Lettore musicale offline senza pubblicità | VibeDeck
 
@@ -1353,6 +1444,33 @@ A: No. La musica protetta dei servizi di streaming come Apple Music viene blocca
 
 A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce la musica, anche in background. Il Sampler, Studio, il pitch e gli altri strumenti richiedono VibeDeck PRO.
 
+## Separare voce e base di un brano su iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/it/rimuovere-voce/
+Language: it
+
+Separa qualsiasi brano in voce e base sul tuo iPhone. Cambia parte mentre suona, mantieni tempo e loop, esporta ogni parte. Senza caricare nulla.
+
+**Q: Come tolgo la voce da un brano su iPhone?**
+
+A: Apri il brano in VibeDeck Studio, tocca STEMS e scegli Instrumental quando gli stems sono pronti. Puoi anche esportare la base come file.
+
+**Q: Posso avere solo la voce (a cappella)?**
+
+A: Sì. Scegli Vocal per sentire solo la voce, oppure esportala con il pulsante Vocal.
+
+**Q: La mia musica viene caricata?**
+
+A: No. La separazione avviene sul tuo iPhone. Viene scaricato solo il motore di separazione, una volta, al primo utilizzo.
+
+**Q: Quanto ci vuole?**
+
+A: Su un iPhone Pro recente, più o meno la durata del brano. Gli iPhone più vecchi ci mettono di più. Se esci dall'app, va in pausa e riprende al ritorno.
+
+**Q: È gratis?**
+
+A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica. Stems, Studio, il Sampler, il pitch e gli altri strumenti richiedono VibeDeck PRO.
+
 ## Reproductor de música sin conexión y sin anuncios | VibeDeck
 
 URL: https://vibedeckplayer.app/es/
@@ -1520,6 +1638,33 @@ A: No. La música protegida de servicios de streaming como Apple Music la bloque
 
 A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El Sampler, Studio, el pitch y el resto de herramientas necesitan VibeDeck PRO.
 
+## Separar voz e instrumental de una canción en iPhone
+
+URL: https://vibedeckplayer.app/es/separar-voz-de-cancion/
+Language: es
+
+Separa cualquier canción en voz e instrumental en tu iPhone. Cambia de parte mientras suena, conserva tempo y loops, y exporta cada una. Sin subir nada.
+
+**Q: ¿Cómo quito la voz de una canción en iPhone?**
+
+A: Abre la canción en VibeDeck Studio, toca STEMS y elige Instrumental cuando los stems estén listos. También puedes exportar el instrumental como archivo.
+
+**Q: ¿Puedo quedarme solo con la voz (a cappella)?**
+
+A: Sí. Elige Vocal para oír solo la voz, o expórtala con el botón Vocal.
+
+**Q: ¿Se sube mi música?**
+
+A: No. La separación se hace en tu iPhone. Solo se descarga el motor de separación, una vez, la primera vez que usas Stems.
+
+**Q: ¿Cuánto tarda?**
+
+A: En un iPhone Pro reciente, más o menos lo que dura la canción. Los iPhone más antiguos tardan más. Si sales de la app, se pausa y sigue al volver.
+
+**Q: ¿Es gratis?**
+
+A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música. Stems, Studio, el Sampler, el pitch y las demás herramientas necesitan VibeDeck PRO.
+
 ## Player de música offline sem anúncios | VibeDeck
 
 URL: https://vibedeckplayer.app/pt-br/
@@ -1678,6 +1823,33 @@ A: Não. Músicas protegidas de serviços de streaming como o Apple Music são b
 **Q: É grátis?**
 
 A: Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Depois disso, a versão gratuita toca música, inclusive em segundo plano. O Sampler, o Studio, o pitch e as outras ferramentas precisam do VibeDeck PRO.
+
+## Separar voz e instrumental de uma música no iPhone
+
+URL: https://vibedeckplayer.app/pt-br/separar-voz-da-musica/
+Language: pt-BR
+
+Separe qualquer música em voz e instrumental no seu iPhone. Troque de parte enquanto toca, mantenha tempo e loops e exporte cada uma. Sem enviar nada.
+
+**Q: Como tirar a voz de uma música no iPhone?**
+
+A: Abra a música no VibeDeck Studio, toque em STEMS e escolha Instrumental quando os stems estiverem prontos. Você também pode exportar o instrumental como arquivo.
+
+**Q: Dá para ficar só com a voz (a cappella)?**
+
+A: Sim. Escolha Vocal para ouvir só a voz, ou exporte com o botão Vocal.
+
+**Q: Minha música é enviada?**
+
+A: Não. A separação acontece no seu iPhone. Só o motor de separação é baixado, uma vez, no primeiro uso.
+
+**Q: Quanto tempo leva?**
+
+A: Num iPhone Pro recente, mais ou menos o tempo da música. iPhones mais antigos demoram mais. Se você sair do app, pausa e continua ao voltar.
+
+**Q: É grátis?**
+
+A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música. Stems, Studio, o Sampler, o pitch e as outras ferramentas precisam do VibeDeck PRO.
 
 ## オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし
 
@@ -1849,6 +2021,33 @@ A: いいえ。Apple Musicなどストリーミングサービスの保護され
 **Q: 無料ですか?**
 
 A: 新しいユーザーは48時間すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができ、Sampler、Studio、ピッチなどの機能にはVibeDeck PROが必要です。
+
+## iPhoneで曲をボーカルとインストに分離 | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/ja/vocal-bunri/
+Language: ja
+
+iPhoneの中で曲をボーカルとインストゥルメンタルに分離。再生しながら切り替え、テンポやループはそのまま、各パートを書き出せます。アップロードなし。
+
+**Q: iPhoneで曲からボーカルを消すには?**
+
+A: VibeDeckのStudioで曲を開き、STEMSをタップ。分離が終わったらInstrumentalを選びます。インストは単独のファイルとして書き出すこともできます。
+
+**Q: ボーカルだけ(アカペラ)にできますか?**
+
+A: はい。Vocalを選ぶと声だけが聴けます。Vocalボタンで書き出すこともできます。
+
+**Q: 音楽はアップロードされますか?**
+
+A: いいえ。分離はiPhoneの中で行われます。初回に分離エンジンを一度ダウンロードするだけです。
+
+**Q: どのくらい時間がかかりますか?**
+
+A: 最近のiPhone Proなら、曲の長さとほぼ同じです。古いiPhoneではもう少しかかります。アプリを離れると一時停止し、戻ると再開します。
+
+**Q: 無料ですか?**
+
+A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます。Stems、Studio、Sampler、ピッチなどのツールにはVibeDeck PROが必要です。
 
 ## Музыкальный плеер без интернета и рекламы | VibeDeck
 
@@ -2048,6 +2247,33 @@ A: Нет. Защищённую музыку из стриминговых се�
 
 A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом в бесплатной версии можно слушать музыку, в том числе в фоне. Для Сэмплера, Studio, питча и остальных инструментов нужен VibeDeck PRO.
 
+## Отделить голос от музыки на iPhone | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/ru/otdelit-golos-ot-muzyki/
+Language: ru
+
+Разделите любую песню на вокал и минус прямо на iPhone. Переключайте партии на ходу, темп и лупы сохраняются, каждую можно сохранить. Без загрузки.
+
+**Q: Как убрать голос из песни на iPhone?**
+
+A: Откройте песню в VibeDeck Studio, нажмите STEMS и выберите Instrumental, когда дорожки будут готовы. Минус можно сохранить и отдельным файлом.
+
+**Q: Можно оставить только голос (акапеллу)?**
+
+A: Да. Выберите Vocal, чтобы слышать только голос, или сохраните его кнопкой Vocal.
+
+**Q: Музыка загружается в интернет?**
+
+A: Нет. Разделение идёт на вашем iPhone. Скачивается только модуль разделения, один раз, при первом запуске.
+
+**Q: Сколько это занимает?**
+
+A: На свежем iPhone Pro примерно столько, сколько длится песня. На старых iPhone дольше. Если выйти из приложения, разделение встанет на паузу и продолжится после возврата.
+
+**Q: Это бесплатно?**
+
+A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатно можно слушать музыку. Для Stems, Studio, Сэмплера, питча и остальных инструментов нужен VibeDeck PRO.
+
 ## 광고 없는 오프라인 음악 플레이어 | VibeDeck
 
 URL: https://vibedeckplayer.app/ko/
@@ -2245,6 +2471,33 @@ A: 아니요. Apple Music 같은 스트리밍 서비스의 보호된 음악은 �
 **Q: 무료인가요?**
 
 A: 모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. 그 후 무료 버전에서는 음악 재생(백그라운드 재생 포함)만 가능하며, Sampler, Studio, 피치 등의 기능은 VibeDeck PRO가 필요합니다.
+
+## iPhone에서 노래를 보컬과 반주로 분리 | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/ko/vocal-bunri/
+Language: ko
+
+iPhone에서 어떤 곡이든 보컬과 반주로 분리하세요. 재생 중에 파트를 바꾸고, 템포와 루프는 그대로, 파트별로 내보낼 수 있습니다. 업로드 없음.
+
+**Q: iPhone에서 노래의 보컬을 지우려면?**
+
+A: VibeDeck Studio에서 곡을 열고 STEMS를 탭한 뒤, 분리가 끝나면 Instrumental을 고르세요. 반주를 별도 파일로 내보낼 수도 있습니다.
+
+**Q: 보컬만(아카펠라) 남길 수 있나요?**
+
+A: 네. Vocal을 고르면 목소리만 들리고, Vocal 버튼으로 내보낼 수도 있습니다.
+
+**Q: 음악이 업로드되나요?**
+
+A: 아니요. 분리는 iPhone 안에서 이루어집니다. 처음 사용할 때 분리 엔진만 한 번 내려받습니다.
+
+**Q: 시간은 얼마나 걸리나요?**
+
+A: 최신 iPhone Pro에서는 곡 길이와 비슷합니다. 오래된 iPhone은 더 걸립니다. 앱을 나가면 일시 정지되고 돌아오면 이어집니다.
+
+**Q: 무료인가요?**
+
+A: 새 사용자는 48시간 동안 모든 기능을 카드도 가입도 없이 무료로 쓸 수 있습니다. 그 후 무료 버전에서는 음악을 재생할 수 있습니다. Stems, Studio, Sampler, 피치 등 도구는 VibeDeck PRO가 필요합니다.
 
 ## Reklamsız çevrimdışı müzik çalar | VibeDeck
 
@@ -2444,6 +2697,33 @@ A: Hayır. Apple Music gibi yayın hizmetlerinin korumalı müziklerini sistem e
 
 A: Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Sonrasında ücretsiz sürüm müzik çalar, arka planda da. Sampler, Studio, pitch ve diğer araçlar için VibeDeck PRO gerekir.
 
+## iPhone'da şarkıyı vokal ve enstrümantale ayırma | VibeDeck
+
+URL: https://vibedeckplayer.app/tr/vokal-ayirma/
+Language: tr
+
+Her şarkıyı iPhone'unuzda vokal ve enstrümantale ayırın. Çalarken parçalar arasında geçin, tempo ve döngüler kalsın, her parçayı dışa aktarın.
+
+**Q: iPhone'da bir şarkıdan vokal nasıl silinir?**
+
+A: Şarkıyı VibeDeck Studio'da açın, STEMS'e dokunun ve stem'ler hazır olunca Instrumental'ı seçin. Enstrümantali ayrı dosya olarak da dışa aktarabilirsiniz.
+
+**Q: Yalnızca vokali (a cappella) alabilir miyim?**
+
+A: Evet. Yalnızca sesi duymak için Vocal'ı seçin ya da Vocal düğmesiyle dışa aktarın.
+
+**Q: Müziğim yükleniyor mu?**
+
+A: Hayır. Ayırma iPhone'unuzda yapılır. Yalnızca ayırma motoru, ilk kullanımda bir kez indirilir.
+
+**Q: Ne kadar sürer?**
+
+A: Yeni bir iPhone Pro'da yaklaşık şarkının süresi kadar. Eski iPhone'larda daha uzun. Uygulamadan çıkarsanız duraklar ve döndüğünüzde devam eder.
+
+**Q: Ücretsiz mi?**
+
+A: Her yeni kullanıcı 48 saat boyunca her şeyi kartsız ve kayıtsız kullanır. Sonrasında ücretsiz sürüm müzik çalar. Stems, Studio, Sampler, pitch ve diğer araçlar için VibeDeck PRO gerekir.
+
 ## Pemutar musik offline tanpa iklan | VibeDeck
 
 URL: https://vibedeckplayer.app/id/
@@ -2641,6 +2921,33 @@ A: Tidak. Musik terlindungi dari layanan streaming seperti Apple Music diblokir 
 **Q: Apakah gratis?**
 
 A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis bisa memutar musik, termasuk di latar belakang. Sampler, Studio, pitch, dan alat lainnya memerlukan VibeDeck PRO.
+
+## Pisahkan vokal dan instrumental lagu di iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/id/pisahkan-vokal/
+Language: id
+
+Pisahkan lagu apa pun jadi vokal dan instrumental di iPhone. Ganti bagian saat diputar, tempo dan loop tetap, ekspor tiap bagian. Tanpa upload.
+
+**Q: Bagaimana menghapus vokal dari lagu di iPhone?**
+
+A: Buka lagu di VibeDeck Studio, ketuk STEMS, lalu pilih Instrumental saat stems siap. Kamu juga bisa mengekspor instrumental sebagai file.
+
+**Q: Bisakah hanya vokalnya saja (a cappella)?**
+
+A: Bisa. Pilih Vocal untuk mendengar suara saja, atau ekspor dengan tombol Vocal.
+
+**Q: Apakah musikku diunggah?**
+
+A: Tidak. Pemisahan berjalan di iPhone. Hanya mesin pemisah yang diunduh, sekali, saat pertama kali memakai Stems.
+
+**Q: Berapa lama prosesnya?**
+
+A: Di iPhone Pro terbaru, kira-kira sepanjang lagu. iPhone lama butuh waktu lebih. Jika keluar dari aplikasi, proses berhenti sementara dan lanjut saat kembali.
+
+**Q: Apakah gratis?**
+
+A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik. Stems, Studio, Sampler, pitch, dan alat lainnya memerlukan VibeDeck PRO.
 
 ## Odtwarzacz muzyki offline bez reklam | VibeDeck
 
@@ -2840,6 +3147,33 @@ A: Nie. Chronioną muzykę z serwisów streamingowych, takich jak Apple Music, s
 
 A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Sampler, Studio, zmiana wysokości i pozostałe narzędzia wymagają VibeDeck PRO.
 
+## Oddziel wokal od podkładu na iPhonie | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/pl/usuwanie-wokalu/
+Language: pl
+
+Rozdziel każdy utwór na wokal i podkład na iPhonie. Przełączaj partie w trakcie, tempo i pętle zostają, eksportuj każdą z nich. Bez wysyłania.
+
+**Q: Jak usunąć wokal z piosenki na iPhonie?**
+
+A: Otwórz utwór w VibeDeck Studio, dotknij STEMS i wybierz Instrumental, gdy ścieżki będą gotowe. Podkład możesz też wyeksportować jako plik.
+
+**Q: Czy mogę mieć sam wokal (a cappella)?**
+
+A: Tak. Wybierz Vocal, żeby słyszeć tylko głos, albo wyeksportuj go przyciskiem Vocal.
+
+**Q: Czy moja muzyka jest wysyłana?**
+
+A: Nie. Rozdzielanie odbywa się na iPhonie. Pobierany jest tylko silnik rozdzielania, raz, przy pierwszym użyciu.
+
+**Q: Ile to trwa?**
+
+A: Na nowym iPhonie Pro mniej więcej tyle, ile utwór. Starsze iPhone’y potrzebują więcej czasu. Gdy wyjdziesz z aplikacji, rozdzielanie się wstrzyma i ruszy po powrocie.
+
+**Q: Czy to jest darmowe?**
+
+A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę. Stems, Studio, Sampler, pitch i pozostałe narzędzia wymagają VibeDeck PRO.
+
 ## Offline muziekspeler zonder advertenties | VibeDeck
 
 URL: https://vibedeckplayer.app/nl/
@@ -3037,6 +3371,33 @@ A: Nee. Beveiligde muziek van streamingdiensten zoals Apple Music wordt door het
 **Q: Is het gratis?**
 
 A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af, ook op de achtergrond. De Sampler, Studio, pitch en de andere tools vragen om VibeDeck PRO.
+
+## Zang en instrumentaal scheiden op de iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/nl/zang-verwijderen/
+Language: nl
+
+Splits elk nummer op je iPhone in zang en instrumentaal. Wissel tijdens het spelen, tempo en loops blijven, exporteer elk deel. Zonder uploaden.
+
+**Q: Hoe haal ik de zang uit een nummer op de iPhone?**
+
+A: Open het nummer in VibeDeck Studio, tik op STEMS en kies Instrumental zodra de stems klaar zijn. Je kunt het instrumentaal ook als bestand exporteren.
+
+**Q: Kan ik alleen de zang (a capella) krijgen?**
+
+A: Ja. Kies Vocal om alleen de stem te horen, of exporteer die met de Vocal-knop.
+
+**Q: Wordt mijn muziek geüpload?**
+
+A: Nee. Het splitsen gebeurt op je iPhone. Alleen de splitsmotor wordt gedownload, één keer, de eerste keer dat je Stems gebruikt.
+
+**Q: Hoe lang duurt het?**
+
+A: Op een recente iPhone Pro ongeveer zo lang als het nummer. Oudere iPhones doen er langer over. Verlaat je de app, dan pauzeert het en gaat het daarna verder.
+
+**Q: Is het gratis?**
+
+A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af. Stems, Studio, de Sampler, pitch en de andere tools hebben VibeDeck PRO nodig.
 
 ## Trình phát nhạc offline không quảng cáo | VibeDeck
 
@@ -3236,6 +3597,33 @@ A: Không. Nhạc được bảo vệ từ các dịch vụ nghe nhạc trực t
 
 A: Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc, kể cả khi chạy nền. Sampler, Studio, pitch và các công cụ khác cần VibeDeck PRO.
 
+## Tách giọng hát và nhạc nền trên iPhone | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/vi/tach-giong-hat/
+Language: vi
+
+Tách bài hát bất kỳ thành giọng hát và nhạc nền ngay trên iPhone. Chuyển phần khi đang phát, giữ tempo và vòng lặp, xuất từng phần. Không tải lên.
+
+**Q: Làm sao xóa giọng hát khỏi bài hát trên iPhone?**
+
+A: Mở bài trong VibeDeck Studio, chạm STEMS và chọn Instrumental khi stems sẵn sàng. Bạn cũng có thể xuất nhạc nền thành tệp riêng.
+
+**Q: Có lấy riêng giọng hát (a cappella) được không?**
+
+A: Được. Chọn Vocal để chỉ nghe giọng, hoặc xuất bằng nút Vocal.
+
+**Q: Nhạc của tôi có bị tải lên không?**
+
+A: Không. Việc tách diễn ra trên iPhone. Chỉ bộ máy tách được tải về, một lần, khi dùng Stems lần đầu.
+
+**Q: Mất bao lâu?**
+
+A: Trên iPhone Pro đời mới, gần bằng độ dài bài hát. iPhone cũ hơn sẽ lâu hơn. Nếu rời ứng dụng, quá trình tạm dừng và tiếp tục khi bạn quay lại.
+
+**Q: Có miễn phí không?**
+
+A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc. Stems, Studio, Sampler, pitch và các công cụ khác cần VibeDeck PRO.
+
 ## 無廣告離線音樂播放器 | VibeDeck
 
 URL: https://vibedeckplayer.app/zh-hant/
@@ -3433,6 +3821,33 @@ A: 不行。Apple Music 等串流服務的受保護音樂會被系統阻擋，�
 **Q: 是免費的嗎？**
 
 A: 每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂，也能在背景播放；Sampler、Studio、音高等工具需要 VibeDeck PRO。
+
+## 在 iPhone 上把歌曲分離成人聲和伴奏 | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/zh-hant/ren-sheng-fen-li/
+Language: zh-Hant
+
+在 iPhone 上把任何歌曲分離成人聲和伴奏。播放時切換，速度和循環保留，每個部分都能匯出。不必上傳。
+
+**Q: 怎麼在 iPhone 上去掉歌曲的人聲？**
+
+A: 在 VibeDeck Studio 開啟歌曲，點 STEMS，分離完成後選 Instrumental。也可以把伴奏匯出成獨立檔案。
+
+**Q: 可以只留人聲（清唱）嗎？**
+
+A: 可以。選 Vocal 只聽人聲，或用 Vocal 按鈕匯出。
+
+**Q: 我的音樂會被上傳嗎？**
+
+A: 不會。分離在你的 iPhone 上進行。只有分離引擎會在第一次使用時下載一次。
+
+**Q: 需要多久？**
+
+A: 在較新的 iPhone Pro 上，大約和歌曲長度相同。較舊的 iPhone 需要更久。離開 App 時會暫停，回來後繼續。
+
+**Q: 是免費的嗎？**
+
+A: 每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂。Stems、Studio、Sampler、音高等工具需要 VibeDeck PRO。
 
 ## 无广告离线音乐播放器 | VibeDeck
 
@@ -3632,6 +4047,33 @@ A: 不行。Apple Music 等流媒体服务的受保护音乐会被系统拦截�
 
 A: 每位新用户都能免费使用全部功能 48 小时，不需绑卡，也不需注册。之后免费版可以播放音乐，也能在背景播放；Sampler、Studio、音高等工具需要 VibeDeck PRO。
 
+## 在 iPhone 上把歌曲分离成人声和伴奏 | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/zh-hans/ren-sheng-fen-li/
+Language: zh-Hans
+
+在 iPhone 上把任何歌曲分离成人声和伴奏。播放时切换，速度和循环保留，每个部分都能导出。无需上传。
+
+**Q: 怎么在 iPhone 上去掉歌曲的人声？**
+
+A: 在 VibeDeck Studio 打开歌曲，点 STEMS，分离完成后选 Instrumental。也可以把伴奏导出为独立文件。
+
+**Q: 可以只留人声（清唱）吗？**
+
+A: 可以。选 Vocal 只听人声，或用 Vocal 按钮导出。
+
+**Q: 我的音乐会被上传吗？**
+
+A: 不会。分离在你的 iPhone 上进行。只有分离引擎会在第一次使用时下载一次。
+
+**Q: 需要多久？**
+
+A: 在较新的 iPhone Pro 上，大约和歌曲长度相同。较旧的 iPhone 需要更久。离开 App 时会暂停，回来后继续。
+
+**Q: 是免费的吗？**
+
+A: 每位新用户都能免费使用全部功能 48 小时，无需绑卡，也无需注册。之后免费版可以播放音乐。Stems、Studio、Sampler、音高等工具需要 VibeDeck PRO。
+
 ## เครื่องเล่นเพลงออฟไลน์ ไม่มีโฆษณา | VibeDeck
 
 URL: https://vibedeckplayer.app/th/
@@ -3829,3 +4271,30 @@ A: ไม่ได้ เพลงที่มีการป้องกัน�
 **Q: ฟรีไหม**
 
 A: ผู้ใช้ใหม่ทุกคนใช้ฟีเจอร์ทั้งหมดได้ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัครสมาชิก หลังจากนั้นเวอร์ชันฟรีจะเล่นเพลงได้ รวมถึงเล่นในเบื้องหลัง ส่วน Sampler, Studio, ระดับเสียง และเครื่องมืออื่นต้องใช้ VibeDeck PRO
+
+## แยกเสียงร้องกับดนตรีบน iPhone | VibeDeck Stems
+
+URL: https://vibedeckplayer.app/th/yaek-siang-rong/
+Language: th
+
+แยกเพลงไหนก็ได้เป็นเสียงร้องและดนตรีบน iPhone สลับส่วนระหว่างเล่น เทมโปและลูปยังอยู่ ส่งออกได้ทีละส่วน ไม่ต้องอัปโหลด
+
+**Q: จะลบเสียงร้องออกจากเพลงบน iPhone ได้อย่างไร**
+
+A: เปิดเพลงใน VibeDeck Studio แตะ STEMS แล้วเลือก Instrumental เมื่อสเต็มพร้อม ส่งออกดนตรีเป็นไฟล์แยกก็ได้
+
+**Q: เอาแค่เสียงร้อง (อะแคปเปลลา) ได้ไหม**
+
+A: ได้ เลือก Vocal เพื่อฟังแค่เสียงร้อง หรือส่งออกด้วยปุ่ม Vocal
+
+**Q: เพลงของฉันถูกอัปโหลดไหม**
+
+A: ไม่ การแยกเกิดขึ้นบน iPhone มีเพียงเครื่องมือแยกเสียงที่ดาวน์โหลดครั้งเดียวตอนใช้ครั้งแรก
+
+**Q: ใช้เวลานานแค่ไหน**
+
+A: บน iPhone Pro รุ่นใหม่ประมาณเท่าความยาวเพลง iPhone รุ่นเก่าใช้เวลานานกว่า ถ้าออกจากแอป การแยกจะหยุดชั่วคราวและทำต่อเมื่อกลับมา
+
+**Q: ใช้ฟรีไหม**
+
+A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ Stems, Studio, Sampler, pitch และเครื่องมืออื่น ๆ ต้องใช้ VibeDeck PRO
