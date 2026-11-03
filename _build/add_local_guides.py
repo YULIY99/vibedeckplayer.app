@@ -36,7 +36,8 @@ KEY_PAGES = {'ja': '/ja/key-henkou-app/', 'de': '/de/tonart-aendern/', 'fr': '/f
              'zh-Hant': '/zh-hant/sheng-jiang-diao/', 'zh-Hans': '/zh-hans/sheng-jiang-diao/', 'th': '/th/plian-key-phleng/'}
 GUIDES = {'slow-down': {'en': '/slow-down-song/', 'existing': {'ja': '/ja/tempo-henkou/'}, 'campaign': 'slow-down'},
           'sampler': {'en': '/sampler/', 'existing': {}, 'campaign': 'sampler'},
-          'stems': {'en': '/vocal-remover/', 'existing': {}, 'campaign': 'stems'}}
+          'stems': {'en': '/vocal-remover/', 'existing': {}, 'campaign': 'stems'},
+          'eq': {'en': '/dj-equalizer/', 'existing': {}, 'campaign': 'dj-eq'}}
 
 
 class Ordered(HTMLFormatter):

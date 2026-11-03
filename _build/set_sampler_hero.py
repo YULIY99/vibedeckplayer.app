@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Put the real app screen in the hero of every page of a feature (English + 16 languages).
 
-    python3 _build/set_sampler_hero.py [sampler|stems]   (default: sampler)
+    python3 _build/set_sampler_hero.py [sampler|stems|eq]   (default: sampler)
 
 The guide builders copy the hero image of their template page, so re-run this after
 add_guides.py sampler or add_local_guides.py sampler. Idempotent.
@@ -11,7 +11,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 FEATURES = {'sampler': ('/assets/img/vibedeck-sampler-iphone', '/sampler/', 'sampler.json'),
-            'stems': ('/assets/img/vibedeck-stems-iphone', '/vocal-remover/', 'stems.json')}
+            'stems': ('/assets/img/vibedeck-stems-iphone', '/vocal-remover/', 'stems.json'),
+            'eq': ('/assets/img/vibedeck-eq-8band-iphone', '/dj-equalizer/', 'eq.json')}
 IMG = ''
 SIZES = '(min-width: 1024px) 326px, 66vw'
 

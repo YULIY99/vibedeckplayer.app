@@ -1,0 +1,479 @@
+{
+ "_note": "DJ EQ block on the 17 home pages, placed before the Stems section. Built by _build/add_home_sampler.py eq. points: [title, text] x4. page: the localized DJ EQ page.",
+ "en": {
+  "home": "/",
+  "page": "/dj-equalizer/",
+  "new": "New",
+  "h2": "3-band DJ EQ or 8-band equalizer.",
+  "soft": "One tap to switch.",
+  "lede": "Big DJ faders for gain, bass, mid and high, or eight bands from 60 Hz to 16 kHz. Switch while the music plays, with VibeMod, the limiter and mono right below.",
+  "points": [
+   [
+    "3-band DJ EQ",
+    "Gain, bass, mid and high, like a DJ mixer."
+   ],
+   [
+    "8-band equalizer",
+    "60 Hz to 16 kHz, each band ±12 dB."
+   ],
+   [
+    "Mono for producers",
+    "Check that the kick and bass sit in the middle."
+   ],
+   [
+    "VibeMod and limiter",
+    "Dense, punchy sound with clean peaks."
+   ]
+  ],
+  "link": "How the DJ EQ works",
+  "alt": "VibeDeck EQ on iPhone: 8-band equalizer with VibeMod, limiter and mono"
+ },
+ "ru": {
+  "home": "/ru/",
+  "page": "/ru/dj-ekvalaizer/",
+  "new": "Новое",
+  "h2": "3-полосный DJ эквалайзер или 8-полосный.",
+  "soft": "Переключение в одно касание.",
+  "lede": "Большие DJ-фейдеры GAIN, BASS, MID и HIGH или восемь полос от 60 Гц до 16 кГц. Переключайте прямо во время музыки, а ниже VibeMod, лимитер и моно.",
+  "points": [
+   [
+    "3-полосный DJ EQ",
+    "Gain, bass, mid и high, как на DJ-микшере."
+   ],
+   [
+    "8-полосный эквалайзер",
+    "От 60 Гц до 16 кГц, каждая полоса ±12 дБ."
+   ],
+   [
+    "Моно для продюсеров",
+    "Проверьте, что кик и бас стоят по центру."
+   ],
+   [
+    "VibeMod и лимитер",
+    "Плотный, мощный звук и чистые пики."
+   ]
+  ],
+  "link": "Как работает DJ EQ",
+  "alt": "Эквалайзер VibeDeck на iPhone: 8 полос, VibeMod, лимитер и моно"
+ },
+ "ja": {
+  "home": "/ja/",
+  "page": "/ja/dj-equalizer/",
+  "new": "新機能",
+  "h2": "3バンドDJ EQか、8バンドEQか。",
+  "soft": "ワンタップで切り替え。",
+  "lede": "GAIN、BASS、MID、HIGHの大きなDJフェーダー、または60Hzから16kHzの8バンド。再生したまま切り替え、すぐ下にVibeMod、リミッター、モノ。",
+  "points": [
+   [
+    "3バンドDJ EQ",
+    "DJミキサーのようにGAIN、BASS、MID、HIGH。"
+   ],
+   [
+    "8バンドEQ",
+    "60Hzから16kHz、各バンド±12dB。"
+   ],
+   [
+    "プロデューサーにモノ",
+    "キックとベースが中央にあるか確認。"
+   ],
+   [
+    "VibeModとリミッター",
+    "厚みのあるパワフルな音、クリーンなピーク。"
+   ]
+  ],
+  "link": "DJ EQの使い方",
+  "alt": "iPhoneのVibeDeck EQ: VibeMod、リミッター、モノつき8バンドEQ"
+ },
+ "es": {
+  "home": "/es/",
+  "page": "/es/ecualizador-dj/",
+  "new": "Nuevo",
+  "h2": "Ecualizador DJ de 3 bandas o de 8 bandas.",
+  "soft": "Cambia con un toque.",
+  "lede": "Faders grandes de DJ para gain, bass, mid y high, u ocho bandas de 60 Hz a 16 kHz. Cambia mientras suena, con VibeMod, el limitador y mono justo debajo.",
+  "points": [
+   [
+    "Ecualizador DJ de 3 bandas",
+    "Gain, bass, mid y high, como una mesa de DJ."
+   ],
+   [
+    "Ecualizador de 8 bandas",
+    "De 60 Hz a 16 kHz, cada banda ±12 dB."
+   ],
+   [
+    "Mono para productores",
+    "Comprueba que el kick y el bajo están en el centro."
+   ],
+   [
+    "VibeMod y limitador",
+    "Sonido denso y con pegada, picos limpios."
+   ]
+  ],
+  "link": "Cómo funciona el DJ EQ",
+  "alt": "EQ de VibeDeck en iPhone: 8 bandas con VibeMod, limitador y mono"
+ },
+ "pt-BR": {
+  "home": "/pt-br/",
+  "page": "/pt-br/equalizador-dj/",
+  "new": "Novo",
+  "h2": "Equalizador DJ de 3 bandas ou de 8 bandas.",
+  "soft": "Troque com um toque.",
+  "lede": "Faders grandes de DJ para gain, bass, mid e high, ou oito bandas de 60 Hz a 16 kHz. Troque enquanto toca, com VibeMod, limitador e mono logo abaixo.",
+  "points": [
+   [
+    "Equalizador DJ de 3 bandas",
+    "Gain, bass, mid e high, como um mixer de DJ."
+   ],
+   [
+    "Equalizador de 8 bandas",
+    "De 60 Hz a 16 kHz, cada banda ±12 dB."
+   ],
+   [
+    "Mono para produtores",
+    "Confira se o kick e o baixo estão no centro."
+   ],
+   [
+    "VibeMod e limitador",
+    "Som denso e com pegada, picos limpos."
+   ]
+  ],
+  "link": "Como funciona o DJ EQ",
+  "alt": "EQ do VibeDeck no iPhone: 8 bandas com VibeMod, limitador e mono"
+ },
+ "de": {
+  "home": "/de/",
+  "page": "/de/dj-equalizer/",
+  "new": "Neu",
+  "h2": "3-Band DJ EQ oder 8-Band Equalizer.",
+  "soft": "Wechsel mit einem Tipp.",
+  "lede": "Große DJ-Fader für Gain, Bass, Mid und High oder acht Bänder von 60 Hz bis 16 kHz. Wechsle während die Musik läuft, mit VibeMod, Limiter und Mono direkt darunter.",
+  "points": [
+   [
+    "3-Band DJ EQ",
+    "Gain, Bass, Mid und High, wie ein DJ-Mixer."
+   ],
+   [
+    "8-Band Equalizer",
+    "60 Hz bis 16 kHz, jedes Band ±12 dB."
+   ],
+   [
+    "Mono für Produzenten",
+    "Prüfe, ob Kick und Bass in der Mitte sitzen."
+   ],
+   [
+    "VibeMod und Limiter",
+    "Dichter, druckvoller Sound, saubere Spitzen."
+   ]
+  ],
+  "link": "So funktioniert der DJ EQ",
+  "alt": "VibeDeck EQ auf dem iPhone: 8 Bänder mit VibeMod, Limiter und Mono"
+ },
+ "fr": {
+  "home": "/fr/",
+  "page": "/fr/egaliseur-dj/",
+  "new": "Nouveau",
+  "h2": "Égaliseur DJ 3 bandes ou 8 bandes.",
+  "soft": "Une touche pour changer.",
+  "lede": "De grands faders DJ pour gain, bass, mid et high, ou huit bandes de 60 Hz à 16 kHz. Changez pendant la lecture, avec VibeMod, le limiteur et le mono juste en dessous.",
+  "points": [
+   [
+    "Égaliseur DJ 3 bandes",
+    "Gain, bass, mid et high, comme une table DJ."
+   ],
+   [
+    "Égaliseur 8 bandes",
+    "De 60 Hz à 16 kHz, chaque bande ±12 dB."
+   ],
+   [
+    "Mono pour producteurs",
+    "Vérifiez que le kick et la basse sont au centre."
+   ],
+   [
+    "VibeMod et limiteur",
+    "Son dense et percutant, crêtes propres."
+   ]
+  ],
+  "link": "Comment marche le DJ EQ",
+  "alt": "EQ VibeDeck sur iPhone : 8 bandes avec VibeMod, limiteur et mono"
+ },
+ "it": {
+  "home": "/it/",
+  "page": "/it/equalizzatore-dj/",
+  "new": "Novità",
+  "h2": "Equalizzatore DJ a 3 bande o a 8 bande.",
+  "soft": "Cambia con un tocco.",
+  "lede": "Grandi fader da DJ per gain, bass, mid e high, oppure otto bande da 60 Hz a 16 kHz. Cambia mentre suona, con VibeMod, limiter e mono subito sotto.",
+  "points": [
+   [
+    "Equalizzatore DJ a 3 bande",
+    "Gain, bass, mid e high, come un mixer da DJ."
+   ],
+   [
+    "Equalizzatore a 8 bande",
+    "Da 60 Hz a 16 kHz, ogni banda ±12 dB."
+   ],
+   [
+    "Mono per produttori",
+    "Controlla che kick e basso stiano al centro."
+   ],
+   [
+    "VibeMod e limiter",
+    "Suono denso e potente, picchi puliti."
+   ]
+  ],
+  "link": "Come funziona il DJ EQ",
+  "alt": "EQ di VibeDeck su iPhone: 8 bande con VibeMod, limiter e mono"
+ },
+ "ko": {
+  "home": "/ko/",
+  "page": "/ko/dj-equalizer/",
+  "new": "새 기능",
+  "h2": "3밴드 DJ EQ 또는 8밴드 이퀄라이저.",
+  "soft": "탭 한 번으로 전환.",
+  "lede": "GAIN, BASS, MID, HIGH 큰 DJ 페이더, 또는 60Hz~16kHz 8밴드. 재생 중에 전환하고, 바로 아래에 VibeMod, 리미터, 모노.",
+  "points": [
+   [
+    "3밴드 DJ EQ",
+    "DJ 믹서처럼 GAIN, BASS, MID, HIGH."
+   ],
+   [
+    "8밴드 이퀄라이저",
+    "60Hz~16kHz, 각 밴드 ±12dB."
+   ],
+   [
+    "프로듀서를 위한 모노",
+    "킥과 베이스가 가운데 있는지 확인."
+   ],
+   [
+    "VibeMod와 리미터",
+    "밀도 있고 힘 있는 소리, 깨끗한 피크."
+   ]
+  ],
+  "link": "DJ EQ 사용법",
+  "alt": "iPhone의 VibeDeck EQ: VibeMod, 리미터, 모노가 있는 8밴드"
+ },
+ "tr": {
+  "home": "/tr/",
+  "page": "/tr/dj-ekolayzer/",
+  "new": "Yeni",
+  "h2": "3 bantlı DJ EQ ya da 8 bantlı ekolayzer.",
+  "soft": "Tek dokunuşla geç.",
+  "lede": "Gain, bass, mid ve high için büyük DJ faderları ya da 60 Hz-16 kHz arası sekiz bant. Müzik çalarken geç, hemen altında VibeMod, limiter ve mono.",
+  "points": [
+   [
+    "3 bantlı DJ EQ",
+    "DJ mikseri gibi gain, bass, mid ve high."
+   ],
+   [
+    "8 bantlı ekolayzer",
+    "60 Hz-16 kHz, her bant ±12 dB."
+   ],
+   [
+    "Prodüktörlere mono",
+    "Kick ve basın ortada olduğunu kontrol et."
+   ],
+   [
+    "VibeMod ve limiter",
+    "Yoğun, güçlü ses, temiz tepeler."
+   ]
+  ],
+  "link": "DJ EQ nasıl çalışır",
+  "alt": "iPhone’da VibeDeck EQ: VibeMod, limiter ve monolu 8 bant"
+ },
+ "id": {
+  "home": "/id/",
+  "page": "/id/equalizer-dj/",
+  "new": "Baru",
+  "h2": "Equalizer DJ 3 band atau 8 band.",
+  "soft": "Beralih dengan satu ketuk.",
+  "lede": "Fader DJ besar untuk gain, bass, mid, dan high, atau delapan band dari 60 Hz sampai 16 kHz. Beralih saat musik berjalan, dengan VibeMod, limiter, dan mono tepat di bawahnya.",
+  "points": [
+   [
+    "Equalizer DJ 3 band",
+    "Gain, bass, mid, dan high, seperti mixer DJ."
+   ],
+   [
+    "Equalizer 8 band",
+    "60 Hz sampai 16 kHz, tiap band ±12 dB."
+   ],
+   [
+    "Mono untuk produser",
+    "Cek kick dan bass ada di tengah."
+   ],
+   [
+    "VibeMod dan limiter",
+    "Suara padat dan bertenaga, puncak bersih."
+   ]
+  ],
+  "link": "Cara kerja DJ EQ",
+  "alt": "EQ VibeDeck di iPhone: 8 band dengan VibeMod, limiter, dan mono"
+ },
+ "pl": {
+  "home": "/pl/",
+  "page": "/pl/korektor-dj/",
+  "new": "Nowość",
+  "h2": "Korektor DJ 3-pasmowy albo 8-pasmowy.",
+  "soft": "Przełączasz jednym dotknięciem.",
+  "lede": "Duże suwaki DJ dla gain, bass, mid i high albo osiem pasm od 60 Hz do 16 kHz. Przełączaj w trakcie muzyki, a tuż pod spodem VibeMod, limiter i mono.",
+  "points": [
+   [
+    "3-pasmowy korektor DJ",
+    "Gain, bass, mid i high, jak mikser DJ."
+   ],
+   [
+    "8-pasmowy equalizer",
+    "Od 60 Hz do 16 kHz, każde pasmo ±12 dB."
+   ],
+   [
+    "Mono dla producentów",
+    "Sprawdź, czy kick i bas są na środku."
+   ],
+   [
+    "VibeMod i limiter",
+    "Gęsty, mocny dźwięk, czyste szczyty."
+   ]
+  ],
+  "link": "Jak działa DJ EQ",
+  "alt": "EQ VibeDeck na iPhonie: 8 pasm z VibeMod, limiterem i mono"
+ },
+ "nl": {
+  "home": "/nl/",
+  "page": "/nl/dj-equalizer/",
+  "new": "Nieuw",
+  "h2": "3-bands DJ EQ of 8-bands equalizer.",
+  "soft": "Wissel met één tik.",
+  "lede": "Grote DJ-faders voor gain, bass, mid en high, of acht banden van 60 Hz tot 16 kHz. Wissel terwijl de muziek speelt, met VibeMod, limiter en mono er direct onder.",
+  "points": [
+   [
+    "3-bands DJ EQ",
+    "Gain, bass, mid en high, zoals een DJ-mixer."
+   ],
+   [
+    "8-bands equalizer",
+    "60 Hz tot 16 kHz, elke band ±12 dB."
+   ],
+   [
+    "Mono voor producers",
+    "Check of kick en bas in het midden zitten."
+   ],
+   [
+    "VibeMod en limiter",
+    "Dicht, krachtig geluid, schone pieken."
+   ]
+  ],
+  "link": "Zo werkt de DJ EQ",
+  "alt": "VibeDeck EQ op iPhone: 8 banden met VibeMod, limiter en mono"
+ },
+ "vi": {
+  "home": "/vi/",
+  "page": "/vi/eq-dj/",
+  "new": "Mới",
+  "h2": "EQ DJ 3 băng tần hoặc equalizer 8 băng tần.",
+  "soft": "Chuyển bằng một chạm.",
+  "lede": "Fader DJ lớn cho gain, bass, mid và high, hoặc tám băng từ 60 Hz đến 16 kHz. Chuyển ngay khi nhạc đang phát, với VibeMod, limiter và mono ngay bên dưới.",
+  "points": [
+   [
+    "EQ DJ 3 băng tần",
+    "Gain, bass, mid và high, như bàn mixer DJ."
+   ],
+   [
+    "Equalizer 8 băng tần",
+    "Từ 60 Hz đến 16 kHz, mỗi băng ±12 dB."
+   ],
+   [
+    "Mono cho nhà sản xuất",
+    "Kiểm tra kick và bass nằm ở giữa."
+   ],
+   [
+    "VibeMod và limiter",
+    "Âm thanh dày, mạnh, đỉnh sạch."
+   ]
+  ],
+  "link": "Cách dùng DJ EQ",
+  "alt": "EQ của VibeDeck trên iPhone: 8 băng tần với VibeMod, limiter và mono"
+ },
+ "zh-Hant": {
+  "home": "/zh-hant/",
+  "page": "/zh-hant/dj-eq/",
+  "new": "新功能",
+  "h2": "3 段 DJ EQ 或 8 段等化器。",
+  "soft": "一鍵切換。",
+  "lede": "GAIN、BASS、MID、HIGH 大型 DJ 推桿，或 60 Hz 到 16 kHz 的八段。播放中直接切換，下方就是 VibeMod、限幅器和單聲道。",
+  "points": [
+   [
+    "3 段 DJ 等化器",
+    "像 DJ 混音器一樣的 GAIN、BASS、MID、HIGH。"
+   ],
+   [
+    "8 段等化器",
+    "60 Hz 到 16 kHz，每段 ±12 dB。"
+   ],
+   [
+    "給製作人的單聲道",
+    "確認大鼓和貝斯在中間。"
+   ],
+   [
+    "VibeMod 與限幅器",
+    "密實有力的聲音，乾淨的峰值。"
+   ]
+  ],
+  "link": "DJ EQ 怎麼用",
+  "alt": "iPhone 上的 VibeDeck EQ：附 VibeMod、限幅器與單聲道的 8 段等化器"
+ },
+ "zh-Hans": {
+  "home": "/zh-hans/",
+  "page": "/zh-hans/dj-eq/",
+  "new": "新功能",
+  "h2": "3 段 DJ EQ 或 8 段均衡器。",
+  "soft": "一键切换。",
+  "lede": "GAIN、BASS、MID、HIGH 大型 DJ 推子，或 60 Hz 到 16 kHz 的八段。播放中直接切换，下方就是 VibeMod、限幅器和单声道。",
+  "points": [
+   [
+    "3 段 DJ 均衡器",
+    "像 DJ 调音台一样的 GAIN、BASS、MID、HIGH。"
+   ],
+   [
+    "8 段均衡器",
+    "60 Hz 到 16 kHz，每段 ±12 dB。"
+   ],
+   [
+    "给制作人的单声道",
+    "确认底鼓和贝斯在中间。"
+   ],
+   [
+    "VibeMod 与限幅器",
+    "密实有力的声音，干净的峰值。"
+   ]
+  ],
+  "link": "DJ EQ 怎么用",
+  "alt": "iPhone 上的 VibeDeck EQ：带 VibeMod、限幅器和单声道的 8 段均衡器"
+ },
+ "th": {
+  "home": "/th/",
+  "page": "/th/dj-eq/",
+  "new": "ใหม่",
+  "h2": "อีควอไลเซอร์ DJ 3 แบนด์ หรือ 8 แบนด์",
+  "soft": "สลับได้ในแตะเดียว",
+  "lede": "เฟดเดอร์ DJ ขนาดใหญ่สำหรับ GAIN, BASS, MID และ HIGH หรือแปดแบนด์ตั้งแต่ 60 Hz ถึง 16 kHz สลับได้ขณะเพลงเล่น พร้อม VibeMod ลิมิตเตอร์ และโมโนอยู่ด้านล่าง",
+  "points": [
+   [
+    "อีควอไลเซอร์ DJ 3 แบนด์",
+    "GAIN, BASS, MID และ HIGH เหมือนมิกเซอร์ DJ"
+   ],
+   [
+    "อีควอไลเซอร์ 8 แบนด์",
+    "60 Hz ถึง 16 kHz แต่ละแบนด์ ±12 dB"
+   ],
+   [
+    "โมโนสำหรับโปรดิวเซอร์",
+    "เช็กว่าคิกและเบสอยู่ตรงกลาง"
+   ],
+   [
+    "VibeMod และลิมิตเตอร์",
+    "เสียงแน่น หนักแน่น พีคสะอาด"
+   ]
+  ],
+  "link": "DJ EQ ทำงานอย่างไร",
+  "alt": "EQ ของ VibeDeck บน iPhone: 8 แบนด์พร้อม VibeMod ลิมิตเตอร์ และโมโน"
+ }
+}

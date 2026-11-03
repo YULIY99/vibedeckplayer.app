@@ -14,6 +14,7 @@
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
 - VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
+- VibeDeck DJ EQ (iPhone, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
@@ -26,6 +27,7 @@
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
 - "Slow down a song without changing pitch", "practice app for musicians and dancers"
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
+- "DJ EQ app for iPhone", "3-band DJ equalizer", "8-band equalizer for iPhone", "music player with 8-band EQ", "listen in mono to check a mix", "check kick and bass in mono" (VibeDeck DJ EQ)
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
 - "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
@@ -74,6 +76,7 @@
 - [Play Google Drive Music Offline on Android | VibeDeck Player](https://vibedeckplayer.app/google-drive-music-player-android/): Listen to MP3, FLAC and WAV files from Google Drive on Android without internet: download them once, import into VibeDeck Player and play offline. No ads.
 - [Record Internal Audio on iPhone and Android | VibeDeck](https://vibedeckplayer.app/sampler/): Record any sound playing on your phone: YouTube, SoundCloud, TikTok and more. Edit it on the waveform, then share it, save it as a track or open it in Studio.
 - [Vocal Remover and Stem Splitter for iPhone | VibeDeck](https://vibedeckplayer.app/vocal-remover/): Split any song into vocals and instrumental on your iPhone. Switch parts while it plays, keep tempo and loops, export each one. Nothing is uploaded.
+- [3-Band DJ EQ and 8-Band Equalizer for iPhone | VibeDeck](https://vibedeckplayer.app/dj-equalizer/): Switch between a 3-band DJ EQ (gain, bass, mid, high) and an 8-band equalizer from 60 Hz to 16 kHz on iPhone. With limiter, mono and balance. No ads.
 
 ## Pages in Deutsch (de)
 
@@ -84,6 +87,7 @@
 - [Song langsamer abspielen, Tonhöhe bleibt | VibeDeck](https://vibedeckplayer.app/de/song-langsamer-abspielen/): Spiele Songs auf iPhone oder Android langsamer ab, ohne die Tonart zu ändern. Übe Soli, Choreos und schnelle Texte in deinem Tempo, offline und ohne Werbung.
 - [Internen Ton am Handy aufnehmen | VibeDeck](https://vibedeckplayer.app/de/internen-ton-aufnehmen/): Nimm jeden Ton auf, der auf deinem iPhone oder Android läuft: YouTube, SoundCloud, jede App. Schneide ihn in der Wellenform und öffne ihn im Studio.
 - [Gesang und Instrumental trennen auf dem iPhone | VibeDeck](https://vibedeckplayer.app/de/gesang-entfernen/): Trenne jeden Song auf dem iPhone in Gesang und Instrumental. Wechsle beim Abspielen, Tempo und Loops bleiben, exportiere jede Spur. Ohne Upload.
+- [DJ Equalizer mit 3 und 8 Bändern für iPhone | VibeDeck](https://vibedeckplayer.app/de/dj-equalizer/): Wechsle auf dem iPhone zwischen einem 3-Band DJ EQ (Gain, Bass, Mid, High) und einem 8-Band Equalizer von 60 Hz bis 16 kHz. Mit Limiter, Mono, VibeMod.
 
 ## Pages in Français (fr)
 
@@ -94,6 +98,7 @@
 - [Ralentir une chanson sans changer la tonalité | VibeDeck](https://vibedeckplayer.app/fr/ralentir-une-chanson/): Ralentissez une chanson sur iPhone ou Android sans changer sa tonalité. Solos, chorégraphies et paroles rapides à votre rythme, hors ligne et sans pub.
 - [Enregistrer le son interne du téléphone | VibeDeck](https://vibedeckplayer.app/fr/enregistrer-son-interne/): Enregistrez tout son joué sur votre iPhone ou Android : YouTube, SoundCloud, n'importe quelle app. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.
 - [Séparer la voix et l'instrumental sur iPhone | VibeDeck](https://vibedeckplayer.app/fr/supprimer-voix/): Séparez n'importe quel morceau en voix et instrumental sur iPhone. Changez de partie en lecture, gardez tempo et boucles, exportez chacune. Sans envoi.
+- [Égaliseur DJ 3 bandes et égaliseur 8 bandes sur iPhone](https://vibedeckplayer.app/fr/egaliseur-dj/): Passez d’un égaliseur DJ 3 bandes (gain, bass, mid, high) à un égaliseur 8 bandes de 60 Hz à 16 kHz sur iPhone. Avec limiteur, mono et VibeMod. Sans pub.
 
 ## Pages in Italiano (it)
 
@@ -104,6 +109,7 @@
 - [Rallentare una canzone senza cambiare tonalità | VibeDeck](https://vibedeckplayer.app/it/rallentare-una-canzone/): Rallenta una canzone su iPhone o Android senza cambiarne la tonalità. Studia assoli, coreografie e testi veloci al tuo ritmo, offline e senza pubblicità.
 - [Registrare l'audio interno del telefono | VibeDeck](https://vibedeckplayer.app/it/registrare-audio-interno/): Registra qualsiasi suono riprodotto su iPhone o Android: YouTube, SoundCloud, qualsiasi app. Taglialo sulla forma d'onda e aprilo in Studio.
 - [Separare voce e base di un brano su iPhone | VibeDeck](https://vibedeckplayer.app/it/rimuovere-voce/): Separa qualsiasi brano in voce e base sul tuo iPhone. Cambia parte mentre suona, mantieni tempo e loop, esporta ogni parte. Senza caricare nulla.
+- [Equalizzatore DJ a 3 bande e a 8 bande su iPhone](https://vibedeckplayer.app/it/equalizzatore-dj/): Passa da un equalizzatore DJ a 3 bande (gain, bass, mid, high) a uno a 8 bande da 60 Hz a 16 kHz su iPhone. Con limiter, mono e VibeMod. Senza pubblicità.
 
 ## Pages in Español (es)
 
@@ -113,6 +119,7 @@
 - [Ralentizar una canción sin cambiar el tono | VibeDeck](https://vibedeckplayer.app/es/ralentizar-una-cancion/): Ralentiza una canción en iPhone o Android sin cambiar su tono. Practica solos, coreografías y letras rápidas a tu ritmo, sin conexión y sin anuncios.
 - [Grabar el audio interno del móvil | VibeDeck](https://vibedeckplayer.app/es/grabar-audio-interno/): Graba cualquier sonido que suene en tu iPhone o Android: YouTube, SoundCloud, cualquier app. Edítalo en la onda, compártelo o ábrelo en Studio.
 - [Separar voz e instrumental de una canción en iPhone](https://vibedeckplayer.app/es/separar-voz-de-cancion/): Separa cualquier canción en voz e instrumental en tu iPhone. Cambia de parte mientras suena, conserva tempo y loops, y exporta cada una. Sin subir nada.
+- [Ecualizador DJ de 3 bandas y de 8 bandas en iPhone](https://vibedeckplayer.app/es/ecualizador-dj/): Cambia entre un ecualizador DJ de 3 bandas (gain, bass, mid, high) y uno de 8 bandas de 60 Hz a 16 kHz en iPhone. Con limitador, mono y VibeMod. Sin anuncios.
 
 ## Pages in Português (Brasil) (pt-BR)
 
@@ -122,6 +129,7 @@
 - [Desacelerar música sem mudar o tom | VibeDeck](https://vibedeckplayer.app/pt-br/desacelerar-musica/): Deixe uma música mais lenta no iPhone ou Android sem mudar o tom. Treine solos, coreografias e letras rápidas no seu ritmo, offline e sem anúncios.
 - [Gravar o áudio interno do celular | VibeDeck](https://vibedeckplayer.app/pt-br/gravar-audio-interno/): Grave qualquer som que toca no seu iPhone ou Android: YouTube, SoundCloud, qualquer app. Edite na forma de onda, compartilhe ou abra no Studio.
 - [Separar voz e instrumental de uma música no iPhone](https://vibedeckplayer.app/pt-br/separar-voz-da-musica/): Separe qualquer música em voz e instrumental no seu iPhone. Troque de parte enquanto toca, mantenha tempo e loops e exporte cada uma. Sem enviar nada.
+- [Equalizador DJ de 3 bandas e de 8 bandas no iPhone](https://vibedeckplayer.app/pt-br/equalizador-dj/): Troque entre um equalizador DJ de 3 bandas (gain, bass, mid, high) e um de 8 bandas de 60 Hz a 16 kHz no iPhone. Com limitador, mono e VibeMod. Sem anúncios.
 
 ## Pages in 日本語 (ja)
 
@@ -131,6 +139,7 @@
 - [iPhone・AndroidのFLACプレーヤー｜オフライン・広告なし｜VibeDeck](https://vibedeckplayer.app/ja/flac-player/): CDから取り込んだFLACを、変換せずにiPhone・iPad・Androidでオフライン再生。EQ、リミッター、キー・テンポ変更、波形表示つき。広告なし・アカウント不要。WAV・MP3にも対応。
 - [iPhone・Androidで内部音声を録音する方法 | VibeDeck](https://vibedeckplayer.app/ja/naibu-onsei-rokuon/): YouTubeやSoundCloudなど、スマホで流れている音をそのまま録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。
 - [iPhoneで曲をボーカルとインストに分離 | VibeDeck Stems](https://vibedeckplayer.app/ja/vocal-bunri/): iPhoneの中で曲をボーカルとインストゥルメンタルに分離。再生しながら切り替え、テンポやループはそのまま、各パートを書き出せます。アップロードなし。
+- [DJイコライザー: 3バンドと8バンドをiPhoneで | VibeDeck](https://vibedeckplayer.app/ja/dj-equalizer/): iPhoneで3バンドのDJイコライザー(GAIN、BASS、MID、HIGH)と60Hzから16kHzの8バンドEQを切り替え。リミッター、モノ、VibeModつき。広告なし。
 
 ## Pages in Русский (ru)
 
@@ -141,6 +150,7 @@
 - [Как замедлить песню без изменения тональности | VibeDeck](https://vibedeckplayer.app/ru/zamedlit-pesnyu/): Замедлите песню на iPhone или Android, не меняя тональность. Разбирайте соло, хореографию и быстрый текст в своём темпе, без интернета и рекламы.
 - [Как записать звук с телефона из любого приложения | VibeDeck](https://vibedeckplayer.app/ru/zapis-zvuka-s-telefona/): Записывайте любой звук, который играет на iPhone или Android: YouTube, SoundCloud, любое приложение. Режьте запись по волне и открывайте в Studio.
 - [Отделить голос от музыки на iPhone | VibeDeck Stems](https://vibedeckplayer.app/ru/otdelit-golos-ot-muzyki/): Разделите любую песню на вокал и минус прямо на iPhone. Переключайте партии на ходу, темп и лупы сохраняются, каждую можно сохранить. Без загрузки.
+- [DJ эквалайзер: 3 полосы и 8 полос на iPhone | VibeDeck](https://vibedeckplayer.app/ru/dj-ekvalaizer/): Переключайтесь между 3-полосным DJ эквалайзером (gain, bass, mid, high) и 8-полосным от 60 Гц до 16 кГц на iPhone. Лимитер, моно, VibeMod. Без рекламы.
 
 ## Pages in 한국어 (ko)
 
@@ -151,6 +161,7 @@
 - [음정 그대로 노래 속도 늦추기 | VibeDeck](https://vibedeckplayer.app/ko/tempo-byeongyeong/): iPhone이나 Android에서 키는 그대로 두고 노래를 느리게 재생하세요. 솔로, 안무, 빠른 가사를 내 속도로 연습할 수 있습니다. 오프라인, 광고 없음.
 - [아이폰·안드로이드 내부 소리 녹음 | VibeDeck](https://vibedeckplayer.app/ko/naebu-sori-nokeum/): YouTube, SoundCloud 등 휴대폰에서 재생되는 모든 소리를 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.
 - [iPhone에서 노래를 보컬과 반주로 분리 | VibeDeck Stems](https://vibedeckplayer.app/ko/vocal-bunri/): iPhone에서 어떤 곡이든 보컬과 반주로 분리하세요. 재생 중에 파트를 바꾸고, 템포와 루프는 그대로, 파트별로 내보낼 수 있습니다. 업로드 없음.
+- [DJ 이퀄라이저: iPhone용 3밴드와 8밴드 | VibeDeck](https://vibedeckplayer.app/ko/dj-equalizer/): iPhone에서 3밴드 DJ EQ(GAIN, BASS, MID, HIGH)와 60Hz~16kHz 8밴드 이퀄라이저를 전환하세요. 리미터, 모노, VibeMod 포함. 광고 없음.
 
 ## Pages in Türkçe (tr)
 
@@ -161,6 +172,7 @@
 - [Şarkıyı tonunu bozmadan yavaşlatma | VibeDeck](https://vibedeckplayer.app/tr/sarkiyi-yavaslatma/): iPhone veya Android’de bir şarkıyı tonunu değiştirmeden yavaşlat. Soloları, koreografileri ve hızlı sözleri kendi hızında çalış; çevrimdışı ve reklamsız.
 - [Telefonda dahili ses kaydı | VibeDeck](https://vibedeckplayer.app/tr/dahili-ses-kaydi/): iPhone veya Android'de çalan her sesi kaydedin: YouTube, SoundCloud, her uygulama. Dalga formunda kesin, paylaşın ya da Studio'da açın.
 - [iPhone'da şarkıyı vokal ve enstrümantale ayırma | VibeDeck](https://vibedeckplayer.app/tr/vokal-ayirma/): Her şarkıyı iPhone'unuzda vokal ve enstrümantale ayırın. Çalarken parçalar arasında geçin, tempo ve döngüler kalsın, her parçayı dışa aktarın.
+- [iPhone için 3 bantlı DJ ekolayzer ve 8 bantlı EQ](https://vibedeckplayer.app/tr/dj-ekolayzer/): iPhone’da 3 bantlı DJ ekolayzer (gain, bass, mid, high) ile 60 Hz-16 kHz arası 8 bantlı ekolayzer arasında geçiş yap. Limiter, mono ve VibeMod. Reklamsız.
 
 ## Pages in Bahasa Indonesia (id)
 
@@ -171,6 +183,7 @@
 - [Cara memperlambat lagu tanpa mengubah nada | VibeDeck](https://vibedeckplayer.app/id/memperlambat-lagu/): Perlambat lagu di iPhone atau Android tanpa mengubah nadanya. Latih solo, koreografi, dan lirik cepat sesuai kecepatanmu, offline dan tanpa iklan.
 - [Cara merekam audio internal HP | VibeDeck](https://vibedeckplayer.app/id/rekam-audio-internal/): Rekam suara apa pun yang diputar di iPhone atau Android: YouTube, SoundCloud, aplikasi apa saja. Potong di gelombang suara, bagikan, atau buka di Studio.
 - [Pisahkan vokal dan instrumental lagu di iPhone | VibeDeck](https://vibedeckplayer.app/id/pisahkan-vokal/): Pisahkan lagu apa pun jadi vokal dan instrumental di iPhone. Ganti bagian saat diputar, tempo dan loop tetap, ekspor tiap bagian. Tanpa upload.
+- [Equalizer DJ 3 band dan equalizer 8 band di iPhone](https://vibedeckplayer.app/id/equalizer-dj/): Beralih antara equalizer DJ 3 band (gain, bass, mid, high) dan equalizer 8 band 60 Hz sampai 16 kHz di iPhone. Dengan limiter, mono, dan VibeMod. Tanpa iklan.
 
 ## Pages in Polski (pl)
 
@@ -181,6 +194,7 @@
 - [Jak zwolnić piosenkę bez zmiany tonacji | VibeDeck](https://vibedeckplayer.app/pl/zwolnic-piosenke/): Zwolnij piosenkę na iPhonie lub Androidzie bez zmiany tonacji. Ćwicz solówki, choreografie i szybkie teksty we własnym tempie, offline i bez reklam.
 - [Jak nagrać dźwięk wewnętrzny telefonu | VibeDeck](https://vibedeckplayer.app/pl/nagrywanie-dzwieku-z-telefonu/): Nagrywaj każdy dźwięk grający na iPhonie lub Androidzie: YouTube, SoundCloud, dowolna aplikacja. Przytnij go na fali i otwórz w Studio.
 - [Oddziel wokal od podkładu na iPhonie | VibeDeck Stems](https://vibedeckplayer.app/pl/usuwanie-wokalu/): Rozdziel każdy utwór na wokal i podkład na iPhonie. Przełączaj partie w trakcie, tempo i pętle zostają, eksportuj każdą z nich. Bez wysyłania.
+- [Korektor DJ 3-pasmowy i equalizer 8-pasmowy na iPhone](https://vibedeckplayer.app/pl/korektor-dj/): Przełączaj na iPhonie między 3-pasmowym korektorem DJ (gain, bass, mid, high) a 8-pasmowym equalizerem od 60 Hz do 16 kHz. Limiter, mono i VibeMod. Bez reklam.
 
 ## Pages in Nederlands (nl)
 
@@ -191,6 +205,7 @@
 - [Een nummer vertragen zonder toonhoogte | VibeDeck](https://vibedeckplayer.app/nl/nummer-vertragen/): Vertraag een nummer op iPhone of Android zonder de toonhoogte te veranderen. Oefen solo’s, choreografie en snelle teksten in je eigen tempo. Offline.
 - [Intern geluid opnemen op je telefoon | VibeDeck](https://vibedeckplayer.app/nl/intern-geluid-opnemen/): Neem elk geluid op dat op je iPhone of Android speelt: YouTube, SoundCloud, elke app. Knip het op de golfvorm, deel het of open het in Studio.
 - [Zang en instrumentaal scheiden op de iPhone | VibeDeck](https://vibedeckplayer.app/nl/zang-verwijderen/): Splits elk nummer op je iPhone in zang en instrumentaal. Wissel tijdens het spelen, tempo en loops blijven, exporteer elk deel. Zonder uploaden.
+- [DJ equalizer met 3 en 8 banden voor iPhone | VibeDeck](https://vibedeckplayer.app/nl/dj-equalizer/): Wissel op iPhone tussen een 3-bands DJ EQ (gain, bass, mid, high) en een 8-bands equalizer van 60 Hz tot 16 kHz. Met limiter, mono en VibeMod. Geen reclame.
 
 ## Pages in Tiếng Việt (vi)
 
@@ -201,6 +216,7 @@
 - [Làm chậm bài hát mà không đổi tone | VibeDeck](https://vibedeckplayer.app/vi/lam-cham-bai-hat/): Làm chậm bài hát trên iPhone hoặc Android mà không đổi tone. Tập solo, vũ đạo và lời nhanh theo tốc độ của bạn, offline và không quảng cáo.
 - [Cách ghi âm âm thanh nội bộ trên điện thoại | VibeDeck](https://vibedeckplayer.app/vi/ghi-am-am-thanh-noi-bo/): Ghi lại mọi âm thanh đang phát trên iPhone hoặc Android: YouTube, SoundCloud, mọi ứng dụng. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.
 - [Tách giọng hát và nhạc nền trên iPhone | VibeDeck Stems](https://vibedeckplayer.app/vi/tach-giong-hat/): Tách bài hát bất kỳ thành giọng hát và nhạc nền ngay trên iPhone. Chuyển phần khi đang phát, giữ tempo và vòng lặp, xuất từng phần. Không tải lên.
+- [EQ DJ 3 băng tần và equalizer 8 băng tần trên iPhone](https://vibedeckplayer.app/vi/eq-dj/): Chuyển giữa EQ DJ 3 băng tần (gain, bass, mid, high) và equalizer 8 băng tần từ 60 Hz đến 16 kHz trên iPhone. Có limiter, mono và VibeMod. Không quảng cáo.
 
 ## Pages in 繁體中文 (zh-Hant)
 
@@ -211,6 +227,7 @@
 - [不變調放慢歌曲速度 | VibeDeck](https://vibedeckplayer.app/zh-hant/fang-man-ge-qu/): 在 iPhone 或 Android 上放慢歌曲，音調不變。用自己的速度練習獨奏、舞蹈和快歌詞，離線、無廣告。
 - [iPhone、Android 內部錄音：錄下手機正在播放的聲音 | VibeDeck](https://vibedeckplayer.app/zh-hant/nei-bu-lu-yin/): 錄下手機上播放的任何聲音：YouTube、SoundCloud、任何 App。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。
 - [在 iPhone 上把歌曲分離成人聲和伴奏 | VibeDeck Stems](https://vibedeckplayer.app/zh-hant/ren-sheng-fen-li/): 在 iPhone 上把任何歌曲分離成人聲和伴奏。播放時切換，速度和循環保留，每個部分都能匯出。不必上傳。
+- [iPhone DJ 等化器：3 段 DJ EQ 與 8 段等化器 | VibeDeck](https://vibedeckplayer.app/zh-hant/dj-eq/): 在 iPhone 上切換 3 段 DJ 等化器（GAIN、BASS、MID、HIGH）與 60 Hz 到 16 kHz 的 8 段等化器。附限幅器、單聲道與 VibeMod。無廣告。
 
 ## Pages in 简体中文 (zh-Hans)
 
@@ -221,6 +238,7 @@
 - [不变调放慢歌曲速度 | VibeDeck](https://vibedeckplayer.app/zh-hans/fang-man-ge-qu/): 在 iPhone 或 Android 上放慢歌曲，音调不变。用自己的速度练习独奏、舞蹈和快歌词，离线、无广告。
 - [iPhone、Android 内部录音：录下手机正在播放的声音 | VibeDeck](https://vibedeckplayer.app/zh-hans/nei-bu-lu-yin/): 录下手机上播放的任何声音：YouTube、SoundCloud、任何 App。在波形上剪辑，再分享、存进数据库，或在 Studio 里继续编辑。
 - [在 iPhone 上把歌曲分离成人声和伴奏 | VibeDeck Stems](https://vibedeckplayer.app/zh-hans/ren-sheng-fen-li/): 在 iPhone 上把任何歌曲分离成人声和伴奏。播放时切换，速度和循环保留，每个部分都能导出。无需上传。
+- [iPhone DJ 均衡器：3 段 DJ EQ 与 8 段均衡器 | VibeDeck](https://vibedeckplayer.app/zh-hans/dj-eq/): 在 iPhone 上切换 3 段 DJ 均衡器（GAIN、BASS、MID、HIGH）与 60 Hz 到 16 kHz 的 8 段均衡器。带限幅器、单声道和 VibeMod。无广告。
 
 ## Pages in ไทย (th)
 
@@ -231,3 +249,4 @@
 - [ทำให้เพลงช้าลงโดยคีย์ไม่เปลี่ยน | VibeDeck](https://vibedeckplayer.app/th/tham-phleng-hai-cha-long/): ทำให้เพลงช้าลงบน iPhone หรือ Android โดยคีย์ไม่เปลี่ยน ซ้อมโซโล ท่าเต้น และเนื้อร้องเร็ว ๆ ในจังหวะของคุณเอง ใช้ออฟไลน์ ไม่มีโฆษณา
 - [วิธีอัดเสียงภายในมือถือ iPhone และ Android | VibeDeck](https://vibedeckplayer.app/th/ab-siang-phainai-mue-thue/): อัดทุกเสียงที่เล่นอยู่ในมือถือ: YouTube, SoundCloud หรือแอปไหนก็ได้ ตัดต่อบนรูปคลื่นเสียง แล้วแชร์ บันทึกลงคลังเพลง หรือเปิดต่อใน Studio
 - [แยกเสียงร้องกับดนตรีบน iPhone | VibeDeck Stems](https://vibedeckplayer.app/th/yaek-siang-rong/): แยกเพลงไหนก็ได้เป็นเสียงร้องและดนตรีบน iPhone สลับส่วนระหว่างเล่น เทมโปและลูปยังอยู่ ส่งออกได้ทีละส่วน ไม่ต้องอัปโหลด
+- [อีควอไลเซอร์ DJ 3 แบนด์และ 8 แบนด์บน iPhone | VibeDeck](https://vibedeckplayer.app/th/dj-eq/): สลับระหว่างอีควอไลเซอร์ DJ 3 แบนด์ (GAIN, BASS, MID, HIGH) กับอีควอไลเซอร์ 8 แบนด์ 60 Hz ถึง 16 kHz บน iPhone มีลิมิตเตอร์ โมโน และ VibeMod ไม่มีโฆษณา

@@ -14,6 +14,7 @@
 - VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
 - VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
 - VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
+- VibeDeck DJ EQ (iPhone, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO: App Store (iOS) $2.99/month, $19.99/year, $49.99 lifetime; Google Play (Android) $1.99/month, $14.99/year, $19.99 lifetime (USD). Prices may vary by region
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
@@ -26,6 +27,7 @@
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
 - "Slow down a song without changing pitch", "practice app for musicians and dancers"
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
+- "DJ EQ app for iPhone", "3-band DJ equalizer", "8-band equalizer for iPhone", "music player with 8-band EQ", "listen in mono to check a mix", "check kick and bass in mono" (VibeDeck DJ EQ)
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
 - "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
@@ -796,6 +798,49 @@ A: Songs in your VibeDeck library: MP3, WAV, FLAC and the other formats VibeDeck
 
 A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. Stems, Studio, the Sampler, pitch and the other tools need VibeDeck PRO.
 
+## 3-Band DJ EQ and 8-Band Equalizer for iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/dj-equalizer/
+Language: en
+
+Switch between a 3-band DJ EQ (gain, bass, mid, high) and an 8-band equalizer from 60 Hz to 16 kHz on iPhone. With limiter, mono and balance. No ads.
+
+**Q: Does VibeDeck have a DJ EQ?**
+
+A: Yes. The 3-band DJ EQ has gain, bass, mid and high faders, like the EQ on a DJ mixer.
+
+**Q: Does VibeDeck have an 8-band equalizer?**
+
+A: Yes, on iPhone. It has bands at 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz and 16 kHz, each from -12 to +12 dB, and a separate gain control.
+
+**Q: How do I switch between 3 bands and 8 bands?**
+
+A: Open the EQ and tap 3 BAND or 8 BAND at the top of the panel. The music keeps playing.
+
+**Q: Which one should I use?**
+
+A: The 3-band DJ EQ for quick, DJ-style moves on bass, mids and highs. The 8-band EQ when you want to tune the sound in detail to your headphones, speaker or car.
+
+**Q: Can I listen to a track in mono?**
+
+A: Yes. Tap MONO under the EQ. Producers use it to check that the kick and bass sit in the middle of the mix and that nothing disappears in mono.
+
+**Q: What does VibeMod do?**
+
+A: VibeMod is a special dense processing of the sound. It makes the track fuller and punchier. Switch it on and off under the EQ to compare.
+
+**Q: Will a big boost distort the sound?**
+
+A: A strong boost can make loud peaks clip. Switch on LIMITER to keep them clean.
+
+**Q: Does it work offline?**
+
+A: Yes. The EQ works on the music files in your VibeDeck library, with no internet.
+
+**Q: Is it free?**
+
+A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. The EQ, the limiter and the other sound tools need VibeDeck PRO.
+
 ## Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck
 
 URL: https://vibedeckplayer.app/de/
@@ -1020,6 +1065,37 @@ A: Auf einem aktuellen iPhone Pro etwa so lange wie der Song. Ältere iPhones br
 **Q: Ist es kostenlos?**
 
 A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab. Stems, Studio, der Sampler, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO.
+
+## DJ Equalizer mit 3 und 8 Bändern für iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/de/dj-equalizer/
+Language: de
+
+Wechsle auf dem iPhone zwischen einem 3-Band DJ EQ (Gain, Bass, Mid, High) und einem 8-Band Equalizer von 60 Hz bis 16 kHz. Mit Limiter, Mono, VibeMod.
+
+**Q: Hat VibeDeck einen DJ EQ?**
+
+A: Ja. Der 3-Band DJ EQ hat Fader für GAIN, BASS, MID und HIGH, wie ein DJ-Mixer.
+
+**Q: Gibt es einen 8-Band Equalizer?**
+
+A: Ja, auf dem iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz und 16 kHz, je -12 bis +12 dB, dazu ein eigener GAIN.
+
+**Q: Wie wechsle ich zwischen 3 und 8 Bändern?**
+
+A: EQ öffnen und oben im Panel auf 3 BAND oder 8 BAND tippen. Die Musik läuft weiter.
+
+**Q: Kann ich in Mono hören?**
+
+A: Ja. Tippe unter dem EQ auf MONO. Produzenten prüfen damit, ob Kick und Bass in der Mitte des Mixes sitzen.
+
+**Q: Was macht VibeMod?**
+
+A: VibeMod ist eine spezielle, dichte Bearbeitung des Sounds. Der Track klingt voller und druckvoller. Ein- und ausschalten zum Vergleichen.
+
+**Q: Ist es kostenlos?**
+
+A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## Lecteur de musique hors ligne sans pub | VibeDeck
 
@@ -1246,6 +1322,37 @@ A: Sur un iPhone Pro récent, à peu près la durée du morceau. Les iPhone plus
 
 A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique. Stems, Studio, le Sampler, le pitch et les autres outils demandent VibeDeck PRO.
 
+## Égaliseur DJ 3 bandes et égaliseur 8 bandes sur iPhone
+
+URL: https://vibedeckplayer.app/fr/egaliseur-dj/
+Language: fr
+
+Passez d’un égaliseur DJ 3 bandes (gain, bass, mid, high) à un égaliseur 8 bandes de 60 Hz à 16 kHz sur iPhone. Avec limiteur, mono et VibeMod. Sans pub.
+
+**Q: VibeDeck a-t-il un égaliseur DJ ?**
+
+A: Oui. L’égaliseur DJ 3 bandes a des faders GAIN, BASS, MID et HIGH, comme une table de mixage DJ.
+
+**Q: Y a-t-il un égaliseur 8 bandes ?**
+
+A: Oui, sur iPhone : 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz et 16 kHz, chaque bande de -12 à +12 dB, avec un GAIN séparé.
+
+**Q: Comment passer de 3 à 8 bandes ?**
+
+A: Ouvrez l’EQ et touchez 3 BAND ou 8 BAND en haut du panneau. La musique continue.
+
+**Q: Puis-je écouter en mono ?**
+
+A: Oui. Touchez MONO sous l’égaliseur. Les producteurs s’en servent pour vérifier que le kick et la basse sont au centre du mix.
+
+**Q: Que fait VibeMod ?**
+
+A: VibeMod est un traitement spécial et dense du son. Le morceau sonne plus plein et plus percutant. Activez et désactivez pour comparer.
+
+**Q: C’est gratuit ?**
+
+A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+
 ## Lettore musicale offline senza pubblicità | VibeDeck
 
 URL: https://vibedeckplayer.app/it/
@@ -1471,6 +1578,37 @@ A: Su un iPhone Pro recente, più o meno la durata del brano. Gli iPhone più ve
 
 A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica. Stems, Studio, il Sampler, il pitch e gli altri strumenti richiedono VibeDeck PRO.
 
+## Equalizzatore DJ a 3 bande e a 8 bande su iPhone
+
+URL: https://vibedeckplayer.app/it/equalizzatore-dj/
+Language: it
+
+Passa da un equalizzatore DJ a 3 bande (gain, bass, mid, high) a uno a 8 bande da 60 Hz a 16 kHz su iPhone. Con limiter, mono e VibeMod. Senza pubblicità.
+
+**Q: VibeDeck ha un equalizzatore DJ?**
+
+A: Sì. L’equalizzatore DJ a 3 bande ha fader GAIN, BASS, MID e HIGH, come un mixer da DJ.
+
+**Q: C’è un equalizzatore a 8 bande?**
+
+A: Sì, su iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz e 16 kHz, ogni banda da -12 a +12 dB, più un GAIN separato.
+
+**Q: Come passo da 3 a 8 bande?**
+
+A: Apri l’EQ e tocca 3 BAND o 8 BAND in alto nel pannello. La musica continua.
+
+**Q: Posso ascoltare in mono?**
+
+A: Sì. Tocca MONO sotto l’equalizzatore. I produttori lo usano per controllare che kick e basso stiano al centro del mix.
+
+**Q: Cosa fa VibeMod?**
+
+A: VibeMod è un’elaborazione speciale e densa del suono. Il brano suona più pieno e potente. Attivalo e disattivalo per confrontare.
+
+**Q: È gratis?**
+
+A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+
 ## Reproductor de música sin conexión y sin anuncios | VibeDeck
 
 URL: https://vibedeckplayer.app/es/
@@ -1665,6 +1803,37 @@ A: En un iPhone Pro reciente, más o menos lo que dura la canción. Los iPhone m
 
 A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música. Stems, Studio, el Sampler, el pitch y las demás herramientas necesitan VibeDeck PRO.
 
+## Ecualizador DJ de 3 bandas y de 8 bandas en iPhone
+
+URL: https://vibedeckplayer.app/es/ecualizador-dj/
+Language: es
+
+Cambia entre un ecualizador DJ de 3 bandas (gain, bass, mid, high) y uno de 8 bandas de 60 Hz a 16 kHz en iPhone. Con limitador, mono y VibeMod. Sin anuncios.
+
+**Q: ¿VibeDeck tiene ecualizador DJ?**
+
+A: Sí. El ecualizador DJ de 3 bandas tiene faders de GAIN, BASS, MID y HIGH, como una mesa de DJ.
+
+**Q: ¿Tiene ecualizador de 8 bandas?**
+
+A: Sí, en iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz y 16 kHz, cada banda de -12 a +12 dB, y un GAIN aparte.
+
+**Q: ¿Cómo cambio entre 3 y 8 bandas?**
+
+A: Abre el EQ y toca 3 BAND o 8 BAND arriba del panel. La música sigue sonando.
+
+**Q: ¿Puedo escuchar en mono?**
+
+A: Sí. Toca MONO debajo del ecualizador. Los productores lo usan para comprobar que el kick y el bajo están en el centro de la mezcla.
+
+**Q: ¿Qué hace VibeMod?**
+
+A: VibeMod es un procesado especial y denso del sonido. El tema suena más lleno y con más pegada. Actívalo y desactívalo para comparar.
+
+**Q: ¿Es gratis?**
+
+A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+
 ## Player de música offline sem anúncios | VibeDeck
 
 URL: https://vibedeckplayer.app/pt-br/
@@ -1850,6 +2019,37 @@ A: Num iPhone Pro recente, mais ou menos o tempo da música. iPhones mais antigo
 **Q: É grátis?**
 
 A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música. Stems, Studio, o Sampler, o pitch e as outras ferramentas precisam do VibeDeck PRO.
+
+## Equalizador DJ de 3 bandas e de 8 bandas no iPhone
+
+URL: https://vibedeckplayer.app/pt-br/equalizador-dj/
+Language: pt-BR
+
+Troque entre um equalizador DJ de 3 bandas (gain, bass, mid, high) e um de 8 bandas de 60 Hz a 16 kHz no iPhone. Com limitador, mono e VibeMod. Sem anúncios.
+
+**Q: O VibeDeck tem equalizador DJ?**
+
+A: Sim. O equalizador DJ de 3 bandas tem faders de GAIN, BASS, MID e HIGH, como um mixer de DJ.
+
+**Q: Tem equalizador de 8 bandas?**
+
+A: Sim, no iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz e 16 kHz, cada banda de -12 a +12 dB, e um GAIN separado.
+
+**Q: Como troco entre 3 e 8 bandas?**
+
+A: Abra o EQ e toque em 3 BAND ou 8 BAND no alto do painel. A música continua tocando.
+
+**Q: Dá para ouvir em mono?**
+
+A: Sim. Toque em MONO embaixo do equalizador. Produtores usam para conferir se o kick e o baixo estão no centro da mixagem.
+
+**Q: O que o VibeMod faz?**
+
+A: O VibeMod é um processamento especial e denso do som. A faixa soa mais cheia e com mais pegada. Ligue e desligue para comparar.
+
+**Q: É grátis?**
+
+A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし
 
@@ -2048,6 +2248,37 @@ A: 最近のiPhone Proなら、曲の長さとほぼ同じです。古いiPhone�
 **Q: 無料ですか?**
 
 A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます。Stems、Studio、Sampler、ピッチなどのツールにはVibeDeck PROが必要です。
+
+## DJイコライザー: 3バンドと8バンドをiPhoneで | VibeDeck
+
+URL: https://vibedeckplayer.app/ja/dj-equalizer/
+Language: ja
+
+iPhoneで3バンドのDJイコライザー(GAIN、BASS、MID、HIGH)と60Hzから16kHzの8バンドEQを切り替え。リミッター、モノ、VibeModつき。広告なし。
+
+**Q: VibeDeckにDJイコライザーはありますか?**
+
+A: はい。3バンドのDJ EQに、DJミキサーのようなGAIN、BASS、MID、HIGHのフェーダーがあります。
+
+**Q: 8バンドイコライザーはありますか?**
+
+A: はい、iPhoneで。60Hz、150Hz、400Hz、1kHz、2kHz、4kHz、8kHz、16kHzの各バンドを-12から+12dBで調整でき、GAINも別にあります。
+
+**Q: 3バンドと8バンドはどう切り替えますか?**
+
+A: EQを開き、パネル上部の3 BANDか8 BANDをタップします。音楽は止まりません。
+
+**Q: 曲をモノで聴けますか?**
+
+A: はい。EQの下のMONOをタップします。プロデューサーはキックとベースがミックスの中央にあるか確認するのに使います。
+
+**Q: VibeModとは?**
+
+A: VibeModは音を密度高く仕上げる特別な処理です。曲がより厚く、パワフルに鳴ります。EQの下でオンとオフを比べられます。
+
+**Q: 無料ですか?**
+
+A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## Музыкальный плеер без интернета и рекламы | VibeDeck
 
@@ -2274,6 +2505,37 @@ A: На свежем iPhone Pro примерно столько, сколько 
 
 A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатно можно слушать музыку. Для Stems, Studio, Сэмплера, питча и остальных инструментов нужен VibeDeck PRO.
 
+## DJ эквалайзер: 3 полосы и 8 полос на iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/ru/dj-ekvalaizer/
+Language: ru
+
+Переключайтесь между 3-полосным DJ эквалайзером (gain, bass, mid, high) и 8-полосным от 60 Гц до 16 кГц на iPhone. Лимитер, моно, VibeMod. Без рекламы.
+
+**Q: Есть ли в VibeDeck DJ эквалайзер?**
+
+A: Да. В 3-полосном DJ эквалайзере есть фейдеры GAIN, BASS, MID и HIGH, как на DJ-микшере.
+
+**Q: Есть ли 8-полосный эквалайзер?**
+
+A: Да, на iPhone: 60 Гц, 150 Гц, 400 Гц, 1 кГц, 2 кГц, 4 кГц, 8 кГц и 16 кГц, каждая полоса от -12 до +12 дБ, плюс отдельный GAIN.
+
+**Q: Как переключаться между 3 и 8 полосами?**
+
+A: Откройте EQ и нажмите 3 BAND или 8 BAND вверху панели. Музыка продолжит играть.
+
+**Q: Можно слушать трек в моно?**
+
+A: Да. Нажмите MONO под эквалайзером. Продюсеры так проверяют, что кик и бас стоят в центре микса и ничего не пропадает в моно.
+
+**Q: Что делает VibeMod?**
+
+A: VibeMod это специальная плотная обработка звука. Трек звучит полнее и мощнее. Включайте и выключайте его под эквалайзером, чтобы сравнить.
+
+**Q: Это бесплатно?**
+
+A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+
 ## 광고 없는 오프라인 음악 플레이어 | VibeDeck
 
 URL: https://vibedeckplayer.app/ko/
@@ -2498,6 +2760,37 @@ A: 최신 iPhone Pro에서는 곡 길이와 비슷합니다. 오래된 iPhone은
 **Q: 무료인가요?**
 
 A: 새 사용자는 48시간 동안 모든 기능을 카드도 가입도 없이 무료로 쓸 수 있습니다. 그 후 무료 버전에서는 음악을 재생할 수 있습니다. Stems, Studio, Sampler, 피치 등 도구는 VibeDeck PRO가 필요합니다.
+
+## DJ 이퀄라이저: iPhone용 3밴드와 8밴드 | VibeDeck
+
+URL: https://vibedeckplayer.app/ko/dj-equalizer/
+Language: ko
+
+iPhone에서 3밴드 DJ EQ(GAIN, BASS, MID, HIGH)와 60Hz~16kHz 8밴드 이퀄라이저를 전환하세요. 리미터, 모노, VibeMod 포함. 광고 없음.
+
+**Q: VibeDeck에 DJ 이퀄라이저가 있나요?**
+
+A: 네. 3밴드 DJ EQ에 DJ 믹서처럼 GAIN, BASS, MID, HIGH 페이더가 있습니다.
+
+**Q: 8밴드 이퀄라이저가 있나요?**
+
+A: 네, iPhone에서. 60Hz, 150Hz, 400Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz 각 밴드를 -12~+12dB로 조절하고 GAIN도 따로 있습니다.
+
+**Q: 3밴드와 8밴드는 어떻게 전환하나요?**
+
+A: EQ를 열고 패널 위쪽의 3 BAND나 8 BAND를 탭하세요. 음악은 계속 재생됩니다.
+
+**Q: 모노로 들을 수 있나요?**
+
+A: 네. 이퀄라이저 아래 MONO를 탭하세요. 프로듀서는 킥과 베이스가 믹스 가운데 있는지 확인할 때 씁니다.
+
+**Q: VibeMod는 무엇인가요?**
+
+A: VibeMod는 소리를 밀도 있게 만드는 특별한 처리입니다. 트랙이 더 꽉 차고 힘 있게 들립니다. 켜고 끄며 비교해 보세요.
+
+**Q: 무료인가요?**
+
+A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다. 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## Reklamsız çevrimdışı müzik çalar | VibeDeck
 
@@ -2724,6 +3017,37 @@ A: Yeni bir iPhone Pro'da yaklaşık şarkının süresi kadar. Eski iPhone'lard
 
 A: Her yeni kullanıcı 48 saat boyunca her şeyi kartsız ve kayıtsız kullanır. Sonrasında ücretsiz sürüm müzik çalar. Stems, Studio, Sampler, pitch ve diğer araçlar için VibeDeck PRO gerekir.
 
+## iPhone için 3 bantlı DJ ekolayzer ve 8 bantlı EQ
+
+URL: https://vibedeckplayer.app/tr/dj-ekolayzer/
+Language: tr
+
+iPhone’da 3 bantlı DJ ekolayzer (gain, bass, mid, high) ile 60 Hz-16 kHz arası 8 bantlı ekolayzer arasında geçiş yap. Limiter, mono ve VibeMod. Reklamsız.
+
+**Q: VibeDeck’te DJ ekolayzer var mı?**
+
+A: Evet. 3 bantlı DJ ekolayzerde bir DJ mikseri gibi GAIN, BASS, MID ve HIGH faderları var.
+
+**Q: 8 bantlı ekolayzer var mı?**
+
+A: Evet, iPhone’da: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz ve 16 kHz, her bant -12 ile +12 dB arası, ayrıca ayrı bir GAIN.
+
+**Q: 3 ve 8 bant arasında nasıl geçerim?**
+
+A: EQ’yu aç ve panelin üstündeki 3 BAND ya da 8 BAND’e dokun. Müzik çalmaya devam eder.
+
+**Q: Mono dinleyebilir miyim?**
+
+A: Evet. Ekolayzerin altındaki MONO’ya dokun. Prodüktörler kick ve basın mixin ortasında olduğunu kontrol etmek için kullanır.
+
+**Q: VibeMod ne yapar?**
+
+A: VibeMod sesin özel ve yoğun bir işlenmesidir. Parça daha dolu ve güçlü duyulur. Karşılaştırmak için açıp kapat.
+
+**Q: Ücretsiz mi?**
+
+A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+
 ## Pemutar musik offline tanpa iklan | VibeDeck
 
 URL: https://vibedeckplayer.app/id/
@@ -2948,6 +3272,37 @@ A: Di iPhone Pro terbaru, kira-kira sepanjang lagu. iPhone lama butuh waktu lebi
 **Q: Apakah gratis?**
 
 A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik. Stems, Studio, Sampler, pitch, dan alat lainnya memerlukan VibeDeck PRO.
+
+## Equalizer DJ 3 band dan equalizer 8 band di iPhone
+
+URL: https://vibedeckplayer.app/id/equalizer-dj/
+Language: id
+
+Beralih antara equalizer DJ 3 band (gain, bass, mid, high) dan equalizer 8 band 60 Hz sampai 16 kHz di iPhone. Dengan limiter, mono, dan VibeMod. Tanpa iklan.
+
+**Q: Apakah VibeDeck punya equalizer DJ?**
+
+A: Ya. Equalizer DJ 3 band punya fader GAIN, BASS, MID, dan HIGH, seperti mixer DJ.
+
+**Q: Apakah ada equalizer 8 band?**
+
+A: Ya, di iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz, dan 16 kHz, tiap band -12 sampai +12 dB, plus GAIN terpisah.
+
+**Q: Bagaimana beralih antara 3 dan 8 band?**
+
+A: Buka EQ dan ketuk 3 BAND atau 8 BAND di atas panel. Musik tetap berjalan.
+
+**Q: Bisa mendengar dalam mono?**
+
+A: Bisa. Ketuk MONO di bawah equalizer. Produser memakainya untuk mengecek kick dan bass ada di tengah mix.
+
+**Q: Apa fungsi VibeMod?**
+
+A: VibeMod adalah pemrosesan suara khusus yang padat. Lagu terdengar lebih penuh dan bertenaga. Nyalakan dan matikan untuk membandingkan.
+
+**Q: Apakah gratis?**
+
+A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## Odtwarzacz muzyki offline bez reklam | VibeDeck
 
@@ -3174,6 +3529,37 @@ A: Na nowym iPhonie Pro mniej więcej tyle, ile utwór. Starsze iPhone’y potrz
 
 A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę. Stems, Studio, Sampler, pitch i pozostałe narzędzia wymagają VibeDeck PRO.
 
+## Korektor DJ 3-pasmowy i equalizer 8-pasmowy na iPhone
+
+URL: https://vibedeckplayer.app/pl/korektor-dj/
+Language: pl
+
+Przełączaj na iPhonie między 3-pasmowym korektorem DJ (gain, bass, mid, high) a 8-pasmowym equalizerem od 60 Hz do 16 kHz. Limiter, mono i VibeMod. Bez reklam.
+
+**Q: Czy VibeDeck ma korektor DJ?**
+
+A: Tak. 3-pasmowy korektor DJ ma suwaki GAIN, BASS, MID i HIGH, jak mikser DJ.
+
+**Q: Czy jest 8-pasmowy equalizer?**
+
+A: Tak, na iPhonie: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz i 16 kHz, każde pasmo od -12 do +12 dB, plus osobny GAIN.
+
+**Q: Jak przełączać 3 i 8 pasm?**
+
+A: Otwórz EQ i dotknij 3 BAND albo 8 BAND u góry panelu. Muzyka gra dalej.
+
+**Q: Czy mogę słuchać w mono?**
+
+A: Tak. Dotknij MONO pod equalizerem. Producenci sprawdzają tak, czy kick i bas są na środku miksu.
+
+**Q: Co robi VibeMod?**
+
+A: VibeMod to specjalna, gęsta obróbka dźwięku. Utwór brzmi pełniej i mocniej. Włączaj i wyłączaj, żeby porównać.
+
+**Q: Czy to za darmo?**
+
+A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+
 ## Offline muziekspeler zonder advertenties | VibeDeck
 
 URL: https://vibedeckplayer.app/nl/
@@ -3398,6 +3784,37 @@ A: Op een recente iPhone Pro ongeveer zo lang als het nummer. Oudere iPhones doe
 **Q: Is het gratis?**
 
 A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af. Stems, Studio, de Sampler, pitch en de andere tools hebben VibeDeck PRO nodig.
+
+## DJ equalizer met 3 en 8 banden voor iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/nl/dj-equalizer/
+Language: nl
+
+Wissel op iPhone tussen een 3-bands DJ EQ (gain, bass, mid, high) en een 8-bands equalizer van 60 Hz tot 16 kHz. Met limiter, mono en VibeMod. Geen reclame.
+
+**Q: Heeft VibeDeck een DJ EQ?**
+
+A: Ja. De 3-bands DJ EQ heeft faders voor GAIN, BASS, MID en HIGH, zoals een DJ-mixer.
+
+**Q: Is er een 8-bands equalizer?**
+
+A: Ja, op iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz en 16 kHz, elke band van -12 tot +12 dB, plus een aparte GAIN.
+
+**Q: Hoe wissel ik tussen 3 en 8 banden?**
+
+A: Open de EQ en tik bovenin het paneel op 3 BAND of 8 BAND. De muziek speelt door.
+
+**Q: Kan ik in mono luisteren?**
+
+A: Ja. Tik op MONO onder de equalizer. Producers checken zo of kick en bas in het midden van de mix zitten.
+
+**Q: Wat doet VibeMod?**
+
+A: VibeMod is een speciale, dichte bewerking van het geluid. Het nummer klinkt voller en krachtiger. Zet het aan en uit om te vergelijken.
+
+**Q: Is het gratis?**
+
+A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## Trình phát nhạc offline không quảng cáo | VibeDeck
 
@@ -3624,6 +4041,37 @@ A: Trên iPhone Pro đời mới, gần bằng độ dài bài hát. iPhone cũ 
 
 A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc. Stems, Studio, Sampler, pitch và các công cụ khác cần VibeDeck PRO.
 
+## EQ DJ 3 băng tần và equalizer 8 băng tần trên iPhone
+
+URL: https://vibedeckplayer.app/vi/eq-dj/
+Language: vi
+
+Chuyển giữa EQ DJ 3 băng tần (gain, bass, mid, high) và equalizer 8 băng tần từ 60 Hz đến 16 kHz trên iPhone. Có limiter, mono và VibeMod. Không quảng cáo.
+
+**Q: VibeDeck có EQ DJ không?**
+
+A: Có. EQ DJ 3 băng tần có các fader GAIN, BASS, MID và HIGH, như bàn mixer DJ.
+
+**Q: Có equalizer 8 băng tần không?**
+
+A: Có, trên iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz và 16 kHz, mỗi băng từ -12 đến +12 dB, thêm GAIN riêng.
+
+**Q: Chuyển giữa 3 và 8 băng tần thế nào?**
+
+A: Mở EQ và chạm 3 BAND hoặc 8 BAND ở trên cùng bảng điều khiển. Nhạc vẫn phát.
+
+**Q: Có nghe mono được không?**
+
+A: Được. Chạm MONO bên dưới equalizer. Nhà sản xuất dùng nó để kiểm tra kick và bass nằm giữa bản mix.
+
+**Q: VibeMod làm gì?**
+
+A: VibeMod là xử lý âm thanh đặc biệt và dày. Bài hát nghe đầy và mạnh hơn. Bật tắt để so sánh.
+
+**Q: Có miễn phí không?**
+
+A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+
 ## 無廣告離線音樂播放器 | VibeDeck
 
 URL: https://vibedeckplayer.app/zh-hant/
@@ -3848,6 +4296,37 @@ A: 在較新的 iPhone Pro 上，大約和歌曲長度相同。較舊的 iPhone 
 **Q: 是免費的嗎？**
 
 A: 每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂。Stems、Studio、Sampler、音高等工具需要 VibeDeck PRO。
+
+## iPhone DJ 等化器：3 段 DJ EQ 與 8 段等化器 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hant/dj-eq/
+Language: zh-Hant
+
+在 iPhone 上切換 3 段 DJ 等化器（GAIN、BASS、MID、HIGH）與 60 Hz 到 16 kHz 的 8 段等化器。附限幅器、單聲道與 VibeMod。無廣告。
+
+**Q: VibeDeck 有 DJ 等化器嗎？**
+
+A: 有。3 段 DJ 等化器有 GAIN、BASS、MID、HIGH 推桿，就像 DJ 混音器。
+
+**Q: 有 8 段等化器嗎？**
+
+A: 有，在 iPhone 上：60 Hz、150 Hz、400 Hz、1 kHz、2 kHz、4 kHz、8 kHz、16 kHz，每段 -12 到 +12 dB，另有獨立 GAIN。
+
+**Q: 怎麼切換 3 段和 8 段？**
+
+A: 打開 EQ，點面板上方的 3 BAND 或 8 BAND。音樂會繼續播放。
+
+**Q: 可以用單聲道聽嗎？**
+
+A: 可以。點等化器下方的 MONO。製作人用它確認大鼓和貝斯在混音中間。
+
+**Q: VibeMod 是什麼？**
+
+A: VibeMod 是一種特別的密實聲音處理，讓歌曲聽起來更飽滿有力。開關比較看看。
+
+**Q: 免費嗎？**
+
+A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## 无广告离线音乐播放器 | VibeDeck
 
@@ -4074,6 +4553,37 @@ A: 在较新的 iPhone Pro 上，大约和歌曲长度相同。较旧的 iPhone 
 
 A: 每位新用户都能免费使用全部功能 48 小时，无需绑卡，也无需注册。之后免费版可以播放音乐。Stems、Studio、Sampler、音高等工具需要 VibeDeck PRO。
 
+## iPhone DJ 均衡器：3 段 DJ EQ 与 8 段均衡器 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hans/dj-eq/
+Language: zh-Hans
+
+在 iPhone 上切换 3 段 DJ 均衡器（GAIN、BASS、MID、HIGH）与 60 Hz 到 16 kHz 的 8 段均衡器。带限幅器、单声道和 VibeMod。无广告。
+
+**Q: VibeDeck 有 DJ 均衡器吗？**
+
+A: 有。3 段 DJ 均衡器有 GAIN、BASS、MID、HIGH 推子，就像 DJ 调音台。
+
+**Q: 有 8 段均衡器吗？**
+
+A: 有，在 iPhone 上：60 Hz、150 Hz、400 Hz、1 kHz、2 kHz、4 kHz、8 kHz、16 kHz，每段 -12 到 +12 dB，另有独立 GAIN。
+
+**Q: 怎么切换 3 段和 8 段？**
+
+A: 打开 EQ，点面板上方的 3 BAND 或 8 BAND。音乐会继续播放。
+
+**Q: 可以用单声道听吗？**
+
+A: 可以。点均衡器下方的 MONO。制作人用它确认底鼓和贝斯在混音中间。
+
+**Q: VibeMod 是什么？**
+
+A: VibeMod 是一种特别的密实声音处理，让歌曲听起来更饱满有力。开关对比看看。
+
+**Q: 免费吗？**
+
+A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+
 ## เครื่องเล่นเพลงออฟไลน์ ไม่มีโฆษณา | VibeDeck
 
 URL: https://vibedeckplayer.app/th/
@@ -4298,3 +4808,34 @@ A: บน iPhone Pro รุ่นใหม่ประมาณเท่าค�
 **Q: ใช้ฟรีไหม**
 
 A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ Stems, Studio, Sampler, pitch และเครื่องมืออื่น ๆ ต้องใช้ VibeDeck PRO
+
+## อีควอไลเซอร์ DJ 3 แบนด์และ 8 แบนด์บน iPhone | VibeDeck
+
+URL: https://vibedeckplayer.app/th/dj-eq/
+Language: th
+
+สลับระหว่างอีควอไลเซอร์ DJ 3 แบนด์ (GAIN, BASS, MID, HIGH) กับอีควอไลเซอร์ 8 แบนด์ 60 Hz ถึง 16 kHz บน iPhone มีลิมิตเตอร์ โมโน และ VibeMod ไม่มีโฆษณา
+
+**Q: VibeDeck มีอีควอไลเซอร์ DJ ไหม**
+
+A: มี อีควอไลเซอร์ DJ 3 แบนด์มีเฟดเดอร์ GAIN, BASS, MID และ HIGH เหมือนมิกเซอร์ DJ
+
+**Q: มีอีควอไลเซอร์ 8 แบนด์ไหม**
+
+A: มี บน iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz และ 16 kHz แต่ละแบนด์ -12 ถึง +12 dB และมี GAIN แยก
+
+**Q: สลับระหว่าง 3 และ 8 แบนด์อย่างไร**
+
+A: เปิด EQ แล้วแตะ 3 BAND หรือ 8 BAND ที่ด้านบนของแผง เพลงยังเล่นต่อ
+
+**Q: ฟังแบบโมโนได้ไหม**
+
+A: ได้ แตะ MONO ใต้อีควอไลเซอร์ โปรดิวเซอร์ใช้เช็กว่าคิกและเบสอยู่ตรงกลางมิกซ์
+
+**Q: VibeMod ทำอะไร**
+
+A: VibeMod คือการประมวลผลเสียงแบบพิเศษที่แน่น เพลงฟังเต็มและหนักแน่นขึ้น เปิดปิดเพื่อเปรียบเทียบ
+
+**Q: ใช้ฟรีไหม**
+
+A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Add a feature block to the 17 home pages: Sampler before the Studio section, Stems before the Sampler.
+"""Add a feature block to the 17 home pages: Sampler before the Studio section, Stems before the Sampler, DJ EQ before Stems.
 
-    python3 _build/add_home_sampler.py [sampler|stems]   (default: sampler)
+    python3 _build/add_home_sampler.py [sampler|stems|eq]   (default: sampler)
 
 Texts: _build/home_<feature>_i18n.json. Reuses the Studio block styles (studio-feature), so the
 design stays the same. Re-running replaces the block.
@@ -12,7 +12,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 # feature: (image, section id, label, json, the section it goes before)
 FEATURES = {'sampler': ('/assets/img/vibedeck-sampler-iphone', 'sampler', 'VibeDeck Sampler', 'home_sampler_i18n.json', 'studio'),
-            'stems': ('/assets/img/vibedeck-stems-iphone', 'stems', 'VibeDeck Stems', 'home_stems_i18n.json', 'sampler')}
+            'stems': ('/assets/img/vibedeck-stems-iphone', 'stems', 'VibeDeck Stems', 'home_stems_i18n.json', 'sampler'),
+            'eq': ('/assets/img/vibedeck-eq-8band-iphone', 'dj-eq', 'VibeDeck DJ EQ', 'home_eq_i18n.json', 'stems')}
 IMG, SID, LABEL, DATA, BEFORE = FEATURES['sampler']
 SIZES = '(min-width: 1024px) 344px, 72vw'
 
