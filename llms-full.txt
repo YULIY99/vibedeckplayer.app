@@ -1186,6 +1186,91 @@ A: VibeMod ist eine spezielle, dichte Bearbeitung des Sounds. Der Track klingt v
 
 A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
+## Nightcore auf dem iPhone: Preset mit einem Tipp | VibeDeck
+
+URL: https://vibedeckplayer.app/de/nightcore/
+Language: de
+
+Mach Nightcore aus deinen Songs auf iPhone und iPad: Tippe in VibeDeck auf das Preset NIGHTCORE, der Track wird schneller und höher. Offline, ohne Werbung.
+
+**Q: Wie mache ich eine Nightcore-Version eines Songs auf dem iPhone?**
+
+A: Spiele den Song in VibeDeck Player ab, öffne Effects und tippe auf NIGHTCORE. Der Track wird schneller und höher. Du kannst das Tempo anpassen und Hall oder Bass hinzufügen.
+
+**Q: Was ist Nightcore?**
+
+A: Eine schnellere und höhere Version eines Songs, die heller und energiegeladener klingt.
+
+**Q: Kann ich schneller machen, ohne dass es höher klingt?**
+
+A: Ja. Im VibeDeck Studio kannst du die Tonart festhalten und nur das Tempo ändern.
+
+**Q: Kann ich meine Version aufnehmen und teilen?**
+
+A: Ja. Im Studio REC drücken, bis zu zwei Minuten mit Fade-in und Fade-out aufnehmen und den Clip teilen.
+
+**Q: Funktioniert es offline?**
+
+A: Ja. Die Presets funktionieren mit den Dateien in deiner VibeDeck-Bibliothek, ohne Internet.
+
+**Q: Ist es kostenlos?**
+
+A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik, auch im Hintergrund. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+
+## BPM jedes Songs und Sortierung nach Tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/de/bpm/
+Language: de
+
+Sieh die BPM jedes Songs auf dem iPhone: VibeDeck zeigt die genauen BPM auf dem Hauptbildschirm und sortiert die Warteschlange nach Tempo. Ohne Werbung.
+
+**Q: Wie finde ich die BPM eines Songs auf dem iPhone?**
+
+A: Importiere den Song in VibeDeck Player und spiele ihn ab. Die BPM stehen auf dem Hauptbildschirm.
+
+**Q: Kann ich meine Musik nach BPM sortieren?**
+
+A: Ja. Sortiere die Warteschlange nach BPM: Die Tracks werden nach Tempobereich gruppiert, mit genauen BPM für jeden Track.
+
+**Q: Kann ich die BPM eines Songs ändern?**
+
+A: Ja. Im VibeDeck Studio geht das Tempo von -100% bis +100%. Key-Lock hält die Tonart.
+
+**Q: Funktioniert es offline?**
+
+A: Ja. VibeDeck nutzt die Musikdateien auf deinem Gerät, ohne Internet.
+
+**Q: Ist es kostenlos?**
+
+A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik, auch im Hintergrund. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+
+## Neu in VibeDeck Player: Stems, iPad, Cover
+
+URL: https://vibedeckplayer.app/de/neuigkeiten/
+Language: de
+
+VibeDeck Player 1.0.21: Stems trennt jeden Track in Acapella und Begleitung, die App passt auf jedes iPad und iPhone, Cover auf dem Sperrbildschirm.
+
+**Q: Was ist neu in VibeDeck Player 1.0.21?**
+
+A: Stems trennt jeden Track in Acapella und Begleitung, die App passt auf jedes iPad und iPhone, und gefundene Cover erscheinen auf dem Sperrbildschirm.
+
+**Q: Funktioniert VibeDeck auf dem iPad?**
+
+A: Ja. VibeDeck passt auf jedes iPad und jedes iPhone, alt und neu.
+
+**Q: Kann VibeDeck den Gesang aus einem Song entfernen?**
+
+A: Ja. Stems trennt einen Track auf dem Handy in Acapella und Begleitung. Du kannst live mischen, im Studio Effekte hinzufügen und exportieren.
+
+**Q: Wie bekomme ich das Update?**
+
+A: Aktualisiere VibeDeck Player im App Store. Neue Nutzer laden es kostenlos.
+
+**Q: Ist es kostenlos?**
+
+A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik, auch im Hintergrund. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+
 ## Lecteur de musique hors ligne sans pub | VibeDeck
 
 URL: https://vibedeckplayer.app/fr/
@@ -1441,6 +1526,91 @@ A: VibeMod est un traitement spécial et dense du son. Le morceau sonne plus ple
 **Q: C’est gratuit ?**
 
 A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+
+## Nightcore sur iPhone : preset en un geste | VibeDeck
+
+URL: https://vibedeckplayer.app/fr/nightcore/
+Language: fr
+
+Nightcore sur iPhone et iPad : touchez le preset NIGHTCORE dans VibeDeck, votre morceau devient plus rapide et plus aigu. Hors ligne, sans pub.
+
+**Q: Comment faire une version nightcore d’une chanson sur iPhone ?**
+
+A: Lancez la chanson dans VibeDeck Player, ouvrez Effects et touchez NIGHTCORE. Le titre accélère et la hauteur monte. Vous pouvez ajuster la vitesse et ajouter de la réverb ou des basses.
+
+**Q: Qu’est-ce que le nightcore ?**
+
+A: C’est une version d’une chanson plus rapide et plus aiguë, qui sonne plus brillante et plus énergique.
+
+**Q: Puis-je accélérer sans monter la hauteur ?**
+
+A: Oui. Dans VibeDeck Studio, vous pouvez bloquer la tonalité et changer seulement le tempo.
+
+**Q: Puis-je enregistrer et partager ma version ?**
+
+A: Oui. Dans Studio, touchez REC, enregistrez jusqu’à deux minutes avec fondus et partagez l’extrait.
+
+**Q: Cela fonctionne hors ligne ?**
+
+A: Oui. Les presets fonctionnent avec les fichiers de votre bibliothèque VibeDeck, sans internet.
+
+**Q: Est-ce gratuit ?**
+
+A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, aussi en arrière-plan. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+
+## BPM de chaque morceau et tri par tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/fr/bpm/
+Language: fr
+
+Voyez le BPM de chaque morceau sur iPhone : VibeDeck affiche le BPM exact sur l’écran principal et trie votre file d’attente par tempo. Hors ligne, sans pub.
+
+**Q: Comment connaître le BPM d’une chanson sur iPhone ?**
+
+A: Importez la chanson dans VibeDeck Player et lancez-la. Le BPM s’affiche sur l’écran principal.
+
+**Q: Puis-je trier ma musique par BPM ?**
+
+A: Oui. Triez la file par BPM : les titres sont regroupés par plage de tempo, avec le BPM exact de chacun.
+
+**Q: Puis-je changer le BPM d’une chanson ?**
+
+A: Oui. Dans VibeDeck Studio, le tempo va de -100 % à +100 %. Key-lock garde la tonalité.
+
+**Q: Cela fonctionne hors ligne ?**
+
+A: Oui. VibeDeck utilise les fichiers musicaux de votre appareil, sans internet.
+
+**Q: Est-ce gratuit ?**
+
+A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, aussi en arrière-plan. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+
+## Nouveautés de VibeDeck Player : Stems, iPad, pochettes
+
+URL: https://vibedeckplayer.app/fr/nouveautes/
+Language: fr
+
+VibeDeck Player 1.0.21 : Stems sépare tout titre en acapella et instrumental, l’app s’adapte à chaque iPad et iPhone, pochettes sur l’écran verrouillé.
+
+**Q: Quoi de neuf dans VibeDeck Player 1.0.21 ?**
+
+A: Stems sépare tout titre en acapella et instrumental, l’app s’adapte à chaque iPad et iPhone, et les pochettes trouvées s’affichent sur l’écran verrouillé.
+
+**Q: VibeDeck fonctionne-t-il sur iPad ?**
+
+A: Oui. VibeDeck s’adapte à chaque iPad et chaque iPhone, anciens et récents.
+
+**Q: VibeDeck peut-il supprimer la voix d’une chanson ?**
+
+A: Oui. Stems sépare un titre en acapella et instrumental sur votre téléphone. Vous pouvez mixer en direct, ajouter des effets dans Studio et exporter.
+
+**Q: Comment obtenir la mise à jour ?**
+
+A: Mettez à jour VibeDeck Player dans l’App Store. Les nouveaux utilisateurs le téléchargent gratuitement.
+
+**Q: Est-ce gratuit ?**
+
+A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, aussi en arrière-plan. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## Lettore musicale offline senza pubblicità | VibeDeck
 
@@ -1698,6 +1868,91 @@ A: VibeMod è un’elaborazione speciale e densa del suono. Il brano suona più 
 
 A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
+## Nightcore su iPhone: preset con un tocco | VibeDeck
+
+URL: https://vibedeckplayer.app/it/nightcore/
+Language: it
+
+Nightcore su iPhone e iPad: tocca il preset NIGHTCORE in VibeDeck e il tuo brano diventa più veloce e più acuto. Offline, senza pubblicità.
+
+**Q: Come faccio una versione nightcore di una canzone su iPhone?**
+
+A: Riproduci la canzone in VibeDeck Player, apri Effects e tocca NIGHTCORE. Il brano accelera e l’intonazione sale. Puoi regolare la velocità e aggiungere riverbero o bassi.
+
+**Q: Che cos’è il nightcore?**
+
+A: È una versione di una canzone più veloce e più acuta, che suona più brillante ed energica.
+
+**Q: Posso accelerare senza alzare l’intonazione?**
+
+A: Sì. In VibeDeck Studio puoi bloccare la tonalità e cambiare solo il tempo.
+
+**Q: Posso registrare e condividere la mia versione?**
+
+A: Sì. In Studio premi REC, registra fino a due minuti con fade in e fade out e condividi la clip.
+
+**Q: Funziona offline?**
+
+A: Sì. I preset funzionano con i file della tua libreria VibeDeck, senza internet.
+
+**Q: È gratis?**
+
+A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica, anche in background. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+
+## BPM di ogni canzone e ordine per tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/it/bpm/
+Language: it
+
+Scopri i BPM di ogni canzone su iPhone: VibeDeck mostra i BPM esatti nella schermata principale e ordina la coda per tempo. Offline, senza pubblicità.
+
+**Q: Come scopro i BPM di una canzone su iPhone?**
+
+A: Importa la canzone in VibeDeck Player e riproducila. I BPM sono nella schermata principale.
+
+**Q: Posso ordinare la musica per BPM?**
+
+A: Sì. Ordina la coda per BPM: i brani sono raggruppati per fascia di tempo, con i BPM esatti di ognuno.
+
+**Q: Posso cambiare i BPM di una canzone?**
+
+A: Sì. In VibeDeck Studio il tempo va da -100% a +100%. Il key-lock mantiene la tonalità.
+
+**Q: Funziona offline?**
+
+A: Sì. VibeDeck usa i file musicali sul tuo dispositivo, senza internet.
+
+**Q: È gratis?**
+
+A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica, anche in background. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+
+## Novità di VibeDeck Player: Stems, iPad, copertine
+
+URL: https://vibedeckplayer.app/it/novita/
+Language: it
+
+VibeDeck Player 1.0.21: Stems divide ogni brano in acapella e base, l’app si adatta a ogni iPad e iPhone, copertine nella schermata di blocco.
+
+**Q: Cosa c’è di nuovo in VibeDeck Player 1.0.21?**
+
+A: Stems divide ogni brano in acapella e base, l’app si adatta a ogni iPad e iPhone e le copertine trovate compaiono nella schermata di blocco.
+
+**Q: VibeDeck funziona su iPad?**
+
+A: Sì. VibeDeck si adatta a ogni iPad e a ogni iPhone, vecchio e nuovo.
+
+**Q: VibeDeck può togliere la voce da una canzone?**
+
+A: Sì. Stems divide un brano in acapella e base sul telefono. Puoi mixarli dal vivo, aggiungere effetti in Studio ed esportare.
+
+**Q: Come ottengo l’aggiornamento?**
+
+A: Aggiorna VibeDeck Player dall’App Store. I nuovi utenti lo scaricano gratis.
+
+**Q: È gratis?**
+
+A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica, anche in background. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+
 ## Reproductor de música sin conexión y sin anuncios | VibeDeck
 
 URL: https://vibedeckplayer.app/es/
@@ -1923,6 +2178,91 @@ A: VibeMod es un procesado especial y denso del sonido. El tema suena más lleno
 
 A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
+## Nightcore en iPhone: preset de un toque | VibeDeck
+
+URL: https://vibedeckplayer.app/es/nightcore/
+Language: es
+
+Haz la versión nightcore de tus canciones en iPhone y iPad: toca el preset NIGHTCORE en VibeDeck y la pista sonará más rápida y aguda. Sin anuncios.
+
+**Q: ¿Cómo hago una versión nightcore de una canción en iPhone?**
+
+A: Reproduce la canción en VibeDeck Player, abre Effects y toca NIGHTCORE. La pista se acelera y el tono sube. Puedes ajustar la velocidad y añadir reverb o graves.
+
+**Q: ¿Qué es el nightcore?**
+
+A: Es una versión de una canción más rápida y aguda, que suena más brillante y con más energía.
+
+**Q: ¿Puedo acelerar sin subir el tono?**
+
+A: Sí. En VibeDeck Studio puedes fijar la tonalidad y cambiar solo el tempo.
+
+**Q: ¿Puedo grabar y compartir mi versión?**
+
+A: Sí. En Studio pulsa REC, graba hasta dos minutos con fade in y fade out y comparte el clip.
+
+**Q: ¿Funciona sin conexión?**
+
+A: Sí. Los presets funcionan con los archivos de tu biblioteca de VibeDeck, sin internet.
+
+**Q: ¿Es gratis?**
+
+A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+
+## BPM de cada canción y orden por tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/es/bpm/
+Language: es
+
+Conoce el BPM de cada canción en iPhone: VibeDeck muestra el BPM exacto en la pantalla principal y ordena tu cola por tempo. Sin conexión, sin anuncios.
+
+**Q: ¿Cómo sé el BPM de una canción en iPhone?**
+
+A: Importa la canción en VibeDeck Player y reprodúcela. El BPM aparece en la pantalla principal.
+
+**Q: ¿Puedo ordenar mi música por BPM?**
+
+A: Sí. Ordena la cola por BPM: las pistas se agrupan por rango de tempo, con el BPM exacto en cada una.
+
+**Q: ¿Puedo cambiar el BPM de una canción?**
+
+A: Sí. En VibeDeck Studio el tempo va de -100% a +100%. Key-lock mantiene la tonalidad.
+
+**Q: ¿Funciona sin conexión?**
+
+A: Sí. VibeDeck usa los archivos de música de tu dispositivo, sin internet.
+
+**Q: ¿Es gratis?**
+
+A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+
+## Novedades de VibeDeck Player: Stems, iPad, portadas
+
+URL: https://vibedeckplayer.app/es/novedades/
+Language: es
+
+VibeDeck Player 1.0.21: Stems separa cualquier pista en acapella y base, la app se adapta a todo iPad y iPhone y las portadas salen en la pantalla de bloqueo.
+
+**Q: ¿Qué hay de nuevo en VibeDeck Player 1.0.21?**
+
+A: Stems separa cualquier pista en acapella y base, la app se adapta a todo iPad y iPhone y las portadas encontradas salen en la pantalla de bloqueo.
+
+**Q: ¿VibeDeck funciona en iPad?**
+
+A: Sí. VibeDeck se adapta a todo iPad y todo iPhone, viejo y nuevo.
+
+**Q: ¿VibeDeck puede quitar la voz de una canción?**
+
+A: Sí. Stems separa una pista en acapella y base en tu teléfono. Puedes mezclarlas en vivo, añadir efectos en Studio y exportar.
+
+**Q: ¿Cómo consigo la actualización?**
+
+A: Actualiza VibeDeck Player en el App Store. Los nuevos usuarios lo descargan gratis.
+
+**Q: ¿Es gratis?**
+
+A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+
 ## Player de música offline sem anúncios | VibeDeck
 
 URL: https://vibedeckplayer.app/pt-br/
@@ -2139,6 +2479,91 @@ A: O VibeMod é um processamento especial e denso do som. A faixa soa mais cheia
 **Q: É grátis?**
 
 A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+
+## Nightcore no iPhone: preset de um toque | VibeDeck
+
+URL: https://vibedeckplayer.app/pt-br/nightcore/
+Language: pt-BR
+
+Faça a versão nightcore das suas músicas no iPhone e iPad: toque no preset NIGHTCORE do VibeDeck e a faixa fica mais rápida e aguda. Offline, sem anúncios.
+
+**Q: Como faço uma versão nightcore de uma música no iPhone?**
+
+A: Toque a música no VibeDeck Player, abra Effects e toque em NIGHTCORE. A faixa acelera e o tom sobe. Dá para ajustar a velocidade e adicionar reverb ou graves.
+
+**Q: O que é nightcore?**
+
+A: É uma versão da música mais rápida e aguda, que soa mais brilhante e com mais energia.
+
+**Q: Posso acelerar sem subir o tom?**
+
+A: Sim. No VibeDeck Studio você pode travar o tom e mudar só o andamento.
+
+**Q: Posso gravar e compartilhar minha versão?**
+
+A: Sim. No Studio toque em REC, grave até dois minutos com fade in e fade out e compartilhe o clipe.
+
+**Q: Funciona offline?**
+
+A: Sim. Os presets funcionam com os arquivos da sua biblioteca do VibeDeck, sem internet.
+
+**Q: É grátis?**
+
+A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música, inclusive em segundo plano. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+
+## BPM de cada música e ordem por andamento | VibeDeck
+
+URL: https://vibedeckplayer.app/pt-br/bpm/
+Language: pt-BR
+
+Veja o BPM de cada música no iPhone: o VibeDeck mostra o BPM exato na tela principal e ordena sua fila por andamento. Offline, sem anúncios.
+
+**Q: Como sei o BPM de uma música no iPhone?**
+
+A: Importe a música no VibeDeck Player e toque. O BPM aparece na tela principal.
+
+**Q: Posso ordenar minhas músicas por BPM?**
+
+A: Sim. Ordene a fila por BPM: as faixas são agrupadas por andamento, com o BPM exato em cada uma.
+
+**Q: Posso mudar o BPM de uma música?**
+
+A: Sim. No VibeDeck Studio o andamento vai de -100% a +100%. O key-lock mantém o tom.
+
+**Q: Funciona offline?**
+
+A: Sim. O VibeDeck usa os arquivos de música do seu aparelho, sem internet.
+
+**Q: É grátis?**
+
+A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música, inclusive em segundo plano. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+
+## Novidades do VibeDeck Player: Stems, iPad, capas
+
+URL: https://vibedeckplayer.app/pt-br/novidades/
+Language: pt-BR
+
+Novidades do VibeDeck Player 1.0.21: Stems separa qualquer faixa em acapella e base, o app cabe em todo iPad e iPhone e as capas aparecem na tela de bloqueio.
+
+**Q: O que há de novo no VibeDeck Player 1.0.21?**
+
+A: O Stems separa qualquer faixa em acapella e base, o app cabe em todo iPad e iPhone e as capas encontradas aparecem na tela de bloqueio.
+
+**Q: O VibeDeck funciona no iPad?**
+
+A: Sim. O VibeDeck cabe em todo iPad e todo iPhone, antigo e novo.
+
+**Q: O VibeDeck tira a voz de uma música?**
+
+A: Sim. O Stems separa uma faixa em acapella e base no celular. Dá para mixar ao vivo, adicionar efeitos no Studio e exportar.
+
+**Q: Como pego a atualização?**
+
+A: Atualize o VibeDeck Player na App Store. Novos usuários baixam grátis.
+
+**Q: É grátis?**
+
+A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música, inclusive em segundo plano. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし
 
@@ -2368,6 +2793,91 @@ A: VibeModは音を密度高く仕上げる特別な処理です。曲がより�
 **Q: 無料ですか?**
 
 A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+
+## iPhoneでナイトコア: ワンタップのプリセット | VibeDeck
+
+URL: https://vibedeckplayer.app/ja/nightcore/
+Language: ja
+
+iPhoneとiPadで自分の曲をナイトコアに。VibeDeckのNIGHTCOREプリセットをタップするだけで、曲が速く高くなります。オフライン、広告なし。
+
+**Q: iPhoneで曲をナイトコアにするには？**
+
+A: VibeDeck Playerで曲を再生し、Effectsを開いてNIGHTCOREをタップします。曲が速くなりピッチが上がります。スピードの調整やリバーブ、低音の追加もできます。
+
+**Q: ナイトコアとは？**
+
+A: 曲を速く、高いピッチで再生したバージョンです。明るくエネルギッシュに聞こえます。
+
+**Q: ピッチを上げずに速くできますか？**
+
+A: はい。VibeDeck Studioではキーを固定してテンポだけ変えられます。
+
+**Q: 録音して共有できますか？**
+
+A: はい。StudioでRECを押し、フェードイン・アウト付きで最大2分録音して共有できます。
+
+**Q: オフラインで使えますか？**
+
+A: はい。プリセットはVibeDeckライブラリの音楽ファイルでインターネットなしに使えます。
+
+**Q: 無料ですか？**
+
+A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます(バックグラウンド再生も可能)。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+
+## 曲のBPMを表示、テンポで並べ替え | VibeDeck
+
+URL: https://vibedeckplayer.app/ja/bpm/
+Language: ja
+
+iPhoneでライブラリの曲のBPMがわかります。VibeDeckはメイン画面に正確なBPMを表示し、キューをテンポで並べ替えます。オフライン、広告なし。
+
+**Q: iPhoneで曲のBPMを調べるには？**
+
+A: 曲をVibeDeck Playerに取り込んで再生します。BPMはメイン画面に表示されます。
+
+**Q: 音楽をBPMで並べ替えられますか？**
+
+A: はい。キューをBPMで並べ替えると、テンポの範囲ごとにまとまり、各曲に正確なBPMが付きます。
+
+**Q: 曲のBPMを変えられますか？**
+
+A: はい。VibeDeck Studioでテンポを-100%から+100%まで変えられます。key-lockでキーはそのままです。
+
+**Q: オフラインで使えますか？**
+
+A: はい。端末の音楽ファイルでインターネットなしに使えます。
+
+**Q: 無料ですか？**
+
+A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます(バックグラウンド再生も可能)。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+
+## VibeDeck Playerの新機能: Stems、iPad、カバー
+
+URL: https://vibedeckplayer.app/ja/whats-new/
+Language: ja
+
+VibeDeck Player 1.0.21の新機能: Stemsで曲をアカペラと伴奏に分離、すべてのiPadとiPhoneに対応、見つけたカバーをロック画面にも表示。
+
+**Q: VibeDeck Player 1.0.21の新機能は？**
+
+A: Stemsで曲をアカペラと伴奏に分離、すべてのiPadとiPhoneに対応、見つけたカバーをロック画面にも表示。
+
+**Q: VibeDeckはiPadで使えますか？**
+
+A: はい。新旧すべてのiPadとiPhoneに対応しています。
+
+**Q: 曲からボーカルを消せますか？**
+
+A: はい。Stemsでスマホ上で曲をアカペラと伴奏に分けられます。ライブでミックス、Studioでエフェクト、書き出しができます。
+
+**Q: アップデートの方法は？**
+
+A: App StoreでVibeDeck Playerをアップデートしてください。新しく使う人は無料でダウンロードできます。
+
+**Q: 無料ですか？**
+
+A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます(バックグラウンド再生も可能)。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## Музыкальный плеер без интернета и рекламы | VibeDeck
 
@@ -2620,6 +3130,91 @@ A: Да. Нажмите MONO под эквалайзером. Продюсеры
 **Q: Что делает VibeMod?**
 
 A: VibeMod это специальная плотная обработка звука. Трек звучит полнее и мощнее. Включайте и выключайте его под эквалайзером, чтобы сравнить.
+
+**Q: Это бесплатно?**
+
+A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+
+## Nightcore на iPhone: пресет в одно касание | VibeDeck
+
+URL: https://vibedeckplayer.app/ru/nightcore/
+Language: ru
+
+Сделайте nightcore-версию своей песни на iPhone и iPad: нажмите пресет NIGHTCORE в VibeDeck, трек станет быстрее и выше. Офлайн, без рекламы.
+
+**Q: Как сделать nightcore-версию песни на iPhone?**
+
+A: Включите песню в VibeDeck Player, откройте Effects и нажмите NIGHTCORE. Трек ускорится, тон поднимется. Скорость можно подстроить и добавить реверб или бас.
+
+**Q: Что такое nightcore?**
+
+A: Это версия песни, которая играет быстрее и выше, поэтому звучит ярче и энергичнее.
+
+**Q: Можно ускорить без повышения тона?**
+
+A: Да. В VibeDeck Studio можно зафиксировать тональность и менять только темп.
+
+**Q: Можно записать и отправить свою версию?**
+
+A: Да. В Studio нажмите REC, запишите до двух минут с fade in и fade out и поделитесь клипом.
+
+**Q: Работает без интернета?**
+
+A: Да. Пресеты работают с файлами в вашей библиотеке VibeDeck без интернета.
+
+**Q: Это бесплатно?**
+
+A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+
+## BPM каждой песни и сортировка по темпу | VibeDeck
+
+URL: https://vibedeckplayer.app/ru/bpm/
+Language: ru
+
+Узнайте BPM каждой песни на iPhone: VibeDeck показывает точный BPM на главном экране и сортирует очередь по темпу. Офлайн, без рекламы.
+
+**Q: Как узнать BPM песни на iPhone?**
+
+A: Добавьте песню в VibeDeck Player и включите ее. BPM показан на главном экране.
+
+**Q: Можно отсортировать музыку по BPM?**
+
+A: Да. Отсортируйте очередь по BPM: треки группируются по диапазону темпа, у каждого точный BPM.
+
+**Q: Можно изменить BPM песни?**
+
+A: Да. В VibeDeck Studio темп меняется от -100% до +100%. Key-lock сохраняет тональность.
+
+**Q: Работает без интернета?**
+
+A: Да. VibeDeck работает с музыкальными файлами на вашем устройстве без интернета.
+
+**Q: Это бесплатно?**
+
+A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+
+## Что нового в VibeDeck Player: Stems, iPad, обложки
+
+URL: https://vibedeckplayer.app/ru/chto-novogo/
+Language: ru
+
+Что нового в VibeDeck Player 1.0.21: Stems делит любой трек на акапеллу и минус, приложение подходит для любого iPad и iPhone, обложки на экране блокировки.
+
+**Q: Что нового в VibeDeck Player 1.0.21?**
+
+A: Stems делит любой трек на акапеллу и минус, приложение подходит для любого iPad и iPhone, найденные обложки видны на экране блокировки.
+
+**Q: VibeDeck работает на iPad?**
+
+A: Да. VibeDeck подходит для любого iPad и любого iPhone, старого и нового.
+
+**Q: VibeDeck может убрать голос из песни?**
+
+A: Да. Stems делит трек на акапеллу и минус на телефоне. Их можно свести вживую, добавить эффекты в Studio и экспортировать.
+
+**Q: Как получить обновление?**
+
+A: Обновите VibeDeck Player в App Store. Новые пользователи скачивают его бесплатно.
 
 **Q: Это бесплатно?**
 
@@ -2881,6 +3476,91 @@ A: VibeMod는 소리를 밀도 있게 만드는 특별한 처리입니다. 트�
 
 A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다. 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
+## iPhone에서 나이트코어: 원탭 프리셋 | VibeDeck
+
+URL: https://vibedeckplayer.app/ko/nightcore/
+Language: ko
+
+iPhone과 iPad에서 내 노래를 나이트코어로. VibeDeck의 NIGHTCORE 프리셋을 탭하면 곡이 더 빠르고 높아집니다. 오프라인, 광고 없음.
+
+**Q: iPhone에서 노래를 나이트코어로 만들려면?**
+
+A: VibeDeck Player에서 노래를 재생하고 Effects를 열어 NIGHTCORE를 탭하세요. 곡이 빨라지고 음정이 올라갑니다. 속도를 조절하고 리버브나 베이스를 더할 수 있습니다.
+
+**Q: 나이트코어란?**
+
+A: 노래를 더 빠르고 높은 음정으로 재생한 버전으로, 더 밝고 에너지 넘치게 들립니다.
+
+**Q: 음정을 올리지 않고 빠르게만 할 수 있나요?**
+
+A: 네. VibeDeck Studio에서 키를 고정하고 템포만 바꿀 수 있습니다.
+
+**Q: 내 버전을 녹음해서 공유할 수 있나요?**
+
+A: 네. Studio에서 REC를 눌러 페이드 인·아웃과 함께 최대 2분 녹음하고 클립을 공유하세요.
+
+**Q: 오프라인에서 작동하나요?**
+
+A: 네. 프리셋은 VibeDeck 라이브러리의 음악 파일로 인터넷 없이 작동합니다.
+
+**Q: 무료인가요?**
+
+A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+
+## 모든 노래의 BPM과 템포별 정렬 | VibeDeck
+
+URL: https://vibedeckplayer.app/ko/bpm/
+Language: ko
+
+iPhone에서 모든 노래의 BPM을 확인하세요. VibeDeck은 메인 화면에 정확한 BPM을 보여주고 대기열을 템포별로 정렬합니다. 오프라인, 광고 없음.
+
+**Q: iPhone에서 노래의 BPM을 확인하려면?**
+
+A: 노래를 VibeDeck Player로 가져와 재생하세요. BPM이 메인 화면에 표시됩니다.
+
+**Q: 음악을 BPM으로 정렬할 수 있나요?**
+
+A: 네. 대기열을 BPM으로 정렬하면 곡이 템포 범위별로 묶이고 각 곡에 정확한 BPM이 표시됩니다.
+
+**Q: 노래의 BPM을 바꿀 수 있나요?**
+
+A: 네. VibeDeck Studio에서 템포를 -100%에서 +100%까지 바꿀 수 있습니다. key-lock이 키를 유지합니다.
+
+**Q: 오프라인에서 작동하나요?**
+
+A: 네. 기기의 음악 파일로 인터넷 없이 작동합니다.
+
+**Q: 무료인가요?**
+
+A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+
+## VibeDeck Player 새 기능: Stems, iPad, 커버
+
+URL: https://vibedeckplayer.app/ko/whats-new/
+Language: ko
+
+VibeDeck Player 1.0.21 새 기능: Stems로 곡을 아카펠라와 반주로 분리, 모든 iPad와 iPhone 지원, 찾은 커버를 잠금 화면에도 표시.
+
+**Q: VibeDeck Player 1.0.21의 새 기능은?**
+
+A: Stems로 곡을 아카펠라와 반주로 분리, 모든 iPad와 iPhone 지원, 찾은 커버를 잠금 화면에도 표시.
+
+**Q: VibeDeck은 iPad에서 작동하나요?**
+
+A: 네. 오래된 기기부터 최신 기기까지 모든 iPad와 iPhone에 맞습니다.
+
+**Q: 노래에서 보컬을 지울 수 있나요?**
+
+A: 네. Stems가 휴대폰에서 곡을 아카펠라와 반주로 나눕니다. 라이브 믹스, Studio 이펙트, 내보내기가 가능합니다.
+
+**Q: 업데이트는 어떻게 받나요?**
+
+A: App Store에서 VibeDeck Player를 업데이트하세요. 새 사용자는 무료로 다운로드할 수 있습니다.
+
+**Q: 무료인가요?**
+
+A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+
 ## Reklamsız çevrimdışı müzik çalar | VibeDeck
 
 URL: https://vibedeckplayer.app/tr/
@@ -3136,6 +3816,91 @@ A: VibeMod sesin özel ve yoğun bir işlenmesidir. Parça daha dolu ve güçlü
 **Q: Ücretsiz mi?**
 
 A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+
+## iPhone’da Nightcore: tek dokunuşla preset | VibeDeck
+
+URL: https://vibedeckplayer.app/tr/nightcore/
+Language: tr
+
+Şarkılarının nightcore versiyonunu iPhone ve iPad’de yap: VibeDeck’te NIGHTCORE preset’ine dokun, parça hızlanır ve incelir. Çevrimdışı, reklamsız.
+
+**Q: iPhone’da bir şarkının nightcore versiyonunu nasıl yaparım?**
+
+A: Şarkıyı VibeDeck Player’da çal, Effects’i aç ve NIGHTCORE’a dokun. Parça hızlanır ve ton yükselir. Hızı ayarlayabilir, reverb ya da bas ekleyebilirsin.
+
+**Q: Nightcore nedir?**
+
+A: Bir şarkının daha hızlı ve daha ince çalınan, daha parlak ve enerjik duyulan versiyonudur.
+
+**Q: Tonu yükseltmeden sadece hızlandırabilir miyim?**
+
+A: Evet. VibeDeck Studio’da tonu sabitleyip yalnızca tempoyu değiştirebilirsin.
+
+**Q: Versiyonumu kaydedip paylaşabilir miyim?**
+
+A: Evet. Studio’da REC’e bas, fade in ve fade out ile iki dakikaya kadar kaydet ve klibi paylaş.
+
+**Q: Çevrimdışı çalışır mı?**
+
+A: Evet. Preset’ler VibeDeck kitaplığındaki dosyalarla internetsiz çalışır.
+
+**Q: Ücretsiz mi?**
+
+A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+
+## Her şarkının BPM’i ve tempoya göre sıralama | VibeDeck
+
+URL: https://vibedeckplayer.app/tr/bpm/
+Language: tr
+
+iPhone’da her şarkının BPM’ini gör: VibeDeck ana ekranda kesin BPM’i gösterir ve sıranı tempoya göre dizer. Çevrimdışı, reklamsız.
+
+**Q: iPhone’da bir şarkının BPM’ini nasıl bulurum?**
+
+A: Şarkıyı VibeDeck Player’a ekle ve çal. BPM ana ekranda görünür.
+
+**Q: Müziğimi BPM’e göre sıralayabilir miyim?**
+
+A: Evet. Sırayı BPM’e göre sırala: parçalar tempo aralığına göre gruplanır, her birinde kesin BPM.
+
+**Q: Bir şarkının BPM’ini değiştirebilir miyim?**
+
+A: Evet. VibeDeck Studio’da tempo -%100 ile +%100 arasında değişir. Key-lock tonu korur.
+
+**Q: Çevrimdışı çalışır mı?**
+
+A: Evet. VibeDeck cihazındaki müzik dosyalarıyla internetsiz çalışır.
+
+**Q: Ücretsiz mi?**
+
+A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+
+## VibeDeck Player yenilikleri: Stems, iPad, kapaklar
+
+URL: https://vibedeckplayer.app/tr/yenilikler/
+Language: tr
+
+VibeDeck Player 1.0.21 yenilikleri: Stems her parçayı akapella ve altyapıya ayırır, uygulama her iPad ve iPhone’a uyar, kapaklar kilit ekranında görünür.
+
+**Q: VibeDeck Player 1.0.21’de ne yeni?**
+
+A: Stems her parçayı akapella ve altyapıya ayırır, uygulama her iPad ve iPhone’a uyar ve bulunan kapaklar kilit ekranında görünür.
+
+**Q: VibeDeck iPad’de çalışır mı?**
+
+A: Evet. VibeDeck eski ve yeni her iPad ve iPhone’a uyar.
+
+**Q: VibeDeck bir şarkıdan vokali çıkarabilir mi?**
+
+A: Evet. Stems telefonunda bir parçayı akapella ve altyapıya ayırır. Canlı miksleyebilir, Studio’da efekt ekleyebilir ve dışa aktarabilirsin.
+
+**Q: Güncellemeyi nasıl alırım?**
+
+A: VibeDeck Player’ı App Store’dan güncelle. Yeni kullanıcılar ücretsiz indirir.
+
+**Q: Ücretsiz mi?**
+
+A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## Pemutar musik offline tanpa iklan | VibeDeck
 
@@ -3393,6 +4158,91 @@ A: VibeMod adalah pemrosesan suara khusus yang padat. Lagu terdengar lebih penuh
 
 A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
+## Nightcore di iPhone: preset satu ketukan | VibeDeck
+
+URL: https://vibedeckplayer.app/id/nightcore/
+Language: id
+
+Buat versi nightcore lagumu sendiri di iPhone dan iPad: ketuk preset NIGHTCORE di VibeDeck, lagu jadi lebih cepat dan lebih tinggi. Offline, tanpa iklan.
+
+**Q: Bagaimana membuat versi nightcore lagu di iPhone?**
+
+A: Putar lagu di VibeDeck Player, buka Effects dan ketuk NIGHTCORE. Lagu jadi lebih cepat dan nadanya naik. Kamu bisa mengatur kecepatan dan menambahkan reverb atau bass.
+
+**Q: Apa itu nightcore?**
+
+A: Versi lagu yang diputar lebih cepat dan dengan nada lebih tinggi, sehingga terdengar lebih cerah dan bersemangat.
+
+**Q: Bisakah mempercepat tanpa menaikkan nada?**
+
+A: Bisa. Di VibeDeck Studio kamu bisa mengunci kunci nada dan mengubah tempo saja.
+
+**Q: Bisakah merekam dan membagikan versiku?**
+
+A: Bisa. Di Studio tekan REC, rekam hingga dua menit dengan fade in dan fade out, lalu bagikan klipnya.
+
+**Q: Apakah berjalan offline?**
+
+A: Ya. Preset bekerja dengan file musik di perpustakaan VibeDeck tanpa internet.
+
+**Q: Apakah gratis?**
+
+A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik, juga di latar belakang. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+
+## BPM setiap lagu dan urutkan menurut tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/id/bpm/
+Language: id
+
+Lihat BPM setiap lagu di iPhone: VibeDeck menampilkan BPM yang tepat di layar utama dan mengurutkan antrean menurut tempo. Offline, tanpa iklan.
+
+**Q: Bagaimana mengetahui BPM lagu di iPhone?**
+
+A: Impor lagu ke VibeDeck Player dan putar. BPM tampil di layar utama.
+
+**Q: Bisakah mengurutkan musik menurut BPM?**
+
+A: Bisa. Urutkan antrean menurut BPM: lagu dikelompokkan menurut rentang tempo, dengan BPM tepat di setiap lagu.
+
+**Q: Bisakah mengubah BPM lagu?**
+
+A: Bisa. Di VibeDeck Studio tempo bisa diubah dari -100% sampai +100%. Key-lock menjaga kunci nada.
+
+**Q: Apakah berjalan offline?**
+
+A: Ya. VibeDeck memakai file musik di perangkatmu tanpa internet.
+
+**Q: Apakah gratis?**
+
+A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik, juga di latar belakang. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+
+## Yang baru di VibeDeck Player: Stems, iPad, sampul
+
+URL: https://vibedeckplayer.app/id/yang-baru/
+Language: id
+
+Yang baru di VibeDeck Player 1.0.21: Stems memisahkan lagu jadi acapella dan iringan, aplikasi pas di setiap iPad dan iPhone, sampul tampil di layar kunci.
+
+**Q: Apa yang baru di VibeDeck Player 1.0.21?**
+
+A: Stems memisahkan lagu jadi acapella dan iringan, aplikasi pas di setiap iPad dan iPhone, dan sampul yang ditemukan tampil di layar kunci.
+
+**Q: Apakah VibeDeck berjalan di iPad?**
+
+A: Ya. VibeDeck pas di setiap iPad dan setiap iPhone, lama maupun baru.
+
+**Q: Bisakah VibeDeck menghapus vokal dari lagu?**
+
+A: Bisa. Stems memisahkan lagu jadi acapella dan iringan di ponselmu. Kamu bisa mix langsung, menambah efek di Studio dan mengekspor.
+
+**Q: Bagaimana mendapatkan pembaruan?**
+
+A: Perbarui VibeDeck Player di App Store. Pengguna baru bisa mengunduhnya gratis.
+
+**Q: Apakah gratis?**
+
+A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik, juga di latar belakang. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+
 ## Odtwarzacz muzyki offline bez reklam | VibeDeck
 
 URL: https://vibedeckplayer.app/pl/
@@ -3648,6 +4498,91 @@ A: VibeMod to specjalna, gęsta obróbka dźwięku. Utwór brzmi pełniej i mocn
 **Q: Czy to za darmo?**
 
 A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+
+## Nightcore na iPhonie: preset jednym dotknięciem | VibeDeck
+
+URL: https://vibedeckplayer.app/pl/nightcore/
+Language: pl
+
+Zrób wersję nightcore swoich piosenek na iPhonie i iPadzie: dotknij presetu NIGHTCORE w VibeDeck, a utwór przyspieszy i zabrzmi wyżej. Offline, bez reklam.
+
+**Q: Jak zrobić wersję nightcore piosenki na iPhonie?**
+
+A: Odtwórz piosenkę w VibeDeck Player, otwórz Effects i dotknij NIGHTCORE. Utwór przyspiesza i brzmi wyżej. Możesz dopasować tempo i dodać pogłos albo bas.
+
+**Q: Czym jest nightcore?**
+
+A: To wersja piosenki odtwarzana szybciej i wyżej, przez co brzmi jaśniej i energiczniej.
+
+**Q: Czy mogę przyspieszyć bez podnoszenia tonacji?**
+
+A: Tak. W VibeDeck Studio możesz zablokować tonację i zmieniać tylko tempo.
+
+**Q: Czy mogę nagrać i udostępnić swoją wersję?**
+
+A: Tak. W Studio naciśnij REC, nagraj do dwóch minut z fade in i fade out i udostępnij klip.
+
+**Q: Czy działa offline?**
+
+A: Tak. Presety działają z plikami w twojej bibliotece VibeDeck, bez internetu.
+
+**Q: Czy to jest darmowe?**
+
+A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+
+## BPM każdej piosenki i sortowanie po tempie | VibeDeck
+
+URL: https://vibedeckplayer.app/pl/bpm/
+Language: pl
+
+Sprawdź BPM każdej piosenki na iPhonie: VibeDeck pokazuje dokładne BPM na ekranie głównym i sortuje kolejkę według tempa. Offline, bez reklam.
+
+**Q: Jak sprawdzić BPM piosenki na iPhonie?**
+
+A: Zaimportuj piosenkę do VibeDeck Player i odtwórz ją. BPM jest na ekranie głównym.
+
+**Q: Czy mogę posortować muzykę według BPM?**
+
+A: Tak. Posortuj kolejkę według BPM: utwory są grupowane według zakresu tempa, każdy z dokładnym BPM.
+
+**Q: Czy mogę zmienić BPM piosenki?**
+
+A: Tak. W VibeDeck Studio tempo zmienia się od -100% do +100%. Key-lock trzyma tonację.
+
+**Q: Czy działa offline?**
+
+A: Tak. VibeDeck korzysta z plików muzycznych na twoim urządzeniu, bez internetu.
+
+**Q: Czy to jest darmowe?**
+
+A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+
+## Nowości w VibeDeck Player: Stems, iPad, okładki
+
+URL: https://vibedeckplayer.app/pl/nowosci/
+Language: pl
+
+Nowości w VibeDeck Player 1.0.21: Stems dzieli każdy utwór na acapellę i podkład, aplikacja pasuje do każdego iPada i iPhone’a, okładki na ekranie blokady.
+
+**Q: Co nowego w VibeDeck Player 1.0.21?**
+
+A: Stems dzieli każdy utwór na acapellę i podkład, aplikacja pasuje do każdego iPada i iPhone’a, a znalezione okładki widać na ekranie blokady.
+
+**Q: Czy VibeDeck działa na iPadzie?**
+
+A: Tak. VibeDeck pasuje do każdego iPada i każdego iPhone’a, starego i nowego.
+
+**Q: Czy VibeDeck usunie wokal z piosenki?**
+
+A: Tak. Stems dzieli utwór na acapellę i podkład na telefonie. Możesz miksować na żywo, dodać efekty w Studio i eksportować.
+
+**Q: Jak dostać aktualizację?**
+
+A: Zaktualizuj VibeDeck Player w App Store. Nowi użytkownicy pobierają go za darmo.
+
+**Q: Czy to jest darmowe?**
+
+A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## Offline muziekspeler zonder advertenties | VibeDeck
 
@@ -3905,6 +4840,91 @@ A: VibeMod is een speciale, dichte bewerking van het geluid. Het nummer klinkt v
 
 A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
+## Nightcore op iPhone: preset met één tik | VibeDeck
+
+URL: https://vibedeckplayer.app/nl/nightcore/
+Language: nl
+
+Nightcore op iPhone en iPad: tik op de preset NIGHTCORE in VibeDeck en je nummer wordt sneller en hoger. Offline, zonder reclame.
+
+**Q: Hoe maak ik een nightcore-versie van een nummer op iPhone?**
+
+A: Speel het nummer af in VibeDeck Player, open Effects en tik op NIGHTCORE. Het nummer versnelt en klinkt hoger. Je kunt de snelheid bijstellen en galm of bas toevoegen.
+
+**Q: Wat is nightcore?**
+
+A: Een versie van een nummer die sneller en hoger speelt, waardoor het helderder en energieker klinkt.
+
+**Q: Kan ik sneller zonder hoger te klinken?**
+
+A: Ja. In VibeDeck Studio kun je de toonsoort vastzetten en alleen het tempo veranderen.
+
+**Q: Kan ik mijn versie opnemen en delen?**
+
+A: Ja. Druk in Studio op REC, neem tot twee minuten op met fade-in en fade-out en deel de clip.
+
+**Q: Werkt het offline?**
+
+A: Ja. De presets werken met de bestanden in je VibeDeck-bibliotheek, zonder internet.
+
+**Q: Is het gratis?**
+
+A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek, ook op de achtergrond. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+
+## BPM van elk nummer en sorteren op tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/nl/bpm/
+Language: nl
+
+Zie de BPM van elk nummer op iPhone: VibeDeck toont de exacte BPM op het hoofdscherm en sorteert je wachtrij op tempo. Offline, zonder reclame.
+
+**Q: Hoe vind ik de BPM van een nummer op iPhone?**
+
+A: Importeer het nummer in VibeDeck Player en speel het af. De BPM staat op het hoofdscherm.
+
+**Q: Kan ik mijn muziek sorteren op BPM?**
+
+A: Ja. Sorteer de wachtrij op BPM: nummers worden gegroepeerd per tempobereik, elk met de exacte BPM.
+
+**Q: Kan ik de BPM van een nummer veranderen?**
+
+A: Ja. In VibeDeck Studio gaat het tempo van -100% tot +100%. Key-lock houdt de toonsoort.
+
+**Q: Werkt het offline?**
+
+A: Ja. VibeDeck gebruikt de muziekbestanden op je apparaat, zonder internet.
+
+**Q: Is het gratis?**
+
+A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek, ook op de achtergrond. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+
+## Nieuw in VibeDeck Player: Stems, iPad, hoesjes
+
+URL: https://vibedeckplayer.app/nl/nieuw/
+Language: nl
+
+Nieuw in VibeDeck Player 1.0.21: Stems splitst elk nummer in acapella en begeleiding, de app past op elke iPad en iPhone, hoesjes op het vergrendelscherm.
+
+**Q: Wat is nieuw in VibeDeck Player 1.0.21?**
+
+A: Stems splitst elk nummer in acapella en begeleiding, de app past op elke iPad en iPhone en gevonden hoesjes verschijnen op het vergrendelscherm.
+
+**Q: Werkt VibeDeck op iPad?**
+
+A: Ja. VibeDeck past op elke iPad en elke iPhone, oud en nieuw.
+
+**Q: Kan VibeDeck de zang uit een nummer halen?**
+
+A: Ja. Stems splitst een nummer op je telefoon in acapella en begeleiding. Je kunt live mixen, effecten toevoegen in Studio en exporteren.
+
+**Q: Hoe krijg ik de update?**
+
+A: Werk VibeDeck Player bij in de App Store. Nieuwe gebruikers downloaden hem gratis.
+
+**Q: Is het gratis?**
+
+A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek, ook op de achtergrond. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+
 ## Trình phát nhạc offline không quảng cáo | VibeDeck
 
 URL: https://vibedeckplayer.app/vi/
@@ -4160,6 +5180,91 @@ A: VibeMod là xử lý âm thanh đặc biệt và dày. Bài hát nghe đầy 
 **Q: Có miễn phí không?**
 
 A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+
+## Nightcore trên iPhone: preset một chạm | VibeDeck
+
+URL: https://vibedeckplayer.app/vi/nightcore/
+Language: vi
+
+Tạo bản nightcore cho bài hát của bạn trên iPhone và iPad: chạm preset NIGHTCORE trong VibeDeck, bài hát nhanh hơn và cao hơn. Ngoại tuyến, không quảng cáo.
+
+**Q: Làm sao tạo bản nightcore của bài hát trên iPhone?**
+
+A: Phát bài hát trong VibeDeck Player, mở Effects và chạm NIGHTCORE. Bài hát nhanh hơn và cao độ tăng. Bạn có thể chỉnh tốc độ và thêm reverb hoặc bass.
+
+**Q: Nightcore là gì?**
+
+A: Là phiên bản bài hát được phát nhanh hơn và cao hơn, nghe sáng và sôi động hơn.
+
+**Q: Có thể tăng tốc mà không tăng cao độ không?**
+
+A: Có. Trong VibeDeck Studio bạn có thể khóa tông và chỉ đổi tempo.
+
+**Q: Có thể ghi và chia sẻ bản của tôi không?**
+
+A: Có. Trong Studio nhấn REC, ghi tối đa hai phút với fade in và fade out rồi chia sẻ.
+
+**Q: Có hoạt động ngoại tuyến không?**
+
+A: Có. Các preset hoạt động với file nhạc trong thư viện VibeDeck, không cần internet.
+
+**Q: Có miễn phí không?**
+
+A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc, kể cả chạy nền. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+
+## BPM của mọi bài hát và sắp xếp theo tempo | VibeDeck
+
+URL: https://vibedeckplayer.app/vi/bpm/
+Language: vi
+
+Xem BPM của mọi bài hát trên iPhone: VibeDeck hiện BPM chính xác trên màn hình chính và sắp xếp hàng chờ theo tempo. Ngoại tuyến, không quảng cáo.
+
+**Q: Làm sao xem BPM của bài hát trên iPhone?**
+
+A: Nhập bài hát vào VibeDeck Player và phát. BPM hiện trên màn hình chính.
+
+**Q: Có thể sắp xếp nhạc theo BPM không?**
+
+A: Có. Sắp xếp hàng chờ theo BPM: bài hát được nhóm theo khoảng tempo, mỗi bài có BPM chính xác.
+
+**Q: Có thể đổi BPM của bài hát không?**
+
+A: Có. Trong VibeDeck Studio tempo đổi từ -100% đến +100%. Key-lock giữ nguyên tông.
+
+**Q: Có hoạt động ngoại tuyến không?**
+
+A: Có. VibeDeck dùng file nhạc trên thiết bị của bạn, không cần internet.
+
+**Q: Có miễn phí không?**
+
+A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc, kể cả chạy nền. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+
+## Có gì mới trong VibeDeck Player: Stems, iPad, ảnh bìa
+
+URL: https://vibedeckplayer.app/vi/co-gi-moi/
+Language: vi
+
+Có gì mới trong VibeDeck Player 1.0.21: Stems tách bài hát thành acapella và nhạc nền, ứng dụng vừa mọi iPad và iPhone, ảnh bìa hiện trên màn hình khóa.
+
+**Q: VibeDeck Player 1.0.21 có gì mới?**
+
+A: Stems tách bài hát thành acapella và nhạc nền, ứng dụng vừa mọi iPad và iPhone, ảnh bìa tìm được hiện trên màn hình khóa.
+
+**Q: VibeDeck có chạy trên iPad không?**
+
+A: Có. VibeDeck vừa với mọi iPad và mọi iPhone, cũ và mới.
+
+**Q: VibeDeck có xóa giọng hát khỏi bài hát được không?**
+
+A: Có. Stems tách bài hát thành acapella và nhạc nền trên điện thoại. Bạn có thể mix trực tiếp, thêm hiệu ứng trong Studio và xuất.
+
+**Q: Làm sao nhận bản cập nhật?**
+
+A: Cập nhật VibeDeck Player trên App Store. Người dùng mới tải miễn phí.
+
+**Q: Có miễn phí không?**
+
+A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc, kể cả chạy nền. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## 無廣告離線音樂播放器 | VibeDeck
 
@@ -4417,6 +5522,91 @@ A: VibeMod 是一種特別的密實聲音處理，讓歌曲聽起來更飽滿有
 
 A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
+## iPhone 上的 Nightcore：一鍵預設 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hant/nightcore/
+Language: zh-Hant
+
+在 iPhone 和 iPad 上把自己的歌曲做成 nightcore：點一下 VibeDeck 的 NIGHTCORE 預設，歌曲變得更快、更高。離線使用，沒有廣告。
+
+**Q: 如何在 iPhone 上把歌曲做成 nightcore？**
+
+A: 在 VibeDeck Player 播放歌曲，打開 Effects，點 NIGHTCORE。歌曲會加快、音高升高。也可以調整速度，加入殘響或低音。
+
+**Q: 什麼是 nightcore？**
+
+A: 把歌曲播得更快、音高更高的版本，聽起來更明亮、更有活力。
+
+**Q: 可以只加快速度、不升高音高嗎？**
+
+A: 可以。在 VibeDeck Studio 可以鎖定調性，只改變速度。
+
+**Q: 可以錄下並分享我的版本嗎？**
+
+A: 可以。在 Studio 按 REC，含淡入淡出最長錄兩分鐘，然後分享片段。
+
+**Q: 可以離線使用嗎？**
+
+A: 可以。預設使用 VibeDeck 資料庫裡的音樂檔，不需要網路。
+
+**Q: 免費嗎？**
+
+A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+
+## 每首歌的 BPM，依速度排序 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hant/bpm/
+Language: zh-Hant
+
+在 iPhone 上看到每首歌的 BPM：VibeDeck 在主畫面顯示精確 BPM，並依速度排序播放佇列。離線使用，沒有廣告。
+
+**Q: 如何在 iPhone 上知道歌曲的 BPM？**
+
+A: 把歌曲匯入 VibeDeck Player 並播放，BPM 會顯示在主畫面。
+
+**Q: 可以依 BPM 排序音樂嗎？**
+
+A: 可以。播放佇列依 BPM 排序後，歌曲按速度範圍分組，每首都有精確 BPM。
+
+**Q: 可以改變歌曲的 BPM 嗎？**
+
+A: 可以。在 VibeDeck Studio 速度可從 -100% 調到 +100%，key-lock 保持調性。
+
+**Q: 可以離線使用嗎？**
+
+A: 可以。VibeDeck 使用裝置上的音樂檔，不需要網路。
+
+**Q: 免費嗎？**
+
+A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+
+## VibeDeck Player 新功能：Stems、iPad、封面
+
+URL: https://vibedeckplayer.app/zh-hant/whats-new/
+Language: zh-Hant
+
+VibeDeck Player 1.0.21 新功能：Stems 把任何歌曲分成清唱和伴奏，App 適合每台 iPad 和 iPhone，找到的封面也會顯示在鎖定畫面。
+
+**Q: VibeDeck Player 1.0.21 有什麼新功能？**
+
+A: Stems 把任何歌曲分成清唱和伴奏，App 適合每台 iPad 和 iPhone，找到的封面也會顯示在鎖定畫面。
+
+**Q: VibeDeck 可以在 iPad 上用嗎？**
+
+A: 可以。VibeDeck 適合每台 iPad 和每支 iPhone，新舊都可以。
+
+**Q: VibeDeck 可以去掉歌曲的人聲嗎？**
+
+A: 可以。Stems 在手機上把歌曲分成清唱和伴奏。可以現場混音、在 Studio 加效果並匯出。
+
+**Q: 如何取得更新？**
+
+A: 在 App Store 更新 VibeDeck Player。新使用者可以免費下載。
+
+**Q: 免費嗎？**
+
+A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+
 ## 无广告离线音乐播放器 | VibeDeck
 
 URL: https://vibedeckplayer.app/zh-hans/
@@ -4673,6 +5863,91 @@ A: VibeMod 是一种特别的密实声音处理，让歌曲听起来更饱满有
 
 A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
+## iPhone 上的 Nightcore：一键预设 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hans/nightcore/
+Language: zh-Hans
+
+在 iPhone 和 iPad 上把自己的歌曲做成 nightcore：点一下 VibeDeck 的 NIGHTCORE 预设，歌曲变得更快、更高。离线使用，没有广告。
+
+**Q: 如何在 iPhone 上把歌曲做成 nightcore？**
+
+A: 在 VibeDeck Player 播放歌曲，打开 Effects，点 NIGHTCORE。歌曲会加快、音高升高。也可以调整速度，加入混响或低音。
+
+**Q: 什么是 nightcore？**
+
+A: 把歌曲播得更快、音高更高的版本，听起来更明亮、更有活力。
+
+**Q: 可以只加快速度、不升高音高吗？**
+
+A: 可以。在 VibeDeck Studio 可以锁定调性，只改变速度。
+
+**Q: 可以录下并分享我的版本吗？**
+
+A: 可以。在 Studio 按 REC，含淡入淡出最长录两分钟，然后分享片段。
+
+**Q: 可以离线使用吗？**
+
+A: 可以。预设使用 VibeDeck 资料库里的音乐文件，不需要网络。
+
+**Q: 免费吗？**
+
+A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+
+## 每首歌的 BPM，按速度排序 | VibeDeck
+
+URL: https://vibedeckplayer.app/zh-hans/bpm/
+Language: zh-Hans
+
+在 iPhone 上看到每首歌的 BPM：VibeDeck 在主界面显示精确 BPM，并按速度排序播放队列。离线使用，没有广告。
+
+**Q: 如何在 iPhone 上知道歌曲的 BPM？**
+
+A: 把歌曲导入 VibeDeck Player 并播放，BPM 会显示在主界面。
+
+**Q: 可以按 BPM 排序音乐吗？**
+
+A: 可以。播放队列按 BPM 排序后，歌曲按速度范围分组，每首都有精确 BPM。
+
+**Q: 可以改变歌曲的 BPM 吗？**
+
+A: 可以。在 VibeDeck Studio 速度可从 -100% 调到 +100%，key-lock 保持调性。
+
+**Q: 可以离线使用吗？**
+
+A: 可以。VibeDeck 使用设备上的音乐文件，不需要网络。
+
+**Q: 免费吗？**
+
+A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+
+## VibeDeck Player 新功能：Stems、iPad、封面
+
+URL: https://vibedeckplayer.app/zh-hans/whats-new/
+Language: zh-Hans
+
+VibeDeck Player 1.0.21 新功能：Stems 把任何歌曲分成清唱和伴奏，App 适配每台 iPad 和 iPhone，找到的封面也会显示在锁屏上。
+
+**Q: VibeDeck Player 1.0.21 有什么新功能？**
+
+A: Stems 把任何歌曲分成清唱和伴奏，App 适配每台 iPad 和 iPhone，找到的封面也会显示在锁屏上。
+
+**Q: VibeDeck 可以在 iPad 上用吗？**
+
+A: 可以。VibeDeck 适配每台 iPad 和每部 iPhone，新旧都可以。
+
+**Q: VibeDeck 可以去掉歌曲的人声吗？**
+
+A: 可以。Stems 在手机上把歌曲分成清唱和伴奏。可以现场混音、在 Studio 加效果并导出。
+
+**Q: 如何获取更新？**
+
+A: 在 App Store 更新 VibeDeck Player。新用户可以免费下载。
+
+**Q: 免费吗？**
+
+A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+
 ## เครื่องเล่นเพลงออฟไลน์ ไม่มีโฆษณา | VibeDeck
 
 URL: https://vibedeckplayer.app/th/
@@ -4928,3 +6203,88 @@ A: VibeMod คือการประมวลผลเสียงแบบพ
 **Q: ใช้ฟรีไหม**
 
 A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+
+## Nightcore บน iPhone: พรีเซ็ตแตะครั้งเดียว | VibeDeck
+
+URL: https://vibedeckplayer.app/th/nightcore/
+Language: th
+
+ทำเพลงของคุณเป็น nightcore บน iPhone และ iPad: แตะพรีเซ็ต NIGHTCORE ใน VibeDeck เพลงจะเร็วขึ้นและสูงขึ้น ใช้ออฟไลน์ ไม่มีโฆษณา
+
+**Q: ทำเพลงเป็น nightcore บน iPhone อย่างไร**
+
+A: เปิดเพลงใน VibeDeck Player เปิด Effects แล้วแตะ NIGHTCORE เพลงจะเร็วขึ้นและโทนสูงขึ้น ปรับความเร็วและเพิ่มรีเวิร์บหรือเบสได้
+
+**Q: nightcore คืออะไร**
+
+A: เวอร์ชันของเพลงที่เล่นเร็วขึ้นและโทนสูงขึ้น ฟังสดใสและมีพลังกว่า
+
+**Q: เร่งความเร็วโดยไม่เพิ่มโทนได้ไหม**
+
+A: ได้ ใน VibeDeck Studio ล็อกคีย์แล้วเปลี่ยนแค่เทมโปได้
+
+**Q: อัดและแชร์เวอร์ชันของฉันได้ไหม**
+
+A: ได้ ใน Studio กด REC อัดได้สูงสุดสองนาทีพร้อม fade in และ fade out แล้วแชร์คลิป
+
+**Q: ใช้ออฟไลน์ได้ไหม**
+
+A: ได้ พรีเซ็ตใช้กับไฟล์เพลงในคลัง VibeDeck โดยไม่ต้องใช้อินเทอร์เน็ต
+
+**Q: ใช้ฟรีไหม**
+
+A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+
+## BPM ของทุกเพลง และเรียงตามเทมโป | VibeDeck
+
+URL: https://vibedeckplayer.app/th/bpm/
+Language: th
+
+ดู BPM ของทุกเพลงบน iPhone: VibeDeck แสดง BPM ที่แม่นยำบนหน้าจอหลัก และเรียงคิวตามเทมโป ใช้ออฟไลน์ ไม่มีโฆษณา
+
+**Q: ดู BPM ของเพลงบน iPhone อย่างไร**
+
+A: นำเข้าเพลงใน VibeDeck Player แล้วเปิด BPM จะแสดงบนหน้าจอหลัก
+
+**Q: เรียงเพลงตาม BPM ได้ไหม**
+
+A: ได้ เรียงคิวตาม BPM เพลงจะจัดกลุ่มตามช่วงเทมโป แต่ละเพลงมี BPM ที่แม่นยำ
+
+**Q: เปลี่ยน BPM ของเพลงได้ไหม**
+
+A: ได้ ใน VibeDeck Studio เทมโปเปลี่ยนได้ตั้งแต่ -100% ถึง +100% key-lock รักษาคีย์
+
+**Q: ใช้ออฟไลน์ได้ไหม**
+
+A: ได้ VibeDeck ใช้ไฟล์เพลงในเครื่องของคุณโดยไม่ต้องใช้อินเทอร์เน็ต
+
+**Q: ใช้ฟรีไหม**
+
+A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+
+## มีอะไรใหม่ใน VibeDeck Player: Stems, iPad, ปก
+
+URL: https://vibedeckplayer.app/th/whats-new/
+Language: th
+
+มีอะไรใหม่ใน VibeDeck Player 1.0.21: Stems แยกเพลงเป็นอะคาเปลลาและดนตรี แอปพอดีกับทุก iPad และ iPhone และปกเพลงแสดงบนหน้าจอล็อก
+
+**Q: VibeDeck Player 1.0.21 มีอะไรใหม่**
+
+A: Stems แยกเพลงเป็นอะคาเปลลาและดนตรี แอปพอดีกับทุก iPad และ iPhone และปกที่หาเจอแสดงบนหน้าจอล็อก
+
+**Q: VibeDeck ใช้บน iPad ได้ไหม**
+
+A: ได้ VibeDeck พอดีกับทุก iPad และทุก iPhone ทั้งรุ่นเก่าและใหม่
+
+**Q: VibeDeck ลบเสียงร้องออกจากเพลงได้ไหม**
+
+A: ได้ Stems แยกเพลงเป็นอะคาเปลลาและดนตรีบนมือถือ มิกซ์สด เพิ่มเอฟเฟกต์ใน Studio และส่งออกได้
+
+**Q: รับอัปเดตอย่างไร**
+
+A: อัปเดต VibeDeck Player ใน App Store ผู้ใช้ใหม่ดาวน์โหลดได้ฟรี
+
+**Q: ใช้ฟรีไหม**
+
+A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO

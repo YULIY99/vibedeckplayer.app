@@ -37,7 +37,10 @@ KEY_PAGES = {'ja': '/ja/key-henkou-app/', 'de': '/de/tonart-aendern/', 'fr': '/f
 GUIDES = {'slow-down': {'en': '/slow-down-song/', 'existing': {'ja': '/ja/tempo-henkou/'}, 'campaign': 'slow-down'},
           'sampler': {'en': '/sampler/', 'existing': {}, 'campaign': 'sampler'},
           'stems': {'en': '/vocal-remover/', 'existing': {}, 'campaign': 'stems'},
-          'eq': {'en': '/dj-equalizer/', 'existing': {}, 'campaign': 'dj-eq'}}
+          'eq': {'en': '/dj-equalizer/', 'existing': {}, 'campaign': 'dj-eq'},
+          'nightcore': {'en': '/nightcore/', 'existing': {}, 'campaign': 'nightcore'},
+          'bpm': {'en': '/bpm-detector/', 'existing': {}, 'campaign': 'bpm'},
+          'whats-new': {'en': '/whats-new/', 'existing': {}, 'campaign': 'whats-new'}}
 
 
 class Ordered(HTMLFormatter):

@@ -91,6 +91,9 @@
 - [Internen Ton am Handy aufnehmen | VibeDeck](https://vibedeckplayer.app/de/internen-ton-aufnehmen/): Nimm jeden Ton auf, der auf deinem iPhone oder Android läuft: YouTube, SoundCloud, jede App. Schneide ihn in der Wellenform und öffne ihn im Studio.
 - [Gesang und Instrumental trennen auf dem iPhone | VibeDeck](https://vibedeckplayer.app/de/gesang-entfernen/): Trenne jeden Song auf dem iPhone in Gesang und Instrumental. Wechsle beim Abspielen, Tempo und Loops bleiben, exportiere jede Spur. Ohne Upload.
 - [DJ Equalizer mit 3 und 8 Bändern für iPhone | VibeDeck](https://vibedeckplayer.app/de/dj-equalizer/): Wechsle auf dem iPhone zwischen einem 3-Band DJ EQ (Gain, Bass, Mid, High) und einem 8-Band Equalizer von 60 Hz bis 16 kHz. Mit Limiter, Mono, VibeMod.
+- [Nightcore auf dem iPhone: Preset mit einem Tipp | VibeDeck](https://vibedeckplayer.app/de/nightcore/): Mach Nightcore aus deinen Songs auf iPhone und iPad: Tippe in VibeDeck auf das Preset NIGHTCORE, der Track wird schneller und höher. Offline, ohne Werbung.
+- [BPM jedes Songs und Sortierung nach Tempo | VibeDeck](https://vibedeckplayer.app/de/bpm/): Sieh die BPM jedes Songs auf dem iPhone: VibeDeck zeigt die genauen BPM auf dem Hauptbildschirm und sortiert die Warteschlange nach Tempo. Ohne Werbung.
+- [Neu in VibeDeck Player: Stems, iPad, Cover](https://vibedeckplayer.app/de/neuigkeiten/): VibeDeck Player 1.0.21: Stems trennt jeden Track in Acapella und Begleitung, die App passt auf jedes iPad und iPhone, Cover auf dem Sperrbildschirm.
 
 ## Pages in Français (fr)
 
@@ -102,6 +105,9 @@
 - [Enregistrer le son interne du téléphone | VibeDeck](https://vibedeckplayer.app/fr/enregistrer-son-interne/): Enregistrez tout son joué sur votre iPhone ou Android : YouTube, SoundCloud, n'importe quelle app. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.
 - [Séparer la voix et l'instrumental sur iPhone | VibeDeck](https://vibedeckplayer.app/fr/supprimer-voix/): Séparez n'importe quel morceau en voix et instrumental sur iPhone. Changez de partie en lecture, gardez tempo et boucles, exportez chacune. Sans envoi.
 - [Égaliseur DJ 3 bandes et égaliseur 8 bandes sur iPhone](https://vibedeckplayer.app/fr/egaliseur-dj/): Passez d’un égaliseur DJ 3 bandes (gain, bass, mid, high) à un égaliseur 8 bandes de 60 Hz à 16 kHz sur iPhone. Avec limiteur, mono et VibeMod. Sans pub.
+- [Nightcore sur iPhone : preset en un geste | VibeDeck](https://vibedeckplayer.app/fr/nightcore/): Nightcore sur iPhone et iPad : touchez le preset NIGHTCORE dans VibeDeck, votre morceau devient plus rapide et plus aigu. Hors ligne, sans pub.
+- [BPM de chaque morceau et tri par tempo | VibeDeck](https://vibedeckplayer.app/fr/bpm/): Voyez le BPM de chaque morceau sur iPhone : VibeDeck affiche le BPM exact sur l’écran principal et trie votre file d’attente par tempo. Hors ligne, sans pub.
+- [Nouveautés de VibeDeck Player : Stems, iPad, pochettes](https://vibedeckplayer.app/fr/nouveautes/): VibeDeck Player 1.0.21 : Stems sépare tout titre en acapella et instrumental, l’app s’adapte à chaque iPad et iPhone, pochettes sur l’écran verrouillé.
 
 ## Pages in Italiano (it)
 
@@ -113,6 +119,9 @@
 - [Registrare l'audio interno del telefono | VibeDeck](https://vibedeckplayer.app/it/registrare-audio-interno/): Registra qualsiasi suono riprodotto su iPhone o Android: YouTube, SoundCloud, qualsiasi app. Taglialo sulla forma d'onda e aprilo in Studio.
 - [Separare voce e base di un brano su iPhone | VibeDeck](https://vibedeckplayer.app/it/rimuovere-voce/): Separa qualsiasi brano in voce e base sul tuo iPhone. Cambia parte mentre suona, mantieni tempo e loop, esporta ogni parte. Senza caricare nulla.
 - [Equalizzatore DJ a 3 bande e a 8 bande su iPhone](https://vibedeckplayer.app/it/equalizzatore-dj/): Passa da un equalizzatore DJ a 3 bande (gain, bass, mid, high) a uno a 8 bande da 60 Hz a 16 kHz su iPhone. Con limiter, mono e VibeMod. Senza pubblicità.
+- [Nightcore su iPhone: preset con un tocco | VibeDeck](https://vibedeckplayer.app/it/nightcore/): Nightcore su iPhone e iPad: tocca il preset NIGHTCORE in VibeDeck e il tuo brano diventa più veloce e più acuto. Offline, senza pubblicità.
+- [BPM di ogni canzone e ordine per tempo | VibeDeck](https://vibedeckplayer.app/it/bpm/): Scopri i BPM di ogni canzone su iPhone: VibeDeck mostra i BPM esatti nella schermata principale e ordina la coda per tempo. Offline, senza pubblicità.
+- [Novità di VibeDeck Player: Stems, iPad, copertine](https://vibedeckplayer.app/it/novita/): VibeDeck Player 1.0.21: Stems divide ogni brano in acapella e base, l’app si adatta a ogni iPad e iPhone, copertine nella schermata di blocco.
 
 ## Pages in Español (es)
 
@@ -123,6 +132,9 @@
 - [Grabar el audio interno del móvil | VibeDeck](https://vibedeckplayer.app/es/grabar-audio-interno/): Graba cualquier sonido que suene en tu iPhone o Android: YouTube, SoundCloud, cualquier app. Edítalo en la onda, compártelo o ábrelo en Studio.
 - [Separar voz e instrumental de una canción en iPhone](https://vibedeckplayer.app/es/separar-voz-de-cancion/): Separa cualquier canción en voz e instrumental en tu iPhone. Cambia de parte mientras suena, conserva tempo y loops, y exporta cada una. Sin subir nada.
 - [Ecualizador DJ de 3 bandas y de 8 bandas en iPhone](https://vibedeckplayer.app/es/ecualizador-dj/): Cambia entre un ecualizador DJ de 3 bandas (gain, bass, mid, high) y uno de 8 bandas de 60 Hz a 16 kHz en iPhone. Con limitador, mono y VibeMod. Sin anuncios.
+- [Nightcore en iPhone: preset de un toque | VibeDeck](https://vibedeckplayer.app/es/nightcore/): Haz la versión nightcore de tus canciones en iPhone y iPad: toca el preset NIGHTCORE en VibeDeck y la pista sonará más rápida y aguda. Sin anuncios.
+- [BPM de cada canción y orden por tempo | VibeDeck](https://vibedeckplayer.app/es/bpm/): Conoce el BPM de cada canción en iPhone: VibeDeck muestra el BPM exacto en la pantalla principal y ordena tu cola por tempo. Sin conexión, sin anuncios.
+- [Novedades de VibeDeck Player: Stems, iPad, portadas](https://vibedeckplayer.app/es/novedades/): VibeDeck Player 1.0.21: Stems separa cualquier pista en acapella y base, la app se adapta a todo iPad y iPhone y las portadas salen en la pantalla de bloqueo.
 
 ## Pages in Português (Brasil) (pt-BR)
 
@@ -133,6 +145,9 @@
 - [Gravar o áudio interno do celular | VibeDeck](https://vibedeckplayer.app/pt-br/gravar-audio-interno/): Grave qualquer som que toca no seu iPhone ou Android: YouTube, SoundCloud, qualquer app. Edite na forma de onda, compartilhe ou abra no Studio.
 - [Separar voz e instrumental de uma música no iPhone](https://vibedeckplayer.app/pt-br/separar-voz-da-musica/): Separe qualquer música em voz e instrumental no seu iPhone. Troque de parte enquanto toca, mantenha tempo e loops e exporte cada uma. Sem enviar nada.
 - [Equalizador DJ de 3 bandas e de 8 bandas no iPhone](https://vibedeckplayer.app/pt-br/equalizador-dj/): Troque entre um equalizador DJ de 3 bandas (gain, bass, mid, high) e um de 8 bandas de 60 Hz a 16 kHz no iPhone. Com limitador, mono e VibeMod. Sem anúncios.
+- [Nightcore no iPhone: preset de um toque | VibeDeck](https://vibedeckplayer.app/pt-br/nightcore/): Faça a versão nightcore das suas músicas no iPhone e iPad: toque no preset NIGHTCORE do VibeDeck e a faixa fica mais rápida e aguda. Offline, sem anúncios.
+- [BPM de cada música e ordem por andamento | VibeDeck](https://vibedeckplayer.app/pt-br/bpm/): Veja o BPM de cada música no iPhone: o VibeDeck mostra o BPM exato na tela principal e ordena sua fila por andamento. Offline, sem anúncios.
+- [Novidades do VibeDeck Player: Stems, iPad, capas](https://vibedeckplayer.app/pt-br/novidades/): Novidades do VibeDeck Player 1.0.21: Stems separa qualquer faixa em acapella e base, o app cabe em todo iPad e iPhone e as capas aparecem na tela de bloqueio.
 
 ## Pages in 日本語 (ja)
 
@@ -143,6 +158,9 @@
 - [iPhone・Androidで内部音声を録音する方法 | VibeDeck](https://vibedeckplayer.app/ja/naibu-onsei-rokuon/): YouTubeやSoundCloudなど、スマホで流れている音をそのまま録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。
 - [iPhoneで曲をボーカルとインストに分離 | VibeDeck Stems](https://vibedeckplayer.app/ja/vocal-bunri/): iPhoneの中で曲をボーカルとインストゥルメンタルに分離。再生しながら切り替え、テンポやループはそのまま、各パートを書き出せます。アップロードなし。
 - [DJイコライザー: 3バンドと8バンドをiPhoneで | VibeDeck](https://vibedeckplayer.app/ja/dj-equalizer/): iPhoneで3バンドのDJイコライザー(GAIN、BASS、MID、HIGH)と60Hzから16kHzの8バンドEQを切り替え。リミッター、モノ、VibeModつき。広告なし。
+- [iPhoneでナイトコア: ワンタップのプリセット | VibeDeck](https://vibedeckplayer.app/ja/nightcore/): iPhoneとiPadで自分の曲をナイトコアに。VibeDeckのNIGHTCOREプリセットをタップするだけで、曲が速く高くなります。オフライン、広告なし。
+- [曲のBPMを表示、テンポで並べ替え | VibeDeck](https://vibedeckplayer.app/ja/bpm/): iPhoneでライブラリの曲のBPMがわかります。VibeDeckはメイン画面に正確なBPMを表示し、キューをテンポで並べ替えます。オフライン、広告なし。
+- [VibeDeck Playerの新機能: Stems、iPad、カバー](https://vibedeckplayer.app/ja/whats-new/): VibeDeck Player 1.0.21の新機能: Stemsで曲をアカペラと伴奏に分離、すべてのiPadとiPhoneに対応、見つけたカバーをロック画面にも表示。
 
 ## Pages in Русский (ru)
 
@@ -154,6 +172,9 @@
 - [Как записать звук с телефона из любого приложения | VibeDeck](https://vibedeckplayer.app/ru/zapis-zvuka-s-telefona/): Записывайте любой звук, который играет на iPhone или Android: YouTube, SoundCloud, любое приложение. Режьте запись по волне и открывайте в Studio.
 - [Отделить голос от музыки на iPhone | VibeDeck Stems](https://vibedeckplayer.app/ru/otdelit-golos-ot-muzyki/): Разделите любую песню на вокал и минус прямо на iPhone. Переключайте партии на ходу, темп и лупы сохраняются, каждую можно сохранить. Без загрузки.
 - [DJ эквалайзер: 3 полосы и 8 полос на iPhone | VibeDeck](https://vibedeckplayer.app/ru/dj-ekvalaizer/): Переключайтесь между 3-полосным DJ эквалайзером (gain, bass, mid, high) и 8-полосным от 60 Гц до 16 кГц на iPhone. Лимитер, моно, VibeMod. Без рекламы.
+- [Nightcore на iPhone: пресет в одно касание | VibeDeck](https://vibedeckplayer.app/ru/nightcore/): Сделайте nightcore-версию своей песни на iPhone и iPad: нажмите пресет NIGHTCORE в VibeDeck, трек станет быстрее и выше. Офлайн, без рекламы.
+- [BPM каждой песни и сортировка по темпу | VibeDeck](https://vibedeckplayer.app/ru/bpm/): Узнайте BPM каждой песни на iPhone: VibeDeck показывает точный BPM на главном экране и сортирует очередь по темпу. Офлайн, без рекламы.
+- [Что нового в VibeDeck Player: Stems, iPad, обложки](https://vibedeckplayer.app/ru/chto-novogo/): Что нового в VibeDeck Player 1.0.21: Stems делит любой трек на акапеллу и минус, приложение подходит для любого iPad и iPhone, обложки на экране блокировки.
 
 ## Pages in 한국어 (ko)
 
@@ -165,6 +186,9 @@
 - [아이폰·안드로이드 내부 소리 녹음 | VibeDeck](https://vibedeckplayer.app/ko/naebu-sori-nokeum/): YouTube, SoundCloud 등 휴대폰에서 재생되는 모든 소리를 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.
 - [iPhone에서 노래를 보컬과 반주로 분리 | VibeDeck Stems](https://vibedeckplayer.app/ko/vocal-bunri/): iPhone에서 어떤 곡이든 보컬과 반주로 분리하세요. 재생 중에 파트를 바꾸고, 템포와 루프는 그대로, 파트별로 내보낼 수 있습니다. 업로드 없음.
 - [DJ 이퀄라이저: iPhone용 3밴드와 8밴드 | VibeDeck](https://vibedeckplayer.app/ko/dj-equalizer/): iPhone에서 3밴드 DJ EQ(GAIN, BASS, MID, HIGH)와 60Hz~16kHz 8밴드 이퀄라이저를 전환하세요. 리미터, 모노, VibeMod 포함. 광고 없음.
+- [iPhone에서 나이트코어: 원탭 프리셋 | VibeDeck](https://vibedeckplayer.app/ko/nightcore/): iPhone과 iPad에서 내 노래를 나이트코어로. VibeDeck의 NIGHTCORE 프리셋을 탭하면 곡이 더 빠르고 높아집니다. 오프라인, 광고 없음.
+- [모든 노래의 BPM과 템포별 정렬 | VibeDeck](https://vibedeckplayer.app/ko/bpm/): iPhone에서 모든 노래의 BPM을 확인하세요. VibeDeck은 메인 화면에 정확한 BPM을 보여주고 대기열을 템포별로 정렬합니다. 오프라인, 광고 없음.
+- [VibeDeck Player 새 기능: Stems, iPad, 커버](https://vibedeckplayer.app/ko/whats-new/): VibeDeck Player 1.0.21 새 기능: Stems로 곡을 아카펠라와 반주로 분리, 모든 iPad와 iPhone 지원, 찾은 커버를 잠금 화면에도 표시.
 
 ## Pages in Türkçe (tr)
 
@@ -176,6 +200,9 @@
 - [Telefonda dahili ses kaydı | VibeDeck](https://vibedeckplayer.app/tr/dahili-ses-kaydi/): iPhone veya Android'de çalan her sesi kaydedin: YouTube, SoundCloud, her uygulama. Dalga formunda kesin, paylaşın ya da Studio'da açın.
 - [iPhone'da şarkıyı vokal ve enstrümantale ayırma | VibeDeck](https://vibedeckplayer.app/tr/vokal-ayirma/): Her şarkıyı iPhone'unuzda vokal ve enstrümantale ayırın. Çalarken parçalar arasında geçin, tempo ve döngüler kalsın, her parçayı dışa aktarın.
 - [iPhone için 3 bantlı DJ ekolayzer ve 8 bantlı EQ](https://vibedeckplayer.app/tr/dj-ekolayzer/): iPhone’da 3 bantlı DJ ekolayzer (gain, bass, mid, high) ile 60 Hz-16 kHz arası 8 bantlı ekolayzer arasında geçiş yap. Limiter, mono ve VibeMod. Reklamsız.
+- [iPhone’da Nightcore: tek dokunuşla preset | VibeDeck](https://vibedeckplayer.app/tr/nightcore/): Şarkılarının nightcore versiyonunu iPhone ve iPad’de yap: VibeDeck’te NIGHTCORE preset’ine dokun, parça hızlanır ve incelir. Çevrimdışı, reklamsız.
+- [Her şarkının BPM’i ve tempoya göre sıralama | VibeDeck](https://vibedeckplayer.app/tr/bpm/): iPhone’da her şarkının BPM’ini gör: VibeDeck ana ekranda kesin BPM’i gösterir ve sıranı tempoya göre dizer. Çevrimdışı, reklamsız.
+- [VibeDeck Player yenilikleri: Stems, iPad, kapaklar](https://vibedeckplayer.app/tr/yenilikler/): VibeDeck Player 1.0.21 yenilikleri: Stems her parçayı akapella ve altyapıya ayırır, uygulama her iPad ve iPhone’a uyar, kapaklar kilit ekranında görünür.
 
 ## Pages in Bahasa Indonesia (id)
 
@@ -187,6 +214,9 @@
 - [Cara merekam audio internal HP | VibeDeck](https://vibedeckplayer.app/id/rekam-audio-internal/): Rekam suara apa pun yang diputar di iPhone atau Android: YouTube, SoundCloud, aplikasi apa saja. Potong di gelombang suara, bagikan, atau buka di Studio.
 - [Pisahkan vokal dan instrumental lagu di iPhone | VibeDeck](https://vibedeckplayer.app/id/pisahkan-vokal/): Pisahkan lagu apa pun jadi vokal dan instrumental di iPhone. Ganti bagian saat diputar, tempo dan loop tetap, ekspor tiap bagian. Tanpa upload.
 - [Equalizer DJ 3 band dan equalizer 8 band di iPhone](https://vibedeckplayer.app/id/equalizer-dj/): Beralih antara equalizer DJ 3 band (gain, bass, mid, high) dan equalizer 8 band 60 Hz sampai 16 kHz di iPhone. Dengan limiter, mono, dan VibeMod. Tanpa iklan.
+- [Nightcore di iPhone: preset satu ketukan | VibeDeck](https://vibedeckplayer.app/id/nightcore/): Buat versi nightcore lagumu sendiri di iPhone dan iPad: ketuk preset NIGHTCORE di VibeDeck, lagu jadi lebih cepat dan lebih tinggi. Offline, tanpa iklan.
+- [BPM setiap lagu dan urutkan menurut tempo | VibeDeck](https://vibedeckplayer.app/id/bpm/): Lihat BPM setiap lagu di iPhone: VibeDeck menampilkan BPM yang tepat di layar utama dan mengurutkan antrean menurut tempo. Offline, tanpa iklan.
+- [Yang baru di VibeDeck Player: Stems, iPad, sampul](https://vibedeckplayer.app/id/yang-baru/): Yang baru di VibeDeck Player 1.0.21: Stems memisahkan lagu jadi acapella dan iringan, aplikasi pas di setiap iPad dan iPhone, sampul tampil di layar kunci.
 
 ## Pages in Polski (pl)
 
@@ -198,6 +228,9 @@
 - [Jak nagrać dźwięk wewnętrzny telefonu | VibeDeck](https://vibedeckplayer.app/pl/nagrywanie-dzwieku-z-telefonu/): Nagrywaj każdy dźwięk grający na iPhonie lub Androidzie: YouTube, SoundCloud, dowolna aplikacja. Przytnij go na fali i otwórz w Studio.
 - [Oddziel wokal od podkładu na iPhonie | VibeDeck Stems](https://vibedeckplayer.app/pl/usuwanie-wokalu/): Rozdziel każdy utwór na wokal i podkład na iPhonie. Przełączaj partie w trakcie, tempo i pętle zostają, eksportuj każdą z nich. Bez wysyłania.
 - [Korektor DJ 3-pasmowy i equalizer 8-pasmowy na iPhone](https://vibedeckplayer.app/pl/korektor-dj/): Przełączaj na iPhonie między 3-pasmowym korektorem DJ (gain, bass, mid, high) a 8-pasmowym equalizerem od 60 Hz do 16 kHz. Limiter, mono i VibeMod. Bez reklam.
+- [Nightcore na iPhonie: preset jednym dotknięciem | VibeDeck](https://vibedeckplayer.app/pl/nightcore/): Zrób wersję nightcore swoich piosenek na iPhonie i iPadzie: dotknij presetu NIGHTCORE w VibeDeck, a utwór przyspieszy i zabrzmi wyżej. Offline, bez reklam.
+- [BPM każdej piosenki i sortowanie po tempie | VibeDeck](https://vibedeckplayer.app/pl/bpm/): Sprawdź BPM każdej piosenki na iPhonie: VibeDeck pokazuje dokładne BPM na ekranie głównym i sortuje kolejkę według tempa. Offline, bez reklam.
+- [Nowości w VibeDeck Player: Stems, iPad, okładki](https://vibedeckplayer.app/pl/nowosci/): Nowości w VibeDeck Player 1.0.21: Stems dzieli każdy utwór na acapellę i podkład, aplikacja pasuje do każdego iPada i iPhone’a, okładki na ekranie blokady.
 
 ## Pages in Nederlands (nl)
 
@@ -209,6 +242,9 @@
 - [Intern geluid opnemen op je telefoon | VibeDeck](https://vibedeckplayer.app/nl/intern-geluid-opnemen/): Neem elk geluid op dat op je iPhone of Android speelt: YouTube, SoundCloud, elke app. Knip het op de golfvorm, deel het of open het in Studio.
 - [Zang en instrumentaal scheiden op de iPhone | VibeDeck](https://vibedeckplayer.app/nl/zang-verwijderen/): Splits elk nummer op je iPhone in zang en instrumentaal. Wissel tijdens het spelen, tempo en loops blijven, exporteer elk deel. Zonder uploaden.
 - [DJ equalizer met 3 en 8 banden voor iPhone | VibeDeck](https://vibedeckplayer.app/nl/dj-equalizer/): Wissel op iPhone tussen een 3-bands DJ EQ (gain, bass, mid, high) en een 8-bands equalizer van 60 Hz tot 16 kHz. Met limiter, mono en VibeMod. Geen reclame.
+- [Nightcore op iPhone: preset met één tik | VibeDeck](https://vibedeckplayer.app/nl/nightcore/): Nightcore op iPhone en iPad: tik op de preset NIGHTCORE in VibeDeck en je nummer wordt sneller en hoger. Offline, zonder reclame.
+- [BPM van elk nummer en sorteren op tempo | VibeDeck](https://vibedeckplayer.app/nl/bpm/): Zie de BPM van elk nummer op iPhone: VibeDeck toont de exacte BPM op het hoofdscherm en sorteert je wachtrij op tempo. Offline, zonder reclame.
+- [Nieuw in VibeDeck Player: Stems, iPad, hoesjes](https://vibedeckplayer.app/nl/nieuw/): Nieuw in VibeDeck Player 1.0.21: Stems splitst elk nummer in acapella en begeleiding, de app past op elke iPad en iPhone, hoesjes op het vergrendelscherm.
 
 ## Pages in Tiếng Việt (vi)
 
@@ -220,6 +256,9 @@
 - [Cách ghi âm âm thanh nội bộ trên điện thoại | VibeDeck](https://vibedeckplayer.app/vi/ghi-am-am-thanh-noi-bo/): Ghi lại mọi âm thanh đang phát trên iPhone hoặc Android: YouTube, SoundCloud, mọi ứng dụng. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.
 - [Tách giọng hát và nhạc nền trên iPhone | VibeDeck Stems](https://vibedeckplayer.app/vi/tach-giong-hat/): Tách bài hát bất kỳ thành giọng hát và nhạc nền ngay trên iPhone. Chuyển phần khi đang phát, giữ tempo và vòng lặp, xuất từng phần. Không tải lên.
 - [EQ DJ 3 băng tần và equalizer 8 băng tần trên iPhone](https://vibedeckplayer.app/vi/eq-dj/): Chuyển giữa EQ DJ 3 băng tần (gain, bass, mid, high) và equalizer 8 băng tần từ 60 Hz đến 16 kHz trên iPhone. Có limiter, mono và VibeMod. Không quảng cáo.
+- [Nightcore trên iPhone: preset một chạm | VibeDeck](https://vibedeckplayer.app/vi/nightcore/): Tạo bản nightcore cho bài hát của bạn trên iPhone và iPad: chạm preset NIGHTCORE trong VibeDeck, bài hát nhanh hơn và cao hơn. Ngoại tuyến, không quảng cáo.
+- [BPM của mọi bài hát và sắp xếp theo tempo | VibeDeck](https://vibedeckplayer.app/vi/bpm/): Xem BPM của mọi bài hát trên iPhone: VibeDeck hiện BPM chính xác trên màn hình chính và sắp xếp hàng chờ theo tempo. Ngoại tuyến, không quảng cáo.
+- [Có gì mới trong VibeDeck Player: Stems, iPad, ảnh bìa](https://vibedeckplayer.app/vi/co-gi-moi/): Có gì mới trong VibeDeck Player 1.0.21: Stems tách bài hát thành acapella và nhạc nền, ứng dụng vừa mọi iPad và iPhone, ảnh bìa hiện trên màn hình khóa.
 
 ## Pages in 繁體中文 (zh-Hant)
 
@@ -231,6 +270,9 @@
 - [iPhone、Android 內部錄音：錄下手機正在播放的聲音 | VibeDeck](https://vibedeckplayer.app/zh-hant/nei-bu-lu-yin/): 錄下手機上播放的任何聲音：YouTube、SoundCloud、任何 App。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。
 - [在 iPhone 上把歌曲分離成人聲和伴奏 | VibeDeck Stems](https://vibedeckplayer.app/zh-hant/ren-sheng-fen-li/): 在 iPhone 上把任何歌曲分離成人聲和伴奏。播放時切換，速度和循環保留，每個部分都能匯出。不必上傳。
 - [iPhone DJ 等化器：3 段 DJ EQ 與 8 段等化器 | VibeDeck](https://vibedeckplayer.app/zh-hant/dj-eq/): 在 iPhone 上切換 3 段 DJ 等化器（GAIN、BASS、MID、HIGH）與 60 Hz 到 16 kHz 的 8 段等化器。附限幅器、單聲道與 VibeMod。無廣告。
+- [iPhone 上的 Nightcore：一鍵預設 | VibeDeck](https://vibedeckplayer.app/zh-hant/nightcore/): 在 iPhone 和 iPad 上把自己的歌曲做成 nightcore：點一下 VibeDeck 的 NIGHTCORE 預設，歌曲變得更快、更高。離線使用，沒有廣告。
+- [每首歌的 BPM，依速度排序 | VibeDeck](https://vibedeckplayer.app/zh-hant/bpm/): 在 iPhone 上看到每首歌的 BPM：VibeDeck 在主畫面顯示精確 BPM，並依速度排序播放佇列。離線使用，沒有廣告。
+- [VibeDeck Player 新功能：Stems、iPad、封面](https://vibedeckplayer.app/zh-hant/whats-new/): VibeDeck Player 1.0.21 新功能：Stems 把任何歌曲分成清唱和伴奏，App 適合每台 iPad 和 iPhone，找到的封面也會顯示在鎖定畫面。
 
 ## Pages in 简体中文 (zh-Hans)
 
@@ -242,6 +284,9 @@
 - [iPhone、Android 内部录音：录下手机正在播放的声音 | VibeDeck](https://vibedeckplayer.app/zh-hans/nei-bu-lu-yin/): 录下手机上播放的任何声音：YouTube、SoundCloud、任何 App。在波形上剪辑，再分享、存进数据库，或在 Studio 里继续编辑。
 - [在 iPhone 上把歌曲分离成人声和伴奏 | VibeDeck Stems](https://vibedeckplayer.app/zh-hans/ren-sheng-fen-li/): 在 iPhone 上把任何歌曲分离成人声和伴奏。播放时切换，速度和循环保留，每个部分都能导出。无需上传。
 - [iPhone DJ 均衡器：3 段 DJ EQ 与 8 段均衡器 | VibeDeck](https://vibedeckplayer.app/zh-hans/dj-eq/): 在 iPhone 上切换 3 段 DJ 均衡器（GAIN、BASS、MID、HIGH）与 60 Hz 到 16 kHz 的 8 段均衡器。带限幅器、单声道和 VibeMod。无广告。
+- [iPhone 上的 Nightcore：一键预设 | VibeDeck](https://vibedeckplayer.app/zh-hans/nightcore/): 在 iPhone 和 iPad 上把自己的歌曲做成 nightcore：点一下 VibeDeck 的 NIGHTCORE 预设，歌曲变得更快、更高。离线使用，没有广告。
+- [每首歌的 BPM，按速度排序 | VibeDeck](https://vibedeckplayer.app/zh-hans/bpm/): 在 iPhone 上看到每首歌的 BPM：VibeDeck 在主界面显示精确 BPM，并按速度排序播放队列。离线使用，没有广告。
+- [VibeDeck Player 新功能：Stems、iPad、封面](https://vibedeckplayer.app/zh-hans/whats-new/): VibeDeck Player 1.0.21 新功能：Stems 把任何歌曲分成清唱和伴奏，App 适配每台 iPad 和 iPhone，找到的封面也会显示在锁屏上。
 
 ## Pages in ไทย (th)
 
@@ -253,3 +298,6 @@
 - [วิธีอัดเสียงภายในมือถือ iPhone และ Android | VibeDeck](https://vibedeckplayer.app/th/ab-siang-phainai-mue-thue/): อัดทุกเสียงที่เล่นอยู่ในมือถือ: YouTube, SoundCloud หรือแอปไหนก็ได้ ตัดต่อบนรูปคลื่นเสียง แล้วแชร์ บันทึกลงคลังเพลง หรือเปิดต่อใน Studio
 - [แยกเสียงร้องกับดนตรีบน iPhone | VibeDeck Stems](https://vibedeckplayer.app/th/yaek-siang-rong/): แยกเพลงไหนก็ได้เป็นเสียงร้องและดนตรีบน iPhone สลับส่วนระหว่างเล่น เทมโปและลูปยังอยู่ ส่งออกได้ทีละส่วน ไม่ต้องอัปโหลด
 - [อีควอไลเซอร์ DJ 3 แบนด์และ 8 แบนด์บน iPhone | VibeDeck](https://vibedeckplayer.app/th/dj-eq/): สลับระหว่างอีควอไลเซอร์ DJ 3 แบนด์ (GAIN, BASS, MID, HIGH) กับอีควอไลเซอร์ 8 แบนด์ 60 Hz ถึง 16 kHz บน iPhone มีลิมิตเตอร์ โมโน และ VibeMod ไม่มีโฆษณา
+- [Nightcore บน iPhone: พรีเซ็ตแตะครั้งเดียว | VibeDeck](https://vibedeckplayer.app/th/nightcore/): ทำเพลงของคุณเป็น nightcore บน iPhone และ iPad: แตะพรีเซ็ต NIGHTCORE ใน VibeDeck เพลงจะเร็วขึ้นและสูงขึ้น ใช้ออฟไลน์ ไม่มีโฆษณา
+- [BPM ของทุกเพลง และเรียงตามเทมโป | VibeDeck](https://vibedeckplayer.app/th/bpm/): ดู BPM ของทุกเพลงบน iPhone: VibeDeck แสดง BPM ที่แม่นยำบนหน้าจอหลัก และเรียงคิวตามเทมโป ใช้ออฟไลน์ ไม่มีโฆษณา
+- [มีอะไรใหม่ใน VibeDeck Player: Stems, iPad, ปก](https://vibedeckplayer.app/th/whats-new/): มีอะไรใหม่ใน VibeDeck Player 1.0.21: Stems แยกเพลงเป็นอะคาเปลลาและดนตรี แอปพอดีกับทุก iPad และ iPhone และปกเพลงแสดงบนหน้าจอล็อก

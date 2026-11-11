@@ -3071,16 +3071,1174 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
     <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/bpm-detector/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
     <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/whats-new/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ja/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/es/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pt-br/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/de/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/fr/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ru/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ko/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/tr/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hans/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/th/nightcore/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ja/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/es/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pt-br/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/de/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/fr/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ru/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ko/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/tr/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hans/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/th/bpm/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/bpm-detector/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/bpm/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/bpm/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/bpm/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/bpm/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/bpm/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/bpm/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/bpm/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/bpm/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/bpm/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ja/whats-new/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/es/novedades/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pt-br/novidades/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/de/neuigkeiten/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/fr/nouveautes/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/it/novita/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ru/chto-novogo/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/ko/whats-new/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/tr/yenilikler/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/id/yang-baru/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/pl/nowosci/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/nl/nieuw/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/vi/co-gi-moi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hant/whats-new/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/zh-hans/whats-new/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
+    <lastmod>2026-11-11</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://vibedeckplayer.app/th/whats-new/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://vibedeckplayer.app/ja/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://vibedeckplayer.app/es/novedades/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/novidades/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/neuigkeiten/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/nouveautes/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/novita/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/chto-novogo/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://vibedeckplayer.app/ko/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://vibedeckplayer.app/tr/yenilikler/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://vibedeckplayer.app/id/yang-baru/" />
+    <xhtml:link rel="alternate" hreflang="pl" href="https://vibedeckplayer.app/pl/nowosci/" />
+    <xhtml:link rel="alternate" hreflang="nl" href="https://vibedeckplayer.app/nl/nieuw/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://vibedeckplayer.app/vi/co-gi-moi/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://vibedeckplayer.app/zh-hant/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
     <lastmod>2026-11-11</lastmod>
     <priority>0.8</priority>
   </url>
