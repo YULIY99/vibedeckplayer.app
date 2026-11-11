@@ -26,6 +26,13 @@ IMG = {
   "b-vibemod": ("vibedeck-vibemod-visualizer-iphone", (360,540,720), (1290,2796)),
   "b-aura":    ("vibedeck-aura-visualizer-iphone", (360,540,720), (1290,2796)),
   "b-queue":   ("vibedeck-queue-reorder-iphone", (360,540,720), (1290,2796)),
+  "b-studio": ("vibedeck-studio-dj-pitch-master-tempo-iphone", (360,540,720), (1290,2796)),
+  "b-sampler": ("vibedeck-sampler-record-system-audio-iphone", (360,540,720), (1290,2796)),
+  "b-stems": ("vibedeck-stems-acapella-backing-iphone", (360,540,720), (1290,2796)),
+  "b-effects": ("vibedeck-effects-bass-boost-reverb-iphone", (360,540,720), (1290,2796)),
+  "b-eq3": ("vibedeck-3-band-dj-eq-iphone", (360,540,720), (1290,2796)),
+  "b-trim": ("vibedeck-trim-fade-share-iphone", (360,540,720), (1290,2796)),
+  "b-cover": ("vibedeck-change-cover-iphone", (360,540,720), (1290,2796)),
   # Android banners
   "a-main": ("vibedeck-offline-music-player-android", (360,540,720), (941,1672)),
   "a-tone": ("vibedeck-android-tone-control", (360,540,720), (941,1672)),
@@ -276,12 +283,16 @@ HOME_FAQ = [
  ("What makes VibeDeck Player different?", "Real-time pitch shifting up to plus or minus 8 semitones, independent tempo control, EQ with gain, waveform scrubbing with BPM readout, and the audio-reactive AURA visualizer, all offline on your own files."),
 ]
 SHOTS = [
- ("b-pitch", "Playback", "Pitch control on the main screen", "Same track, new feeling. Pitch, VibeMod and TONE sit right under the artwork.", "VibeDeck offline music player with pitch control on iPhone"),
- ("b-eq", "Sound", "EQ with gain and limiter", "Gain, low, mid, high, plus limiter and stereo balance, applied in real time.", "VibeDeck music player equalizer for iPhone with gain, limiter and balance"),
- ("b-tone", "Tone", "Change the vibe", "One track. Two moods. Switch to TONE and hear the same song in a different colour.", "VibeDeck tone control for an offline music player on iPhone"),
- ("b-vibemod", "VibeMod", "Music that reacts", "Visuals that move with every beat, driven by the track that is playing.", "VibeDeck music-reactive visualizer for an offline music player"),
- ("b-aura", "Aura", "Same track. New universe.", "The AURA visual reacts to your music: an ambient world for low-light listening.", "VibeDeck AURA waveform visualizer for offline music playback"),
- ("b-queue", "Queue", "Touch and drag to reorder", "Rearrange tracks the way you like, search the library and see what is up next.", "VibeDeck queue for local music files with drag to reorder"),
+ ("b-pitch", "Playback", "Same track. New feeling.", "Pitch, VibeMod and TONE sit right under the artwork. DJ tools, Studio, Sampler and Stems are one tap away.", "VibeDeck offline music player with pitch control on iPhone"),
+ ("b-studio", "Studio", "Classic DJ pitch. Master tempo.", "Bend the pitch like a turntable or keep the key and change only the tempo. Loop from half a bar to 8 bars on the beat grid.", "VibeDeck Studio with classic DJ pitch and master tempo on iPhone"),
+ ("b-sampler", "Sampler", "Record it. System audio.", "Record any sound playing on your phone, then trim it, share it or open it in Studio.", "VibeDeck Sampler recording system audio on iPhone"),
+ ("b-stems", "Stems", "Split it. Shape it.", "Split a song into acapella and backing right on your phone, mix them live or add Studio FX.", "VibeDeck Stems splitting a song into acapella and backing on iPhone"),
+ ("b-effects", "Effects", "Shape your sound.", "Bass boost, saturation, reverb and echo, plus presets like Slowed + Reverb and Nightcore.", "VibeDeck effects with bass boost, saturation and reverb on iPhone"),
+ ("b-eq", "8-band EQ", "3-band. 8-band.", "Switch to an 8-band EQ from 60 Hz to 16 kHz, with VibeMod, limiter and mono.", "VibeDeck music player equalizer for iPhone with gain, limiter and balance"),
+ ("b-eq3", "3-band EQ", "3-band DJ EQ.", "Gain, bass, mid and high: the classic DJ mixer EQ for your own tracks.", "VibeDeck 3-band DJ EQ with gain, bass, mid and high on iPhone"),
+ ("b-trim", "Trim", "Cut it. Share it.", "Trim a recording, add fade in and fade out, then share it or open it in Studio.", "VibeDeck trim with fade in and fade out on iPhone"),
+ ("b-queue", "Queue", "Drag to reorder.", "Rearrange tracks the way you like, change any cover and switch on night mode.", "VibeDeck queue for local music files with drag to reorder"),
+ ("b-cover", "Covers", "Change any cover.", "Search a cover for any track, pick one from Photos or keep the original.", "VibeDeck cover search for local music files on iPhone"),
 ]
 
 def home():
