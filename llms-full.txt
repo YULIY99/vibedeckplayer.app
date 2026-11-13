@@ -908,11 +908,11 @@ A: Your own audio files, such as MP3, AAC, M4A, WAV, AIFF and FLAC. Songs inside
 URL: https://vibedeckplayer.app/whats-new/
 Language: en
 
-What is new in VibeDeck Player 1.0.21: Stems splits any track into acapella and backing, VibeDeck now fits every iPad and iPhone, covers on the lock screen.
+What is new in VibeDeck Player 1.0.21: Stems splits any track into vocal and instrumental, VibeDeck now fits every iPad and iPhone, covers on the lock screen.
 
 **Q: What is new in VibeDeck Player 1.0.21?**
 
-A: Stems splits any track into acapella and backing, VibeDeck now fits every iPad and iPhone, and found covers show on the lock screen too.
+A: Stems splits any track into vocal and instrumental, VibeDeck now fits every iPad and iPhone, and found covers show on the lock screen too.
 
 **Q: Does VibeDeck work on iPad?**
 
@@ -920,7 +920,7 @@ A: Yes. VibeDeck fits every iPad and every iPhone, old and new.
 
 **Q: Can VibeDeck remove vocals from a song?**
 
-A: Yes. Stems splits a track into acapella and backing on your phone. You can mix them live, add effects in Studio and export.
+A: Yes. Stems splits a track into vocal and instrumental on your phone. You can mix them live, add effects in Studio and export.
 
 **Q: Can I change the cover of a track?**
 

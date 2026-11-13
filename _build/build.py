@@ -286,7 +286,7 @@ SHOTS = [
  ("b-pitch", "Playback", "Same track. New feeling.", "Pitch, VibeMod and TONE sit right under the artwork. DJ tools, Studio, Sampler and Stems are one tap away.", "VibeDeck offline music player with pitch control on iPhone"),
  ("b-studio", "Studio", "Classic DJ pitch. Master tempo.", "Bend the pitch like a turntable or keep the key and change only the tempo. Loop from half a bar to 8 bars on the beat grid.", "VibeDeck Studio with classic DJ pitch and master tempo on iPhone"),
  ("b-sampler", "Sampler", "Record it. System audio.", "Record any sound playing on your phone, then trim it, share it or open it in Studio.", "VibeDeck Sampler recording system audio on iPhone"),
- ("b-stems", "Stems", "Split it. Shape it.", "Split a song into acapella and backing right on your phone, mix them live or add Studio FX.", "VibeDeck Stems splitting a song into acapella and backing on iPhone"),
+ ("b-stems", "Stems", "Separate any song.", "Separate a song into vocal and instrumental right on your phone, then mix them live or add Studio effects.", "VibeDeck Stems splitting a song into vocal and instrumental on iPhone"),
  ("b-effects", "Effects", "Shape your sound.", "Bass boost, saturation, reverb and echo, plus presets like Slowed + Reverb and Nightcore.", "VibeDeck effects with bass boost, saturation and reverb on iPhone"),
  ("b-eq", "8-band EQ", "3-band. 8-band.", "Switch to an 8-band EQ from 60 Hz to 16 kHz, with VibeMod, limiter and mono.", "VibeDeck music player equalizer for iPhone with gain, limiter and balance"),
  ("b-eq3", "3-band EQ", "3-band DJ EQ.", "Gain, bass, mid and high: the classic DJ mixer EQ for your own tracks.", "VibeDeck 3-band DJ EQ with gain, bass, mid and high on iPhone"),

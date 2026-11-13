@@ -79,7 +79,7 @@
 - [3-Band DJ EQ and 8-Band Equalizer for iPhone | VibeDeck](https://vibedeckplayer.app/dj-equalizer/): Switch between a 3-band DJ EQ (gain, bass, mid, high) and an 8-band equalizer from 60 Hz to 16 kHz on iPhone. With limiter, mono and balance. No ads.
 - [Nightcore Maker for iPhone: One-Tap Preset | VibeDeck](https://vibedeckplayer.app/nightcore/): Make a nightcore version of your own songs on iPhone and iPad: tap the NIGHTCORE preset in VibeDeck to speed the track up and raise the pitch. Offline, no ads.
 - [BPM Detector: See the BPM of Every Song | VibeDeck](https://vibedeckplayer.app/bpm-detector/): See the BPM of every song in your library on iPhone: VibeDeck shows the exact BPM on the main screen and sorts your queue by tempo. Offline, no ads.
-- [What is New in VibeDeck Player: Stems, iPad, Covers](https://vibedeckplayer.app/whats-new/): What is new in VibeDeck Player 1.0.21: Stems splits any track into acapella and backing, VibeDeck now fits every iPad and iPhone, covers on the lock screen.
+- [What is New in VibeDeck Player: Stems, iPad, Covers](https://vibedeckplayer.app/whats-new/): What is new in VibeDeck Player 1.0.21: Stems splits any track into vocal and instrumental, VibeDeck now fits every iPad and iPhone, covers on the lock screen.
 
 ## Pages in Deutsch (de)
 
