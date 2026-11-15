@@ -33,7 +33,7 @@ CARDS = {
     '/dj-equalizer/': ('DJ EQ · iPhone', '3-band DJ EQ and 8-band equalizer', 'Gain, bass, mid and high, or eight bands from 60 Hz to 16 kHz. One tap to switch.'),
     '/vocal-remover/': ('Stems · iPhone', 'Vocal remover and stem splitter', 'Split a song into vocals and instrumental on your iPhone. No upload.'),
     '/karaoke-key-change/': ('How-to · Karaoke', 'Change the key for karaoke', 'Sing in your range: move the key by up to 8 semitones, same tempo.'),
-    '/sampler/': ('Sampler', 'Record any sound on your phone', 'Press Rec and record what plays on your phone: YouTube, SoundCloud, any app.'),
+    '/sampler/': ('Sampler', 'Record sound from YouTube, TikTok and more', 'Press Rec and record what plays on your phone: YouTube, TikTok and many other apps.'),
     '/dj-loop/': ('DJ · Loop', 'How to loop part of a song', 'Beat-snapped loops from half a bar to 8 bars, tuned to the grid.'),
     '/offline-music-player-iphone/': ('Offline · iPhone', 'Offline music player for iPhone', 'Your whole library on planes and in dead zones. No WiFi needed.'),
     '/offline-music-player-android/': ('Offline · Android', 'Offline music player for Android', 'MP3, FLAC and WAV with no internet, no ads and no account.'),

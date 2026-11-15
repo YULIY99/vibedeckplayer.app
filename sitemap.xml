@@ -10,7 +10,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://vibedeckplayer.app/uk/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/" />
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/" />
@@ -26,12 +26,12 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/audio-formats/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/best-offline-music-player/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -42,7 +42,7 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/changer-tonalite/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://vibedeckplayer.app/uk/zminyty-tonalnist/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/change-song-key-iphone/" />
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/cambiare-tonalita/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/smenit-tonalnost/" />
@@ -61,7 +61,7 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/flac-player-android/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-flac-android/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-android/" />
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -72,7 +72,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/flac-player/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-flac/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/flac-player-iphone/" />
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-flac/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/flac-pleer/" />
@@ -93,7 +93,7 @@
     <xhtml:link rel="alternate" hreflang="de" href="https://vibedeckplayer.app/de/mp3-player-ohne-werbung/" />
     <xhtml:link rel="alternate" hreflang="fr" href="https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/mp3-player-no-ads/" />
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="it" href="https://vibedeckplayer.app/it/lettore-mp3-senza-pub/" />
     <xhtml:link rel="alternate" hreflang="ru" href="https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/" />
@@ -109,7 +109,7 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/music-player-pitch-tempo/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -117,12 +117,12 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://vibedeckplayer.app/offline-music-player-android/" />
     <xhtml:link rel="alternate" hreflang="pt-BR" href="https://vibedeckplayer.app/pt-br/player-offline-android/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/offline-music-player-android/" />
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/offline-music-player-iphone/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -146,42 +146,42 @@
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/tham-phleng-hai-cha-long/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://vibedeckplayer.app/uk/spovilnyty-pisnyu/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/slow-down-song/" />
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/dj-loop/</loc>
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/bass-booster/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/dj-filter/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/saturation/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/limiter/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/delay/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/dj-app/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -934,32 +934,32 @@
   </url>
   <url>
     <loc>https://vibedeckplayer.app/play-flac-on-iphone/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/karaoke-key-change/</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/slowed-reverb/</loc>
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/put-music-on-iphone-without-itunes/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/wav-player-iphone/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://vibedeckplayer.app/google-drive-music-player-android/</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -1740,7 +1740,7 @@
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/ab-siang-phainai-mue-thue/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://vibedeckplayer.app/uk/zapys-zvuku-z-telefonu/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/sampler/" />
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2374,7 +2374,7 @@
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/yaek-siang-rong/" />
     <xhtml:link rel="alternate" hreflang="uk" href="https://vibedeckplayer.app/uk/vidokremyty-holos-vid-muzyky/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/vocal-remover/" />
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -2781,7 +2781,7 @@
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/dj-eq/" />
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/dj-eq/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/dj-equalizer/" />
-    <lastmod>2026-11-04</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3172,7 +3172,7 @@
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/nightcore/" />
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/nightcore/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/nightcore/" />
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3195,7 +3195,7 @@
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/bpm/" />
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/bpm/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/bpm-detector/" />
-    <lastmod>2026-11-11</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
@@ -3218,7 +3218,7 @@
     <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://vibedeckplayer.app/zh-hans/whats-new/" />
     <xhtml:link rel="alternate" hreflang="th" href="https://vibedeckplayer.app/th/whats-new/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://vibedeckplayer.app/whats-new/" />
-    <lastmod>2026-11-15</lastmod>
+    <lastmod>2026-11-16</lastmod>
     <priority>0.8</priority>
   </url>
   <url>

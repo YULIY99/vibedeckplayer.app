@@ -2,7 +2,7 @@
 """Render 1200x630 link-preview images for a feature's pages, one per language, and point
 og:image / twitter:image at them.
 
-    python3 _build/make_sampler_og.py [sampler|stems|eq]   (default: sampler; needs Google Chrome and Pillow; serves the repo on 127.0.0.1:8766)
+    python3 _build/make_sampler_og.py [sampler|stems|eq] [en,ru,...]   (default: sampler; needs Google Chrome and Pillow; serves the repo on 127.0.0.1:8766)
 """
 import html, json, re, subprocess, sys, threading, functools, http.server, socketserver
 from pathlib import Path
@@ -13,8 +13,8 @@ SITE = 'https://vibedeckplayer.app'
 CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 OUT = ROOT / 'assets/img/og'
 # feature: (screen, page data, English page, English h1, eyebrow, chips, format line)
-FEATURES = {'sampler': ('/assets/img/vibedeck-sampler-iphone-800.webp', 'sampler.json', '/sampler/', 'Record any sound playing on your phone.',
-                        'VibeDeck / Sampler', ('YouTube', 'TikTok', 'SoundCloud'), 'MP3 · AAC · WAV · 320 kbps'),
+FEATURES = {'sampler': ('/assets/img/vibedeck-sampler-iphone-800.webp', 'sampler.json', '/sampler/', 'Record sound from YouTube, TikTok and more.',
+                        'VibeDeck / Sampler', ('YouTube', 'TikTok'), 'MP3 · AAC · WAV · 320 kbps'),
             'stems': ('/assets/img/vibedeck-stems-iphone-800.webp', 'stems.json', '/vocal-remover/', 'Split any song into vocals and instrumental.',
                       'VibeDeck / Stems', ('Original', 'Vocal', 'Instrumental'), 'iPhone · AI on device'),
             'eq': ('/assets/img/vibedeck-eq-8band-iphone-800.webp', 'eq.json', '/dj-equalizer/', 'Switch between a 3-band DJ EQ and an 8-band equalizer.',
@@ -51,8 +51,10 @@ def main():
     share = json.loads((ROOT / '_build/share_i18n.json').read_text(encoding='utf-8'))
     pages = json.loads((ROOT / '_build/guides_i18n' / data).read_text(encoding='utf-8'))
     langs = {'en': (en_slug, en_h1)}
+    only = sys.argv[2].split(',') if len(sys.argv) > 2 else None
     for code, c in pages.items():
         if not code.startswith('_'): langs[code] = (c['slug'], c['h1'])
+    if only: langs = {k: v for k, v in langs.items() if k in only}
     OUT.mkdir(parents=True, exist_ok=True)
     handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(ROOT))
     handler.log_message = lambda *a: None
