@@ -15,7 +15,7 @@ LANGS = [("en", "English"), ("de", "Deutsch"), ("fr", "Français"), ("it", "Ital
          ("es", "Español"), ("pt-BR", "Português (Brasil)"), ("ja", "日本語"),
          ("ru", "Русский"), ("ko", "한국어"), ("tr", "Türkçe"), ("id", "Bahasa Indonesia"),
          ("pl", "Polski"), ("nl", "Nederlands"), ("vi", "Tiếng Việt"), ("zh-Hant", "繁體中文"),
-         ("zh-Hans", "简体中文"), ("th", "ไทย")]
+         ("zh-Hans", "简体中文"), ("th", "ไทย"), ("uk", "Українська")]
 SKIP = {"/support.html", "/privacy.html", "/terms.html"}  # listed under Links
 
 

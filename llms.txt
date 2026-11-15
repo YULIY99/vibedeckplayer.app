@@ -301,3 +301,11 @@
 - [Nightcore บน iPhone: พรีเซ็ตแตะครั้งเดียว | VibeDeck](https://vibedeckplayer.app/th/nightcore/): ทำเพลงของคุณเป็น nightcore บน iPhone และ iPad: แตะพรีเซ็ต NIGHTCORE ใน VibeDeck เพลงจะเร็วขึ้นและสูงขึ้น ใช้ออฟไลน์ ไม่มีโฆษณา
 - [BPM ของทุกเพลง และเรียงตามเทมโป | VibeDeck](https://vibedeckplayer.app/th/bpm/): ดู BPM ของทุกเพลงบน iPhone: VibeDeck แสดง BPM ที่แม่นยำบนหน้าจอหลัก และเรียงคิวตามเทมโป ใช้ออฟไลน์ ไม่มีโฆษณา
 - [มีอะไรใหม่ใน VibeDeck Player: Stems, iPad, ปก](https://vibedeckplayer.app/th/whats-new/): มีอะไรใหม่ใน VibeDeck Player 1.0.21: Stems แยกเพลงเป็นอะคาเปลลาและดนตรี แอปพอดีกับทุก iPad และ iPhone และปกเพลงแสดงบนหน้าจอล็อก
+
+## Pages in Українська (uk)
+
+- [Музичний плеєр без інтернету й реклами | VibeDeck](https://vibedeckplayer.app/uk/): Слухайте FLAC, MP3 і WAV без інтернету на iPhone та Android. Без реклами й акаунта. Тональність (±8 півтонів), темп і еквалайзер. Безкоштовно.
+- [Як відокремити голос від музики на iPhone | VibeDeck Stems](https://vibedeckplayer.app/uk/vidokremyty-holos-vid-muzyky/): Розділіть будь-яку пісню на вокал та інструментал прямо на iPhone. Перемикайте партії на льоту, темп і лупи зберігаються, кожну партію можна зберегти. Без завантаження.
+- [Як уповільнити пісню без зміни тональності | VibeDeck](https://vibedeckplayer.app/uk/spovilnyty-pisnyu/): Уповільніть пісню на iPhone або Android, не змінюючи тональність. Розбирайте соло, хореографію та швидкий текст у власному темпі, без інтернету й реклами.
+- [Як змінити тональність пісні на iPhone | VibeDeck](https://vibedeckplayer.app/uk/zminyty-tonalnist/): Транспонуйте пісні до ±8 півтонів без зміни темпу. Зручно для вокалу та гри на інструменті. Без інтернету й реклами, iPhone та Android.
+- [Як записати звук із телефона з будь-якого застосунку | VibeDeck](https://vibedeckplayer.app/uk/zapys-zvuku-z-telefonu/): Записуйте будь-який звук, що грає на iPhone або Android: YouTube, SoundCloud, будь-який застосунок. Обрізайте запис за формою хвилі та відкривайте в Studio.
