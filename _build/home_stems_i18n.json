@@ -5,8 +5,8 @@
   "page": "/vocal-remover/",
   "new": "New",
   "h2": "Split any song into vocals and instrumental.",
-  "soft": "On your iPhone. Nothing uploaded.",
-  "lede": "VibeDeck Stems separates a song from your library into the vocals and the instrumental with an AI model that runs on the phone. Switch parts while it plays and export the one you need.",
+  "soft": "Mix them live.",
+  "lede": "Mute the vocal or the instrumental while the song plays. Open either part in Studio: loop it, change the speed and key, add effects, save the result.",
   "points": [
    [
     "Vocal and instrumental",
