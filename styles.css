@@ -62,7 +62,7 @@ ul,ol{margin:0;padding:0;list-style:none}
 .tag b{color:var(--accent);font-weight:600}
 .tag .dim{color:var(--muted)}
 .eyebrow{margin:0 0 24px}
-.h2{font-size:clamp(36px,7vw,72px);letter-spacing:-.04em;line-height:1}
+.h2{font-size:clamp(36px,7vw,72px);letter-spacing:-.04em;line-height:1.08}
 .h2 .soft{color:var(--soft)}
 .lede{max-width:56ch;color:var(--soft);font-size:17px;line-height:1.65}
 @media (min-width:768px){.lede{font-size:19px}}
