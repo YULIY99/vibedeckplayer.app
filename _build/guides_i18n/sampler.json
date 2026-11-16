@@ -3,15 +3,15 @@
  "ja": {
   "slug": "/ja/naibu-onsei-rokuon/",
   "title": "iPhone・Androidで内部音声を録音する方法 | VibeDeck",
-  "desc": "YouTubeやSoundCloudなど、スマホで流れている音をそのまま録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。",
+  "desc": "YouTube、TikTokをはじめ、多くのアプリで流れている音をスマホで録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "機能",
    "サンプラー"
   ],
-  "h1": "スマホで流れている音を、そのまま録音。",
-  "h1sub": "Recを押して、再生して、残す",
-  "lede": "VibeDeck Samplerは、スマホで再生中の音をシステムから直接録音します。Recを押してYouTube、SoundCloud、TikTokなど多くのアプリに切り替え、録り終えたら戻るだけ。マイクも、部屋の雑音も、パソコンもいりません。iPhoneとAndroidに対応しています。",
+  "h1": "YouTube、TikTokなどの音を録音。",
+  "h1sub": "Recを押して、動画を再生して、残す",
+  "lede": "VibeDeck Samplerは、スマホで再生中の音をシステムから直接録音します。Recを押してYouTube、TikTok、そのほか多くのアプリに切り替え、録り終えたら戻るだけ。マイクも、部屋の雑音も、パソコンもいりません。iPhoneとAndroidに対応しています。",
   "alt": "iPhoneでシステム音声を録音するVibeDeck Sampler",
   "statement": "動画や配信、DJセットで気になる音を見つけても、ダウンロードボタンはありません。別のスマホをスピーカーに近づけて録ると音は台無しです。Samplerなら再生中の音をスマホから直接、クリアに録音できます。",
   "features_title": "聴いて、Recを押して、残す",
@@ -67,15 +67,15 @@
  "es": {
   "slug": "/es/grabar-audio-interno/",
   "title": "Grabar el audio interno del móvil | VibeDeck",
-  "desc": "Graba cualquier sonido que suene en tu iPhone o Android: YouTube, SoundCloud, cualquier app. Edítalo en la onda, compártelo o ábrelo en Studio.",
+  "desc": "Graba el sonido de YouTube, TikTok y muchas otras apps en tu iPhone o Android. Edítalo en la onda, compártelo o ábrelo en Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Función",
    "Sampler"
   ],
-  "h1": "Graba cualquier sonido que suene en tu móvil.",
-  "h1sub": "Pulsa Rec. Reproduce lo que quieras. Guárdalo",
-  "lede": "VibeDeck Sampler graba el sonido que suena en tu móvil, directamente del sistema. Pulsa Rec, cambia a YouTube, SoundCloud, TikTok o la mayoría de apps y vuelve cuando tengas lo que buscabas. Sin micrófono, sin ruido de la habitación y sin ordenador. En iPhone y Android.",
+  "h1": "Graba el sonido de YouTube, TikTok y más.",
+  "h1sub": "Pulsa Rec. Reproduce un vídeo. Guárdalo",
+  "lede": "VibeDeck Sampler graba el sonido que suena en tu móvil, directamente del sistema. Pulsa Rec, cambia a YouTube, TikTok o muchas otras apps y vuelve cuando tengas lo que buscabas. Sin micrófono, sin ruido de la habitación y sin ordenador. En iPhone y Android.",
   "alt": "VibeDeck Sampler grabando el audio del sistema en iPhone",
   "statement": "Oyes algo genial en un vídeo, un directo o una sesión de DJ, y no hay botón de descarga. Acercar otro móvil al altavoz suena fatal. El Sampler graba el sonido directamente del móvil, limpio, mientras suena.",
   "features_title": "Lo oyes, pulsas Rec, te lo quedas",
@@ -131,15 +131,15 @@
  "pt-BR": {
   "slug": "/pt-br/gravar-audio-interno/",
   "title": "Gravar o áudio interno do celular | VibeDeck",
-  "desc": "Grave qualquer som que toca no seu iPhone ou Android: YouTube, SoundCloud, qualquer app. Edite na forma de onda, compartilhe ou abra no Studio.",
+  "desc": "Grave o som do YouTube, do TikTok e de muitos outros apps no seu iPhone ou Android. Edite na forma de onda, compartilhe ou abra no Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Recurso",
    "Sampler"
   ],
-  "h1": "Grave qualquer som que toca no seu celular.",
-  "h1sub": "Toque em Rec. Toque o que quiser. Guarde",
-  "lede": "O VibeDeck Sampler grava o som que está tocando no celular, direto do sistema. Toque em Rec, vá para o YouTube, o SoundCloud, o TikTok ou a maioria dos apps e volte quando tiver o que queria. Sem microfone, sem barulho do ambiente e sem computador. No iPhone e no Android.",
+  "h1": "Grave o som do YouTube, do TikTok e mais.",
+  "h1sub": "Toque em Rec. Reproduza um vídeo. Guarde",
+  "lede": "O VibeDeck Sampler grava o som que está tocando no celular, direto do sistema. Toque em Rec, vá para o YouTube, o TikTok ou muitos outros apps e volte quando tiver o que queria. Sem microfone, sem barulho do ambiente e sem computador. No iPhone e no Android.",
   "alt": "VibeDeck Sampler gravando o áudio do sistema no iPhone",
   "statement": "Você ouve algo incrível num vídeo, numa live ou num set de DJ, e não existe botão de download. Encostar outro celular no alto-falante fica horrível. O Sampler grava o som direto do celular, limpo, enquanto ele toca.",
   "features_title": "Ouviu, tocou em Rec, guardou",
@@ -195,15 +195,15 @@
  "de": {
   "slug": "/de/internen-ton-aufnehmen/",
   "title": "Internen Ton am Handy aufnehmen | VibeDeck",
-  "desc": "Nimm jeden Ton auf, der auf deinem iPhone oder Android läuft: YouTube, SoundCloud, jede App. Schneide ihn in der Wellenform und öffne ihn im Studio.",
+  "desc": "Nimm den Ton von YouTube, TikTok und vielen anderen Apps auf deinem iPhone oder Android auf. Schneide ihn in der Wellenform und öffne ihn im Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Funktion",
    "Sampler"
   ],
-  "h1": "Nimm jeden Ton auf, der auf deinem Handy läuft.",
-  "h1sub": "Rec drücken. Abspielen. Behalten",
-  "lede": "Der VibeDeck Sampler nimmt den Ton auf, der auf deinem Handy läuft, direkt aus dem System. Drück auf Rec, wechsle zu YouTube, SoundCloud, TikTok oder den meisten anderen Apps und komm zurück, wenn du alles hast. Kein Mikrofon, keine Raumgeräusche, kein Computer. Auf iPhone und Android.",
+  "h1": "Nimm den Ton von YouTube, TikTok und mehr auf.",
+  "h1sub": "Rec drücken. Video abspielen. Behalten",
+  "lede": "Der VibeDeck Sampler nimmt den Ton auf, der auf deinem Handy läuft, direkt aus dem System. Drück auf Rec, wechsle zu YouTube, TikTok oder vielen anderen Apps und komm zurück, wenn du alles hast. Kein Mikrofon, keine Raumgeräusche, kein Computer. Auf iPhone und Android.",
   "alt": "VibeDeck Sampler nimmt den Systemton auf dem iPhone auf",
   "statement": "Du hörst etwas Großartiges in einem Video, einem Stream oder einem DJ-Set, und es gibt keinen Download-Button. Ein zweites Handy an den Lautsprecher halten klingt furchtbar. Der Sampler nimmt den Ton direkt vom Handy auf, sauber, während er läuft.",
   "features_title": "Hören, Rec drücken, behalten",
@@ -259,15 +259,15 @@
  "fr": {
   "slug": "/fr/enregistrer-son-interne/",
   "title": "Enregistrer le son interne du téléphone | VibeDeck",
-  "desc": "Enregistrez tout son joué sur votre iPhone ou Android : YouTube, SoundCloud, n'importe quelle app. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.",
+  "desc": "Enregistrez le son de YouTube, TikTok et de nombreuses autres apps sur votre iPhone ou Android. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Fonction",
    "Sampler"
   ],
-  "h1": "Enregistrez tout son joué sur votre téléphone.",
-  "h1sub": "Appuyez sur Rec. Lancez le son. Gardez-le",
-  "lede": "VibeDeck Sampler enregistre le son joué sur votre téléphone, directement depuis le système. Appuyez sur Rec, passez sur YouTube, SoundCloud, TikTok ou la plupart des apps, et revenez quand vous avez ce qu'il vous faut. Pas de micro, pas de bruit de la pièce, pas d'ordinateur. Sur iPhone et Android.",
+  "h1": "Enregistrez le son de YouTube, TikTok et plus.",
+  "h1sub": "Appuyez sur Rec. Lancez une vidéo. Gardez-la",
+  "lede": "VibeDeck Sampler enregistre le son joué sur votre téléphone, directement depuis le système. Appuyez sur Rec, passez sur YouTube, TikTok ou de nombreuses autres apps, et revenez quand vous avez ce qu'il vous faut. Pas de micro, pas de bruit de la pièce, pas d'ordinateur. Sur iPhone et Android.",
   "alt": "VibeDeck Sampler enregistre le son du système sur iPhone",
   "statement": "Vous entendez un passage génial dans une vidéo, un live ou un set de DJ, et il n'y a pas de bouton de téléchargement. Coller un autre téléphone au haut-parleur donne un son horrible. Le Sampler enregistre le son directement depuis le téléphone, propre, pendant la lecture.",
   "features_title": "Vous l'entendez, vous appuyez sur Rec, vous le gardez",
@@ -323,15 +323,15 @@
  "it": {
   "slug": "/it/registrare-audio-interno/",
   "title": "Registrare l'audio interno del telefono | VibeDeck",
-  "desc": "Registra qualsiasi suono riprodotto su iPhone o Android: YouTube, SoundCloud, qualsiasi app. Taglialo sulla forma d'onda e aprilo in Studio.",
+  "desc": "Registra l'audio di YouTube, TikTok e di molte altre app su iPhone o Android. Taglialo sulla forma d'onda e aprilo in Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Funzione",
    "Sampler"
   ],
-  "h1": "Registra qualsiasi suono che passa sul telefono.",
-  "h1sub": "Premi Rec. Fai partire il suono. Tienilo",
-  "lede": "VibeDeck Sampler registra il suono che passa sul telefono, direttamente dal sistema. Premi Rec, passa a YouTube, SoundCloud, TikTok o alla maggior parte delle app e torna quando hai quello che ti serve. Niente microfono, niente rumore della stanza, niente computer. Su iPhone e Android.",
+  "h1": "Registra l'audio di YouTube, TikTok e altro.",
+  "h1sub": "Premi Rec. Fai partire un video. Tienilo",
+  "lede": "VibeDeck Sampler registra il suono che passa sul telefono, direttamente dal sistema. Premi Rec, passa a YouTube, TikTok o a molte altre app e torna quando hai quello che ti serve. Niente microfono, niente rumore della stanza, niente computer. Su iPhone e Android.",
   "alt": "VibeDeck Sampler che registra l'audio di sistema su iPhone",
   "statement": "Senti qualcosa di bellissimo in un video, in una diretta o in un DJ set, e non c'è nessun pulsante per scaricarlo. Avvicinare un altro telefono all'altoparlante suona malissimo. Il Sampler registra il suono direttamente dal telefono, pulito, mentre suona.",
   "features_title": "Lo senti, premi Rec, lo tieni",
@@ -386,16 +386,16 @@
  },
  "ru": {
   "slug": "/ru/zapis-zvuka-s-telefona/",
-  "title": "Как записать звук с телефона из любого приложения | VibeDeck",
-  "desc": "Записывайте любой звук, который играет на iPhone или Android: YouTube, SoundCloud, любое приложение. Режьте запись по волне и открывайте в Studio.",
+  "title": "Как записать звук с телефона на iPhone и Android | VibeDeck",
+  "desc": "Записывайте звук из YouTube, TikTok и многих других приложений на iPhone или Android. Режьте запись по форме волны и открывайте в Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Функция",
    "Сэмплер"
   ],
-  "h1": "Записывайте любой звук, который играет на телефоне.",
-  "h1sub": "Нажали Rec. Включили звук. Сохранили",
-  "lede": "VibeDeck Sampler записывает звук, который играет на телефоне, прямо из системы. Нажмите Rec, переключитесь в YouTube, SoundCloud, TikTok или почти любое приложение и вернитесь, когда записали нужное. Без микрофона, без шума комнаты и без компьютера. На iPhone и Android.",
+  "h1": "Записывайте звук из YouTube, TikTok и не только.",
+  "h1sub": "Нажмите Rec. Включите видео. Сохраните",
+  "lede": "VibeDeck Sampler записывает звук, который играет на телефоне, прямо из системы. Нажмите Rec, переключитесь в YouTube, TikTok или многие другие приложения и вернитесь, когда записали нужное. Без микрофона, без шума комнаты и без компьютера. На iPhone и Android.",
   "alt": "VibeDeck Sampler записывает системный звук на iPhone",
   "statement": "Вы слышите что-то классное в видео, трансляции или диджей-сете, а кнопки «скачать» нет. Если поднести второй телефон к динамику, звук будет ужасным. Сэмплер записывает звук прямо с телефона, чисто, пока он играет.",
   "features_title": "Услышали, нажали Rec, сохранили",
@@ -451,15 +451,15 @@
  "ko": {
   "slug": "/ko/naebu-sori-nokeum/",
   "title": "아이폰·안드로이드 내부 소리 녹음 | VibeDeck",
-  "desc": "YouTube, SoundCloud 등 휴대폰에서 재생되는 모든 소리를 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.",
+  "desc": "YouTube, TikTok 등 많은 앱의 소리를 휴대폰에서 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "기능",
    "샘플러"
   ],
-  "h1": "휴대폰에서 재생되는 모든 소리를 녹음하세요.",
-  "h1sub": "Rec를 누르고, 재생하고, 간직하세요",
-  "lede": "VibeDeck Sampler는 휴대폰에서 재생되는 소리를 시스템에서 바로 녹음합니다. Rec를 누르고 YouTube, SoundCloud, TikTok 등 대부분의 앱으로 이동했다가, 필요한 부분을 녹음하면 돌아오면 됩니다. 마이크도, 방 소음도, 컴퓨터도 필요 없습니다. 아이폰과 안드로이드에서 사용할 수 있습니다.",
+  "h1": "YouTube, TikTok 등의 소리를 녹음하세요.",
+  "h1sub": "Rec를 누르고, 영상을 재생하고, 간직하세요",
+  "lede": "VibeDeck Sampler는 휴대폰에서 재생되는 소리를 시스템에서 바로 녹음합니다. Rec를 누르고 YouTube, TikTok 등 많은 앱으로 이동했다가, 필요한 부분을 녹음하면 돌아오면 됩니다. 마이크도, 방 소음도, 컴퓨터도 필요 없습니다. 아이폰과 안드로이드에서 사용할 수 있습니다.",
   "alt": "아이폰에서 시스템 오디오를 녹음하는 VibeDeck Sampler",
   "statement": "영상이나 라이브 방송, DJ 세트에서 멋진 소리를 들어도 다운로드 버튼은 없습니다. 다른 휴대폰을 스피커에 대고 녹음하면 소리가 엉망이 됩니다. Sampler는 재생 중인 소리를 휴대폰에서 바로, 깨끗하게 녹음합니다.",
   "features_title": "듣고, Rec를 누르고, 간직하세요",
@@ -515,15 +515,15 @@
  "tr": {
   "slug": "/tr/dahili-ses-kaydi/",
   "title": "Telefonda dahili ses kaydı | VibeDeck",
-  "desc": "iPhone veya Android'de çalan her sesi kaydedin: YouTube, SoundCloud, her uygulama. Dalga formunda kesin, paylaşın ya da Studio'da açın.",
+  "desc": "YouTube, TikTok ve daha pek çok uygulamanın sesini iPhone veya Android'de kaydedin. Dalga formunda kesin, paylaşın ya da Studio'da açın.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Özellik",
    "Sampler"
   ],
-  "h1": "Telefonunuzda çalan her sesi kaydedin.",
-  "h1sub": "Rec'e basın. Çalın. Saklayın",
-  "lede": "VibeDeck Sampler, telefonunuzda çalan sesi doğrudan sistemden kaydeder. Rec'e basın, YouTube, SoundCloud, TikTok ya da çoğu uygulamaya geçin ve istediğinizi kaydedince geri dönün. Mikrofon yok, oda gürültüsü yok, bilgisayar yok. iPhone ve Android'de.",
+  "h1": "YouTube, TikTok ve daha fazlasının sesini kaydedin.",
+  "h1sub": "Rec'e basın. Bir video açın. Saklayın",
+  "lede": "VibeDeck Sampler, telefonunuzda çalan sesi doğrudan sistemden kaydeder. Rec'e basın, YouTube, TikTok ya da pek çok başka uygulamaya geçin ve istediğinizi kaydedince geri dönün. Mikrofon yok, oda gürültüsü yok, bilgisayar yok. iPhone ve Android'de.",
   "alt": "iPhone'da sistem sesini kaydeden VibeDeck Sampler",
   "statement": "Bir videoda, canlı yayında ya da DJ setinde harika bir şey duyuyorsunuz ve indirme düğmesi yok. Başka bir telefonu hoparlöre tutmak berbat ses verir. Sampler sesi çalarken doğrudan telefondan, temiz şekilde kaydeder.",
   "features_title": "Duyun, Rec'e basın, saklayın",
@@ -579,15 +579,15 @@
  "id": {
   "slug": "/id/rekam-audio-internal/",
   "title": "Cara merekam audio internal HP | VibeDeck",
-  "desc": "Rekam suara apa pun yang diputar di iPhone atau Android: YouTube, SoundCloud, aplikasi apa saja. Potong di gelombang suara, bagikan, atau buka di Studio.",
+  "desc": "Rekam suara dari YouTube, TikTok, dan banyak aplikasi lain di iPhone atau Android. Potong di gelombang suara, bagikan, atau buka di Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Fitur",
    "Sampler"
   ],
-  "h1": "Rekam suara apa pun yang diputar di HP kamu.",
-  "h1sub": "Tekan Rec. Putar apa saja. Simpan",
-  "lede": "VibeDeck Sampler merekam suara yang diputar di HP kamu, langsung dari sistem. Tekan Rec, pindah ke YouTube, SoundCloud, TikTok, atau hampir semua aplikasi, lalu kembali setelah dapat yang kamu mau. Tanpa mikrofon, tanpa suara ruangan, tanpa komputer. Di iPhone dan Android.",
+  "h1": "Rekam suara dari YouTube, TikTok, dan lainnya.",
+  "h1sub": "Tekan Rec. Putar sebuah video. Simpan",
+  "lede": "VibeDeck Sampler merekam suara yang diputar di HP kamu, langsung dari sistem. Tekan Rec, pindah ke YouTube, TikTok, atau banyak aplikasi lain, lalu kembali setelah dapat yang kamu mau. Tanpa mikrofon, tanpa suara ruangan, tanpa komputer. Di iPhone dan Android.",
   "alt": "VibeDeck Sampler merekam audio sistem di iPhone",
   "statement": "Kamu mendengar sesuatu yang keren di video, siaran langsung, atau set DJ, dan tidak ada tombol unduh. Mendekatkan HP lain ke speaker hasilnya jelek. Sampler merekam suara langsung dari HP, bersih, saat suara diputar.",
   "features_title": "Dengar, tekan Rec, simpan",
@@ -643,15 +643,15 @@
  "pl": {
   "slug": "/pl/nagrywanie-dzwieku-z-telefonu/",
   "title": "Jak nagrać dźwięk wewnętrzny telefonu | VibeDeck",
-  "desc": "Nagrywaj każdy dźwięk grający na iPhonie lub Androidzie: YouTube, SoundCloud, dowolna aplikacja. Przytnij go na fali i otwórz w Studio.",
+  "desc": "Nagrywaj dźwięk z YouTube, TikToka i wielu innych aplikacji na iPhonie lub Androidzie. Przytnij go na fali i otwórz w Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Funkcja",
    "Sampler"
   ],
-  "h1": "Nagrywaj każdy dźwięk, który gra w telefonie.",
-  "h1sub": "Naciśnij Rec. Odtwórz. Zachowaj",
-  "lede": "VibeDeck Sampler nagrywa dźwięk, który gra w telefonie, prosto z systemu. Naciśnij Rec, przejdź do YouTube, SoundCloud, TikToka albo większości aplikacji i wróć, kiedy masz to, czego potrzebujesz. Bez mikrofonu, bez szumu z pokoju, bez komputera. Na iPhonie i Androidzie.",
+  "h1": "Nagrywaj dźwięk z YouTube, TikToka i nie tylko.",
+  "h1sub": "Naciśnij Rec. Odtwórz film. Zachowaj",
+  "lede": "VibeDeck Sampler nagrywa dźwięk, który gra w telefonie, prosto z systemu. Naciśnij Rec, przejdź do YouTube, TikToka albo wielu innych aplikacji i wróć, kiedy masz to, czego potrzebujesz. Bez mikrofonu, bez szumu z pokoju, bez komputera. Na iPhonie i Androidzie.",
   "alt": "VibeDeck Sampler nagrywa dźwięk systemowy na iPhonie",
   "statement": "Słyszysz coś świetnego w filmie, na transmisji albo w secie DJ-a i nie ma przycisku pobierania. Przystawianie drugiego telefonu do głośnika brzmi fatalnie. Sampler nagrywa dźwięk prosto z telefonu, czysto, w trakcie odtwarzania.",
   "features_title": "Usłyszysz, naciśniesz Rec, zachowasz",
@@ -707,15 +707,15 @@
  "nl": {
   "slug": "/nl/intern-geluid-opnemen/",
   "title": "Intern geluid opnemen op je telefoon | VibeDeck",
-  "desc": "Neem elk geluid op dat op je iPhone of Android speelt: YouTube, SoundCloud, elke app. Knip het op de golfvorm, deel het of open het in Studio.",
+  "desc": "Neem het geluid van YouTube, TikTok en veel andere apps op je iPhone of Android op. Knip het op de golfvorm, deel het of open het in Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Functie",
    "Sampler"
   ],
-  "h1": "Neem elk geluid op dat op je telefoon speelt.",
-  "h1sub": "Druk op Rec. Speel iets af. Bewaar het",
-  "lede": "De VibeDeck Sampler neemt het geluid op dat op je telefoon speelt, rechtstreeks uit het systeem. Druk op Rec, ga naar YouTube, SoundCloud, TikTok of de meeste andere apps en kom terug als je hebt wat je wilt. Geen microfoon, geen geluid uit de kamer, geen computer. Op iPhone en Android.",
+  "h1": "Neem geluid van YouTube, TikTok en meer op.",
+  "h1sub": "Druk op Rec. Speel een video af. Bewaar het",
+  "lede": "De VibeDeck Sampler neemt het geluid op dat op je telefoon speelt, rechtstreeks uit het systeem. Druk op Rec, ga naar YouTube, TikTok of veel andere apps en kom terug als je hebt wat je wilt. Geen microfoon, geen geluid uit de kamer, geen computer. Op iPhone en Android.",
   "alt": "VibeDeck Sampler neemt systeemgeluid op een iPhone op",
   "statement": "Je hoort iets geweldigs in een video, een livestream of een DJ-set, en er is geen downloadknop. Een tweede telefoon bij de speaker houden klinkt vreselijk. De Sampler neemt het geluid rechtstreeks van je telefoon op, schoon, terwijl het speelt.",
   "features_title": "Horen, op Rec drukken, bewaren",
@@ -771,15 +771,15 @@
  "vi": {
   "slug": "/vi/ghi-am-am-thanh-noi-bo/",
   "title": "Cách ghi âm âm thanh nội bộ trên điện thoại | VibeDeck",
-  "desc": "Ghi lại mọi âm thanh đang phát trên iPhone hoặc Android: YouTube, SoundCloud, mọi ứng dụng. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.",
+  "desc": "Ghi lại âm thanh từ YouTube, TikTok và nhiều ứng dụng khác trên iPhone hoặc Android. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "Tính năng",
    "Sampler"
   ],
-  "h1": "Ghi lại mọi âm thanh đang phát trên điện thoại.",
-  "h1sub": "Nhấn Rec. Phát bất cứ thứ gì. Giữ lại",
-  "lede": "VibeDeck Sampler ghi lại âm thanh đang phát trên điện thoại, lấy trực tiếp từ hệ thống. Nhấn Rec, chuyển sang YouTube, SoundCloud, TikTok hoặc hầu hết ứng dụng khác, rồi quay lại khi đã có đoạn bạn cần. Không cần micro, không lẫn tiếng ồn trong phòng, không cần máy tính. Trên iPhone và Android.",
+  "h1": "Ghi âm thanh từ YouTube, TikTok và hơn thế nữa.",
+  "h1sub": "Nhấn Rec. Phát một video. Giữ lại",
+  "lede": "VibeDeck Sampler ghi lại âm thanh đang phát trên điện thoại, lấy trực tiếp từ hệ thống. Nhấn Rec, chuyển sang YouTube, TikTok hoặc nhiều ứng dụng khác, rồi quay lại khi đã có đoạn bạn cần. Không cần micro, không lẫn tiếng ồn trong phòng, không cần máy tính. Trên iPhone và Android.",
   "alt": "VibeDeck Sampler ghi âm âm thanh hệ thống trên iPhone",
   "statement": "Bạn nghe thấy một đoạn tuyệt vời trong video, buổi phát trực tiếp hay set DJ, nhưng không có nút tải xuống. Đưa một chiếc điện thoại khác lại gần loa thì tiếng rất tệ. Sampler ghi âm thanh trực tiếp từ điện thoại, rõ ràng, ngay khi đang phát.",
   "features_title": "Nghe, nhấn Rec, giữ lại",
@@ -835,15 +835,15 @@
  "zh-Hant": {
   "slug": "/zh-hant/nei-bu-lu-yin/",
   "title": "iPhone、Android 內部錄音：錄下手機正在播放的聲音 | VibeDeck",
-  "desc": "錄下手機上播放的任何聲音：YouTube、SoundCloud、任何 App。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。",
+  "desc": "錄下 YouTube、TikTok 等眾多 App 播放的聲音。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "功能",
    "取樣器"
   ],
-  "h1": "錄下手機上正在播放的任何聲音。",
-  "h1sub": "按下 Rec，播放，留下來",
-  "lede": "VibeDeck Sampler 直接從系統錄下手機正在播放的聲音。按下 Rec，切換到 YouTube、SoundCloud、TikTok 或大多數 App，錄到想要的部分再回來就好。不用麥克風，沒有環境噪音，也不需要電腦。支援 iPhone 和 Android。",
+  "h1": "錄下 YouTube、TikTok 等 App 的聲音。",
+  "h1sub": "按下 Rec，播放影片，留下來",
+  "lede": "VibeDeck Sampler 直接從系統錄下手機正在播放的聲音。按下 Rec，切換到 YouTube、TikTok 或其他許多 App，錄到想要的部分再回來就好。不用麥克風，沒有環境噪音，也不需要電腦。支援 iPhone 和 Android。",
   "alt": "VibeDeck Sampler 在 iPhone 上錄製系統音訊",
   "statement": "在影片、直播或 DJ set 裡聽到很棒的聲音，卻沒有下載按鈕。拿另一支手機靠近喇叭錄，聲音會很糟。Sampler 在播放的同時直接從手機錄音，乾淨清楚。",
   "features_title": "聽到、按 Rec、留下來",
@@ -899,15 +899,15 @@
  "zh-Hans": {
   "slug": "/zh-hans/nei-bu-lu-yin/",
   "title": "iPhone、Android 内部录音：录下手机正在播放的声音 | VibeDeck",
-  "desc": "录下手机上播放的任何声音：YouTube、SoundCloud、任何 App。在波形上剪辑，再分享、存进数据库，或在 Studio 里继续编辑。",
+  "desc": "录下 YouTube、TikTok 等众多 App 播放的声音。在波形上剪辑，再分享、存进数据库，或在 Studio 里继续编辑。",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "功能",
    "采样器"
   ],
-  "h1": "录下手机上正在播放的任何声音。",
-  "h1sub": "按下 Rec，播放，留下来",
-  "lede": "VibeDeck Sampler 直接从系统录下手机正在播放的声音。按下 Rec，切换到 YouTube、SoundCloud、TikTok 或大多数 App，录到想要的部分再回来就好。不用麦克风，没有环境噪音，也不需要电脑。支持 iPhone 和 Android。",
+  "h1": "录下 YouTube、TikTok 等 App 的声音。",
+  "h1sub": "按下 Rec，播放视频，留下来",
+  "lede": "VibeDeck Sampler 直接从系统录下手机正在播放的声音。按下 Rec，切换到 YouTube、TikTok 或其他许多 App，录到想要的部分再回来就好。不用麦克风，没有环境噪音，也不需要电脑。支持 iPhone 和 Android。",
   "alt": "VibeDeck Sampler 在 iPhone 上录制系统音频",
   "statement": "在视频、直播或 DJ set 里听到很棒的声音，却没有下载按钮。拿另一支手机靠近喇叭录，声音会很糟。Sampler 在播放的同时直接从手机录音，干净清楚。",
   "features_title": "听到、按 Rec、留下来",
@@ -963,15 +963,15 @@
  "th": {
   "slug": "/th/ab-siang-phainai-mue-thue/",
   "title": "วิธีอัดเสียงภายในมือถือ iPhone และ Android | VibeDeck",
-  "desc": "อัดทุกเสียงที่เล่นอยู่ในมือถือ: YouTube, SoundCloud หรือแอปไหนก็ได้ ตัดต่อบนรูปคลื่นเสียง แล้วแชร์ บันทึกลงคลังเพลง หรือเปิดต่อใน Studio",
+  "desc": "อัดเสียงจาก YouTube, TikTok และแอปอื่นอีกมากมายในมือถือ ตัดต่อบนรูปคลื่นเสียง แล้วแชร์ บันทึกลงคลังเพลง หรือเปิดต่อใน Studio",
   "crumb": "VibeDeck Sampler",
   "eyebrow": [
    "ฟีเจอร์",
    "Sampler"
   ],
-  "h1": "อัดทุกเสียง ที่เล่นอยู่ในมือถือของคุณ",
-  "h1sub": "กด Rec เปิดเสียง แล้วเก็บไว้",
-  "lede": "VibeDeck Sampler อัดเสียงที่เล่นอยู่ในมือถือได้ตรงจากระบบ กด Rec แล้วสลับไปที่ YouTube, SoundCloud, TikTok หรือแอปส่วนใหญ่ พอได้ท่อนที่ต้องการก็กลับมา ไม่ใช้ไมโครโฟน ไม่มีเสียงรบกวนในห้อง และไม่ต้องใช้คอมพิวเตอร์ ใช้ได้บน iPhone และ Android",
+  "h1": "อัดเสียงจาก YouTube, TikTok และอื่น ๆ",
+  "h1sub": "กด Rec เปิดวิดีโอ แล้วเก็บไว้",
+  "lede": "VibeDeck Sampler อัดเสียงที่เล่นอยู่ในมือถือได้ตรงจากระบบ กด Rec แล้วสลับไปที่ YouTube, TikTok หรือแอปอื่นอีกมากมาย พอได้ท่อนที่ต้องการก็กลับมา ไม่ใช้ไมโครโฟน ไม่มีเสียงรบกวนในห้อง และไม่ต้องใช้คอมพิวเตอร์ ใช้ได้บน iPhone และ Android",
   "alt": "VibeDeck Sampler กำลังอัดเสียงระบบบน iPhone",
   "statement": "คุณได้ยินอะไรเจ๋ง ๆ ในวิดีโอ ไลฟ์ หรือเซ็ตดีเจ แต่ไม่มีปุ่มดาวน์โหลด ถ้าเอามือถืออีกเครื่องไปจ่อลำโพง เสียงจะแย่มาก Sampler อัดเสียงตรงจากมือถือ ชัดและสะอาด ในขณะที่เสียงกำลังเล่น",
   "features_title": "ได้ยิน กด Rec แล้วเก็บไว้",

@@ -1098,11 +1098,11 @@ A: Ja. Tonhöhe und Tempo sind unabhängig, du kannst einen Song also verlangsam
 URL: https://vibedeckplayer.app/de/internen-ton-aufnehmen/
 Language: de
 
-Nimm jeden Ton auf, der auf deinem iPhone oder Android läuft: YouTube, SoundCloud, jede App. Schneide ihn in der Wellenform und öffne ihn im Studio.
+Nimm den Ton von YouTube, TikTok und vielen anderen Apps auf deinem iPhone oder Android auf. Schneide ihn in der Wellenform und öffne ihn im Studio.
 
 **Q: Wie nehme ich den internen Ton am Handy auf?**
 
-A: Öffne den VibeDeck Sampler, drück auf Rec und spiel den Ton in einer beliebigen App ab. VibeDeck nimmt den Systemton auf, während er läuft.
+A: Öffne den VibeDeck Sampler, drück auf Rec und spiel den Ton in YouTube, TikTok oder vielen anderen Apps ab. VibeDeck nimmt den Systemton auf, während er läuft.
 
 **Q: Kann ich Ton von YouTube aufnehmen?**
 
@@ -1439,11 +1439,11 @@ A: Oui. Hauteur et tempo sont indépendants : vous pouvez ralentir un morceau et
 URL: https://vibedeckplayer.app/fr/enregistrer-son-interne/
 Language: fr
 
-Enregistrez tout son joué sur votre iPhone ou Android : YouTube, SoundCloud, n'importe quelle app. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.
+Enregistrez le son de YouTube, TikTok et de nombreuses autres apps sur votre iPhone ou Android. Coupez-le sur la forme d'onde et ouvrez-le dans Studio.
 
 **Q: Comment enregistrer le son interne de mon téléphone ?**
 
-A: Ouvrez VibeDeck Sampler, appuyez sur Rec et lancez le son dans n'importe quelle app. VibeDeck enregistre le son du système pendant la lecture.
+A: Ouvrez VibeDeck Sampler, appuyez sur Rec et lancez le son dans YouTube, TikTok ou de nombreuses autres apps. VibeDeck enregistre le son du système pendant la lecture.
 
 **Q: Puis-je enregistrer le son de YouTube ?**
 
@@ -1780,11 +1780,11 @@ A: Sì. Intonazione e tempo sono indipendenti: puoi rallentare un brano e traspo
 URL: https://vibedeckplayer.app/it/registrare-audio-interno/
 Language: it
 
-Registra qualsiasi suono riprodotto su iPhone o Android: YouTube, SoundCloud, qualsiasi app. Taglialo sulla forma d'onda e aprilo in Studio.
+Registra l'audio di YouTube, TikTok e di molte altre app su iPhone o Android. Taglialo sulla forma d'onda e aprilo in Studio.
 
 **Q: Come si registra l'audio interno del telefono?**
 
-A: Apri VibeDeck Sampler, premi Rec e fai partire il suono in qualsiasi app. VibeDeck registra l'audio di sistema mentre suona.
+A: Apri VibeDeck Sampler, premi Rec e fai partire il suono in YouTube, TikTok o in molte altre app. VibeDeck registra l'audio di sistema mentre suona.
 
 **Q: Posso registrare il suono di YouTube?**
 
@@ -2090,11 +2090,11 @@ A: Sí. Tono y tempo son independientes: puedes ralentizar una canción y transp
 URL: https://vibedeckplayer.app/es/grabar-audio-interno/
 Language: es
 
-Graba cualquier sonido que suene en tu iPhone o Android: YouTube, SoundCloud, cualquier app. Edítalo en la onda, compártelo o ábrelo en Studio.
+Graba el sonido de YouTube, TikTok y muchas otras apps en tu iPhone o Android. Edítalo en la onda, compártelo o ábrelo en Studio.
 
 **Q: ¿Cómo grabo el audio interno de mi móvil?**
 
-A: Abre VibeDeck Sampler, pulsa Rec y reproduce el sonido en cualquier app. VibeDeck graba el audio del sistema mientras suena.
+A: Abre VibeDeck Sampler, pulsa Rec y reproduce el sonido en YouTube, TikTok o muchas otras apps. VibeDeck graba el audio del sistema mientras suena.
 
 **Q: ¿Puedo grabar el sonido de YouTube?**
 
@@ -2392,11 +2392,11 @@ A: Sim. Tom e tempo são independentes: dá para desacelerar a música e transpo
 URL: https://vibedeckplayer.app/pt-br/gravar-audio-interno/
 Language: pt-BR
 
-Grave qualquer som que toca no seu iPhone ou Android: YouTube, SoundCloud, qualquer app. Edite na forma de onda, compartilhe ou abra no Studio.
+Grave o som do YouTube, do TikTok e de muitos outros apps no seu iPhone ou Android. Edite na forma de onda, compartilhe ou abra no Studio.
 
 **Q: Como gravar o áudio interno do celular?**
 
-A: Abra o VibeDeck Sampler, toque em Rec e toque o som em qualquer app. O VibeDeck grava o áudio do sistema enquanto ele toca.
+A: Abra o VibeDeck Sampler, toque em Rec e toque o som no YouTube, no TikTok ou em muitos outros apps. O VibeDeck grava o áudio do sistema enquanto ele toca.
 
 **Q: Dá para gravar o som do YouTube?**
 
@@ -2706,11 +2706,11 @@ A: プレーヤー本体は無料で広告もありません。サウンドエ�
 URL: https://vibedeckplayer.app/ja/naibu-onsei-rokuon/
 Language: ja
 
-YouTubeやSoundCloudなど、スマホで流れている音をそのまま録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。
+YouTube、TikTokをはじめ、多くのアプリで流れている音をスマホで録音。波形で編集して、共有、ライブラリに保存、Studioで加工できます。
 
 **Q: スマホの内部音声を録音するには?**
 
-A: VibeDeck SamplerでRecを押し、好きなアプリで音を再生します。再生中のシステム音声がそのまま録音されます。
+A: VibeDeck SamplerでRecを押し、YouTubeやTikTokなど多くのアプリで音を再生します。再生中のシステム音声がそのまま録音されます。
 
 **Q: YouTubeの音を録音できますか?**
 
@@ -3042,16 +3042,16 @@ A: Любые, которые играет VibeDeck Player: MP3, WAV и FLAC. Т
 
 A: Да. Высота тона и темп независимы, поэтому песню можно и замедлить, и транспонировать до ±8 полутонов.
 
-## Как записать звук с телефона из любого приложения | VibeDeck
+## Как записать звук с телефона на iPhone и Android | VibeDeck
 
 URL: https://vibedeckplayer.app/ru/zapis-zvuka-s-telefona/
 Language: ru
 
-Записывайте любой звук, который играет на iPhone или Android: YouTube, SoundCloud, любое приложение. Режьте запись по волне и открывайте в Studio.
+Записывайте звук из YouTube, TikTok и многих других приложений на iPhone или Android. Режьте запись по форме волны и открывайте в Studio.
 
 **Q: Как записать внутренний звук телефона?**
 
-A: Откройте VibeDeck Sampler, нажмите Rec и включите звук в любом приложении. VibeDeck запишет системный звук, пока он играет.
+A: Откройте VibeDeck Sampler, нажмите Rec и включите звук в YouTube, TikTok или многих других приложениях. VibeDeck запишет системный звук, пока он играет.
 
 **Q: Можно записать звук с YouTube?**
 
@@ -3388,11 +3388,11 @@ A: 네. 피치와 템포가 독립적이라 곡을 느리게 하면서 ±8 반�
 URL: https://vibedeckplayer.app/ko/naebu-sori-nokeum/
 Language: ko
 
-YouTube, SoundCloud 등 휴대폰에서 재생되는 모든 소리를 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.
+YouTube, TikTok 등 많은 앱의 소리를 휴대폰에서 녹음하세요. 파형에서 자르고, 공유하거나 라이브러리에 저장하거나 Studio에서 편집할 수 있습니다.
 
 **Q: 휴대폰 내부 소리는 어떻게 녹음하나요?**
 
-A: VibeDeck Sampler를 열고 Rec를 누른 뒤 원하는 앱에서 소리를 재생하세요. 재생되는 시스템 오디오가 그대로 녹음됩니다.
+A: VibeDeck Sampler를 열고 Rec를 누른 뒤 YouTube, TikTok 등 많은 앱에서 소리를 재생하세요. 재생되는 시스템 오디오가 그대로 녹음됩니다.
 
 **Q: YouTube 소리도 녹음할 수 있나요?**
 
@@ -3729,11 +3729,11 @@ A: Evet. Ton ve tempo bağımsızdır; şarkıyı yavaşlatıp aynı anda ±8 ya
 URL: https://vibedeckplayer.app/tr/dahili-ses-kaydi/
 Language: tr
 
-iPhone veya Android'de çalan her sesi kaydedin: YouTube, SoundCloud, her uygulama. Dalga formunda kesin, paylaşın ya da Studio'da açın.
+YouTube, TikTok ve daha pek çok uygulamanın sesini iPhone veya Android'de kaydedin. Dalga formunda kesin, paylaşın ya da Studio'da açın.
 
 **Q: Telefonun dahili sesi nasıl kaydedilir?**
 
-A: VibeDeck Sampler'ı açın, Rec'e basın ve sesi herhangi bir uygulamada çalın. VibeDeck, sistem sesini çalarken kaydeder.
+A: VibeDeck Sampler'ı açın, Rec'e basın ve sesi YouTube, TikTok ya da pek çok başka uygulamada çalın. VibeDeck, sistem sesini çalarken kaydeder.
 
 **Q: YouTube'dan ses kaydedebilir miyim?**
 
@@ -4070,11 +4070,11 @@ A: Bisa. Nada dan tempo terpisah, jadi kamu bisa memperlambat lagu sekaligus men
 URL: https://vibedeckplayer.app/id/rekam-audio-internal/
 Language: id
 
-Rekam suara apa pun yang diputar di iPhone atau Android: YouTube, SoundCloud, aplikasi apa saja. Potong di gelombang suara, bagikan, atau buka di Studio.
+Rekam suara dari YouTube, TikTok, dan banyak aplikasi lain di iPhone atau Android. Potong di gelombang suara, bagikan, atau buka di Studio.
 
 **Q: Bagaimana cara merekam audio internal HP?**
 
-A: Buka VibeDeck Sampler, tekan Rec, lalu putar suara di aplikasi apa saja. VibeDeck merekam audio sistem saat diputar.
+A: Buka VibeDeck Sampler, tekan Rec, lalu putar suara di YouTube, TikTok, atau banyak aplikasi lain. VibeDeck merekam audio sistem saat diputar.
 
 **Q: Bisa merekam suara dari YouTube?**
 
@@ -4411,11 +4411,11 @@ A: Tak. Wysokość dźwięku i tempo są niezależne, więc możesz zwolnić utw
 URL: https://vibedeckplayer.app/pl/nagrywanie-dzwieku-z-telefonu/
 Language: pl
 
-Nagrywaj każdy dźwięk grający na iPhonie lub Androidzie: YouTube, SoundCloud, dowolna aplikacja. Przytnij go na fali i otwórz w Studio.
+Nagrywaj dźwięk z YouTube, TikToka i wielu innych aplikacji na iPhonie lub Androidzie. Przytnij go na fali i otwórz w Studio.
 
 **Q: Jak nagrać dźwięk wewnętrzny telefonu?**
 
-A: Otwórz VibeDeck Sampler, naciśnij Rec i odtwórz dźwięk w dowolnej aplikacji. VibeDeck nagrywa dźwięk systemowy w trakcie odtwarzania.
+A: Otwórz VibeDeck Sampler, naciśnij Rec i odtwórz dźwięk w YouTube, TikToku albo wielu innych aplikacjach. VibeDeck nagrywa dźwięk systemowy w trakcie odtwarzania.
 
 **Q: Czy mogę nagrać dźwięk z YouTube?**
 
@@ -4752,11 +4752,11 @@ A: Ja. Toonhoogte en tempo zijn onafhankelijk, dus je kunt een nummer vertragen 
 URL: https://vibedeckplayer.app/nl/intern-geluid-opnemen/
 Language: nl
 
-Neem elk geluid op dat op je iPhone of Android speelt: YouTube, SoundCloud, elke app. Knip het op de golfvorm, deel het of open het in Studio.
+Neem het geluid van YouTube, TikTok en veel andere apps op je iPhone of Android op. Knip het op de golfvorm, deel het of open het in Studio.
 
 **Q: Hoe neem ik intern geluid op mijn telefoon op?**
 
-A: Open de VibeDeck Sampler, druk op Rec en speel het geluid af in een willekeurige app. VibeDeck neemt het systeemgeluid op terwijl het speelt.
+A: Open de VibeDeck Sampler, druk op Rec en speel het geluid af in YouTube, TikTok of veel andere apps. VibeDeck neemt het systeemgeluid op terwijl het speelt.
 
 **Q: Kan ik geluid van YouTube opnemen?**
 
@@ -5093,11 +5093,11 @@ A: Có. Cao độ và tempo độc lập, nên bạn có thể vừa làm chậm
 URL: https://vibedeckplayer.app/vi/ghi-am-am-thanh-noi-bo/
 Language: vi
 
-Ghi lại mọi âm thanh đang phát trên iPhone hoặc Android: YouTube, SoundCloud, mọi ứng dụng. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.
+Ghi lại âm thanh từ YouTube, TikTok và nhiều ứng dụng khác trên iPhone hoặc Android. Cắt trên dạng sóng, chia sẻ hoặc mở trong Studio.
 
 **Q: Làm sao ghi âm âm thanh nội bộ của điện thoại?**
 
-A: Mở VibeDeck Sampler, nhấn Rec và phát âm thanh trong bất kỳ ứng dụng nào. VibeDeck ghi lại âm thanh hệ thống trong lúc phát.
+A: Mở VibeDeck Sampler, nhấn Rec và phát âm thanh trong YouTube, TikTok hoặc nhiều ứng dụng khác. VibeDeck ghi lại âm thanh hệ thống trong lúc phát.
 
 **Q: Có ghi được âm thanh từ YouTube không?**
 
@@ -5434,11 +5434,11 @@ A: 可以。音高和速度互相獨立，可以一邊放慢，一邊移調最�
 URL: https://vibedeckplayer.app/zh-hant/nei-bu-lu-yin/
 Language: zh-Hant
 
-錄下手機上播放的任何聲音：YouTube、SoundCloud、任何 App。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。
+錄下 YouTube、TikTok 等眾多 App 播放的聲音。在波形上剪輯，再分享、存進資料庫，或在 Studio 裡繼續編輯。
 
 **Q: 怎麼錄手機的內部聲音？**
 
-A: 開啟 VibeDeck Sampler，按下 Rec，再到任何 App 播放聲音。VibeDeck 會在播放時錄下系統音訊。
+A: 開啟 VibeDeck Sampler，按下 Rec，再到 YouTube、TikTok 或其他許多 App 播放聲音。VibeDeck 會在播放時錄下系統音訊。
 
 **Q: 可以錄 YouTube 的聲音嗎？**
 
@@ -5775,11 +5775,11 @@ A: 可以。音高和速度互相独立，可以一边放慢，一边移调最�
 URL: https://vibedeckplayer.app/zh-hans/nei-bu-lu-yin/
 Language: zh-Hans
 
-录下手机上播放的任何声音：YouTube、SoundCloud、任何 App。在波形上剪辑，再分享、存进数据库，或在 Studio 里继续编辑。
+录下 YouTube、TikTok 等众多 App 播放的声音。在波形上剪辑，再分享、存进数据库，或在 Studio 里继续编辑。
 
 **Q: 怎么录手机的内部声音？**
 
-A: 打开 VibeDeck Sampler，按下 Rec，再到任何 App 播放声音。VibeDeck 会在播放时录下系统音频。
+A: 打开 VibeDeck Sampler，按下 Rec，再到 YouTube、TikTok 或其他许多 App 播放声音。VibeDeck 会在播放时录下系统音频。
 
 **Q: 可以录 YouTube 的声音吗？**
 
@@ -6116,11 +6116,11 @@ A: ได้ ระดับเสียงกับเทมโปแยกจ�
 URL: https://vibedeckplayer.app/th/ab-siang-phainai-mue-thue/
 Language: th
 
-อัดทุกเสียงที่เล่นอยู่ในมือถือ: YouTube, SoundCloud หรือแอปไหนก็ได้ ตัดต่อบนรูปคลื่นเสียง แล้วแชร์ บันทึกลงคลังเพลง หรือเปิดต่อใน Studio
+อัดเสียงจาก YouTube, TikTok และแอปอื่นอีกมากมายในมือถือ ตัดต่อบนรูปคลื่นเสียง แล้วแชร์ บันทึกลงคลังเพลง หรือเปิดต่อใน Studio
 
 **Q: อัดเสียงภายในมือถืออย่างไร**
 
-A: เปิด VibeDeck Sampler กด Rec แล้วเปิดเสียงในแอปไหนก็ได้ VibeDeck จะอัดเสียงระบบขณะที่เสียงกำลังเล่น
+A: เปิด VibeDeck Sampler กด Rec แล้วเปิดเสียงใน YouTube, TikTok หรือแอปอื่นอีกมากมาย VibeDeck จะอัดเสียงระบบขณะที่เสียงกำลังเล่น
 
 **Q: อัดเสียงจาก YouTube ได้ไหม**
 
@@ -6417,16 +6417,16 @@ A: Завантажити можна безкоштовно, реклами не
 
 A: У версії для Android теж можна змінювати висоту тону й темп. Studio з лупами поки що є лише на iPhone та iPad.
 
-## Як записати звук із телефона з будь-якого застосунку | VibeDeck
+## Як записати звук із телефона на iPhone і Android | VibeDeck
 
 URL: https://vibedeckplayer.app/uk/zapys-zvuku-z-telefonu/
 Language: uk
 
-Записуйте будь-який звук, що грає на iPhone або Android: YouTube, SoundCloud, будь-який застосунок. Обрізайте запис за формою хвилі та відкривайте в Studio.
+Записуйте звук із YouTube, TikTok та багатьох інших застосунків на iPhone або Android. Обрізайте запис за формою хвилі та відкривайте в Studio.
 
 **Q: Як записати внутрішній звук телефона?**
 
-A: Відкрийте VibeDeck Sampler, натисніть Rec і ввімкніть звук у будь-якому застосунку. VibeDeck запише системний звук, поки він грає.
+A: Відкрийте VibeDeck Sampler, натисніть Rec і ввімкніть звук у YouTube, TikTok або багатьох інших застосунках. VibeDeck запише системний звук, поки він грає.
 
 **Q: Чи можна записати звук з YouTube?**
 
