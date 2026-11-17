@@ -379,3 +379,6 @@ a.link{display:inline-block;padding:5px 0}
 .share-pill:focus-visible{outline:2px solid var(--accent-2);outline-offset:2px}
 .share-pill svg{width:18px;height:18px;flex:none}
 .share-pill.is-done{border-color:rgba(37,211,102,.55)}
+
+/* Apple bezel player image: hide the side buttons that stick out past the body (6 px of 1068 on each side) */
+img[src*="now-playing-apple"]{clip-path:inset(0 .84% 0 .84%)}
