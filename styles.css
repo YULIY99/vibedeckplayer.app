@@ -403,3 +403,11 @@ img[src*="now-playing-apple"]{clip-path:inset(0 .84% 0 .84%)}
 @keyframes how-ping{0%{transform:scale(1);opacity:.8}70%,100%{transform:scale(1.55);opacity:0}}
 @media (prefers-reduced-motion:reduce){.how-go::after{animation:none;opacity:0}.how-card,.how-thumbs img{transition:none}}
 @media (max-width:899px){.how-card{max-width:none}}
+/* No blue haze behind screenshots, phones and cards: clean dark section background */
+.halo,.studio-glow{display:none!important}
+.studio-feature::before{background:none!important}
+.studio-art figure,.pair figure,.duo-media figure,.shot img,.shot:hover img{box-shadow:none!important}
+.hero-visual [data-parallax]{filter:none!important}
+.phone,.poster{box-shadow:0 0 0 1px rgba(255,255,255,.09),0 1px 0 1px rgba(255,255,255,.06) inset!important}
+.how-card{box-shadow:inset 0 1px 0 rgba(255,255,255,.09)!important}
+.how-card:hover{box-shadow:inset 0 1px 0 rgba(255,255,255,.12)!important}
