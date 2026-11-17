@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Render a portrait phone banner (headline + app screenshot in a phone frame), same look as the Sampler banners.
 
-    python3 _build/make_phone_banner.py SCREENSHOT OUT_NAME "WHITE LINE" "BLUE LINE"
+    python3 _build/make_phone_banner.py SCREENSHOT OUT_NAME "WHITE LINE" "BLUE LINE" [apple]
+    with "apple": the screenshot goes into the official Apple iPhone 16 Pro Max bezel (_build/apple_bezel_black.png)
     needs Google Chrome and Pillow; serves the repo on 127.0.0.1:8781
 Writes assets/img/OUT_NAME-{360,540,720}.{webp,avif}.
 """
@@ -27,13 +28,53 @@ h1 span{{display:block;color:#7fd3f0}}
 </body></html>'''
 
 
+APPLE = '''<div class="ap"><img src="{img}"></div>'''
+APPLE_CSS = '<style>.ap{position:absolute;left:60px;top:236px;width:600px}.ap img{width:100%;display:block}</style>'
+
+
+def apple_composite(shot):
+    """Screenshot under the official bezel; hole mask = transparent area flood-filled from the centre."""
+    from PIL import ImageDraw
+    bez = Image.open(ROOT / '_build/apple_bezel_black.png').convert('RGBA')
+    W, H = bez.size
+    alpha = bez.getchannel('A').point(lambda v: 255 if v < 8 else 0)
+    flood = Image.new('L', (W + 2, H + 2), 0)
+    flood.paste(alpha, (1, 1))
+    ImageDraw.floodfill(flood, (W // 2 + 1, H // 2 + 1), 128, thresh=0)
+    hole = flood.crop((1, 1, W + 1, H + 1)).point(lambda v: 255 if v == 128 else 0)
+    x0, y0, x1, y1 = hole.getbbox()
+    sc = Image.open(shot).convert('RGB')
+    k = max((x1 - x0) / sc.width, (y1 - y0) / sc.height)
+    sc = sc.resize((round(sc.width * k), round(sc.height * k)), Image.LANCZOS)
+    sc = sc.crop((0, 0, x1 - x0, y1 - y0))
+    canvas = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    base = Image.new('RGBA', (W, H), (0, 0, 0, 255))
+    canvas.paste(base, (0, 0), hole)
+    layer = Image.new('RGBA', (W, H), (0, 0, 0, 0))
+    layer.paste(sc, (x0, y0))
+    canvas.paste(layer, (0, 0), hole)
+    canvas.alpha_composite(bez)
+    # crop to the body and hide the side buttons (6 px of 1068 each side)
+    c = canvas.crop((19, 22, 1451, 2979))
+    return c.crop((12, 0, c.width - 12, c.height))
+
+
 def main():
     shot, out, a, b = sys.argv[1:5]
-    uri = 'data:image/webp;base64,' + base64.b64encode(Path(shot).read_bytes()).decode()
+    apple = len(sys.argv) > 5 and sys.argv[5] == 'apple'
+    if apple:
+        import io
+        buf = io.BytesIO(); apple_composite(shot).save(buf, 'PNG')
+        uri = 'data:image/png;base64,' + base64.b64encode(buf.getvalue()).decode()
+    else:
+        uri = 'data:image/webp;base64,' + base64.b64encode(Path(shot).read_bytes()).decode()
     handler = functools.partial(http.server.SimpleHTTPRequestHandler, directory=str(ROOT))
     handler.log_message = lambda *x: None
     tmp, png = ROOT / '_pb.html', ROOT / '_pb.png'
-    tmp.write_text(PAGE.format(a=a, b=b, img=uri), encoding='utf-8')
+    html = PAGE.format(a=a, b=b, img=uri)
+    if apple:
+        html = html.replace('<div class="ph">', '<div class="ph" style="display:none">').replace('</body>', APPLE_CSS + APPLE.format(img=uri) + '</body>')
+    tmp.write_text(html, encoding='utf-8')
     with socketserver.TCPServer(('127.0.0.1', 8781), handler) as srv:
         threading.Thread(target=srv.serve_forever, daemon=True).start()
         subprocess.run([CHROME, '--headless=new', '--disable-gpu', '--hide-scrollbars', '--user-data-dir=/tmp/vd-pb-chrome',
