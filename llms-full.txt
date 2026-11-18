@@ -1,20 +1,20 @@
 # VibeDeck Player
 
-> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter, music-reactive visuals and, on iPhone, an AI vocal remover (VibeDeck Stems). No ads, no account, no streaming, no tracking.
+> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, AAC, M4A, WAV, AIFF and FLAC files with real-time pitch and tempo control (a speed changer), a 3-band DJ EQ or 8-band equalizer with limiter, music-reactive visuals, Studio, a Sampler and an AI vocal remover (VibeDeck Stems), on iPhone and Android. No ads, no account, no streaming, no tracking.
 
 ## Key facts
 
 - Product: VibeDeck Player (use the full name "VibeDeck Player")
 - Category: offline music player and pocket music studio for local files
 - Platforms: iPhone and iPad (iOS 17.0+) and Android
-- Audio formats: MP3, WAV and FLAC. Not supported yet: OGG, WMA, Opus
-- Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, EQ with gain, bass boost, stereo balance, limiter, VibeMod and TONE modes
+- Audio formats: MP3, AAC, M4A, WAV, AIFF and FLAC (same on iPhone, iPad and Android). Not supported yet: OGG, WMA, Opus
+- Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, a 3-band DJ EQ or an 8-band equalizer (60 Hz to 16 kHz) with gain, bass boost, stereo balance, mono, limiter, VibeMod and TONE modes
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
-- Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
-- VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
-- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
-- VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
-- VibeDeck DJ EQ (iPhone, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
+- Library: queue for DJ-style sets with drag to reorder, search and Night Mode (hides the artwork, leaves the list); change any cover by search, from Photos or keep the original; Smart Metadata; import single tracks or whole folders from Files, iCloud Drive, Downloads, AirDrop and the share sheet, with the folder structure kept, duplicates skipped and artwork found automatically
+- VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, speed and pitch with key lock, reverse playback, DJ filter, echo, saturation, space and sound presets (Slowed + Reverb, Nightcore, Underwater, Dub Delay, Vinyl Drive), REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
+- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and many other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
+- VibeDeck Stems (vocal remover and stem splitter, iPhone and Android, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the device, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store or Google Play, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
+- VibeDeck DJ EQ (iPhone and Android, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO (monthly, yearly or lifetime). PRO prices depend on your country and are shown in the App Store and Google Play.
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
@@ -25,12 +25,12 @@
 - "Best offline music player for iPhone / Android", "music player without internet", "music player with no ads"
 - "FLAC player for iPhone", "FLAC player for Android", "WAV player for iPhone"
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
-- "Slow down a song without changing pitch", "practice app for musicians and dancers"
+- "Speed changer app", "music speed changer for iPhone / Android", "slow down a song without changing pitch", "practice app for musicians and dancers"
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ EQ app for iPhone", "3-band DJ equalizer", "8-band equalizer for iPhone", "music player with 8-band EQ", "listen in mono to check a mix", "check kick and bass in mono" (VibeDeck DJ EQ)
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
-- "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
+- "Vocal remover app for iPhone and Android", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
 - "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit
@@ -53,7 +53,7 @@
 URL: https://vibedeckplayer.app/
 Language: en
 
-Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch, filter, EQ, limiter, AURA and TONE require PRO. No ads, no account.
+Free offline music player and speed changer for iPhone and Android. Plays MP3, AAC, M4A, WAV, AIFF and FLAC. Pitch, filter, EQ, limiter, AURA and TONE require PRO. No ads, no account.
 
 **Q: Is VibeDeck Player free?**
 
@@ -61,7 +61,7 @@ A: Every new user gets 48 hours with everything unlocked, with no card and no si
 
 **Q: Which audio formats does VibeDeck Player play?**
 
-A: VibeDeck Player plays audio files stored on your device: MP3, WAV and FLAC. No conversion and no cloud upload needed.
+A: VibeDeck Player plays audio files stored on your device: MP3, AAC, M4A, WAV, AIFF and FLAC. No conversion and no cloud upload needed.
 
 **Q: Can iPhone play FLAC files?**
 
@@ -89,22 +89,22 @@ A: Yes. VibeDeck Player is on the App Store for iPhone and iPad (iOS 17.0 and la
 
 **Q: What makes VibeDeck Player different?**
 
-A: Real-time pitch shifting up to ±8 st, independent tempo control, EQ with gain, waveform scrubbing with BPM readout, and the audio-reactive AURA visualizer, all offline on your own files.
+A: Real-time pitch shifting up to ±8 st, independent tempo control, 3-band or 8-band EQ, waveform scrubbing with BPM readout, and the audio-reactive AURA visualizer, all offline on your own files.
 
-## Audio Formats: FLAC, WAV & MP3 Player | VibeDeck Player
+## Audio Formats: MP3, AAC, M4A, WAV, AIFF & FLAC Player | VibeDeck Player
 
 URL: https://vibedeckplayer.app/audio-formats/
 Language: en
 
-One offline music player for FLAC, WAV and MP3 on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.
+One offline music player for MP3, AAC, M4A, WAV, AIFF and FLAC on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.
 
-**Q: Does VibeDeck Player play ALAC, AIFF or AAC files?**
+**Q: Does VibeDeck Player play AAC, M4A or AIFF files?**
 
-A: The App Store and Google Play listings currently confirm FLAC, MP3 and WAV. ALAC (.m4a), AIFF and AAC are not listed there yet, so test one file in the free version before you convert your library.
+A: Yes. VibeDeck Player plays AAC, M4A and AIFF files, as well as MP3, WAV and FLAC. ALAC is not named in the App Store listing, so test one ALAC file in the free version before you convert your library.
 
 **Q: What audio formats does VibeDeck Player support?**
 
-A: VibeDeck Player plays MP3, WAV and FLAC files stored on your device.
+A: VibeDeck Player plays MP3, AAC, M4A, WAV, AIFF and FLAC files stored on your device.
 
 **Q: Does VibeDeck Player play WAV?**
 
@@ -116,7 +116,7 @@ A: Not yet. Convert OGG, WMA or Opus files to FLAC and import them into VibeDeck
 
 **Q: Do I need to convert my files before importing?**
 
-A: No. Import FLAC, WAV and MP3 files as they are. Nothing is converted or uploaded.
+A: No. Import MP3, AAC, M4A, WAV, AIFF and FLAC files as they are. Nothing is converted or uploaded.
 
 ## Best Offline Music Player in 2026 | VibeDeck Player
 
@@ -193,7 +193,7 @@ A: Yes. FLAC files play from your device with no internet and no mobile data.
 
 **Q: Does it have an equalizer?**
 
-A: Yes. An EQ with gain, bass boost, filter, stereo balance and a limiter.
+A: Yes. Switch between a 3-band DJ EQ and an 8-band equalizer from 60 Hz to 16 kHz, with gain, bass boost, filter, stereo balance and a limiter.
 
 **Q: How much does it cost on Android?**
 
@@ -212,11 +212,11 @@ A: Yes. iPhone can play FLAC files, but the built-in options give you no equaliz
 
 **Q: Does VibeDeck Player work without internet?**
 
-A: Yes. VibeDeck Player is an offline music player. Your FLAC, WAV and MP3 files stay on your device and play with no WiFi, no account and no ads.
+A: Yes. VibeDeck Player is an offline music player. Your MP3, AAC, M4A, WAV, AIFF and FLAC files stay on your device and play with no WiFi, no account and no ads.
 
 **Q: Does it have an equalizer for FLAC playback?**
 
-A: Yes. VibeDeck Player includes an EQ with gain, bass boost, filter, stereo balance and a built-in limiter, all applied in real time to your FLAC files.
+A: Yes. VibeDeck Player has a 3-band DJ EQ and an 8-band equalizer from 60 Hz to 16 kHz, plus bass boost, filter, stereo balance and a built-in limiter, all applied in real time to your FLAC files.
 
 **Q: Can I change pitch and tempo of FLAC tracks?**
 
@@ -251,7 +251,7 @@ A: Yes. VibeDeck Player also plays FLAC and WAV, so you can mix formats in one o
 
 **Q: Is VibeDeck Player free?**
 
-A: The core player is free with no ads. PRO unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: The core player is free with no ads. PRO unlocks the full sound engine including pitch and filter, 3-band or 8-band EQ, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 ## Music Player with Pitch & Tempo Control | VibeDeck Player
 
@@ -270,7 +270,7 @@ A: Yes. Tempo and pitch are independent in VibeDeck Player. Slow a track down to
 
 **Q: Is VibeDeck Player good for musicians and DJs?**
 
-A: It is built for that use: pitch and filter on the main screen, waveform scrubbing, BPM readout, EQ with gain and a limiter, all working offline on your own files.
+A: It is built for that use: pitch and filter on the main screen, waveform scrubbing, BPM readout, 3-band or 8-band EQ and a limiter, all working offline on your own files.
 
 **Q: Does pitch shifting work offline?**
 
@@ -278,7 +278,7 @@ A: Yes. All processing happens on the device. Pitch, tempo, EQ and filter work i
 
 **Q: Is VibeDeck Player free?**
 
-A: The core player is free with no ads. PRO unlocks the full sound engine including pitch and filter, EQ with gain, limiter, VibeMod, TONE, AURA and Smart Metadata.
+A: The core player is free with no ads. PRO unlocks the full sound engine including pitch and filter, 3-band or 8-band EQ, limiter, VibeMod, TONE, AURA and Smart Metadata.
 
 ## Offline Music Player for Android: No Ads | VibeDeck Player
 
@@ -297,7 +297,7 @@ A: Yes. With VibeDeck Player your files are stored on the phone, so music keeps 
 
 **Q: Does VibeDeck Player play FLAC on Android?**
 
-A: Yes. VibeDeck Player plays FLAC, WAV and MP3 from your local files on Android, with an EQ and gain, pitch shifting and tempo control applied in real time.
+A: Yes. VibeDeck Player plays MP3, AAC, M4A, WAV, AIFF and FLAC from your local files on Android, with a 3-band DJ EQ or 8-band equalizer, pitch shifting and tempo control applied in real time.
 
 **Q: Where do the music files come from?**
 
@@ -355,7 +355,7 @@ A: Yes. VibeDeck Player is available on Google Play with the same tempo and pitc
 
 **Q: Which files can I slow down?**
 
-A: Any file VibeDeck Player plays: MP3, WAV and FLAC. Tracks inside streaming apps cannot be processed by other apps.
+A: Any file VibeDeck Player plays: MP3, AAC, M4A, WAV, AIFF and FLAC. Tracks inside streaming apps cannot be processed by other apps.
 
 **Q: Can I also change the key?**
 
@@ -417,7 +417,7 @@ A: Not if you let the limiter do its job. Push the low band, add gain for punch,
 
 **Q: Does the EQ work on all formats?**
 
-A: Yes. The EQ shapes everything VibeDeck Player plays: MP3, WAV and FLAC.
+A: Yes. The EQ works on everything VibeDeck Player plays: MP3, AAC, M4A, WAV, AIFF and FLAC.
 
 **Q: Can VibeDeck boost bass in streaming apps?**
 
@@ -540,7 +540,7 @@ DJ app for iPhone and Android: pitch, tempo and filter in the player, plus beat-
 
 **Q: Can I DJ with VibeDeck Player?**
 
-A: Yes. VibeDeck Studio gives you beat-snapped loops from half a bar to 8 bars, live pitch, filter, saturation and space effects, plus clip recording, all offline. Studio is currently available on iPhone and iPad; the player itself also runs on Android.
+A: Yes. VibeDeck Studio gives you beat-snapped loops from half a bar to 8 bars, live pitch, filter, saturation and space effects, plus clip recording, all offline. Studio is available on iPhone, iPad and Android.
 
 **Q: What loops does VibeDeck Studio have?**
 
@@ -548,7 +548,7 @@ A: Loops from half a bar to 8 bars, snapped to the beat grid. You can fine-tune 
 
 **Q: Which DJ effects are included?**
 
-A: Pitch, filter, saturation and space effects with presets, all running live in VibeDeck Studio. The player itself adds an EQ with gain and a limiter.
+A: Pitch, filter, saturation and space effects with presets, all running live in VibeDeck Studio. The player itself adds a 3-band or 8-band EQ and a limiter.
 
 **Q: Can I match the tempo of two tracks?**
 
@@ -606,7 +606,7 @@ A: No. Pitch and tempo are independent, so the speed stays the same unless you c
 
 **Q: Can VibeDeck remove the vocals?**
 
-A: Yes, on iPhone. Open the song in Studio, tap STEMS and choose Instrumental. Pitch shifts the key of whatever part is playing.
+A: Yes, on iPhone and Android. Open the song in Studio, tap STEMS and choose Instrumental. Pitch shifts the key of whatever part is playing.
 
 **Q: Is the original file changed?**
 
@@ -625,7 +625,7 @@ A: The download is free and has no ads. Changing the key is part of VibeDeck PRO
 URL: https://vibedeckplayer.app/slowed-reverb/
 Language: en
 
-Make slowed + reverb versions of your own songs on iPhone and iPad: lower the pitch and add the space effect in VibeDeck Studio, then record a 2-minute clip.
+Make slowed + reverb versions of your songs on iPhone, iPad and Android: lower the pitch, add space in VibeDeck Studio, then record a 2-minute clip.
 
 **Q: Can I make slowed + reverb on iPhone?**
 
@@ -641,7 +641,7 @@ A: Up to two minutes, with fade in and fade out.
 
 **Q: Does it work on Android?**
 
-A: Studio is available on iPhone and iPad for now. On Android you can change pitch and tempo in the player.
+A: Yes. Studio works on iPhone, iPad and Android.
 
 **Q: Can I use songs from streaming apps?**
 
@@ -660,7 +660,7 @@ A: Yes. Copy the files with AirDrop, iCloud Drive or the Files app, then import 
 
 **Q: Which formats can I add?**
 
-A: MP3, WAV and FLAC. VibeDeck Player plays them without conversion.
+A: MP3, AAC, M4A, WAV, AIFF and FLAC. VibeDeck Player plays them without conversion.
 
 **Q: Do the songs need internet after import?**
 
@@ -714,7 +714,7 @@ A: Yes. Download the files from Google Drive to your phone, import them into Vib
 
 **Q: Which formats work?**
 
-A: MP3, WAV and FLAC.
+A: MP3, AAC, M4A, WAV, AIFF and FLAC.
 
 **Q: Does VibeDeck stream from Google Drive?**
 
@@ -811,7 +811,7 @@ A: Yes. The 3-band DJ EQ has gain, bass, mid and high faders, like the EQ on a D
 
 **Q: Does VibeDeck have an 8-band equalizer?**
 
-A: Yes, on iPhone. It has bands at 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz and 16 kHz, each from -12 to +12 dB, and a separate gain control.
+A: Yes, on iPhone and Android. It has bands at 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz and 16 kHz, each from -12 to +12 dB, and a separate gain control.
 
 **Q: How do I switch between 3 bands and 8 bands?**
 
@@ -930,12 +930,82 @@ A: Yes. Search a cover for any track, pick one from Photos or keep the original.
 
 A: Update VibeDeck Player in the App Store. New users can download it for free.
 
+## What Is VibeDeck Player? Offline Music Player
+
+URL: https://vibedeckplayer.app/what-is-vibedeck-player/
+Language: en
+
+VibeDeck Player is an offline music player and speed changer for iPhone, iPad and Android: your own files, pitch and tempo, EQ, Studio, Sampler and Stems.
+
+**Q: What is VibeDeck Player?**
+
+A: VibeDeck Player is an offline music player and speed changer for iPhone, iPad and Android. It plays your own audio files and lets you change pitch and tempo, tune the sound with an EQ, loop in Studio, record with the Sampler and split a song into vocal and instrumental with Stems.
+
+**Q: Is VibeDeck Player an offline music player?**
+
+A: Yes. It plays files stored on your device with no WiFi or mobile data, with no account, no ads and no tracking.
+
+**Q: Which devices does it run on?**
+
+A: iPhone and iPad with iOS 17 or later, and Android phones. The features are the same on both platforms.
+
+**Q: Which audio formats does it play?**
+
+A: MP3, AAC, M4A, WAV, AIFF and FLAC, with no conversion.
+
+**Q: Can it change the speed or pitch of a song?**
+
+A: Yes. Tempo and pitch are independent, so you can slow a song down without changing its key or change the key without changing the speed.
+
+**Q: Can it remove vocals from a song?**
+
+A: Yes. Stems splits a song from your library into vocal and instrumental on the device, with no upload.
+
+**Q: Does it play songs from streaming services?**
+
+A: No. VibeDeck Player only opens audio files stored on your device.
+
+**Q: Is it free?**
+
+A: The download is free and has no ads. VibeDeck PRO is optional and unlocks the full sound engine.
+
+## VibeDeck vs Music Speed Changer | VibeDeck Player
+
+URL: https://vibedeckplayer.app/vibedeck-vs-music-speed-changer/
+Language: en
+
+VibeDeck Player and Music Speed Changer compared from their public store listings: platforms, features and file sources. Facts only, no ratings.
+
+**Q: Is VibeDeck Player an alternative to Music Speed Changer?**
+
+A: Both change the speed and pitch of your own music. VibeDeck Player is a full offline music player with no ads, no account and no tracking, plus Studio, a Sampler and Stems.
+
+**Q: Can both change pitch without changing speed?**
+
+A: Yes. Both change tempo and pitch independently.
+
+**Q: Which one has stem separation?**
+
+A: Both. VibeDeck Stems splits a song into vocal and instrumental on the device. Music Speed Changer lists separation into more parts.
+
+**Q: Which one can record sound from other apps?**
+
+A: VibeDeck Player has a Sampler that records the sound playing on your phone, from YouTube, TikTok and many other apps; protected playback cannot be recorded. The Music Speed Changer listing does not mention recording.
+
+**Q: Which platforms does each one cover?**
+
+A: VibeDeck Player runs on iPhone, iPad and Android. Music Speed Changer lists iPhone, iPad, Mac, Android, a web app and a Chrome extension.
+
+**Q: Does this page rate the two apps?**
+
+A: No. It lists public facts only, with no ratings and no rankings.
+
 ## Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck
 
 URL: https://vibedeckplayer.app/de/
 Language: de
 
-Spiele FLAC, MP3 und WAV ohne Internet auf iPhone und Android. Keine Werbung, kein Konto. Tonart (±8 st), Tempo und EQ anpassen. Kostenlos.
+Spiele MP3, AAC, M4A, WAV, AIFF und FLAC ohne Internet auf iPhone und Android. Keine Werbung, kein Konto. Tonart (±8 st), Tempo und EQ anpassen. Kostenlos.
 
 **Q: Funktioniert die App ohne Internet?**
 
@@ -971,7 +1041,7 @@ A: Öffne den Song und bewege den Regler Pitch / Filter im Hauptbildschirm. Die 
 
 **Q: Was enthält VibeDeck PRO?**
 
-A: Die komplette Sound-Engine: Tonhöhe und Filter, Equalizer mit Gain, Limiter, VibeMod, TONE, AURA und Smart Metadata. Du kannst monatlich, jährlich oder einmalig lebenslang zahlen. Der Preis für PRO hängt vom Land ab und wird im App Store und bei Google Play angezeigt.
+A: Die komplette Sound-Engine: Tonhöhe und Filter, 3-Band-DJ-EQ oder 8-Band-Equalizer, Limiter, VibeMod, TONE, AURA und Smart Metadata. Du kannst monatlich, jährlich oder einmalig lebenslang zahlen. Der Preis für PRO hängt vom Land ab und wird im App Store und bei Google Play angezeigt.
 
 ## Tonart eines Songs ändern, Tempo bleibt gleich | VibeDeck
 
@@ -990,7 +1060,7 @@ A: Nein. Tonhöhe und Tempo sind unabhängig, die Geschwindigkeit bleibt gleich.
 
 **Q: Geht das auch mit Songs aus Streaming-Apps?**
 
-A: Nein. VibeDeck öffnet nur Musikdateien auf deinem Gerät; Songs aus Streaming-Diensten lassen sich nicht bearbeiten. Unterstützt werden eigene MP3-, FLAC- und WAV-Dateien.
+A: Nein. VibeDeck öffnet nur Musikdateien auf deinem Gerät; Songs aus Streaming-Diensten lassen sich nicht bearbeiten. Unterstützt werden eigene MP3-, AAC-, M4A-, WAV-, AIFF- und FLAC-Dateien.
 
 **Q: Funktioniert das offline?**
 
@@ -1021,7 +1091,7 @@ A: Nein. VibeDeck Player öffnet FLAC-Dateien so, wie sie sind.
 
 **Q: Funktioniert das ohne Internet?**
 
-A: Ja. Deine FLAC-, WAV- und MP3-Dateien liegen auf dem Gerät und laufen ohne WLAN, ohne Konto und ohne Werbung.
+A: Ja. Deine MP3-, AAC-, M4A-, WAV-, AIFF- und FLAC-Dateien liegen auf dem Gerät und laufen ohne WLAN, ohne Konto und ohne Werbung.
 
 **Q: Gibt es einen Equalizer für FLAC?**
 
@@ -1029,7 +1099,7 @@ A: Ja. Gain, Bass-Boost, Filter, Stereo-Balance und Limiter, in Echtzeit angewen
 
 **Q: Funktioniert das auf Android?**
 
-A: Ja. VibeDeck Player gibt es bei Google Play; er spielt FLAC, WAV und MP3 offline ab.
+A: Ja. VibeDeck Player gibt es bei Google Play; er spielt MP3, AAC, M4A, WAV, AIFF und FLAC offline ab.
 
 **Q: Ist die App kostenlos?**
 
@@ -1087,7 +1157,7 @@ A: Ja. VibeDeck Player gibt es bei Google Play mit denselben Reglern für Tempo 
 
 **Q: Welche Dateien kann ich verlangsamen?**
 
-A: Alle Dateien, die VibeDeck Player abspielt: MP3, WAV und FLAC. Titel in Streaming-Apps können andere Apps nicht verarbeiten.
+A: Alle Dateien, die VibeDeck Player abspielt: MP3, AAC, M4A, WAV, AIFF und FLAC. Titel in Streaming-Apps können andere Apps nicht verarbeiten.
 
 **Q: Kann ich gleichzeitig die Tonart ändern?**
 
@@ -1168,7 +1238,7 @@ A: Ja. Der 3-Band DJ EQ hat Fader für GAIN, BASS, MID und HIGH, wie ein DJ-Mixe
 
 **Q: Gibt es einen 8-Band Equalizer?**
 
-A: Ja, auf dem iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz und 16 kHz, je -12 bis +12 dB, dazu ein eigener GAIN.
+A: Ja, auf iPhone und Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz und 16 kHz, je -12 bis +12 dB, dazu ein eigener GAIN.
 
 **Q: Wie wechsle ich zwischen 3 und 8 Bändern?**
 
@@ -1276,7 +1346,7 @@ A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohn
 URL: https://vibedeckplayer.app/fr/
 Language: fr
 
-Écoutez FLAC, MP3 et WAV sans internet sur iPhone et Android. Sans pub ni compte. Tonalité (±8 st), tempo et égaliseur. Gratuit.
+Écoutez MP3, AAC, M4A, WAV, AIFF et FLAC sans internet sur iPhone et Android. Sans pub ni compte. Tonalité (±8 st), tempo et égaliseur. Gratuit.
 
 **Q: Ça fonctionne sans connexion internet ?**
 
@@ -1312,7 +1382,7 @@ A: Ouvrez le morceau et déplacez la commande Pitch / Filter de l’écran princ
 
 **Q: Que comprend VibeDeck PRO ?**
 
-A: Tout le moteur sonore : hauteur et filtre, égaliseur avec gain, limiteur, VibeMod, TONE, AURA et Smart Metadata. Vous pouvez payer au mois, à l’année ou une seule fois, à vie. Le prix de PRO dépend du pays et s’affiche dans l’App Store et sur Google Play.
+A: Tout le moteur sonore : hauteur et filtre, EQ DJ 3 bandes ou égaliseur 8 bandes, limiteur, VibeMod, TONE, AURA et Smart Metadata. Vous pouvez payer au mois, à l’année ou une seule fois, à vie. Le prix de PRO dépend du pays et s’affiche dans l’App Store et sur Google Play.
 
 ## Changer la tonalité d’une chanson sur iPhone | VibeDeck
 
@@ -1331,7 +1401,7 @@ A: Non. Hauteur et tempo sont indépendants : la vitesse du morceau ne change p
 
 **Q: Est-ce possible avec les titres des applis de streaming ?**
 
-A: Non. VibeDeck n’ouvre que les fichiers audio de votre appareil ; les titres en streaming ne peuvent pas être traités. Il prend en charge vos fichiers MP3, FLAC et WAV.
+A: Non. VibeDeck n’ouvre que les fichiers audio de votre appareil ; les titres en streaming ne peuvent pas être traités. Il prend en charge vos fichiers MP3, AAC, M4A, WAV, AIFF et FLAC.
 
 **Q: Ça fonctionne hors ligne ?**
 
@@ -1362,7 +1432,7 @@ A: Non. VibeDeck Player ouvre les fichiers FLAC tels quels, sans conversion.
 
 **Q: Ça fonctionne sans internet ?**
 
-A: Oui. Vos fichiers FLAC, WAV et MP3 sont sur l’appareil et se lisent sans Wi-Fi, sans compte et sans pub.
+A: Oui. Vos fichiers MP3, AAC, M4A, WAV, AIFF et FLAC sont sur l’appareil et se lisent sans Wi-Fi, sans compte et sans pub.
 
 **Q: Y a-t-il un égaliseur pour les FLAC ?**
 
@@ -1370,7 +1440,7 @@ A: Oui. Gain, renfort des basses, filtre, balance stéréo et limiteur, appliqu�
 
 **Q: Ça marche sur Android ?**
 
-A: Oui. VibeDeck Player est sur Google Play et lit les FLAC, WAV et MP3 hors ligne.
+A: Oui. VibeDeck Player est sur Google Play et lit les MP3, AAC, M4A, WAV, AIFF et FLAC hors ligne.
 
 **Q: C’est gratuit ?**
 
@@ -1428,7 +1498,7 @@ A: Oui. VibeDeck Player est sur Google Play avec les mêmes réglages de tempo e
 
 **Q: Quels fichiers peut-on ralentir ?**
 
-A: Tous ceux que lit VibeDeck Player : MP3, WAV et FLAC. Les titres des applis de streaming ne peuvent pas être traités par d’autres applis.
+A: Tous ceux que lit VibeDeck Player : MP3, AAC, M4A, WAV, AIFF et FLAC. Les titres des applis de streaming ne peuvent pas être traités par d’autres applis.
 
 **Q: Peut-on aussi changer la tonalité ?**
 
@@ -1509,7 +1579,7 @@ A: Oui. L’égaliseur DJ 3 bandes a des faders GAIN, BASS, MID et HIGH, comme u
 
 **Q: Y a-t-il un égaliseur 8 bandes ?**
 
-A: Oui, sur iPhone : 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz et 16 kHz, chaque bande de -12 à +12 dB, avec un GAIN séparé.
+A: Oui, sur iPhone et Android : 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz et 16 kHz, chaque bande de -12 à +12 dB, avec un GAIN séparé.
 
 **Q: Comment passer de 3 à 8 bandes ?**
 
@@ -1617,7 +1687,7 @@ A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et san
 URL: https://vibedeckplayer.app/it/
 Language: it
 
-Ascolta FLAC, MP3 e WAV offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con PRO. Download gratuito.
+Ascolta MP3, AAC, M4A, WAV, AIFF e FLAC offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con PRO. Download gratuito.
 
 **Q: Funziona senza connessione internet?**
 
@@ -1653,7 +1723,7 @@ A: Apri il brano e sposta il controllo Pitch / Filter nella schermata principale
 
 **Q: Cosa include VibeDeck PRO?**
 
-A: Il motore audio completo: pitch e filtro, equalizzatore con gain, limiter, VibeMod, TONE, AURA e Smart Metadata. Puoi scegliere un piano mensile, annuale o un acquisto unico a vita. Il prezzo di PRO dipende dal paese ed è indicato su App Store e Google Play.
+A: Il motore audio completo: pitch e filtro, EQ DJ a 3 bande o equalizzatore a 8 bande, limiter, VibeMod, TONE, AURA e Smart Metadata. Puoi scegliere un piano mensile, annuale o un acquisto unico a vita. Il prezzo di PRO dipende dal paese ed è indicato su App Store e Google Play.
 
 ## Cambiare la tonalità di una canzone su iPhone | VibeDeck
 
@@ -1672,7 +1742,7 @@ A: No. Pitch e tempo sono indipendenti: la velocità del brano non cambia.
 
 **Q: Posso farlo con i brani delle app di streaming?**
 
-A: No. VibeDeck apre solo i file audio sul dispositivo; non può elaborare i brani dei servizi di streaming. Supporta i tuoi file MP3, FLAC e WAV.
+A: No. VibeDeck apre solo i file audio sul dispositivo; non può elaborare i brani dei servizi di streaming. Supporta i tuoi file MP3, AAC, M4A, WAV, AIFF e FLAC.
 
 **Q: Funziona offline?**
 
@@ -1703,7 +1773,7 @@ A: No. VibeDeck Player apre i file FLAC senza conversioni.
 
 **Q: Funziona senza internet?**
 
-A: Sì. I file FLAC, WAV e MP3 salvati sul dispositivo si riproducono senza Wi-Fi, account o pubblicità.
+A: Sì. I file MP3, AAC, M4A, WAV, AIFF e FLAC salvati sul dispositivo si riproducono senza Wi-Fi, account o pubblicità.
 
 **Q: C’è un equalizzatore per i FLAC?**
 
@@ -1711,7 +1781,7 @@ A: Sì, con PRO: gain, bass boost, filtro, bilanciamento stereo e limiter, appli
 
 **Q: Funziona su Android?**
 
-A: Sì. VibeDeck Player è disponibile su Google Play e riproduce FLAC, WAV e MP3 offline.
+A: Sì. VibeDeck Player è disponibile su Google Play e riproduce MP3, AAC, M4A, WAV, AIFF e FLAC offline.
 
 **Q: È gratuito?**
 
@@ -1769,7 +1839,7 @@ A: Sì. VibeDeck Player è su Google Play con gli stessi controlli di tempo e in
 
 **Q: Quali file posso rallentare?**
 
-A: Tutti quelli che VibeDeck Player riproduce: MP3, WAV e FLAC. I brani delle app di streaming non possono essere elaborati da altre app.
+A: Tutti quelli che VibeDeck Player riproduce: MP3, AAC, M4A, WAV, AIFF e FLAC. I brani delle app di streaming non possono essere elaborati da altre app.
 
 **Q: Posso cambiare anche la tonalità?**
 
@@ -1850,7 +1920,7 @@ A: Sì. L’equalizzatore DJ a 3 bande ha fader GAIN, BASS, MID e HIGH, come un 
 
 **Q: C’è un equalizzatore a 8 bande?**
 
-A: Sì, su iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz e 16 kHz, ogni banda da -12 a +12 dB, più un GAIN separato.
+A: Sì, su iPhone e Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz e 16 kHz, ogni banda da -12 a +12 dB, più un GAIN separato.
 
 **Q: Come passo da 3 a 8 bande?**
 
@@ -1958,7 +2028,7 @@ A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registra
 URL: https://vibedeckplayer.app/es/
 Language: es
 
-Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.
+Reproduce MP3, AAC, M4A, WAV, AIFF y FLAC sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.
 
 **Q: ¿Funciona sin conexión a internet?**
 
@@ -1994,7 +2064,7 @@ A: Abre la canción y mueve el control Pitch / Filter de la pantalla principal. 
 
 **Q: ¿Qué incluye VibeDeck PRO?**
 
-A: Todo el motor de sonido: tono y filtro, ecualizador con ganancia, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida. El precio de PRO depende del país y aparece en el App Store y Google Play.
+A: Todo el motor de sonido: tono y filtro, EQ DJ de 3 bandas o ecualizador de 8 bandas, limitador, VibeMod, TONE, AURA y Smart Metadata. Puedes elegir pago mensual, anual o un pago único de por vida. El precio de PRO depende del país y aparece en el App Store y Google Play.
 
 ## Reproductor FLAC para iPhone y Android | VibeDeck
 
@@ -2013,7 +2083,7 @@ A: No. VibeDeck Player abre los archivos FLAC tal como están, sin conversión.
 
 **Q: ¿Funciona sin internet?**
 
-A: Sí. Tus archivos FLAC, WAV y MP3 están en el dispositivo y se reproducen sin wifi, sin cuenta y sin anuncios.
+A: Sí. Tus archivos MP3, AAC, M4A, WAV, AIFF y FLAC están en el dispositivo y se reproducen sin wifi, sin cuenta y sin anuncios.
 
 **Q: ¿Tiene ecualizador para FLAC?**
 
@@ -2021,7 +2091,7 @@ A: Sí. Ganancia, refuerzo de graves, filtro, balance estéreo y limitador, apli
 
 **Q: ¿Funciona en Android?**
 
-A: Sí. VibeDeck Player está en Google Play y reproduce FLAC, WAV y MP3 sin conexión.
+A: Sí. VibeDeck Player está en Google Play y reproduce MP3, AAC, M4A, WAV, AIFF y FLAC sin conexión.
 
 **Q: ¿Es gratis?**
 
@@ -2079,7 +2149,7 @@ A: Sí. VibeDeck Player está en Google Play con los mismos controles de tempo y
 
 **Q: ¿Qué archivos puedo ralentizar?**
 
-A: Cualquiera que reproduzca VibeDeck Player: MP3, WAV y FLAC. Las canciones de apps de streaming no pueden procesarse en otras apps.
+A: Cualquiera que reproduzca VibeDeck Player: MP3, AAC, M4A, WAV, AIFF y FLAC. Las canciones de apps de streaming no pueden procesarse en otras apps.
 
 **Q: ¿Puedo cambiar también el tono?**
 
@@ -2160,7 +2230,7 @@ A: Sí. El ecualizador DJ de 3 bandas tiene faders de GAIN, BASS, MID y HIGH, co
 
 **Q: ¿Tiene ecualizador de 8 bandas?**
 
-A: Sí, en iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz y 16 kHz, cada banda de -12 a +12 dB, y un GAIN aparte.
+A: Sí, en iPhone y Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz y 16 kHz, cada banda de -12 a +12 dB, y un GAIN aparte.
 
 **Q: ¿Cómo cambio entre 3 y 8 bandas?**
 
@@ -2268,7 +2338,7 @@ A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin re
 URL: https://vibedeckplayer.app/pt-br/
 Language: pt-BR
 
-Ouça FLAC, MP3 e WAV sem internet no Android e no iPhone. Sem anúncios e sem conta. Mude o tom (±8 st), a velocidade e o equalizador. Grátis.
+Ouça MP3, AAC, M4A, WAV, AIFF e FLAC sem internet no Android e no iPhone. Sem anúncios e sem conta. Mude o tom (±8 st), a velocidade e o equalizador. Grátis.
 
 **Q: Funciona sem internet?**
 
@@ -2304,18 +2374,18 @@ A: Abra a faixa e arraste o controle Pitch / Filter na tela principal. O tom mud
 
 **Q: O que vem no VibeDeck PRO?**
 
-A: Todo o motor de som: tom e filtro, equalizador com ganho, limitador, VibeMod, TONE, AURA e Smart Metadata. Você escolhe entre plano mensal, anual ou pagamento único vitalício. O preço do PRO depende do país e aparece na App Store e no Google Play.
+A: Todo o motor de som: tom e filtro, EQ DJ de 3 bandas ou equalizador de 8 bandas, limitador, VibeMod, TONE, AURA e Smart Metadata. Você escolhe entre plano mensal, anual ou pagamento único vitalício. O preço do PRO depende do país e aparece na App Store e no Google Play.
 
 ## Player de música offline para Android | VibeDeck
 
 URL: https://vibedeckplayer.app/pt-br/player-offline-android/
 Language: pt-BR
 
-Ouça MP3, FLAC e WAV sem internet no Android. Sem anúncios, sem conta e sem rastreamento. Equalizador, tom e andamento. Download grátis no Google Play.
+Ouça MP3, AAC, M4A, WAV, AIFF e FLAC sem internet no Android. Sem anúncios, sem conta e sem rastreamento. Equalizador, tom e andamento. Download grátis no Google Play.
 
 **Q: Qual é um bom player de música offline para Android?**
 
-A: O VibeDeck Player foi feito para ouvir offline no Android: seus MP3, FLAC e WAV tocam sem internet, sem anúncios e sem conta, com equalizador, tom e andamento que o player padrão não tem.
+A: O VibeDeck Player foi feito para ouvir offline no Android: seus MP3, AAC, M4A, WAV, AIFF e FLAC tocam sem internet, sem anúncios e sem conta, com equalizador, tom e andamento que o player padrão não tem.
 
 **Q: Dá para ouvir música no Android sem internet?**
 
@@ -2323,7 +2393,7 @@ A: Sim. Com o VibeDeck Player os arquivos ficam no celular, então a música con
 
 **Q: O VibeDeck Player toca FLAC no Android?**
 
-A: Sim. Ele toca FLAC, WAV e MP3 dos seus arquivos locais, com equalizador, ganho, tom e andamento em tempo real.
+A: Sim. Ele toca MP3, AAC, M4A, WAV, AIFF e FLAC dos seus arquivos locais, com equalizador, ganho, tom e andamento em tempo real.
 
 **Q: Preciso criar uma conta?**
 
@@ -2338,7 +2408,7 @@ A: O player offline básico é grátis e sem anúncios. O PRO é uma compra opci
 URL: https://vibedeckplayer.app/pt-br/player-flac-android/
 Language: pt-BR
 
-Toque FLAC sem perda e sem internet no Android. Equalizador com ganho, limitador, tom e andamento. Sem anúncios e sem conta. Também WAV e MP3.
+Toque FLAC sem perda e sem internet no Android. EQ DJ de 3 bandas ou equalizador de 8 bandas, limitador, tom e andamento. Sem anúncios e sem conta. Também WAV e MP3.
 
 **Q: O Android toca arquivos FLAC?**
 
@@ -2354,7 +2424,7 @@ A: Sim. Os arquivos FLAC tocam do seu aparelho, sem internet e sem dados móveis
 
 **Q: Tem equalizador?**
 
-A: Sim. Equalizador com ganho, reforço de graves, filtro, balanço estéreo e limitador.
+A: Sim. EQ DJ de 3 bandas ou equalizador de 8 bandas, reforço de graves, filtro, balanço estéreo e limitador.
 
 **Q: Quanto custa no Android?**
 
@@ -2381,7 +2451,7 @@ A: Sim. O VibeDeck Player está no Google Play com os mesmos controles de tempo 
 
 **Q: Quais arquivos posso desacelerar?**
 
-A: Qualquer arquivo que o VibeDeck Player toca: MP3, WAV e FLAC. Músicas de apps de streaming não podem ser processadas por outros apps.
+A: Qualquer arquivo que o VibeDeck Player toca: MP3, AAC, M4A, WAV, AIFF e FLAC. Músicas de apps de streaming não podem ser processadas por outros apps.
 
 **Q: Posso mudar o tom também?**
 
@@ -2462,7 +2532,7 @@ A: Sim. O equalizador DJ de 3 bandas tem faders de GAIN, BASS, MID e HIGH, como 
 
 **Q: Tem equalizador de 8 bandas?**
 
-A: Sim, no iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz e 16 kHz, cada banda de -12 a +12 dB, e um GAIN separado.
+A: Sim, no iPhone e no Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz e 16 kHz, cada banda de -12 a +12 dB, e um GAIN separado.
 
 **Q: Como troco entre 3 e 8 bandas?**
 
@@ -2570,7 +2640,7 @@ A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro
 URL: https://vibedeckplayer.app/ja/
 Language: ja
 
-iPhone・Androidで手持ちの音楽ファイルをオフライン再生。FLAC・MP3・WAV対応、広告なし・アカウント不要。キー変更（±8 st）、テンポ、EQ、リミッターも。無料ダウンロード。
+iPhone・Androidで手持ちの音楽ファイルをオフライン再生。MP3・AAC・M4A・WAV・AIFF・FLAC対応、広告なし・アカウント不要。キー変更（±8 st）、テンポ、EQ、リミッターも。無料ダウンロード。
 
 **Q: iPhoneでFLACは再生できますか？**
 
@@ -2606,7 +2676,7 @@ A: 曲を開き、メイン画面のPitch / Filterスライダーを動かしま
 
 **Q: VibeDeck PROでは何が使えますか？**
 
-A: ピッチとフィルター、ゲイン付きEQ、リミッター、VibeMod、TONE、AURA、スマートメタデータなど、すべてのサウンド機能です。月額、年額、買い切りから選べます。PROの価格は国によって異なり、App StoreとGoogle Playに表示されます。
+A: ピッチとフィルター、3バンドDJ EQまたは8バンドイコライザー、リミッター、VibeMod、TONE、AURA、スマートメタデータなど、すべてのサウンド機能です。月額、年額、買い切りから選べます。PROの価格は国によって異なり、App StoreとGoogle Playに表示されます。
 
 ## 曲のキー変更アプリ｜半音単位で移調・テンポはそのまま｜VibeDeck
 
@@ -2625,7 +2695,7 @@ A: いいえ。ピッチとテンポは独立しているので、キーを変�
 
 **Q: ストリーミングアプリの曲のキーも変えられますか？**
 
-A: いいえ。VibeDeckは端末に保存された音楽ファイルだけを開くため、ストリーミングの曲は加工できません。MP3・FLAC・WAVなど自分で持っているファイルに対応しています。
+A: いいえ。VibeDeckは端末に保存された音楽ファイルだけを開くため、ストリーミングの曲は加工できません。MP3・AAC・M4A・WAV・AIFF・FLACなど自分で持っているファイルに対応しています。
 
 **Q: オフラインで使えますか？**
 
@@ -2660,7 +2730,7 @@ A: はい。Google Play版でも同じテンポ・ピッチ調整を使えます
 
 **Q: どのファイルに対応していますか？**
 
-A: MP3・WAV・FLACなど、VibeDeck Playerで再生できるファイルです。ストリーミングアプリ内の曲は加工できません。
+A: MP3・AAC・M4A・WAV・AIFF・FLACなど、VibeDeck Playerで再生できるファイルです。ストリーミングアプリ内の曲は加工できません。
 
 **Q: テンポとキーを同時に変えられますか？**
 
@@ -2687,7 +2757,7 @@ A: ありません。FLACファイルをそのまま読み込んで再生でき�
 
 **Q: ネットなしで使えますか？**
 
-A: はい。FLAC・WAV・MP3は端末内に保存され、Wi-Fiもアカウントもなしで再生できます。
+A: はい。MP3・AAC・M4A・WAV・AIFF・FLACは端末内に保存され、Wi-Fiもアカウントもなしで再生できます。
 
 **Q: FLACの再生にEQは使えますか？**
 
@@ -2695,7 +2765,7 @@ A: はい。ゲイン、低音ブースト、フィルター、ステレオバ�
 
 **Q: AndroidでもFLACを再生できますか？**
 
-A: はい。Google Play版のVibeDeck Playerでも、FLAC・WAV・MP3をオフラインで再生できます。
+A: はい。Google Play版のVibeDeck Playerでも、MP3・AAC・M4A・WAV・AIFF・FLACをオフラインで再生できます。
 
 **Q: 無料ですか？**
 
@@ -2776,7 +2846,7 @@ A: はい。3バンドのDJ EQに、DJミキサーのようなGAIN、BASS、MID�
 
 **Q: 8バンドイコライザーはありますか?**
 
-A: はい、iPhoneで。60Hz、150Hz、400Hz、1kHz、2kHz、4kHz、8kHz、16kHzの各バンドを-12から+12dBで調整でき、GAINも別にあります。
+A: はい、iPhoneとAndroidで。60Hz、150Hz、400Hz、1kHz、2kHz、4kHz、8kHz、16kHzの各バンドを-12から+12dBで調整でき、GAINも別にあります。
 
 **Q: 3バンドと8バンドはどう切り替えますか?**
 
@@ -2884,7 +2954,7 @@ A: 新しいユーザーは48時間、すべての機能を無料で使えます
 URL: https://vibedeckplayer.app/ru/
 Language: ru
 
-Слушайте FLAC, MP3 и WAV без интернета на iPhone и Android. Без рекламы и аккаунта. Тональность (±8 полутонов), темп и эквалайзер. Бесплатно.
+Слушайте MP3, AAC, M4A, WAV, AIFF и FLAC без интернета на iPhone и Android. Без рекламы и аккаунта. Тональность (±8 полутонов), темп и эквалайзер. Бесплатно.
 
 **Q: Работает без интернета?**
 
@@ -2920,7 +2990,7 @@ A: Откройте трек и сдвиньте регулятор Pitch / Filt
 
 **Q: Что входит в VibeDeck PRO?**
 
-A: Все звуковые функции: высота тона и фильтр, эквалайзер с усилением, лимитер, VibeMod, TONE, AURA и Smart Metadata. Платить можно помесячно, за год или один раз навсегда. Цена PRO зависит от страны и показана в App Store и Google Play.
+A: Все звуковые функции: высота тона и фильтр, 3-полосный DJ эквалайзер или 8-полосный, лимитер, VibeMod, TONE, AURA и Smart Metadata. Платить можно помесячно, за год или один раз навсегда. Цена PRO зависит от страны и показана в App Store и Google Play.
 
 ## Как сменить тональность песни на iPhone | VibeDeck
 
@@ -2939,7 +3009,7 @@ A: Нет. Высота тона и темп независимы, скорос�
 
 **Q: А с треками из стриминговых приложений можно?**
 
-A: Нет. VibeDeck открывает только аудиофайлы на вашем устройстве, треки из стриминга обработать нельзя. Поддерживаются ваши файлы MP3, FLAC и WAV.
+A: Нет. VibeDeck открывает только аудиофайлы на вашем устройстве, треки из стриминга обработать нельзя. Поддерживаются ваши файлы MP3, AAC, M4A, WAV, AIFF и FLAC.
 
 **Q: Работает офлайн?**
 
@@ -2970,7 +3040,7 @@ A: Нет. VibeDeck Player открывает FLAC как есть, без ко�
 
 **Q: Работает без интернета?**
 
-A: Да. Ваши файлы FLAC, WAV и MP3 хранятся на устройстве и играют без Wi-Fi, без аккаунта и без рекламы.
+A: Да. Ваши файлы MP3, AAC, M4A, WAV, AIFF и FLAC хранятся на устройстве и играют без Wi-Fi, без аккаунта и без рекламы.
 
 **Q: Есть ли эквалайзер для FLAC?**
 
@@ -2978,7 +3048,7 @@ A: Да. Усиление, подъём басов, фильтр, стереоб
 
 **Q: Работает на Android?**
 
-A: Да. VibeDeck Player есть в Google Play и играет FLAC, WAV и MP3 без интернета.
+A: Да. VibeDeck Player есть в Google Play и играет MP3, AAC, M4A, WAV, AIFF и FLAC без интернета.
 
 **Q: Это бесплатно?**
 
@@ -3036,7 +3106,7 @@ A: Да. VibeDeck Player есть в Google Play с такими же регул
 
 **Q: Какие файлы можно замедлить?**
 
-A: Любые, которые играет VibeDeck Player: MP3, WAV и FLAC. Треки внутри стриминговых приложений другие приложения обработать не могут.
+A: Любые, которые играет VibeDeck Player: MP3, AAC, M4A, WAV, AIFF и FLAC. Треки внутри стриминговых приложений другие приложения обработать не могут.
 
 **Q: Можно одновременно сменить тональность?**
 
@@ -3117,7 +3187,7 @@ A: Да. В 3-полосном DJ эквалайзере есть фейдеры
 
 **Q: Есть ли 8-полосный эквалайзер?**
 
-A: Да, на iPhone: 60 Гц, 150 Гц, 400 Гц, 1 кГц, 2 кГц, 4 кГц, 8 кГц и 16 кГц, каждая полоса от -12 до +12 дБ, плюс отдельный GAIN.
+A: Да, на iPhone и Android: 60 Гц, 150 Гц, 400 Гц, 1 кГц, 2 кГц, 4 кГц, 8 кГц и 16 кГц, каждая полоса от -12 до +12 дБ, плюс отдельный GAIN.
 
 **Q: Как переключаться между 3 и 8 полосами?**
 
@@ -3225,7 +3295,7 @@ A: Каждый новый пользователь получает 48 часо
 URL: https://vibedeckplayer.app/ko/
 Language: ko
 
-iPhone과 Android에서 FLAC, MP3, WAV를 인터넷 없이 재생하세요. 광고와 계정 없이 키(±8 반음), 템포, 이퀄라이저를 조절할 수 있습니다. 무료.
+iPhone과 Android에서 MP3, AAC, M4A, WAV, AIFF, FLAC를 인터넷 없이 재생하세요. 광고와 계정 없이 키(±8 반음), 템포, 이퀄라이저를 조절할 수 있습니다. 무료.
 
 **Q: 인터넷 없이도 되나요?**
 
@@ -3261,7 +3331,7 @@ A: 곡을 열고 메인 화면의 Pitch / Filter 컨트롤을 움직이세요. �
 
 **Q: VibeDeck PRO에는 무엇이 포함되나요?**
 
-A: 사운드 엔진 전체입니다. 피치와 필터, 게인 이퀄라이저, 리미터, VibeMod, TONE, AURA, Smart Metadata가 포함됩니다. 월간, 연간 또는 한 번 결제로 평생 이용할 수 있습니다. PRO 가격은 국가에 따라 다르며 App Store와 Google Play에 표시됩니다.
+A: 사운드 엔진 전체입니다. 피치와 필터, 3밴드 DJ EQ 또는 8밴드 이퀄라이저, 리미터, VibeMod, TONE, AURA, Smart Metadata가 포함됩니다. 월간, 연간 또는 한 번 결제로 평생 이용할 수 있습니다. PRO 가격은 국가에 따라 다르며 App Store와 Google Play에 표시됩니다.
 
 ## iPhone에서 노래 키 바꾸는 법 | VibeDeck
 
@@ -3280,7 +3350,7 @@ A: 아니요. 피치와 템포는 독립적이라 곡의 속도는 그대로입�
 
 **Q: 스트리밍 앱의 곡도 바꿀 수 있나요?**
 
-A: 아니요. VibeDeck은 기기에 있는 오디오 파일만 열 수 있어서 스트리밍 곡은 처리할 수 없습니다. 내 MP3, FLAC, WAV 파일을 지원합니다.
+A: 아니요. VibeDeck은 기기에 있는 오디오 파일만 열 수 있어서 스트리밍 곡은 처리할 수 없습니다. 내 MP3, AAC, M4A, WAV, AIFF, FLAC 파일을 지원합니다.
 
 **Q: 오프라인에서도 되나요?**
 
@@ -3311,7 +3381,7 @@ A: 아니요. VibeDeck Player는 FLAC 파일을 변환 없이 그대로 엽니�
 
 **Q: 인터넷 없이도 되나요?**
 
-A: 네. FLAC, WAV, MP3 파일이 기기에 있으니 Wi-Fi, 계정, 광고 없이 재생됩니다.
+A: 네. MP3, AAC, M4A, WAV, AIFF, FLAC 파일이 기기에 있으니 Wi-Fi, 계정, 광고 없이 재생됩니다.
 
 **Q: FLAC용 이퀄라이저가 있나요?**
 
@@ -3319,7 +3389,7 @@ A: 네. 게인, 베이스 부스트, 필터, 스테레오 밸런스, 리미터�
 
 **Q: Android에서도 되나요?**
 
-A: 네. VibeDeck Player는 Google Play에 있으며 FLAC, WAV, MP3를 오프라인으로 재생합니다.
+A: 네. VibeDeck Player는 Google Play에 있으며 MP3, AAC, M4A, WAV, AIFF, FLAC를 오프라인으로 재생합니다.
 
 **Q: 무료인가요?**
 
@@ -3377,7 +3447,7 @@ A: 네. VibeDeck Player는 Google Play에 있으며 템포와 피치 조절도 �
 
 **Q: 어떤 파일을 느리게 할 수 있나요?**
 
-A: VibeDeck Player가 재생하는 MP3, WAV, FLAC 파일이면 됩니다. 스트리밍 앱 안의 곡은 다른 앱에서 처리할 수 없습니다.
+A: VibeDeck Player가 재생하는 MP3, AAC, M4A, WAV, AIFF, FLAC 파일이면 됩니다. 스트리밍 앱 안의 곡은 다른 앱에서 처리할 수 없습니다.
 
 **Q: 키도 함께 바꿀 수 있나요?**
 
@@ -3458,7 +3528,7 @@ A: 네. 3밴드 DJ EQ에 DJ 믹서처럼 GAIN, BASS, MID, HIGH 페이더가 있�
 
 **Q: 8밴드 이퀄라이저가 있나요?**
 
-A: 네, iPhone에서. 60Hz, 150Hz, 400Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz 각 밴드를 -12~+12dB로 조절하고 GAIN도 따로 있습니다.
+A: 네, iPhone과 Android에서. 60Hz, 150Hz, 400Hz, 1kHz, 2kHz, 4kHz, 8kHz, 16kHz 각 밴드를 -12~+12dB로 조절하고 GAIN도 따로 있습니다.
 
 **Q: 3밴드와 8밴드는 어떻게 전환하나요?**
 
@@ -3566,7 +3636,7 @@ A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니�
 URL: https://vibedeckplayer.app/tr/
 Language: tr
 
-iPhone ve Android’de FLAC, MP3 ve WAV’ı internetsiz dinle. Reklam ve hesap yok. Ton (±8 yarım ton), tempo ve ekolayzer. Ücretsiz.
+iPhone ve Android’de MP3, AAC, M4A, WAV, AIFF ve FLAC’ı internetsiz dinle. Reklam ve hesap yok. Ton (±8 yarım ton), tempo ve ekolayzer. Ücretsiz.
 
 **Q: İnternet olmadan çalışır mı?**
 
@@ -3602,7 +3672,7 @@ A: Şarkıyı aç ve ana ekrandaki Pitch / Filter kontrolünü kaydır. Ton ±8 
 
 **Q: VibeDeck PRO’da neler var?**
 
-A: Tüm ses motoru: ton ve filtre, kazançlı ekolayzer, limiter, VibeMod, TONE, AURA ve Smart Metadata. Aylık, yıllık ya da tek seferde ömür boyu ödeyebilirsin. PRO fiyatı ülkeye göre değişir ve App Store ile Google Play’de gösterilir.
+A: Tüm ses motoru: ton ve filtre, 3 bantlı DJ EQ veya 8 bantlı ekolayzer, limiter, VibeMod, TONE, AURA ve Smart Metadata. Aylık, yıllık ya da tek seferde ömür boyu ödeyebilirsin. PRO fiyatı ülkeye göre değişir ve App Store ile Google Play’de gösterilir.
 
 ## iPhone’da şarkının tonunu değiştirme | VibeDeck
 
@@ -3621,7 +3691,7 @@ A: Hayır. Ton ve tempo bağımsızdır; şarkının hızı değişmez.
 
 **Q: Akış uygulamalarındaki şarkılarla da olur mu?**
 
-A: Hayır. VibeDeck yalnızca cihazındaki ses dosyalarını açar; akış şarkıları işlenemez. Kendi MP3, FLAC ve WAV dosyalarını destekler.
+A: Hayır. VibeDeck yalnızca cihazındaki ses dosyalarını açar; akış şarkıları işlenemez. Kendi MP3, AAC, M4A, WAV, AIFF ve FLAC dosyalarını destekler.
 
 **Q: Çevrimdışı çalışır mı?**
 
@@ -3652,7 +3722,7 @@ A: Hayır. VibeDeck Player FLAC dosyalarını dönüştürmeden, olduğu gibi a�
 
 **Q: İnternetsiz çalışır mı?**
 
-A: Evet. FLAC, WAV ve MP3 dosyaların cihazda durur; Wi-Fi, hesap ve reklam olmadan çalar.
+A: Evet. MP3, AAC, M4A, WAV, AIFF ve FLAC dosyaların cihazda durur; Wi-Fi, hesap ve reklam olmadan çalar.
 
 **Q: FLAC için ekolayzer var mı?**
 
@@ -3660,7 +3730,7 @@ A: Evet. Kazanç, bas güçlendirici, filtre, stereo denge ve limiter, gerçek z
 
 **Q: Android’de çalışır mı?**
 
-A: Evet. VibeDeck Player Google Play’de ve FLAC, WAV ile MP3’ü çevrimdışı çalar.
+A: Evet. VibeDeck Player Google Play’de ve MP3, AAC, M4A, WAV, AIFF ve FLAC’ü çevrimdışı çalar.
 
 **Q: Ücretsiz mi?**
 
@@ -3718,7 +3788,7 @@ A: Evet. VibeDeck Player aynı tempo ve ton kontrolleriyle Google Play’de var.
 
 **Q: Hangi dosyaları yavaşlatabilirim?**
 
-A: VibeDeck Player’ın çaldığı her dosyayı: MP3, WAV ve FLAC. Akış uygulamalarındaki şarkılar başka uygulamalarca işlenemez.
+A: VibeDeck Player’ın çaldığı her dosyayı: MP3, AAC, M4A, WAV, AIFF ve FLAC. Akış uygulamalarındaki şarkılar başka uygulamalarca işlenemez.
 
 **Q: Tonu da aynı anda değiştirebilir miyim?**
 
@@ -3799,7 +3869,7 @@ A: Evet. 3 bantlı DJ ekolayzerde bir DJ mikseri gibi GAIN, BASS, MID ve HIGH fa
 
 **Q: 8 bantlı ekolayzer var mı?**
 
-A: Evet, iPhone’da: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz ve 16 kHz, her bant -12 ile +12 dB arası, ayrıca ayrı bir GAIN.
+A: Evet, iPhone ve Android’de: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz ve 16 kHz, her bant -12 ile +12 dB arası, ayrıca ayrı bir GAIN.
 
 **Q: 3 ve 8 bant arasında nasıl geçerim?**
 
@@ -3907,7 +3977,7 @@ A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kay�
 URL: https://vibedeckplayer.app/id/
 Language: id
 
-Putar FLAC, MP3, dan WAV tanpa internet di iPhone dan Android. Tanpa iklan dan akun. Nada (±8 semitone), tempo, dan equalizer. Gratis.
+Putar MP3, AAC, M4A, WAV, AIFF dan FLAC tanpa internet di iPhone dan Android. Tanpa iklan dan akun. Nada (±8 semitone), tempo, dan equalizer. Gratis.
 
 **Q: Apakah bisa dipakai tanpa internet?**
 
@@ -3943,7 +4013,7 @@ A: Buka lagunya dan geser kontrol Pitch / Filter di layar utama. Nada berubah se
 
 **Q: Apa saja isi VibeDeck PRO?**
 
-A: Seluruh mesin suara: nada dan filter, equalizer dengan gain, limiter, VibeMod, TONE, AURA, dan Smart Metadata. Kamu bisa bayar bulanan, tahunan, atau sekali untuk seumur hidup. Harga PRO tergantung negara dan ditampilkan di App Store dan Google Play.
+A: Seluruh mesin suara: nada dan filter, EQ DJ 3 band atau equalizer 8 band, limiter, VibeMod, TONE, AURA, dan Smart Metadata. Kamu bisa bayar bulanan, tahunan, atau sekali untuk seumur hidup. Harga PRO tergantung negara dan ditampilkan di App Store dan Google Play.
 
 ## Cara mengubah nada lagu di iPhone | VibeDeck
 
@@ -3962,7 +4032,7 @@ A: Tidak. Nada dan tempo terpisah, jadi kecepatan lagu tidak berubah.
 
 **Q: Bisakah dengan lagu dari aplikasi streaming?**
 
-A: Tidak. VibeDeck hanya membuka file audio di perangkatmu; lagu streaming tidak bisa diolah. File MP3, FLAC, dan WAV milikmu didukung.
+A: Tidak. VibeDeck hanya membuka file audio di perangkatmu; lagu streaming tidak bisa diolah. File MP3, AAC, M4A, WAV, AIFF dan FLAC milikmu didukung.
 
 **Q: Apakah bisa offline?**
 
@@ -3993,7 +4063,7 @@ A: Tidak. VibeDeck Player membuka file FLAC apa adanya, tanpa konversi.
 
 **Q: Apakah bisa tanpa internet?**
 
-A: Bisa. File FLAC, WAV, dan MP3 kamu ada di perangkat dan diputar tanpa Wi-Fi, tanpa akun, dan tanpa iklan.
+A: Bisa. File MP3, AAC, M4A, WAV, AIFF dan FLAC kamu ada di perangkat dan diputar tanpa Wi-Fi, tanpa akun, dan tanpa iklan.
 
 **Q: Apakah ada equalizer untuk FLAC?**
 
@@ -4001,7 +4071,7 @@ A: Ada. Gain, penguat bass, filter, keseimbangan stereo, dan limiter, diterapkan
 
 **Q: Apakah bisa di Android?**
 
-A: Bisa. VibeDeck Player ada di Google Play dan memutar FLAC, WAV, dan MP3 secara offline.
+A: Bisa. VibeDeck Player ada di Google Play dan memutar MP3, AAC, M4A, WAV, AIFF dan FLAC secara offline.
 
 **Q: Apakah gratis?**
 
@@ -4059,7 +4129,7 @@ A: Bisa. VibeDeck Player ada di Google Play dengan kontrol tempo dan nada yang s
 
 **Q: File apa saja yang bisa diperlambat?**
 
-A: Semua file yang diputar VibeDeck Player: MP3, WAV, dan FLAC. Lagu di aplikasi streaming tidak bisa diolah oleh aplikasi lain.
+A: Semua file yang diputar VibeDeck Player: MP3, AAC, M4A, WAV, AIFF dan FLAC. Lagu di aplikasi streaming tidak bisa diolah oleh aplikasi lain.
 
 **Q: Bisakah mengubah nada sekaligus?**
 
@@ -4140,7 +4210,7 @@ A: Ya. Equalizer DJ 3 band punya fader GAIN, BASS, MID, dan HIGH, seperti mixer 
 
 **Q: Apakah ada equalizer 8 band?**
 
-A: Ya, di iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz, dan 16 kHz, tiap band -12 sampai +12 dB, plus GAIN terpisah.
+A: Ya, di iPhone dan Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz, dan 16 kHz, tiap band -12 sampai +12 dB, plus GAIN terpisah.
 
 **Q: Bagaimana beralih antara 3 dan 8 band?**
 
@@ -4248,7 +4318,7 @@ A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu 
 URL: https://vibedeckplayer.app/pl/
 Language: pl
 
-Słuchaj FLAC, MP3 i WAV bez internetu na iPhonie i Androidzie. Bez reklam i konta. Tonacja (±8 półtonów), tempo i korektor. Za darmo.
+Słuchaj MP3, AAC, M4A, WAV, AIFF i FLAC bez internetu na iPhonie i Androidzie. Bez reklam i konta. Tonacja (±8 półtonów), tempo i korektor. Za darmo.
 
 **Q: Czy działa bez internetu?**
 
@@ -4284,7 +4354,7 @@ A: Otwórz utwór i przesuń suwak Pitch / Filter na ekranie głównym. Tonacja 
 
 **Q: Co zawiera VibeDeck PRO?**
 
-A: Cały silnik dźwięku: wysokość dźwięku i filtr, korektor ze wzmocnieniem, limiter, VibeMod, TONE, AURA i Smart Metadata. Możesz płacić co miesiąc, co rok albo raz, dożywotnio. Cena PRO zależy od kraju i jest podana w App Store i Google Play.
+A: Cały silnik dźwięku: wysokość dźwięku i filtr, 3-pasmowy korektor DJ lub 8-pasmowy, limiter, VibeMod, TONE, AURA i Smart Metadata. Możesz płacić co miesiąc, co rok albo raz, dożywotnio. Cena PRO zależy od kraju i jest podana w App Store i Google Play.
 
 ## Jak zmienić tonację piosenki na iPhonie | VibeDeck
 
@@ -4303,7 +4373,7 @@ A: Nie. Wysokość dźwięku i tempo są niezależne, więc prędkość utworu s
 
 **Q: Czy działa z utworami z aplikacji streamingowych?**
 
-A: Nie. VibeDeck otwiera tylko pliki audio z Twojego urządzenia, więc utworów ze streamingu nie da się przetworzyć. Obsługuje Twoje pliki MP3, FLAC i WAV.
+A: Nie. VibeDeck otwiera tylko pliki audio z Twojego urządzenia, więc utworów ze streamingu nie da się przetworzyć. Obsługuje Twoje pliki MP3, AAC, M4A, WAV, AIFF i FLAC.
 
 **Q: Czy działa offline?**
 
@@ -4334,7 +4404,7 @@ A: Nie. VibeDeck Player otwiera pliki FLAC bez zmian, bez konwersji.
 
 **Q: Czy działa bez internetu?**
 
-A: Tak. Twoje pliki FLAC, WAV i MP3 są na urządzeniu i grają bez Wi-Fi, bez konta i bez reklam.
+A: Tak. Twoje pliki MP3, AAC, M4A, WAV, AIFF i FLAC są na urządzeniu i grają bez Wi-Fi, bez konta i bez reklam.
 
 **Q: Czy jest korektor do FLAC?**
 
@@ -4342,7 +4412,7 @@ A: Tak. Wzmocnienie, podbicie basu, filtr, balans stereo i limiter działają w 
 
 **Q: Czy działa na Androidzie?**
 
-A: Tak. VibeDeck Player jest w Google Play i odtwarza FLAC, WAV i MP3 offline.
+A: Tak. VibeDeck Player jest w Google Play i odtwarza MP3, AAC, M4A, WAV, AIFF i FLAC offline.
 
 **Q: Czy to jest darmowe?**
 
@@ -4400,7 +4470,7 @@ A: Tak. VibeDeck Player jest w Google Play z tymi samymi regulacjami tempa i wys
 
 **Q: Jakie pliki mogę zwolnić?**
 
-A: Każdy plik, który odtwarza VibeDeck Player: MP3, WAV i FLAC. Utworów z aplikacji streamingowych nie mogą przetwarzać inne aplikacje.
+A: Każdy plik, który odtwarza VibeDeck Player: MP3, AAC, M4A, WAV, AIFF i FLAC. Utworów z aplikacji streamingowych nie mogą przetwarzać inne aplikacje.
 
 **Q: Czy mogę jednocześnie zmienić tonację?**
 
@@ -4481,7 +4551,7 @@ A: Tak. 3-pasmowy korektor DJ ma suwaki GAIN, BASS, MID i HIGH, jak mikser DJ.
 
 **Q: Czy jest 8-pasmowy equalizer?**
 
-A: Tak, na iPhonie: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz i 16 kHz, każde pasmo od -12 do +12 dB, plus osobny GAIN.
+A: Tak, na iPhonie i Androidzie: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz i 16 kHz, każde pasmo od -12 do +12 dB, plus osobny GAIN.
 
 **Q: Jak przełączać 3 i 8 pasm?**
 
@@ -4589,7 +4659,7 @@ A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty 
 URL: https://vibedeckplayer.app/nl/
 Language: nl
 
-Speel FLAC, MP3 en WAV af zonder internet op iPhone en Android. Geen advertenties, geen account. Toonhoogte (±8 halve tonen), tempo en equalizer. Gratis.
+Speel MP3, AAC, M4A, WAV, AIFF en FLAC af zonder internet op iPhone en Android. Geen advertenties, geen account. Toonhoogte (±8 halve tonen), tempo en equalizer. Gratis.
 
 **Q: Werkt het zonder internetverbinding?**
 
@@ -4625,7 +4695,7 @@ A: Open het nummer en verschuif de Pitch / Filter-regelaar op het hoofdscherm. D
 
 **Q: Wat zit er in VibeDeck PRO?**
 
-A: De hele geluidsengine: toonhoogte en filter, equalizer met gain, limiter, VibeMod, TONE, AURA en Smart Metadata. Je betaalt per maand, per jaar of één keer voor altijd. De prijs van PRO hangt af van je land en staat in de App Store en Google Play.
+A: De hele geluidsengine: toonhoogte en filter, 3-bands DJ-EQ of 8-bands equalizer, limiter, VibeMod, TONE, AURA en Smart Metadata. Je betaalt per maand, per jaar of één keer voor altijd. De prijs van PRO hangt af van je land en staat in de App Store en Google Play.
 
 ## Toonsoort van een nummer veranderen op iPhone | VibeDeck
 
@@ -4644,7 +4714,7 @@ A: Nee. Toonhoogte en tempo zijn onafhankelijk, dus de snelheid van het nummer b
 
 **Q: Kan dat ook met nummers uit streamingapps?**
 
-A: Nee. VibeDeck opent alleen audiobestanden op je apparaat; streamingnummers kunnen niet worden bewerkt. Je eigen MP3-, FLAC- en WAV-bestanden worden ondersteund.
+A: Nee. VibeDeck opent alleen audiobestanden op je apparaat; streamingnummers kunnen niet worden bewerkt. Je eigen MP3-, AAC-, M4A-, WAV-, AIFF- en FLAC-bestanden worden ondersteund.
 
 **Q: Werkt het offline?**
 
@@ -4675,7 +4745,7 @@ A: Nee. VibeDeck Player opent FLAC-bestanden zoals ze zijn, zonder conversie.
 
 **Q: Werkt het zonder internet?**
 
-A: Ja. Je FLAC-, WAV- en MP3-bestanden staan op het apparaat en spelen af zonder wifi, zonder account en zonder advertenties.
+A: Ja. Je MP3-, AAC-, M4A-, WAV-, AIFF- en FLAC-bestanden staan op het apparaat en spelen af zonder wifi, zonder account en zonder advertenties.
 
 **Q: Is er een equalizer voor FLAC?**
 
@@ -4683,7 +4753,7 @@ A: Ja. Gain, basversterking, filter, stereobalans en limiter, realtime toegepast
 
 **Q: Werkt het op Android?**
 
-A: Ja. VibeDeck Player staat in Google Play en speelt FLAC, WAV en MP3 offline af.
+A: Ja. VibeDeck Player staat in Google Play en speelt MP3, AAC, M4A, WAV, AIFF en FLAC offline af.
 
 **Q: Is het gratis?**
 
@@ -4741,7 +4811,7 @@ A: Ja. VibeDeck Player staat in Google Play met dezelfde regelaars voor tempo en
 
 **Q: Welke bestanden kan ik vertragen?**
 
-A: Elk bestand dat VibeDeck Player afspeelt: MP3, WAV en FLAC. Nummers in streamingapps kunnen niet door andere apps worden bewerkt.
+A: Elk bestand dat VibeDeck Player afspeelt: MP3, AAC, M4A, WAV, AIFF en FLAC. Nummers in streamingapps kunnen niet door andere apps worden bewerkt.
 
 **Q: Kan ik tegelijk de toonsoort veranderen?**
 
@@ -4822,7 +4892,7 @@ A: Ja. De 3-bands DJ EQ heeft faders voor GAIN, BASS, MID en HIGH, zoals een DJ-
 
 **Q: Is er een 8-bands equalizer?**
 
-A: Ja, op iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz en 16 kHz, elke band van -12 tot +12 dB, plus een aparte GAIN.
+A: Ja, op iPhone en Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz en 16 kHz, elke band van -12 tot +12 dB, plus een aparte GAIN.
 
 **Q: Hoe wissel ik tussen 3 en 8 banden?**
 
@@ -4930,7 +5000,7 @@ A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zo
 URL: https://vibedeckplayer.app/vi/
 Language: vi
 
-Nghe FLAC, MP3 và WAV không cần internet trên iPhone và Android. Không quảng cáo, không tài khoản. Tone (±8 nửa cung), tempo và equalizer. Miễn phí.
+Nghe MP3, AAC, M4A, WAV, AIFF và FLAC không cần internet trên iPhone và Android. Không quảng cáo, không tài khoản. Tone (±8 nửa cung), tempo và equalizer. Miễn phí.
 
 **Q: Có dùng được khi không có internet không?**
 
@@ -4966,7 +5036,7 @@ A: Mở bài hát và kéo nút Pitch / Filter ở màn hình chính. Tone thay 
 
 **Q: VibeDeck PRO có gì?**
 
-A: Toàn bộ bộ máy âm thanh: cao độ và filter, equalizer có gain, limiter, VibeMod, TONE, AURA và Smart Metadata. Bạn có thể trả theo tháng, theo năm hoặc một lần trọn đời. Giá PRO tùy theo quốc gia và được hiển thị trên App Store và Google Play.
+A: Toàn bộ bộ máy âm thanh: cao độ và filter, EQ DJ 3 dải hoặc equalizer 8 dải, limiter, VibeMod, TONE, AURA và Smart Metadata. Bạn có thể trả theo tháng, theo năm hoặc một lần trọn đời. Giá PRO tùy theo quốc gia và được hiển thị trên App Store và Google Play.
 
 ## Cách đổi tone bài hát trên iPhone | VibeDeck
 
@@ -4985,7 +5055,7 @@ A: Không. Cao độ và tempo độc lập, nên tốc độ bài hát không t
 
 **Q: Có dùng được với bài hát từ ứng dụng streaming không?**
 
-A: Không. VibeDeck chỉ mở file âm thanh trên thiết bị của bạn; bài hát streaming không thể xử lý. Ứng dụng hỗ trợ file MP3, FLAC và WAV của bạn.
+A: Không. VibeDeck chỉ mở file âm thanh trên thiết bị của bạn; bài hát streaming không thể xử lý. Ứng dụng hỗ trợ file MP3, AAC, M4A, WAV, AIFF và FLAC của bạn.
 
 **Q: Có dùng offline được không?**
 
@@ -5016,7 +5086,7 @@ A: Không. VibeDeck Player mở file FLAC nguyên bản, không cần chuyển �
 
 **Q: Có dùng được không cần internet không?**
 
-A: Có. File FLAC, WAV và MP3 nằm trên thiết bị và phát được không cần Wi-Fi, không tài khoản, không quảng cáo.
+A: Có. File MP3, AAC, M4A, WAV, AIFF và FLAC nằm trên thiết bị và phát được không cần Wi-Fi, không tài khoản, không quảng cáo.
 
 **Q: Có equalizer cho FLAC không?**
 
@@ -5024,7 +5094,7 @@ A: Có. Gain, tăng bass, filter, cân bằng stereo và limiter, áp dụng the
 
 **Q: Có chạy trên Android không?**
 
-A: Có. VibeDeck Player có trên Google Play và phát FLAC, WAV và MP3 offline.
+A: Có. VibeDeck Player có trên Google Play và phát MP3, AAC, M4A, WAV, AIFF và FLAC offline.
 
 **Q: Có miễn phí không?**
 
@@ -5082,7 +5152,7 @@ A: Có. VibeDeck Player có trên Google Play với cùng các nút chỉnh temp
 
 **Q: Những file nào làm chậm được?**
 
-A: Mọi file VibeDeck Player phát được: MP3, WAV và FLAC. Bài hát trong ứng dụng streaming không thể xử lý bằng ứng dụng khác.
+A: Mọi file VibeDeck Player phát được: MP3, AAC, M4A, WAV, AIFF và FLAC. Bài hát trong ứng dụng streaming không thể xử lý bằng ứng dụng khác.
 
 **Q: Có đổi tone cùng lúc được không?**
 
@@ -5163,7 +5233,7 @@ A: Có. EQ DJ 3 băng tần có các fader GAIN, BASS, MID và HIGH, như bàn m
 
 **Q: Có equalizer 8 băng tần không?**
 
-A: Có, trên iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz và 16 kHz, mỗi băng từ -12 đến +12 dB, thêm GAIN riêng.
+A: Có, trên iPhone và Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz và 16 kHz, mỗi băng từ -12 đến +12 dB, thêm GAIN riêng.
 
 **Q: Chuyển giữa 3 và 8 băng tần thế nào?**
 
@@ -5271,7 +5341,7 @@ A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần
 URL: https://vibedeckplayer.app/zh-hant/
 Language: zh-Hant
 
-在 iPhone 和 Android 上不用網路播放 FLAC、MP3 和 WAV。無廣告、免帳號。音調（±8 個半音）、速度和等化器。免費。
+在 iPhone 和 Android 上不用網路播放 MP3、AAC、M4A、WAV、AIFF 和 FLAC。無廣告、免帳號。音調（±8 個半音）、速度和等化器。免費。
 
 **Q: 沒有網路也能用嗎？**
 
@@ -5307,7 +5377,7 @@ A: 打開歌曲，拖動主畫面上的 Pitch / Filter 控制。音調會即時�
 
 **Q: VibeDeck PRO 包含什麼？**
 
-A: 完整音效引擎：音高與濾波器、帶增益的等化器、限幅器、VibeMod、TONE、AURA 和 Smart Metadata。可以月付、年付，或一次付清終身使用。PRO 價格依國家或地區而異，以 App Store 和 Google Play 顯示為準。
+A: 完整音效引擎：音高與濾波器、3 段 DJ EQ 或 8 段等化器、限幅器、VibeMod、TONE、AURA 和 Smart Metadata。可以月付、年付，或一次付清終身使用。PRO 價格依國家或地區而異，以 App Store 和 Google Play 顯示為準。
 
 ## iPhone 歌曲升降調教學 | VibeDeck
 
@@ -5326,7 +5396,7 @@ A: 不會。音高和速度互相獨立，歌曲速度不變。
 
 **Q: 串流 App 裡的歌也可以嗎？**
 
-A: 不行。VibeDeck 只能開啟裝置上的音訊檔，無法處理串流歌曲。支援你的 MP3、FLAC 和 WAV 檔案。
+A: 不行。VibeDeck 只能開啟裝置上的音訊檔，無法處理串流歌曲。支援你的 MP3、AAC、M4A、WAV、AIFF 和 FLAC 檔案。
 
 **Q: 可以離線使用嗎？**
 
@@ -5357,7 +5427,7 @@ A: 不需要。VibeDeck Player 直接開啟 FLAC 原檔，不用轉檔。
 
 **Q: 不用網路也能播嗎？**
 
-A: 可以。你的 FLAC、WAV 和 MP3 都在裝置上，不需要 Wi-Fi、帳號，也沒有廣告。
+A: 可以。你的 MP3、AAC、M4A、WAV、AIFF 和 FLAC 都在裝置上，不需要 Wi-Fi、帳號，也沒有廣告。
 
 **Q: 有給 FLAC 用的等化器嗎？**
 
@@ -5365,7 +5435,7 @@ A: 有。增益、低音增強、濾波器、立體聲平衡和限幅器，即�
 
 **Q: Android 可以用嗎？**
 
-A: 可以。VibeDeck Player 已在 Google Play 上架，能離線播放 FLAC、WAV 和 MP3。
+A: 可以。VibeDeck Player 已在 Google Play 上架，能離線播放 MP3、AAC、M4A、WAV、AIFF 和 FLAC。
 
 **Q: 免費嗎？**
 
@@ -5423,7 +5493,7 @@ A: 可以。VibeDeck Player 已在 Google Play 上架，速度與音高控制完
 
 **Q: 哪些檔案可以放慢？**
 
-A: VibeDeck Player 能播放的檔案都可以：MP3、WAV 和 FLAC。串流 App 裡的歌曲無法被其他 App 處理。
+A: VibeDeck Player 能播放的檔案都可以：MP3、AAC、M4A、WAV、AIFF 和 FLAC。串流 App 裡的歌曲無法被其他 App 處理。
 
 **Q: 可以同時改調嗎？**
 
@@ -5504,7 +5574,7 @@ A: 有。3 段 DJ 等化器有 GAIN、BASS、MID、HIGH 推桿，就像 DJ 混�
 
 **Q: 有 8 段等化器嗎？**
 
-A: 有，在 iPhone 上：60 Hz、150 Hz、400 Hz、1 kHz、2 kHz、4 kHz、8 kHz、16 kHz，每段 -12 到 +12 dB，另有獨立 GAIN。
+A: 有，在 iPhone 與 Android 上：60 Hz、150 Hz、400 Hz、1 kHz、2 kHz、4 kHz、8 kHz、16 kHz，每段 -12 到 +12 dB，另有獨立 GAIN。
 
 **Q: 怎麼切換 3 段和 8 段？**
 
@@ -5612,7 +5682,7 @@ A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也�
 URL: https://vibedeckplayer.app/zh-hans/
 Language: zh-Hans
 
-在 iPhone 和 Android 上不用网络播放 FLAC、MP3 和 WAV。无广告、免账号。音调（±8 个半音）、速度和均衡器。免费。
+在 iPhone 和 Android 上不用网络播放 MP3、AAC、M4A、WAV、AIFF 和 FLAC。无广告、免账号。音调（±8 个半音）、速度和均衡器。免费。
 
 **Q: 没有网络也能用吗？**
 
@@ -5648,7 +5718,7 @@ A: 打开歌曲，拖动主界面上的 Pitch / Filter 控件。音调会实时�
 
 **Q: VibeDeck PRO 包含什么？**
 
-A: 完整音效引擎：音高与滤波器、带增益的均衡器、限幅器、VibeMod、TONE、AURA 和 Smart Metadata。可以月付、年付，或一次付清终身使用。PRO 价格因国家或地区而异，以 App Store 和 Google Play 显示为准。
+A: 完整音效引擎：音高与滤波器、3 段 DJ EQ 或 8 段均衡器、限幅器、VibeMod、TONE、AURA 和 Smart Metadata。可以月付、年付，或一次付清终身使用。PRO 价格因国家或地区而异，以 App Store 和 Google Play 显示为准。
 
 ## iPhone 歌曲升降调教学 | VibeDeck
 
@@ -5667,7 +5737,7 @@ A: 不会。音高和速度互相独立，歌曲速度不变。
 
 **Q: 流媒体 App 里的歌也可以吗？**
 
-A: 不行。VibeDeck 只能打开设备上的音频档，无法处理流媒体歌曲。支持你的 MP3、FLAC 和 WAV 文件。
+A: 不行。VibeDeck 只能打开设备上的音频档，无法处理流媒体歌曲。支持你的 MP3、AAC、M4A、WAV、AIFF 和 FLAC 文件。
 
 **Q: 可以离线使用吗？**
 
@@ -5698,7 +5768,7 @@ A: 不需要。VibeDeck Player 直接打开 FLAC 原档，不用转换格式。
 
 **Q: 不用网络也能播吗？**
 
-A: 可以。你的 FLAC、WAV 和 MP3 都在设备上，不需要 Wi-Fi、账号，也没有广告。
+A: 可以。你的 MP3、AAC、M4A、WAV、AIFF 和 FLAC 都在设备上，不需要 Wi-Fi、账号，也没有广告。
 
 **Q: 有给 FLAC 用的均衡器吗？**
 
@@ -5706,7 +5776,7 @@ A: 有。增益、低音增强、滤波器、立体声平衡和限幅器，实�
 
 **Q: Android 可以用吗？**
 
-A: 可以。VibeDeck Player 已在 Google Play 上架，能离线播放 FLAC、WAV 和 MP3。
+A: 可以。VibeDeck Player 已在 Google Play 上架，能离线播放 MP3、AAC、M4A、WAV、AIFF 和 FLAC。
 
 **Q: 免费吗？**
 
@@ -5764,7 +5834,7 @@ A: 可以。VibeDeck Player 已在 Google Play 上架，速度与音高控制完
 
 **Q: 哪些文件可以放慢？**
 
-A: VibeDeck Player 能播放的文件都可以：MP3、WAV 和 FLAC。流媒体 App 里的歌曲无法被其他 App 处理。
+A: VibeDeck Player 能播放的文件都可以：MP3、AAC、M4A、WAV、AIFF 和 FLAC。流媒体 App 里的歌曲无法被其他 App 处理。
 
 **Q: 可以同时改调吗？**
 
@@ -5845,7 +5915,7 @@ A: 有。3 段 DJ 均衡器有 GAIN、BASS、MID、HIGH 推子，就像 DJ 调�
 
 **Q: 有 8 段均衡器吗？**
 
-A: 有，在 iPhone 上：60 Hz、150 Hz、400 Hz、1 kHz、2 kHz、4 kHz、8 kHz、16 kHz，每段 -12 到 +12 dB，另有独立 GAIN。
+A: 有，在 iPhone 和 Android 上：60 Hz、150 Hz、400 Hz、1 kHz、2 kHz、4 kHz、8 kHz、16 kHz，每段 -12 到 +12 dB，另有独立 GAIN。
 
 **Q: 怎么切换 3 段和 8 段？**
 
@@ -5953,7 +6023,7 @@ A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无�
 URL: https://vibedeckplayer.app/th/
 Language: th
 
-ฟัง FLAC, MP3 และ WAV โดยไม่ต้องใช้เน็ตบน iPhone และ Android ไม่มีโฆษณา ไม่ต้องมีบัญชี ปรับคีย์ (±8 เซมิโทน) เทมโป และอีควอไลเซอร์ได้ ดาวน์โหลดฟรี
+ฟัง MP3, AAC, M4A, WAV, AIFF และ FLAC โดยไม่ต้องใช้เน็ตบน iPhone และ Android ไม่มีโฆษณา ไม่ต้องมีบัญชี ปรับคีย์ (±8 เซมิโทน) เทมโป และอีควอไลเซอร์ได้ ดาวน์โหลดฟรี
 
 **Q: ใช้ได้โดยไม่ต่ออินเทอร์เน็ตไหม**
 
@@ -5989,7 +6059,7 @@ A: เปิดเพลงแล้วเลื่อนตัวควบค�
 
 **Q: VibeDeck PRO มีอะไรบ้าง**
 
-A: เอนจินเสียงครบชุด: ระดับเสียงและฟิลเตอร์ อีควอไลเซอร์พร้อมเกน ลิมิตเตอร์ VibeMod, TONE, AURA และ Smart Metadata จ่ายรายเดือน รายปี หรือครั้งเดียวตลอดชีพก็ได้ ราคา PRO ขึ้นอยู่กับประเทศและแสดงใน App Store และ Google Play
+A: เอนจินเสียงครบชุด: ระดับเสียงและฟิลเตอร์ DJ EQ 3 แบนด์หรืออีควอไลเซอร์ 8 แบนด์ ลิมิตเตอร์ VibeMod, TONE, AURA และ Smart Metadata จ่ายรายเดือน รายปี หรือครั้งเดียวตลอดชีพก็ได้ ราคา PRO ขึ้นอยู่กับประเทศและแสดงใน App Store และ Google Play
 
 ## วิธีเปลี่ยนคีย์เพลงบน iPhone | VibeDeck
 
@@ -6008,7 +6078,7 @@ A: ไม่เปลี่ยน ระดับเสียงกับเท�
 
 **Q: ใช้กับเพลงในแอปสตรีมมิงได้ไหม**
 
-A: ไม่ได้ VibeDeck เปิดได้เฉพาะไฟล์เสียงในเครื่องของคุณ เพลงสตรีมมิงปรับแต่งไม่ได้ รองรับไฟล์ MP3, FLAC และ WAV ของคุณ
+A: ไม่ได้ VibeDeck เปิดได้เฉพาะไฟล์เสียงในเครื่องของคุณ เพลงสตรีมมิงปรับแต่งไม่ได้ รองรับไฟล์ MP3, AAC, M4A, WAV, AIFF และ FLAC ของคุณ
 
 **Q: ใช้แบบออฟไลน์ได้ไหม**
 
@@ -6039,7 +6109,7 @@ A: ไม่ต้อง VibeDeck Player เปิดไฟล์ FLAC ได้
 
 **Q: ใช้โดยไม่ต่ออินเทอร์เน็ตได้ไหม**
 
-A: ได้ ไฟล์ FLAC, WAV และ MP3 อยู่ในเครื่อง เล่นได้โดยไม่ต้องใช้ Wi-Fi ไม่ต้องมีบัญชี และไม่มีโฆษณา
+A: ได้ ไฟล์ MP3, AAC, M4A, WAV, AIFF และ FLAC อยู่ในเครื่อง เล่นได้โดยไม่ต้องใช้ Wi-Fi ไม่ต้องมีบัญชี และไม่มีโฆษณา
 
 **Q: มีอีควอไลเซอร์สำหรับ FLAC ไหม**
 
@@ -6047,7 +6117,7 @@ A: มี เกน เพิ่มเสียงเบส ฟิลเตอ�
 
 **Q: ใช้บน Android ได้ไหม**
 
-A: ได้ VibeDeck Player มีใน Google Play และเล่น FLAC, WAV และ MP3 แบบออฟไลน์
+A: ได้ VibeDeck Player มีใน Google Play และเล่น MP3, AAC, M4A, WAV, AIFF และ FLAC แบบออฟไลน์
 
 **Q: ฟรีไหม**
 
@@ -6105,7 +6175,7 @@ A: ได้ VibeDeck Player มีใน Google Play พร้อมตัว�
 
 **Q: ไฟล์แบบไหนทำให้ช้าลงได้**
 
-A: ทุกไฟล์ที่ VibeDeck Player เล่นได้ คือ MP3, WAV และ FLAC เพลงในแอปสตรีมมิงนำมาปรับในแอปอื่นไม่ได้
+A: ทุกไฟล์ที่ VibeDeck Player เล่นได้ คือ MP3, AAC, M4A, WAV, AIFF และ FLAC เพลงในแอปสตรีมมิงนำมาปรับในแอปอื่นไม่ได้
 
 **Q: เปลี่ยนคีย์พร้อมกันได้ไหม**
 
@@ -6186,7 +6256,7 @@ A: มี อีควอไลเซอร์ DJ 3 แบนด์มีเฟ�
 
 **Q: มีอีควอไลเซอร์ 8 แบนด์ไหม**
 
-A: มี บน iPhone: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz และ 16 kHz แต่ละแบนด์ -12 ถึง +12 dB และมี GAIN แยก
+A: มี บน iPhone และ Android: 60 Hz, 150 Hz, 400 Hz, 1 kHz, 2 kHz, 4 kHz, 8 kHz และ 16 kHz แต่ละแบนด์ -12 ถึง +12 dB และมี GAIN แยก
 
 **Q: สลับระหว่าง 3 และ 8 แบนด์อย่างไร**
 
@@ -6294,7 +6364,7 @@ A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจ�
 URL: https://vibedeckplayer.app/uk/
 Language: uk
 
-Слухайте FLAC, MP3 і WAV без інтернету на iPhone та Android. Без реклами й акаунта. Тональність (±8 півтонів), темп і еквалайзер. Безкоштовно.
+Слухайте MP3, AAC, M4A, WAV, AIFF і FLAC без інтернету на iPhone та Android. Без реклами й акаунта. Тональність (±8 півтонів), темп і еквалайзер. Безкоштовно.
 
 **Q: Працює без інтернету?**
 
@@ -6330,7 +6400,7 @@ A: Відкрийте трек і посуньте регулятор Pitch / Fi
 
 **Q: Що входить до VibeDeck PRO?**
 
-A: Усі звукові функції: висота тону й фільтр, еквалайзер із підсиленням, лімітер, VibeMod, TONE, AURA і Smart Metadata. Платити можна щомісяця, за рік або один раз назавжди. Ціна PRO залежить від країни й показана в App Store та Google Play.
+A: Усі звукові функції: висота тону й фільтр, 3-смуговий DJ еквалайзер або 8-смуговий, лімітер, VibeMod, TONE, AURA і Smart Metadata. Платити можна щомісяця, за рік або один раз назавжди. Ціна PRO залежить від країни й показана в App Store та Google Play.
 
 ## Як відокремити голос від музики на iPhone | VibeDeck Stems
 
@@ -6380,7 +6450,7 @@ A: Так. VibeDeck Player є в Google Play з такими самими рег
 
 **Q: Які файли можна уповільнити?**
 
-A: Будь-які, що грає VibeDeck Player: MP3, WAV і FLAC. Треки всередині стрімінгових застосунків інші застосунки обробити не можуть.
+A: Будь-які, що грає VibeDeck Player: MP3, AAC, M4A, WAV, AIFF і FLAC. Треки всередині стрімінгових застосунків інші застосунки обробити не можуть.
 
 **Q: Чи можна одночасно змінити тональність?**
 
@@ -6403,7 +6473,7 @@ A: Ні. Висота тону й темп незалежні, швидкіст�
 
 **Q: А з треками зі стрімінгових застосунків можна?**
 
-A: Ні. VibeDeck відкриває лише аудіофайли на вашому пристрої, треки зі стрімінгу обробити не можна. Підтримуються ваші файли MP3, FLAC і WAV.
+A: Ні. VibeDeck відкриває лише аудіофайли на вашому пристрої, треки зі стрімінгу обробити не можна. Підтримуються ваші файли MP3, AAC, M4A, WAV, AIFF і FLAC.
 
 **Q: Працює офлайн?**
 

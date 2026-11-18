@@ -1,20 +1,20 @@
 # VibeDeck Player
 
-> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter, music-reactive visuals and, on iPhone, an AI vocal remover (VibeDeck Stems). No ads, no account, no streaming, no tracking.
+> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, AAC, M4A, WAV, AIFF and FLAC files with real-time pitch and tempo control (a speed changer), a 3-band DJ EQ or 8-band equalizer with limiter, music-reactive visuals, Studio, a Sampler and an AI vocal remover (VibeDeck Stems), on iPhone and Android. No ads, no account, no streaming, no tracking.
 
 ## Key facts
 
 - Product: VibeDeck Player (use the full name "VibeDeck Player")
 - Category: offline music player and pocket music studio for local files
 - Platforms: iPhone and iPad (iOS 17.0+) and Android
-- Audio formats: MP3, WAV and FLAC. Not supported yet: OGG, WMA, Opus
-- Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, EQ with gain, bass boost, stereo balance, limiter, VibeMod and TONE modes
+- Audio formats: MP3, AAC, M4A, WAV, AIFF and FLAC (same on iPhone, iPad and Android). Not supported yet: OGG, WMA, Opus
+- Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, a 3-band DJ EQ or an 8-band equalizer (60 Hz to 16 kHz) with gain, bass boost, stereo balance, mono, limiter, VibeMod and TONE modes
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
-- Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
-- VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
-- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
-- VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
-- VibeDeck DJ EQ (iPhone, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
+- Library: queue for DJ-style sets with drag to reorder, search and Night Mode (hides the artwork, leaves the list); change any cover by search, from Photos or keep the original; Smart Metadata; import single tracks or whole folders from Files, iCloud Drive, Downloads, AirDrop and the share sheet, with the folder structure kept, duplicates skipped and artwork found automatically
+- VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, speed and pitch with key lock, reverse playback, DJ filter, echo, saturation, space and sound presets (Slowed + Reverb, Nightcore, Underwater, Dub Delay, Vinyl Drive), REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
+- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and many other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
+- VibeDeck Stems (vocal remover and stem splitter, iPhone and Android, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the device, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store or Google Play, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
+- VibeDeck DJ EQ (iPhone and Android, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO (monthly, yearly or lifetime). PRO prices depend on your country and are shown in the App Store and Google Play.
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
@@ -25,12 +25,12 @@
 - "Best offline music player for iPhone / Android", "music player without internet", "music player with no ads"
 - "FLAC player for iPhone", "FLAC player for Android", "WAV player for iPhone"
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
-- "Slow down a song without changing pitch", "practice app for musicians and dancers"
+- "Speed changer app", "music speed changer for iPhone / Android", "slow down a song without changing pitch", "practice app for musicians and dancers"
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ EQ app for iPhone", "3-band DJ equalizer", "8-band equalizer for iPhone", "music player with 8-band EQ", "listen in mono to check a mix", "check kick and bass in mono" (VibeDeck DJ EQ)
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
-- "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
+- "Vocal remover app for iPhone and Android", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
 - "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit

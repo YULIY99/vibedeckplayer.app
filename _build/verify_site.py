@@ -7,6 +7,15 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 arg = lambda k, d: sys.argv[sys.argv.index(k) + 1] if k in sys.argv else d
 LIVE, BASE, SITE = arg("--live", "https://vibedeckplayer.app"), arg("--base", "main"), "https://vibedeckplayer.app"
 errors, info = [], []
+def _intentional():  # "<url> <field> [<field> ...]" per line; a deliberate title/H1 change, reviewed by the owner
+    out = set()
+    try:
+        for line in open(os.path.join(ROOT, "_build", "verify_intentional.txt"), encoding="utf-8"):
+            parts = line.split("#")[0].split()
+            out |= {(parts[0], f) for f in parts[1:]} if len(parts) > 1 else set()
+    except FileNotFoundError: pass
+    return out
+INTENTIONAL = _intentional()
 def published(rel):  # GitHub Pages + Jekyll defaults: skip _* and .* paths
     return not any(seg.startswith(("_", ".")) for seg in rel.split("/") if seg)
 def resolve(path):
@@ -77,7 +86,9 @@ for u in urls:
     elif lb:
         lm = meta(lb)
         for k in ("title", "canonical", "robots", "h1"):
-            if lm[k] != m[k]: errors.append(f"{u}: {k} changed vs live: {lm[k]!r} -> {m[k]!r}")
+            if lm[k] != m[k]:
+                if (u, k) in INTENTIONAL: info.append(f"{u}: {k} changed on purpose (listed in _build/verify_intentional.txt)")
+                else: errors.append(f"{u}: {k} changed vs live: {lm[k]!r} -> {m[k]!r}")
     if m["hreflang"]:
         langs = {l for l, _ in m["hreflang"]}
         selfl = [l for l, h in m["hreflang"] if h == SITE + u]

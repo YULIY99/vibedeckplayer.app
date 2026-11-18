@@ -1,20 +1,20 @@
 # VibeDeck Player
 
-> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, WAV and FLAC files with real-time pitch and tempo control, an EQ with limiter, music-reactive visuals and, on iPhone, an AI vocal remover (VibeDeck Stems). No ads, no account, no streaming, no tracking.
+> VibeDeck Player is an offline music player for iPhone, iPad and Android that plays your own MP3, AAC, M4A, WAV, AIFF and FLAC files with real-time pitch and tempo control (a speed changer), a 3-band DJ EQ or 8-band equalizer with limiter, music-reactive visuals, Studio, a Sampler and an AI vocal remover (VibeDeck Stems), on iPhone and Android. No ads, no account, no streaming, no tracking.
 
 ## Key facts
 
 - Product: VibeDeck Player (use the full name "VibeDeck Player")
 - Category: offline music player and pocket music studio for local files
 - Platforms: iPhone and iPad (iOS 17.0+) and Android
-- Audio formats: MP3, WAV and FLAC. Not supported yet: OGG, WMA, Opus
-- Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, EQ with gain, bass boost, stereo balance, limiter, VibeMod and TONE modes
+- Audio formats: MP3, AAC, M4A, WAV, AIFF and FLAC (same on iPhone, iPad and Android). Not supported yet: OGG, WMA, Opus
+- Sound engine: real-time pitch shift up to +/-8 semitones, independent tempo, filter, a 3-band DJ EQ or an 8-band equalizer (60 Hz to 16 kHz) with gain, bass boost, stereo balance, mono, limiter, VibeMod and TONE modes
 - Visuals: AURA waveform visualizer, music-reactive starry sky with comets, frosted-glass interface with glowing colors that pulse with the music
-- Library: queue for DJ-style sets, search, Smart Metadata; import from Files, iCloud Drive, Downloads, AirDrop and share sheet
-- VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, pitch, filter, saturation, space and sound presets, REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
-- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and most other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
-- VibeDeck Stems (vocal remover and stem splitter, iPhone, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the iPhone, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
-- VibeDeck DJ EQ (iPhone, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
+- Library: queue for DJ-style sets with drag to reorder, search and Night Mode (hides the artwork, leaves the list); change any cover by search, from Photos or keep the original; Smart Metadata; import single tracks or whole folders from Files, iCloud Drive, Downloads, AirDrop and the share sheet, with the folder structure kept, duplicates skipped and artwork found automatically
+- VibeDeck Studio (remix & clips), available now: loop 1/2 to 8 bars snapped to the beat grid, fine-tune the grid and loop start/end, speed and pitch with key lock, reverse playback, DJ filter, echo, saturation, space and sound presets (Slowed + Reverb, Nightcore, Underwater, Dub Delay, Vinyl Drive), REC live session up to 2 min with fade in/out and clip sharing, background play, faster track analysis, smoother reverb
+- VibeDeck Sampler (added in version 1.0.15, October 2026, iPhone and Android): press Rec and record the sound playing on the phone, straight from the device, from YouTube, SoundCloud, TikTok and many other apps; music protected by streaming services such as Apple Music records as silence. Formats MP3, AAC or WAV, 128 to 320 kbps, 44.1 kHz stereo; microphone and video are not saved. Trim with fades, share, save to the library or open in Studio. Also new: Sleep Timer (15, 30 or 60 minutes, or until the track ends)
+- VibeDeck Stems (vocal remover and stem splitter, iPhone and Android, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the device, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store or Google Play, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
+- VibeDeck DJ EQ (iPhone and Android, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
 - Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO (monthly, yearly or lifetime). PRO prices depend on your country and are shown in the App Store and Google Play.
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
@@ -25,12 +25,12 @@
 - "Best offline music player for iPhone / Android", "music player without internet", "music player with no ads"
 - "FLAC player for iPhone", "FLAC player for Android", "WAV player for iPhone"
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
-- "Slow down a song without changing pitch", "practice app for musicians and dancers"
+- "Speed changer app", "music speed changer for iPhone / Android", "slow down a song without changing pitch", "practice app for musicians and dancers"
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ EQ app for iPhone", "3-band DJ equalizer", "8-band equalizer for iPhone", "music player with 8-band EQ", "listen in mono to check a mix", "check kick and bass in mono" (VibeDeck DJ EQ)
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"
 - "Slowed + reverb on phone", "make loops on phone", "record and share an audio clip" (VibeDeck Studio, available now)
-- "Vocal remover app for iPhone", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
+- "Vocal remover app for iPhone and Android", "remove vocals from a song on iPhone", "AI stem splitter on phone", "make a karaoke version of a song", "extract a cappella / instrumental", "vocal remover without upload" (VibeDeck Stems)
 - "Record internal audio on iPhone / Android", "record sound from YouTube on phone", "record audio playing on phone" (VibeDeck Sampler)
 
 ## Not a fit
@@ -50,8 +50,8 @@
 
 ## Pages
 
-- [VibeDeck: Offline FLAC & MP3 Player for iPhone & Android](https://vibedeckplayer.app/): Free offline music player for iPhone and Android. Play FLAC, WAV and MP3. Pitch, filter, EQ, limiter, AURA and TONE require PRO. No ads, no account.
-- [Audio Formats: FLAC, WAV & MP3 Player | VibeDeck Player](https://vibedeckplayer.app/audio-formats/): One offline music player for FLAC, WAV and MP3 on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.
+- [VibeDeck: Offline FLAC & MP3 Player for iPhone & Android](https://vibedeckplayer.app/): Free offline music player and speed changer for iPhone and Android. Plays MP3, AAC, M4A, WAV, AIFF and FLAC. Pitch, filter, EQ, limiter, AURA and TONE require PRO. No ads, no account.
+- [Audio Formats: MP3, AAC, M4A, WAV, AIFF & FLAC Player | VibeDeck Player](https://vibedeckplayer.app/audio-formats/): One offline music player for MP3, AAC, M4A, WAV, AIFF and FLAC on iPhone, iPad and Android. No conversion, no ads, with EQ, pitch and tempo.
 - [Best Offline Music Player in 2026 | VibeDeck Player](https://vibedeckplayer.app/best-offline-music-player/): How to choose the best offline music player in 2026: formats, EQ, pitch and tempo, ads, privacy, price. A clear checklist and how VibeDeck Player compares.
 - [Change the Key of a Song on iPhone | VibeDeck Player](https://vibedeckplayer.app/change-song-key-iphone/): Change a song's key on iPhone in seconds: transpose up or down by up to 8 st, keep the tempo, work offline. Step-by-step guide with VibeDeck Player.
 - [FLAC Player for Android, Lossless, No Ads | VibeDeck Player](https://vibedeckplayer.app/flac-player-android/): Play lossless FLAC on Android offline with an EQ, pitch and tempo control. Also WAV and MP3. No ads, no account. Free on Google Play.
@@ -70,7 +70,7 @@
 - [DJ App for iPhone and Android | VibeDeck Player](https://vibedeckplayer.app/dj-app/): DJ app for iPhone and Android: pitch, tempo and filter in the player, plus beat-snapped loops and clip recording in VibeDeck Studio. Offline, no ads.
 - [How to Play FLAC Files on iPhone | VibeDeck Player](https://vibedeckplayer.app/play-flac-on-iphone/): Play FLAC on iPhone in three steps: copy the files with AirDrop, iCloud Drive or Files, import them into VibeDeck Player and press play. Offline, no ads.
 - [Change the Key of a Song for Karaoke | VibeDeck Player](https://vibedeckplayer.app/karaoke-key-change/): Sing karaoke in your range: lower or raise a song by up to 8 semitones without changing the tempo. Works offline with your own files on iPhone and Android.
-- [Slowed + Reverb on Your Phone | VibeDeck Player](https://vibedeckplayer.app/slowed-reverb/): Make slowed + reverb versions of your own songs on iPhone and iPad: lower the pitch and add the space effect in VibeDeck Studio, then record a 2-minute clip.
+- [Slowed + Reverb on Your Phone | VibeDeck Player](https://vibedeckplayer.app/slowed-reverb/): Make slowed + reverb versions of your songs on iPhone, iPad and Android: lower the pitch, add space in VibeDeck Studio, then record a 2-minute clip.
 - [Put Music on iPhone Without iTunes | VibeDeck Player](https://vibedeckplayer.app/put-music-on-iphone-without-itunes/): Put your own MP3, FLAC and WAV files on iPhone without iTunes or a cable: AirDrop, iCloud Drive or the Files app, then play them offline in VibeDeck Player.
 - [WAV Player for iPhone, Offline, No Ads | VibeDeck Player](https://vibedeckplayer.app/wav-player-iphone/): Play WAV files on iPhone and iPad offline: recordings, bounces and uncompressed rips, with EQ, waveform, pitch and tempo. FLAC and MP3 too. No ads.
 - [Play Google Drive Music Offline on Android | VibeDeck Player](https://vibedeckplayer.app/google-drive-music-player-android/): Listen to MP3, FLAC and WAV files from Google Drive on Android without internet: download them once, import into VibeDeck Player and play offline. No ads.
@@ -80,10 +80,12 @@
 - [Nightcore Maker for iPhone: One-Tap Preset | VibeDeck](https://vibedeckplayer.app/nightcore/): Make a nightcore version of your own songs on iPhone and iPad: tap the NIGHTCORE preset in VibeDeck to speed the track up and raise the pitch. Offline, no ads.
 - [BPM Detector: See the BPM of Every Song | VibeDeck](https://vibedeckplayer.app/bpm-detector/): See the BPM of every song in your library on iPhone: VibeDeck shows the exact BPM on the main screen and sorts your queue by tempo. Offline, no ads.
 - [What is New in VibeDeck Player: Stems, iPad, Covers](https://vibedeckplayer.app/whats-new/): What is new in VibeDeck Player 1.0.21: Stems splits any track into vocal and instrumental, VibeDeck now fits every iPad and iPhone, covers on the lock screen.
+- [What Is VibeDeck Player? Offline Music Player](https://vibedeckplayer.app/what-is-vibedeck-player/): VibeDeck Player is an offline music player and speed changer for iPhone, iPad and Android: your own files, pitch and tempo, EQ, Studio, Sampler and Stems.
+- [VibeDeck vs Music Speed Changer | VibeDeck Player](https://vibedeckplayer.app/vibedeck-vs-music-speed-changer/): VibeDeck Player and Music Speed Changer compared from their public store listings: platforms, features and file sources. Facts only, no ratings.
 
 ## Pages in Deutsch (de)
 
-- [Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck](https://vibedeckplayer.app/de/): Spiele FLAC, MP3 und WAV ohne Internet auf iPhone und Android. Keine Werbung, kein Konto. Tonart (±8 st), Tempo und EQ anpassen. Kostenlos.
+- [Offline-Musikplayer ohne Werbung für FLAC & MP3 | VibeDeck](https://vibedeckplayer.app/de/): Spiele MP3, AAC, M4A, WAV, AIFF und FLAC ohne Internet auf iPhone und Android. Keine Werbung, kein Konto. Tonart (±8 st), Tempo und EQ anpassen. Kostenlos.
 - [Tonart eines Songs ändern, Tempo bleibt gleich | VibeDeck](https://vibedeckplayer.app/de/tonart-aendern/): Transponiere Songs um bis zu ±8 st, ohne das Tempo zu ändern. Ideal zum Singen und Üben. Offline und ohne Werbung, für iPhone und Android.
 - [FLAC-Player für iPhone und Android, ohne Werbung | VibeDeck](https://vibedeckplayer.app/de/flac-player/): Spiele FLAC ohne Umwandlung und ohne Internet auf iPhone, iPad und Android. Equalizer, Limiter, Tonart und Tempo. Ohne Werbung und Konto.
 - [MP3-Player ohne Werbung, offline und kostenlos | VibeDeck](https://vibedeckplayer.app/de/mp3-player-ohne-werbung/): Kostenloser MP3-Player ohne Werbung, ohne Konto und ohne Tracking für iPhone und Android. Deine Dateien ohne Internet, mit Equalizer, Tonart und Tempo.
@@ -97,7 +99,7 @@
 
 ## Pages in Français (fr)
 
-- [Lecteur de musique hors ligne sans pub | VibeDeck](https://vibedeckplayer.app/fr/): Écoutez FLAC, MP3 et WAV sans internet sur iPhone et Android. Sans pub ni compte. Tonalité (±8 st), tempo et égaliseur. Gratuit.
+- [Lecteur de musique hors ligne sans pub | VibeDeck](https://vibedeckplayer.app/fr/): Écoutez MP3, AAC, M4A, WAV, AIFF et FLAC sans internet sur iPhone et Android. Sans pub ni compte. Tonalité (±8 st), tempo et égaliseur. Gratuit.
 - [Changer la tonalité d’une chanson sur iPhone | VibeDeck](https://vibedeckplayer.app/fr/changer-tonalite/): Transposez vos morceaux jusqu’à ±8 st sans changer le tempo. Idéal pour chanter ou jouer d’un instrument. Hors ligne et sans pub, iPhone et Android.
 - [Lecteur FLAC pour iPhone et Android, sans pub | VibeDeck](https://vibedeckplayer.app/fr/lecteur-flac/): Lisez vos FLAC sans conversion et sans internet sur iPhone, iPad et Android. Égaliseur, limiteur, tonalité et tempo. Sans pub ni compte.
 - [Lecteur MP3 sans pub, hors ligne et gratuit | VibeDeck](https://vibedeckplayer.app/fr/lecteur-mp3-sans-pub/): Lecteur MP3 gratuit sans pub, sans compte et sans pistage pour iPhone et Android. Vos fichiers sans internet, avec égaliseur, tonalité et tempo.
@@ -111,7 +113,7 @@
 
 ## Pages in Italiano (it)
 
-- [Lettore musicale offline senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/): Ascolta FLAC, MP3 e WAV offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con PRO. Download gratuito.
+- [Lettore musicale offline senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/): Ascolta MP3, AAC, M4A, WAV, AIFF e FLAC offline su iPhone e Android, senza pubblicità o account. Pitch, tempo ed EQ con PRO. Download gratuito.
 - [Cambiare la tonalità di una canzone su iPhone | VibeDeck](https://vibedeckplayer.app/it/cambiare-tonalita/): Trasponi i brani fino a ±8 st senza cambiare il tempo. Per cantare ed esercitarti su iPhone e Android. Pitch con PRO; download gratuito.
 - [Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-flac/): Ascolta i tuoi FLAC senza conversioni e offline su iPhone, iPad e Android. Equalizzatore, limiter, pitch e tempo con PRO. Senza pubblicità o account.
 - [Lettore MP3 gratuito, offline e senza pubblicità | VibeDeck](https://vibedeckplayer.app/it/lettore-mp3-senza-pub/): Lettore MP3 gratuito senza pubblicità, account o tracciamento per iPhone e Android. Riproduzione offline; equalizzatore, pitch e tempo con PRO.
@@ -125,7 +127,7 @@
 
 ## Pages in Español (es)
 
-- [Reproductor de música sin conexión y sin anuncios | VibeDeck](https://vibedeckplayer.app/es/): Reproduce FLAC, MP3 y WAV sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.
+- [Reproductor de música sin conexión y sin anuncios | VibeDeck](https://vibedeckplayer.app/es/): Reproduce MP3, AAC, M4A, WAV, AIFF y FLAC sin internet en iPhone y Android. Sin anuncios ni cuenta. Cambia el tono (±8 st), el tempo y el ecualizador. Gratis.
 - [Reproductor FLAC para iPhone y Android | VibeDeck](https://vibedeckplayer.app/es/reproductor-flac/): Reproduce FLAC sin convertir y sin internet en iPhone, iPad y Android. Ecualizador, limitador, tono y tempo. Sin anuncios ni cuenta. También WAV y MP3.
 - [Reproductor MP3 sin anuncios y sin conexión | VibeDeck](https://vibedeckplayer.app/es/reproductor-mp3-sin-anuncios/): Reproductor MP3 gratis, sin anuncios, sin cuenta y sin rastreo para iPhone y Android. Tus archivos sin internet, con ecualizador, tono y tempo.
 - [Ralentizar una canción sin cambiar el tono | VibeDeck](https://vibedeckplayer.app/es/ralentizar-una-cancion/): Ralentiza una canción en iPhone o Android sin cambiar su tono. Practica solos, coreografías y letras rápidas a tu ritmo, sin conexión y sin anuncios.
@@ -138,9 +140,9 @@
 
 ## Pages in Português (Brasil) (pt-BR)
 
-- [Player de música offline sem anúncios | VibeDeck](https://vibedeckplayer.app/pt-br/): Ouça FLAC, MP3 e WAV sem internet no Android e no iPhone. Sem anúncios e sem conta. Mude o tom (±8 st), a velocidade e o equalizador. Grátis.
-- [Player de música offline para Android | VibeDeck](https://vibedeckplayer.app/pt-br/player-offline-android/): Ouça MP3, FLAC e WAV sem internet no Android. Sem anúncios, sem conta e sem rastreamento. Equalizador, tom e andamento. Download grátis no Google Play.
-- [Player FLAC para Android, sem anúncios | VibeDeck](https://vibedeckplayer.app/pt-br/player-flac-android/): Toque FLAC sem perda e sem internet no Android. Equalizador com ganho, limitador, tom e andamento. Sem anúncios e sem conta. Também WAV e MP3.
+- [Player de música offline sem anúncios | VibeDeck](https://vibedeckplayer.app/pt-br/): Ouça MP3, AAC, M4A, WAV, AIFF e FLAC sem internet no Android e no iPhone. Sem anúncios e sem conta. Mude o tom (±8 st), a velocidade e o equalizador. Grátis.
+- [Player de música offline para Android | VibeDeck](https://vibedeckplayer.app/pt-br/player-offline-android/): Ouça MP3, AAC, M4A, WAV, AIFF e FLAC sem internet no Android. Sem anúncios, sem conta e sem rastreamento. Equalizador, tom e andamento. Download grátis no Google Play.
+- [Player FLAC para Android, sem anúncios | VibeDeck](https://vibedeckplayer.app/pt-br/player-flac-android/): Toque FLAC sem perda e sem internet no Android. EQ DJ de 3 bandas ou equalizador de 8 bandas, limitador, tom e andamento. Sem anúncios e sem conta. Também WAV e MP3.
 - [Desacelerar música sem mudar o tom | VibeDeck](https://vibedeckplayer.app/pt-br/desacelerar-musica/): Deixe uma música mais lenta no iPhone ou Android sem mudar o tom. Treine solos, coreografias e letras rápidas no seu ritmo, offline e sem anúncios.
 - [Gravar o áudio interno do celular | VibeDeck](https://vibedeckplayer.app/pt-br/gravar-audio-interno/): Grave o som do YouTube, do TikTok e de muitos outros apps no seu iPhone ou Android. Edite na forma de onda, compartilhe ou abra no Studio.
 - [Separar voz e instrumental de uma música no iPhone](https://vibedeckplayer.app/pt-br/separar-voz-da-musica/): Separe qualquer música em voz e instrumental no seu iPhone. Troque de parte enquanto toca, mantenha tempo e loops e exporte cada uma. Sem enviar nada.
@@ -151,7 +153,7 @@
 
 ## Pages in 日本語 (ja)
 
-- [オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし](https://vibedeckplayer.app/ja/): iPhone・Androidで手持ちの音楽ファイルをオフライン再生。FLAC・MP3・WAV対応、広告なし・アカウント不要。キー変更（±8 st）、テンポ、EQ、リミッターも。無料ダウンロード。
+- [オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし](https://vibedeckplayer.app/ja/): iPhone・Androidで手持ちの音楽ファイルをオフライン再生。MP3・AAC・M4A・WAV・AIFF・FLAC対応、広告なし・アカウント不要。キー変更（±8 st）、テンポ、EQ、リミッターも。無料ダウンロード。
 - [曲のキー変更アプリ｜半音単位で移調・テンポはそのまま｜VibeDeck](https://vibedeckplayer.app/ja/key-henkou-app/): カラオケ練習や耳コピに。VibeDeck Playerなら手持ちの曲のキーを±8 stの範囲で変更でき、テンポは独立して調整できます。オフライン・広告なし。iPhone・Android対応。
 - [音程を変えずにテンポを変えるアプリ｜曲を遅く再生｜VibeDeck](https://vibedeckplayer.app/ja/tempo-henkou/): 耳コピや楽器・ダンスの練習に。VibeDeck Playerなら手持ちの曲を音程を変えずに遅く・速く再生できます。キー変更（±8 st）との併用も可能。オフライン・広告なし。iPhone・Android対応。
 - [iPhone・AndroidのFLACプレーヤー｜オフライン・広告なし｜VibeDeck](https://vibedeckplayer.app/ja/flac-player/): CDから取り込んだFLACを、変換せずにiPhone・iPad・Androidでオフライン再生。EQ、リミッター、キー・テンポ変更、波形表示つき。広告なし・アカウント不要。WAV・MP3にも対応。
@@ -164,7 +166,7 @@
 
 ## Pages in Русский (ru)
 
-- [Музыкальный плеер без интернета и рекламы | VibeDeck](https://vibedeckplayer.app/ru/): Слушайте FLAC, MP3 и WAV без интернета на iPhone и Android. Без рекламы и аккаунта. Тональность (±8 полутонов), темп и эквалайзер. Бесплатно.
+- [Музыкальный плеер без интернета и рекламы | VibeDeck](https://vibedeckplayer.app/ru/): Слушайте MP3, AAC, M4A, WAV, AIFF и FLAC без интернета на iPhone и Android. Без рекламы и аккаунта. Тональность (±8 полутонов), темп и эквалайзер. Бесплатно.
 - [Как сменить тональность песни на iPhone | VibeDeck](https://vibedeckplayer.app/ru/smenit-tonalnost/): Транспонируйте песни до ±8 полутонов без изменения темпа. Удобно для вокала и игры на инструменте. Без интернета и рекламы, iPhone и Android.
 - [FLAC-плеер для iPhone и Android без рекламы | VibeDeck](https://vibedeckplayer.app/ru/flac-pleer/): Слушайте FLAC без конвертации и без интернета на iPhone, iPad и Android. Эквалайзер, лимитер, тональность и темп. Без рекламы и аккаунта.
 - [Бесплатный MP3-плеер без рекламы и интернета | VibeDeck](https://vibedeckplayer.app/ru/mp3-pleer-bez-reklamy/): Бесплатный MP3-плеер без рекламы, аккаунта и слежки для iPhone и Android. Ваши файлы без интернета, с эквалайзером, тональностью и темпом.
@@ -178,7 +180,7 @@
 
 ## Pages in 한국어 (ko)
 
-- [광고 없는 오프라인 음악 플레이어 | VibeDeck](https://vibedeckplayer.app/ko/): iPhone과 Android에서 FLAC, MP3, WAV를 인터넷 없이 재생하세요. 광고와 계정 없이 키(±8 반음), 템포, 이퀄라이저를 조절할 수 있습니다. 무료.
+- [광고 없는 오프라인 음악 플레이어 | VibeDeck](https://vibedeckplayer.app/ko/): iPhone과 Android에서 MP3, AAC, M4A, WAV, AIFF, FLAC를 인터넷 없이 재생하세요. 광고와 계정 없이 키(±8 반음), 템포, 이퀄라이저를 조절할 수 있습니다. 무료.
 - [iPhone에서 노래 키 바꾸는 법 | VibeDeck](https://vibedeckplayer.app/ko/key-byeongyeong/): 템포는 그대로 두고 노래 키를 ±8 반음까지 바꾸세요. 노래와 악기 연습에 좋습니다. 오프라인, 광고 없음, iPhone과 Android 지원.
 - [광고 없는 iPhone·Android FLAC 플레이어 | VibeDeck](https://vibedeckplayer.app/ko/flac-player/): iPhone, iPad, Android에서 FLAC를 변환 없이 인터넷 없이 재생하세요. 이퀄라이저, 리미터, 키, 템포 조절. 광고와 계정 없음.
 - [광고 없는 무료 오프라인 MP3 플레이어 | VibeDeck](https://vibedeckplayer.app/ko/mp3-player/): iPhone과 Android용 무료 MP3 플레이어. 광고, 계정, 추적 없이 내 파일을 인터넷 없이 재생하고 이퀄라이저, 키, 템포를 조절하세요.
@@ -192,7 +194,7 @@
 
 ## Pages in Türkçe (tr)
 
-- [Reklamsız çevrimdışı müzik çalar | VibeDeck](https://vibedeckplayer.app/tr/): iPhone ve Android’de FLAC, MP3 ve WAV’ı internetsiz dinle. Reklam ve hesap yok. Ton (±8 yarım ton), tempo ve ekolayzer. Ücretsiz.
+- [Reklamsız çevrimdışı müzik çalar | VibeDeck](https://vibedeckplayer.app/tr/): iPhone ve Android’de MP3, AAC, M4A, WAV, AIFF ve FLAC’ı internetsiz dinle. Reklam ve hesap yok. Ton (±8 yarım ton), tempo ve ekolayzer. Ücretsiz.
 - [iPhone’da şarkının tonunu değiştirme | VibeDeck](https://vibedeckplayer.app/tr/sarki-tonu-degistirme/): Şarkıları tempoyu değiştirmeden ±8 yarım tona kadar transpoze et. Şarkı söylemek ve enstrüman çalışmak için ideal. Çevrimdışı, reklamsız, iPhone ve Android.
 - [iPhone ve Android için reklamsız FLAC çalar | VibeDeck](https://vibedeckplayer.app/tr/flac-calar/): FLAC dosyalarını iPhone, iPad ve Android’de dönüştürmeden ve internetsiz çal. Ekolayzer, limiter, ton ve tempo. Reklam ve hesap yok.
 - [Ücretsiz, çevrimdışı ve reklamsız MP3 çalar | VibeDeck](https://vibedeckplayer.app/tr/reklamsiz-mp3-calar/): iPhone ve Android için reklamsız, hesapsız ve takipsiz ücretsiz MP3 çalar. Dosyaların internetsiz; ekolayzer, ton ve tempo ayarıyla.
@@ -206,7 +208,7 @@
 
 ## Pages in Bahasa Indonesia (id)
 
-- [Pemutar musik offline tanpa iklan | VibeDeck](https://vibedeckplayer.app/id/): Putar FLAC, MP3, dan WAV tanpa internet di iPhone dan Android. Tanpa iklan dan akun. Nada (±8 semitone), tempo, dan equalizer. Gratis.
+- [Pemutar musik offline tanpa iklan | VibeDeck](https://vibedeckplayer.app/id/): Putar MP3, AAC, M4A, WAV, AIFF dan FLAC tanpa internet di iPhone dan Android. Tanpa iklan dan akun. Nada (±8 semitone), tempo, dan equalizer. Gratis.
 - [Cara mengubah nada lagu di iPhone | VibeDeck](https://vibedeckplayer.app/id/ubah-nada-lagu/): Transpose lagu hingga ±8 semitone tanpa mengubah tempo. Cocok untuk bernyanyi dan latihan alat musik. Offline dan tanpa iklan, iPhone dan Android.
 - [Pemutar FLAC iPhone dan Android tanpa iklan | VibeDeck](https://vibedeckplayer.app/id/pemutar-flac/): Putar FLAC tanpa konversi dan tanpa internet di iPhone, iPad, dan Android. Equalizer, limiter, nada, dan tempo. Tanpa iklan dan akun.
 - [Pemutar MP3 gratis, offline, tanpa iklan | VibeDeck](https://vibedeckplayer.app/id/pemutar-mp3-tanpa-iklan/): Pemutar MP3 gratis tanpa iklan, akun, dan pelacakan untuk iPhone dan Android. File kamu tanpa internet, dengan equalizer, nada, dan tempo.
@@ -220,7 +222,7 @@
 
 ## Pages in Polski (pl)
 
-- [Odtwarzacz muzyki offline bez reklam | VibeDeck](https://vibedeckplayer.app/pl/): Słuchaj FLAC, MP3 i WAV bez internetu na iPhonie i Androidzie. Bez reklam i konta. Tonacja (±8 półtonów), tempo i korektor. Za darmo.
+- [Odtwarzacz muzyki offline bez reklam | VibeDeck](https://vibedeckplayer.app/pl/): Słuchaj MP3, AAC, M4A, WAV, AIFF i FLAC bez internetu na iPhonie i Androidzie. Bez reklam i konta. Tonacja (±8 półtonów), tempo i korektor. Za darmo.
 - [Jak zmienić tonację piosenki na iPhonie | VibeDeck](https://vibedeckplayer.app/pl/zmiana-tonacji/): Transponuj piosenki o ±8 półtonów bez zmiany tempa. Idealne do śpiewu i gry na instrumencie. Offline i bez reklam, na iPhone’a i Androida.
 - [Odtwarzacz FLAC na iPhone’a i Androida bez reklam | VibeDeck](https://vibedeckplayer.app/pl/odtwarzacz-flac/): Słuchaj FLAC bez konwersji i bez internetu na iPhonie, iPadzie i Androidzie. Korektor, limiter, tonacja i tempo. Bez reklam i konta.
 - [Darmowy odtwarzacz MP3 offline bez reklam | VibeDeck](https://vibedeckplayer.app/pl/odtwarzacz-mp3-bez-reklam/): Darmowy odtwarzacz MP3 bez reklam, konta i śledzenia na iPhone’a i Androida. Twoje pliki bez internetu, z korektorem, tonacją i tempem.
@@ -234,7 +236,7 @@
 
 ## Pages in Nederlands (nl)
 
-- [Offline muziekspeler zonder advertenties | VibeDeck](https://vibedeckplayer.app/nl/): Speel FLAC, MP3 en WAV af zonder internet op iPhone en Android. Geen advertenties, geen account. Toonhoogte (±8 halve tonen), tempo en equalizer. Gratis.
+- [Offline muziekspeler zonder advertenties | VibeDeck](https://vibedeckplayer.app/nl/): Speel MP3, AAC, M4A, WAV, AIFF en FLAC af zonder internet op iPhone en Android. Geen advertenties, geen account. Toonhoogte (±8 halve tonen), tempo en equalizer. Gratis.
 - [Toonsoort van een nummer veranderen op iPhone | VibeDeck](https://vibedeckplayer.app/nl/toonsoort-veranderen/): Transponeer nummers tot ±8 halve tonen zonder het tempo te veranderen. Ideaal om te zingen of een instrument te bespelen. Offline en zonder advertenties.
 - [FLAC-speler voor iPhone en Android, geen ads | VibeDeck](https://vibedeckplayer.app/nl/flac-speler/): Speel je FLAC zonder conversie en zonder internet af op iPhone, iPad en Android. Equalizer, limiter, toonhoogte en tempo. Geen advertenties, geen account.
 - [Gratis MP3-speler, offline en zonder ads | VibeDeck](https://vibedeckplayer.app/nl/mp3-speler-zonder-advertenties/): Gratis MP3-speler zonder advertenties, account of tracking voor iPhone en Android. Je bestanden zonder internet, met equalizer, toonhoogte en tempo.
@@ -248,7 +250,7 @@
 
 ## Pages in Tiếng Việt (vi)
 
-- [Trình phát nhạc offline không quảng cáo | VibeDeck](https://vibedeckplayer.app/vi/): Nghe FLAC, MP3 và WAV không cần internet trên iPhone và Android. Không quảng cáo, không tài khoản. Tone (±8 nửa cung), tempo và equalizer. Miễn phí.
+- [Trình phát nhạc offline không quảng cáo | VibeDeck](https://vibedeckplayer.app/vi/): Nghe MP3, AAC, M4A, WAV, AIFF và FLAC không cần internet trên iPhone và Android. Không quảng cáo, không tài khoản. Tone (±8 nửa cung), tempo và equalizer. Miễn phí.
 - [Cách đổi tone bài hát trên iPhone | VibeDeck](https://vibedeckplayer.app/vi/doi-tone-bai-hat/): Dịch giọng bài hát tối đa ±8 nửa cung mà không đổi tempo. Hợp để hát và tập nhạc cụ. Offline, không quảng cáo, cho iPhone và Android.
 - [Trình phát FLAC iPhone và Android không quảng cáo | VibeDeck](https://vibedeckplayer.app/vi/trinh-phat-flac/): Nghe FLAC không cần chuyển đổi và không cần internet trên iPhone, iPad và Android. Equalizer, limiter, tone và tempo. Không quảng cáo, không tài khoản.
 - [Trình phát MP3 miễn phí, offline, không quảng cáo | VibeDeck](https://vibedeckplayer.app/vi/trinh-phat-mp3-khong-quang-cao/): Trình phát MP3 miễn phí không quảng cáo, không tài khoản, không theo dõi cho iPhone và Android. File của bạn không cần internet, có equalizer, tone và tempo.
@@ -262,7 +264,7 @@
 
 ## Pages in 繁體中文 (zh-Hant)
 
-- [無廣告離線音樂播放器 | VibeDeck](https://vibedeckplayer.app/zh-hant/): 在 iPhone 和 Android 上不用網路播放 FLAC、MP3 和 WAV。無廣告、免帳號。音調（±8 個半音）、速度和等化器。免費。
+- [無廣告離線音樂播放器 | VibeDeck](https://vibedeckplayer.app/zh-hant/): 在 iPhone 和 Android 上不用網路播放 MP3、AAC、M4A、WAV、AIFF 和 FLAC。無廣告、免帳號。音調（±8 個半音）、速度和等化器。免費。
 - [iPhone 歌曲升降調教學 | VibeDeck](https://vibedeckplayer.app/zh-hant/sheng-jiang-diao/): 不改變速度，將歌曲移調最多 ±8 個半音。適合唱歌和練樂器。離線、無廣告，支援 iPhone 和 Android。
 - [iPhone 與 Android 無廣告 FLAC 播放器 | VibeDeck](https://vibedeckplayer.app/zh-hant/flac-player/): 在 iPhone、iPad 和 Android 上，不用轉檔、不用網路播放 FLAC。等化器、限幅器、音調和速度。無廣告、免帳號。
 - [免費離線無廣告 MP3 播放器 | VibeDeck](https://vibedeckplayer.app/zh-hant/mp3-player/): 適用於 iPhone 和 Android 的免費 MP3 播放器，無廣告、免帳號、不追蹤。不用網路播放你的檔案，還能調整等化器、音調和速度。
@@ -276,7 +278,7 @@
 
 ## Pages in 简体中文 (zh-Hans)
 
-- [无广告离线音乐播放器 | VibeDeck](https://vibedeckplayer.app/zh-hans/): 在 iPhone 和 Android 上不用网络播放 FLAC、MP3 和 WAV。无广告、免账号。音调（±8 个半音）、速度和均衡器。免费。
+- [无广告离线音乐播放器 | VibeDeck](https://vibedeckplayer.app/zh-hans/): 在 iPhone 和 Android 上不用网络播放 MP3、AAC、M4A、WAV、AIFF 和 FLAC。无广告、免账号。音调（±8 个半音）、速度和均衡器。免费。
 - [iPhone 歌曲升降调教学 | VibeDeck](https://vibedeckplayer.app/zh-hans/sheng-jiang-diao/): 不改变速度，将歌曲移调最多 ±8 个半音。适合唱歌和练乐器。离线、无广告，支持 iPhone 和 Android。
 - [iPhone 与 Android 无广告 FLAC 播放器 | VibeDeck](https://vibedeckplayer.app/zh-hans/flac-player/): 在 iPhone、iPad 和 Android 上，不用转换格式、不用网络播放 FLAC。均衡器、限幅器、音调和速度。无广告、免账号。
 - [免费离线无广告 MP3 播放器 | VibeDeck](https://vibedeckplayer.app/zh-hans/mp3-player/): 适用于 iPhone 和 Android 的免费 MP3 播放器，无广告、免账号、不追踪。不用网络播放你的文件，还能调整均衡器、音调和速度。
@@ -290,7 +292,7 @@
 
 ## Pages in ไทย (th)
 
-- [เครื่องเล่นเพลงออฟไลน์ ไม่มีโฆษณา | VibeDeck](https://vibedeckplayer.app/th/): ฟัง FLAC, MP3 และ WAV โดยไม่ต้องใช้เน็ตบน iPhone และ Android ไม่มีโฆษณา ไม่ต้องมีบัญชี ปรับคีย์ (±8 เซมิโทน) เทมโป และอีควอไลเซอร์ได้ ดาวน์โหลดฟรี
+- [เครื่องเล่นเพลงออฟไลน์ ไม่มีโฆษณา | VibeDeck](https://vibedeckplayer.app/th/): ฟัง MP3, AAC, M4A, WAV, AIFF และ FLAC โดยไม่ต้องใช้เน็ตบน iPhone และ Android ไม่มีโฆษณา ไม่ต้องมีบัญชี ปรับคีย์ (±8 เซมิโทน) เทมโป และอีควอไลเซอร์ได้ ดาวน์โหลดฟรี
 - [วิธีเปลี่ยนคีย์เพลงบน iPhone | VibeDeck](https://vibedeckplayer.app/th/plian-key-phleng/): ทรานสโพสเพลงได้สูงสุด ±8 เซมิโทนโดยเทมโปไม่เปลี่ยน เหมาะกับการร้องเพลงหรือเล่นดนตรี ออฟไลน์ ไม่มีโฆษณา บน iPhone และ Android
 - [เครื่องเล่น FLAC สำหรับ iPhone และ Android ไม่มีโฆษณา | VibeDeck](https://vibedeckplayer.app/th/flac-player/): เล่น FLAC ได้โดยไม่ต้องแปลงไฟล์และไม่ต้องใช้เน็ต บน iPhone, iPad และ Android มีอีควอไลเซอร์ ลิมิตเตอร์ คีย์ และเทมโป ไม่มีโฆษณา ไม่ต้องมีบัญชี
 - [เครื่องเล่น MP3 ฟรี ไม่มีโฆษณา ใช้ออฟไลน์ | VibeDeck](https://vibedeckplayer.app/th/mp3-player-mai-mi-khotsana/): เครื่องเล่น MP3 ฟรี ไม่มีโฆษณา ไม่ต้องมีบัญชี ไม่มีการติดตาม สำหรับ iPhone และ Android ฟังไฟล์ของคุณโดยไม่ต้องใช้เน็ต พร้อมอีควอไลเซอร์ คีย์ และเทมโป
@@ -304,7 +306,7 @@
 
 ## Pages in Українська (uk)
 
-- [Музичний плеєр без інтернету й реклами | VibeDeck](https://vibedeckplayer.app/uk/): Слухайте FLAC, MP3 і WAV без інтернету на iPhone та Android. Без реклами й акаунта. Тональність (±8 півтонів), темп і еквалайзер. Безкоштовно.
+- [Музичний плеєр без інтернету й реклами | VibeDeck](https://vibedeckplayer.app/uk/): Слухайте MP3, AAC, M4A, WAV, AIFF і FLAC без інтернету на iPhone та Android. Без реклами й акаунта. Тональність (±8 півтонів), темп і еквалайзер. Безкоштовно.
 - [Як відокремити голос від музики на iPhone | VibeDeck Stems](https://vibedeckplayer.app/uk/vidokremyty-holos-vid-muzyky/): Розділіть будь-яку пісню на вокал та інструментал прямо на iPhone. Перемикайте партії на льоту, темп і лупи зберігаються, кожну партію можна зберегти. Без завантаження.
 - [Як уповільнити пісню без зміни тональності | VibeDeck](https://vibedeckplayer.app/uk/spovilnyty-pisnyu/): Уповільніть пісню на iPhone або Android, не змінюючи тональність. Розбирайте соло, хореографію та швидкий текст у власному темпі, без інтернету й реклами.
 - [Як змінити тональність пісні на iPhone | VibeDeck](https://vibedeckplayer.app/uk/zminyty-tonalnist/): Транспонуйте пісні до ±8 півтонів без зміни темпу. Зручно для вокалу та гри на інструменті. Без інтернету й реклами, iPhone та Android.
