@@ -86,7 +86,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -269,13 +269,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">離線音樂播放器</span> <span class="h1-sub">FLAC、MP3、WAV，無廣告</span></h1>
 <p class="lede">適用於 iPhone、iPad 和 Android 的離線音樂播放器，也能調整播放速度。可播放你自己檔案中的 MP3、FLAC、WAV、M4A、AAC、AIFF 等格式，基本播放免費，也不需要 WiFi。<a href="#premium">PRO</a> 可解鎖速度、音高、濾波器、EQ、限幅器、Studio、Sampler 和 Stems。前 48 小時可免費試用全部功能，不需要信用卡。</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=zh-Hant-home&mt=8" aria-label="在 App Store 下載 iPhone 和 iPad 版 VibeDeck Player"><img src="/assets/badges/app-store-en.svg" alt="在 App Store 下載" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=zh-Hant&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dzh-Hant-home" aria-label="在 Google Play 下載 Android 版 VibeDeck Player"><img src="/assets/badges/google-play-en.svg" alt="立即在 Google Play 下載" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>無廣告</li><li>免帳號</li><li>無追蹤</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">注意：App 本身以及 App Store、Google Play 頁面目前為英文。</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>音高</b> / PRO 示範</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>重設</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="以半音為單位的音高" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -285,6 +287,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="預覽">
+<div class="wrap" data-reveal=""><p>串流平台上的歌曲，可能會在你更換方案或 App 時消失。你自己的檔案，像是從 CD 轉出的 FLAC 或買來的 MP3，永遠屬於你。VibeDeck 就是為這樣的音樂打造的。</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="iPhone 上的 VibeDeck Studio：節拍格線循環、音高、濾波器、效果與錄音" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">循環。效果。匯出。</span></h2>
+      <p class="lede">把曲子裡的任何一刻做成循環，調整速度、加入效果，再存入資料庫或匯出。</p>
+      <ul class="studio-points" aria-label="VibeDeck Studio 功能">
+        <li><span><strong>音高與 Master Tempo</strong><small>從經典 DJ 音高搭配 Master Tempo，到完整的 100% 速度變化。可以放慢，也可以加快。</small></span></li>
+        <li><span><strong>對拍循環</strong><small>選擇 ½ 到 8 小節，自動吸附到節拍。</small></span></li>
+        <li><span><strong>濾波器</strong><small>用濾波器掃過整個聲音。</small></span></li>
+        <li><span><strong>效果</strong><small>飽和、低音增強、殘響、延遲與黑膠音色。</small></span></li>
+        <li><span><strong>調整剪輯點</strong><small>移動格線、循環起點與終點。</small></span></li>
+        <li><span><strong>反向播放</strong><small>把曲子倒著播放。</small></span></li>
+        <li><span><strong>儲存與匯出</strong><small>把結果存入資料庫，或匯出成檔案。</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">認識 VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -313,6 +341,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="iPhone 上的 VibeDeck 效果：低音增強、飽和與殘響" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">加入效果。<br><span class="soft">低音增強。飽和。殘響。<br>加淡出。匯出。</span></h2>
+      <p class="lede">低音增強、飽和、殘響、延遲與黑膠音色，還有 Slowed + Reverb、Nightcore 這類一鍵預設。</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="播放器的顏色來自封面。" width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="霧面面板與光暈會隨每首歌曲變化。白色主題即將推出。" width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">播放器的顏色來自封面。</h2>
+      <p class="lede">霧面面板與光暈會隨每首歌曲變化。白色主題即將推出。</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -327,43 +380,73 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="iPhone 上的 VibeDeck Studio：節拍格線循環、音高、濾波器、效果與錄音" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="拖曳即可重新排序。 更換封面。夜間模式。" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">循環。效果。匯出。</span></h2>
-      <p class="lede">把曲子裡的任何一刻做成循環，調整速度、加入效果，再存入資料庫或匯出。</p>
-      <ul class="studio-points" aria-label="VibeDeck Studio 功能">
-        <li><span><strong>音高與 Master Tempo</strong><small>從經典 DJ 音高搭配 Master Tempo，到完整的 100% 速度變化。可以放慢，也可以加快。</small></span></li>
-        <li><span><strong>對拍循環</strong><small>選擇 ½ 到 8 小節，自動吸附到節拍。</small></span></li>
-        <li><span><strong>濾波器</strong><small>用濾波器掃過整個聲音。</small></span></li>
-        <li><span><strong>效果</strong><small>飽和、低音增強、殘響、延遲與黑膠音色。</small></span></li>
-        <li><span><strong>調整剪輯點</strong><small>移動格線、循環起點與終點。</small></span></li>
-        <li><span><strong>反向播放</strong><small>把曲子倒著播放。</small></span></li>
-        <li><span><strong>儲存與匯出</strong><small>把結果存入資料庫，或匯出成檔案。</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">認識 VibeDeck <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">拖曳即可重新排序。<br><span class="soft">更換封面。夜間模式。</span></h2>
+      <p class="lede">依你的喜好重新排列歌曲，更換任何封面，並開啟夜間模式。</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo。 播放器與播放佇列在大螢幕上並排顯示。將於下次更新推出。" width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo。<br><span class="soft">下週更新。</span></h2>
+      <p class="lede">播放器與播放佇列在大螢幕上並排顯示。將於下次更新推出。</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="iPhone 上的 VibeDeck 效果：低音增強、飽和與殘響" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="更換任何封面。 搜尋。照片。原圖。" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">加入效果。<br><span class="soft">低音增強。飽和。殘響。<br>加淡出。匯出。</span></h2>
-      <p class="lede">低音增強、飽和、殘響、延遲與黑膠音色，還有 Slowed + Reverb、Nightcore 這類一鍵預設。</p>
+      <h2 class="h2" id="cover-title">更換任何封面。<br><span class="soft">搜尋。照片。原圖。</span></h2>
+      <p class="lede">為任何歌曲搜尋封面，從「照片」中挑選，或保留原本的封面。</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="預覽">
-<div class="wrap" data-reveal=""><p>串流平台上的歌曲，可能會在你更換方案或 App 時消失。你自己的檔案，像是從 CD 轉出的 FLAC 或買來的 MP3，永遠屬於你。VibeDeck 就是為這樣的音樂打造的。</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck for Android。</h2>
+      <p class="lede">為你自己的檔案打造的離線音樂播放器，音高、波形、音色與音效控制都在同一個畫面。</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=zh-Hant&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dzh-Hant-home" aria-label="在 Google Play 下載 Android 版 VibeDeck Player"><img src="/assets/badges/google-play-en.svg" alt="立即在 Google Play 下載" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck for Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck for Android: 播放" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck for Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck for Android: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck for Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck for Android: 效果" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck for Android: 8 段等化器" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck for Android: 3 段等化器" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck for Android: 剪裁" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck for Android: 播放佇列" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck for Android: 封面" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">功能</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 個半音</li><li>速度</li><li>等化器</li><li>限幅器</li><li>離線</li><li>無廣告</li><li>免帳號</li><li>不追蹤</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">播放器優先。 <span class="soft">控制就在手邊。</span></h2></div><p class="lede">VibeDeck 讓目前播放的歌曲保持清晰易讀，播放佇列與等化器只需一個動作。這款為本機檔案打造的離線音樂播放器在暗處也容易閱讀，音效控制近在手邊。</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>播放</h3><p>完整的播放控制、可拖曳的波形、BPM 顯示，以及主畫面上的音高與濾波器。同一首歌，全新感受。</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>播放佇列</h3><p>查看正在播放的歌曲、搜尋資料庫，並在不離開播放器的情況下安排下一首。夜間模式會隱藏封面，只留下清單。</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>音效</h3><p>等化器 + 增益、低音增強、濾波器、隨音訊反應的 VibeMod 處理、立體聲平衡，以及最高 ±8 st 的即時音高調整。內建限幅器：任何耳機都能聽到乾淨有力的聲音。</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">音高、EQ、AURA、TONE。 <span class="soft">一個暗色畫面。</span></h2></div><p class="lede">PRO 音效工具離歌曲只有一個動作：可控制音高與速度的音樂播放器、適用於 iPhone 與 Android 的真正等化器，以及隨節拍反應的視覺效果。</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">播放</span><div><h3>同一首歌，全新感受。</h3><p>音高、VibeMod 與 TONE 就在封面下方。DJ 工具、Studio、Sampler 與 Stems 只需輕點一下。</p></div></li><li><span class="k mono">Studio</span><div><h3>經典 DJ 音高。Master Tempo。</h3><p>像唱盤一樣彎曲音高，或保持調性只改變速度。在節拍網格上循環半小節到 8 小節。</p></div></li><li><span class="k mono">Sampler</span><div><h3>錄下來。系統音訊。</h3><p>錄下 YouTube、TikTok 等來源的聲音，再剪裁、分享，或在 Studio 中開啟。</p></div></li><li><span class="k mono">Stems</span><div><h3>分離任何歌曲。</h3><p>直接在手機上把歌曲分離成人聲與伴奏，再即時混音，或加入 Studio 效果。</p></div></li><li><span class="k mono">效果</span><div><h3>加入效果。</h3><p>低音增強、飽和、殘響與回音，還有 Slowed + Reverb、Nightcore 等預設。</p></div></li><li><span class="k mono">8 段等化器</span><div><h3>3 段。8 段。</h3><p>切換到 60 Hz 至 16 kHz 的 8 段等化器，並支援 VibeMod、限幅器與單聲道。</p></div></li><li><span class="k mono">3 段等化器</span><div><h3>3 段 DJ EQ。</h3><p>增益、低頻、中頻與高頻：為你自己的歌曲準備的經典 DJ 混音器 EQ。</p></div></li><li><span class="k mono">剪裁</span><div><h3>剪下。分享。</h3><p>剪裁錄音，加入淡入與淡出，再分享或在 Studio 中開啟。</p></div></li><li><span class="k mono">播放佇列</span><div><h3>拖曳即可重新排序。</h3><p>依你的喜好重新排列歌曲，更換任何封面，並開啟夜間模式。</p></div></li><li><span class="k mono">封面</span><div><h3>更換任何封面。</h3><p>為任何歌曲搜尋封面，從「照片」中挑選，或保留原本的封面。</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -371,11 +454,11 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>不用網路</h3><p>在飛機上或收不到訊號的地方，照樣聽你的音樂庫。播放音樂不耗行動數據。</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>你的聲音</h3><p>帶增益的等化器、低音增強、濾波器和限幅器。透過波形在歌曲中快速移動。</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>音調與速度</h3><p>音調最多可升降 ±8 個半音，速度則可分開調整，適合唱歌、練樂器或準備 DJ Set。</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">所有聲音，一個畫面</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">播放中</p><h3>主畫面直接調音高</h3><p>Pitch、VibeMod 和 TONE 就在專輯封面下方。同一首歌，全新感受。</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">聲音</p><h3>帶增益的等化器與限幅器</h3><p>增益、低音、中音、高音，加上限幅器與立體聲平衡，全部即時調整。</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>換個氛圍</h3><p>開啟 TONE，用另一種色彩聽同一首歌。</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>會跟著音樂動的畫面</h3><p>畫面隨正在播放的歌曲，在每一拍上律動。</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>屬於你音樂的宇宙</h3><p>隨音樂變化的氛圍視覺，特別適合在昏暗的房間裡聆聽。</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">播放佇列</p><h3>點住拖曳即可排序</h3><p>調整歌曲順序、搜尋音樂庫，並查看接下來要播的歌。</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">依照你的 <span class="soft">聆聽方式打造。</span></h2></div><p class="lede">涵蓋 VibeDeck Player 各種使用方式的指南。</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>播放你的檔案</h3><ul><li><a href="/zh-hant/flac-player/">iPhone 與 Android 的 FLAC 播放器</a></li><li><a href="/zh-hant/mp3-player/">無廣告 MP3 播放器</a></li></ul></div><div><h3>更改調性與速度</h3><ul><li><a href="/zh-hant/sheng-jiang-diao/">幫歌曲升降調</a></li><li><a href="/zh-hant/fang-man-ge-qu/">放慢歌曲，音調不變</a></li><li><a href="/zh-hant/bpm/">每首歌的 BPM</a></li><li><a href="/zh-hant/nightcore/">手機上的 nightcore，一鍵完成</a></li></ul></div><div><h3>調整音色</h3><ul><li><a href="/zh-hant/dj-eq/">一鍵切換 3 段 DJ 等化器與 8 段等化器</a></li></ul></div><div><h3>DJ、Studio 與錄音</h3><ul><li><a href="/zh-hant/ren-sheng-fen-li/">把任何歌曲分離成人聲和伴奏</a></li><li><a href="/zh-hant/nei-bu-lu-yin/">錄下 YouTube、TikTok 等 App 的聲音</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
@@ -387,12 +470,6 @@
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="VibeDeck Player 在 iPhone 上的離線播放畫面" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">功能</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 個半音</li><li>速度</li><li>等化器</li><li>限幅器</li><li>離線</li><li>無廣告</li><li>免帳號</li><li>不追蹤</li></ul>
 </div>
 </section>
 <section class="section">

@@ -86,7 +86,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-28",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -269,13 +269,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">เครื่องเล่นเพลง ออฟไลน์</span> <span class="h1-sub">FLAC, MP3 และ WAV ไม่มีโฆษณา</span></h1>
 <p class="lede">เครื่องเล่นเพลงออฟไลน์ที่ปรับความเร็วเพลงได้ สำหรับ iPhone, iPad และ Android เล่นไฟล์ MP3, FLAC, WAV, M4A, AAC, AIFF และอื่น ๆ จากไฟล์ของคุณเอง เล่นพื้นฐานได้ฟรีและไม่ต้องใช้ WiFi <a href="#premium">PRO</a> ปลดล็อกความเร็ว ระดับเสียง ฟิลเตอร์ EQ ลิมิตเตอร์ Studio Sampler และ Stems ลองใช้ทุกอย่างฟรี 48 ชั่วโมง ไม่ต้องใช้บัตร</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=th-home&mt=8" aria-label="ดาวน์โหลด VibeDeck Player สำหรับ iPhone และ iPad บน App Store"><img src="/assets/badges/app-store-en.svg" alt="ดาวน์โหลดบน App Store" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=th&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dth-home" aria-label="ดาวน์โหลด VibeDeck Player สำหรับ Android บน Google Play"><img src="/assets/badges/google-play-en.svg" alt="ดาวน์โหลดบน Google Play" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>ไม่มีโฆษณา</li><li>ไม่ต้องมีบัญชี</li><li>ไม่มีการติดตาม</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">หมายเหตุ: ตอนนี้แอปและหน้าแอปใน App Store และ Google Play ยังเป็นภาษาอังกฤษ</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>พิตช์</b> / เดโม PRO</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>รีเซ็ต</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="พิตช์เป็นเซมิโทน" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -285,6 +287,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="ตัวอย่าง">
+<div class="wrap" data-reveal=""><p>เพลงในแอปสตรีมมิงอาจหายไปเมื่อคุณเปลี่ยนแพ็กเกจหรือเปลี่ยนแอป แต่ไฟล์ของคุณเอง เช่น FLAC ที่ริปจากซีดี หรือ MP3 ที่ซื้อมา จะเป็นของคุณตลอดไป VibeDeck คือเครื่องเล่นที่ทำมาเพื่อเพลงแบบนี้</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio บน iPhone: ลูปตามกริดจังหวะ ระดับเสียง ฟิลเตอร์ เอฟเฟกต์ และการบันทึก" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft"><span style="white-space:nowrap">ลูป</span> <span style="white-space:nowrap">เอฟเฟกต์</span> <span style="white-space:nowrap">ส่งออก</span></span></h2>
+      <p class="lede">ทำลูปจากช่วงไหนของเพลงก็ได้ เปลี่ยนความเร็ว ใส่เอฟเฟกต์ แล้วบันทึกลงคลังหรือส่งออก</p>
+      <ul class="studio-points" aria-label="ฟีเจอร์ของ VibeDeck Studio">
+        <li><span><strong>ระดับเสียงและ Master Tempo</strong><small>ตั้งแต่พิตช์แบบดีเจคลาสสิกพร้อม Master Tempo ไปจนถึงเปลี่ยนความเร็วเต็ม 100% จะทำให้เพลงช้าลงหรือเร็วขึ้นก็ได้</small></span></li>
+        <li><span><strong>ลูปตามจังหวะ</strong><small>เลือก ½ ถึง 8 ห้อง ลูปจะเกาะกับจังหวะเอง</small></span></li>
+        <li><span><strong>ฟิลเตอร์</strong><small>กวาดฟิลเตอร์ผ่านเสียง</small></span></li>
+        <li><span><strong>เอฟเฟกต์</strong><small>แซทูเรชัน เบสบูสต์ รีเวิร์บ ดีเลย์ และเสียงแผ่นเสียงไวนิล</small></span></li>
+        <li><span><strong>ปรับจุดตัด</strong><small>ขยับกริด จุดเริ่มลูป และจุดจบลูป</small></span></li>
+        <li><span><strong>เล่นย้อนกลับ</strong><small>เล่นเพลงถอยหลัง</small></span></li>
+        <li><span><strong>บันทึกและส่งออก</strong><small>บันทึกผลลัพธ์ลงคลัง หรือส่งออกเป็นไฟล์</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">ดู VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -313,6 +341,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="เอฟเฟกต์ของ VibeDeck บน iPhone: เบสบูสต์ แซทูเรชัน และรีเวิร์บ" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">ใส่เอฟเฟกต์<br><span class="soft"><span style="white-space:nowrap">เบสบูสต์</span> <span style="white-space:nowrap">แซทูเรชัน</span> <span style="white-space:nowrap">รีเวิร์บ</span><br><span style="white-space:nowrap">เฟดเสียง</span> <span style="white-space:nowrap">แล้วส่งออก</span></span></h2>
+      <p class="lede">เบสบูสต์ แซทูเรชัน รีเวิร์บ ดีเลย์ และเสียงแผ่นเสียงไวนิล พร้อมพรีเซ็ตแตะครั้งเดียวอย่าง Slowed + Reverb และ Nightcore</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="เพลเยอร์ดึงสีมาจากปกอัลบั้ม" width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="แผงด้านและแสงเรืองจะเปลี่ยนไปในทุกเพลง ธีมสีขาวเร็วๆ นี้" width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">เพลเยอร์ดึงสีมาจากปกอัลบั้ม</h2>
+      <p class="lede">แผงด้านและแสงเรืองจะเปลี่ยนไปในทุกเพลง ธีมสีขาวเร็วๆ นี้</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -327,43 +380,73 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio บน iPhone: ลูปตามกริดจังหวะ ระดับเสียง ฟิลเตอร์ เอฟเฟกต์ และการบันทึก" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="ลากเพื่อจัดลำดับใหม่ เปลี่ยนปก โหมดกลางคืน" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft"><span style="white-space:nowrap">ลูป</span> <span style="white-space:nowrap">เอฟเฟกต์</span> <span style="white-space:nowrap">ส่งออก</span></span></h2>
-      <p class="lede">ทำลูปจากช่วงไหนของเพลงก็ได้ เปลี่ยนความเร็ว ใส่เอฟเฟกต์ แล้วบันทึกลงคลังหรือส่งออก</p>
-      <ul class="studio-points" aria-label="ฟีเจอร์ของ VibeDeck Studio">
-        <li><span><strong>ระดับเสียงและ Master Tempo</strong><small>ตั้งแต่พิตช์แบบดีเจคลาสสิกพร้อม Master Tempo ไปจนถึงเปลี่ยนความเร็วเต็ม 100% จะทำให้เพลงช้าลงหรือเร็วขึ้นก็ได้</small></span></li>
-        <li><span><strong>ลูปตามจังหวะ</strong><small>เลือก ½ ถึง 8 ห้อง ลูปจะเกาะกับจังหวะเอง</small></span></li>
-        <li><span><strong>ฟิลเตอร์</strong><small>กวาดฟิลเตอร์ผ่านเสียง</small></span></li>
-        <li><span><strong>เอฟเฟกต์</strong><small>แซทูเรชัน เบสบูสต์ รีเวิร์บ ดีเลย์ และเสียงแผ่นเสียงไวนิล</small></span></li>
-        <li><span><strong>ปรับจุดตัด</strong><small>ขยับกริด จุดเริ่มลูป และจุดจบลูป</small></span></li>
-        <li><span><strong>เล่นย้อนกลับ</strong><small>เล่นเพลงถอยหลัง</small></span></li>
-        <li><span><strong>บันทึกและส่งออก</strong><small>บันทึกผลลัพธ์ลงคลัง หรือส่งออกเป็นไฟล์</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">ดู VibeDeck <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">ลากเพื่อจัดลำดับใหม่<br><span class="soft">เปลี่ยนปก โหมดกลางคืน</span></h2>
+      <p class="lede">จัดลำดับเพลงตามใจชอบ เปลี่ยนปกอัลบั้มใดก็ได้ และเปิดโหมดกลางคืน</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo เพลเยอร์และคิววางเคียงกันบนหน้าจอใหญ่ มาในอัปเดตถัดไป" width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo<br><span class="soft">อัปเดตสัปดาห์หน้า</span></h2>
+      <p class="lede">เพลเยอร์และคิววางเคียงกันบนหน้าจอใหญ่ มาในอัปเดตถัดไป</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="เอฟเฟกต์ของ VibeDeck บน iPhone: เบสบูสต์ แซทูเรชัน และรีเวิร์บ" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="เปลี่ยนปกอัลบั้มใดก็ได้ ค้นหา รูปภาพ ต้นฉบับ" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">ใส่เอฟเฟกต์<br><span class="soft"><span style="white-space:nowrap">เบสบูสต์</span> <span style="white-space:nowrap">แซทูเรชัน</span> <span style="white-space:nowrap">รีเวิร์บ</span><br><span style="white-space:nowrap">เฟดเสียง</span> <span style="white-space:nowrap">แล้วส่งออก</span></span></h2>
-      <p class="lede">เบสบูสต์ แซทูเรชัน รีเวิร์บ ดีเลย์ และเสียงแผ่นเสียงไวนิล พร้อมพรีเซ็ตแตะครั้งเดียวอย่าง Slowed + Reverb และ Nightcore</p>
+      <h2 class="h2" id="cover-title">เปลี่ยนปกอัลบั้มใดก็ได้<br><span class="soft">ค้นหา รูปภาพ ต้นฉบับ</span></h2>
+      <p class="lede">ค้นหาปกสำหรับเพลงใดก็ได้ เลือกจากรูปภาพ หรือใช้ปกต้นฉบับต่อไป</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="ตัวอย่าง">
-<div class="wrap" data-reveal=""><p>เพลงในแอปสตรีมมิงอาจหายไปเมื่อคุณเปลี่ยนแพ็กเกจหรือเปลี่ยนแอป แต่ไฟล์ของคุณเอง เช่น FLAC ที่ริปจากซีดี หรือ MP3 ที่ซื้อมา จะเป็นของคุณตลอดไป VibeDeck คือเครื่องเล่นที่ทำมาเพื่อเพลงแบบนี้</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck สำหรับ Android</h2>
+      <p class="lede">เพลเยอร์เพลงออฟไลน์สำหรับไฟล์ของคุณเอง พร้อมพิตช์ รูปคลื่น โทน และตัวควบคุมเสียงในหน้าจอเดียว</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=th&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dth-home" aria-label="ดาวน์โหลด VibeDeck Player สำหรับ Android บน Google Play"><img src="/assets/badges/google-play-en.svg" alt="ดาวน์โหลดบน Google Play" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck สำหรับ Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck สำหรับ Android: การเล่น" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck สำหรับ Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck สำหรับ Android: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck สำหรับ Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck สำหรับ Android: เอฟเฟกต์" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck สำหรับ Android: EQ 8 แบนด์" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck สำหรับ Android: EQ 3 แบนด์" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck สำหรับ Android: ตัดต่อ" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck สำหรับ Android: คิว" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck สำหรับ Android: ปกอัลบั้ม" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">ข้อมูลจำเพาะ</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 เซมิโทน</li><li>เทมโป</li><li>อีควอไลเซอร์</li><li>ลิมิตเตอร์</li><li>ออฟไลน์</li><li>ไม่มีโฆษณา</li><li>ไม่ต้องมีบัญชี</li><li>ไม่มีการติดตาม</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">เพลเยอร์มาก่อน <span class="soft">ปุ่มควบคุมอยู่ใกล้มือ</span></h2></div><p class="lede">VibeDeck ทำให้เพลงที่กำลังเล่นอ่านง่าย ขณะที่คิวและอีควอไลเซอร์อยู่ห่างแค่ขั้นตอนเดียว เพลเยอร์เพลงออฟไลน์สำหรับไฟล์ในเครื่องตัวนี้อ่านง่ายแม้ในที่มืด และมีตัวควบคุมเสียงอยู่ใกล้มือ</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>การเล่น</h3><p>ปุ่มควบคุมการเล่นครบ รูปคลื่นที่เลื่อนได้ ตัวแสดง BPM และพิตช์กับฟิลเตอร์บนหน้าจอหลัก เพลงเดิม ความรู้สึกใหม่</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>คิว</h3><p>ดูว่ากำลังเล่นอะไร ค้นหาในคลัง และจัดเพลงถัดไปโดยไม่ต้องออกจากเพลเยอร์ โหมดกลางคืนซ่อนภาพปกและเหลือแค่รายการ</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>เสียง</h3><p>EQ + เกน เพิ่มเบส ฟิลเตอร์ การประมวลผลที่ตอบสนองต่อเสียง VibeMod บาลานซ์สเตอริโอ และการเปลี่ยนพิตช์แบบเรียลไทม์สูงสุด ±8 st ลิมิตเตอร์ในตัวช่วยให้เสียงสะอาดและมีพลังกับหูฟังทุกรุ่น</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">พิตช์ EQ AURA TONE <span class="soft">หน้าจอมืดหน้าจอเดียว</span></h2></div><p class="lede">เครื่องมือเสียง PRO อยู่ห่างจากเพลงแค่ขั้นตอนเดียว เพลเยอร์ที่ควบคุมพิตช์และจังหวะได้ อีควอไลเซอร์ตัวจริงสำหรับ iPhone และ Android และภาพที่ตอบสนองต่อบีต</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">การเล่น</span><div><h3>เพลงเดิม ความรู้สึกใหม่</h3><p>พิตช์ VibeMod และ TONE อยู่ใต้ภาพปกพอดี เครื่องมือ DJ, Studio, Sampler และ Stems อยู่ห่างแค่แตะเดียว</p></div></li><li><span class="k mono">Studio</span><div><h3>DJ พิตช์แบบคลาสสิก Master Tempo</h3><p>บิดพิตช์เหมือนเครื่องเล่นแผ่นเสียง หรือคงคีย์ไว้แล้วเปลี่ยนแค่จังหวะ วนลูปตั้งแต่ครึ่งห้องถึง 8 ห้องบนกริดบีต</p></div></li><li><span class="k mono">Sampler</span><div><h3>บันทึกเลย เสียงจากระบบ</h3><p>บันทึกเสียงจาก YouTube, TikTok และอื่นๆ จากนั้นตัด แชร์ หรือเปิดใน Studio</p></div></li><li><span class="k mono">Stems</span><div><h3>แยกเพลงใดก็ได้</h3><p>แยกเพลงเป็นเสียงร้องและดนตรีประกอบบนโทรศัพท์ได้เลย จากนั้นมิกซ์สดหรือเพิ่มเอฟเฟกต์ของ Studio</p></div></li><li><span class="k mono">เอฟเฟกต์</span><div><h3>เพิ่มเอฟเฟกต์</h3><p>เพิ่มเบส แซทเทอเรชัน รีเวิร์บ และเอคโค่ พร้อมพรีเซ็ตอย่าง Slowed + Reverb และ Nightcore</p></div></li><li><span class="k mono">EQ 8 แบนด์</span><div><h3>3 แบนด์ 8 แบนด์</h3><p>สลับเป็น EQ 8 แบนด์ตั้งแต่ 60 Hz ถึง 16 kHz พร้อม VibeMod ลิมิตเตอร์ และโมโน</p></div></li><li><span class="k mono">EQ 3 แบนด์</span><div><h3>DJ EQ 3 แบนด์</h3><p>เกน เบส มิด และไฮ: EQ มิกเซอร์ DJ แบบคลาสสิกสำหรับเพลงของคุณเอง</p></div></li><li><span class="k mono">ตัดต่อ</span><div><h3>ตัด แชร์</h3><p>ตัดเสียงที่บันทึก เพิ่มเฟดอินและเฟดเอาต์ แล้วแชร์หรือเปิดใน Studio</p></div></li><li><span class="k mono">คิว</span><div><h3>ลากเพื่อจัดลำดับใหม่</h3><p>จัดลำดับเพลงตามใจชอบ เปลี่ยนปกอัลบั้มใดก็ได้ และเปิดโหมดกลางคืน</p></div></li><li><span class="k mono">ปกอัลบั้ม</span><div><h3>เปลี่ยนปกอัลบั้มใดก็ได้</h3><p>ค้นหาปกสำหรับเพลงใดก็ได้ เลือกจากรูปภาพ หรือใช้ปกต้นฉบับต่อไป</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -371,11 +454,11 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>ไม่ต้องใช้อินเทอร์เน็ต</h3><p>ฟังคลังเพลงของคุณบนเครื่องบินหรือในที่ที่ไม่มีสัญญาณ การฟังเพลงไม่กินเน็ตมือถือ</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>เสียงในแบบของคุณ</h3><p>อีควอไลเซอร์พร้อมเกน เพิ่มเสียงเบส ฟิลเตอร์ และลิมิตเตอร์ เลื่อนไปยังช่วงใดของเพลงก็ได้ผ่านรูปคลื่นเสียง</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>คีย์และเทมโป</h3><p>เปลี่ยนคีย์ได้สูงสุด ±8 เซมิโทน และปรับเทมโปแยกกัน สำหรับร้องเพลง ซ้อมเครื่องดนตรี หรือเตรียมเซ็ตดีเจ</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">เสียงทั้งหมดในหน้าจอเดียว</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">การเล่น</p><h3>ปรับระดับเสียงได้จากหน้าจอหลัก</h3><p>Pitch, VibeMod และ TONE อยู่ใต้ภาพปกพอดี เพลงเดิม ความรู้สึกใหม่</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">เสียง</p><h3>อีควอไลเซอร์พร้อมเกนและลิมิตเตอร์</h3><p>เกน เสียงต่ำ เสียงกลาง และเสียงแหลม พร้อมลิมิตเตอร์และสมดุลเสียงซ้ายขวา ปรับได้แบบเรียลไทม์</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>เปลี่ยนบรรยากาศ</h3><p>เปิด TONE แล้วฟังเพลงเดิมในโทนสีเสียงใหม่</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>เพลงที่ตอบสนองได้</h3><p>ภาพเคลื่อนไหวตามจังหวะ ขับเคลื่อนด้วยเพลงที่กำลังเล่น</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>โลกของเพลงคุณ</h3><p>ภาพบรรยากาศที่ตอบสนองต่อเพลง เหมาะกับการฟังในห้องที่แสงสลัว</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">คิวเพลง</p><h3>แตะแล้วลากเพื่อเรียงลำดับ</h3><p>จัดลำดับเพลง ค้นหาในคลังเพลง และดูว่าเพลงถัดไปคืออะไร</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">สร้างมาเพื่อ <span class="soft">วิธีที่คุณฟังเพลง</span></h2></div><p class="lede">คู่มือสำหรับทุกวิธีที่ใช้ VibeDeck Player</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>เล่นไฟล์ของคุณ</h3><ul><li><a href="/th/flac-player/">เครื่องเล่น FLAC สำหรับ iPhone และ Android</a></li><li><a href="/th/mp3-player-mai-mi-khotsana/">เครื่องเล่น MP3 ไม่มีโฆษณา</a></li></ul></div><div><h3>เปลี่ยนคีย์และความเร็ว</h3><ul><li><a href="/th/plian-key-phleng/">เปลี่ยนคีย์เพลง</a></li><li><a href="/th/tham-phleng-hai-cha-long/">ทำให้เพลงช้าลง โดยคีย์ไม่เปลี่ยน</a></li><li><a href="/th/bpm/">BPM ของทุกเพลง</a></li><li><a href="/th/nightcore/">Nightcore บนมือถือ แตะครั้งเดียว</a></li></ul></div><div><h3>ปรับแต่งเสียง</h3><ul><li><a href="/th/dj-eq/">สลับอีควอไลเซอร์ DJ 3 แบนด์กับ 8 แบนด์ในแตะเดียว</a></li></ul></div><div><h3>DJ, Studio และการบันทึก</h3><ul><li><a href="/th/yaek-siang-rong/">แยกเพลงไหนก็ได้เป็นเสียงร้องและดนตรี</a></li><li><a href="/th/ab-siang-phainai-mue-thue/">อัดเสียงจาก YouTube, TikTok และอื่น ๆ</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
@@ -387,12 +470,6 @@
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="หน้าจอเล่นเพลงออฟไลน์ของ VibeDeck Player บน iPhone" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">ข้อมูลจำเพาะ</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 เซมิโทน</li><li>เทมโป</li><li>อีควอไลเซอร์</li><li>ลิมิตเตอร์</li><li>ออฟไลน์</li><li>ไม่มีโฆษณา</li><li>ไม่ต้องมีบัญชี</li><li>ไม่มีการติดตาม</li></ul>
 </div>
 </section>
 <section class="section">

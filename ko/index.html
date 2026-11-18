@@ -86,7 +86,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -269,13 +269,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">오프라인 음악 플레이어</span> <span class="h1-sub">광고 없이 FLAC, MP3, WAV 재생</span></h1>
 <p class="lede">iPhone, iPad, Android용 오프라인 음악 플레이어이자 속도 변경 앱입니다. 내 파일의 MP3, FLAC, WAV, M4A, AAC, AIFF 등을 재생하며, 기본 재생은 무료이고 Wi-Fi도 필요 없습니다. <a href="#premium">PRO</a>에서는 속도, 피치, 필터, EQ, 리미터, Studio, Sampler, Stems를 쓸 수 있습니다. 48시간 동안 모든 기능을 무료로 써 보세요. 카드는 필요 없습니다.</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=ko-home&mt=8" aria-label="App Store에서 iPhone 및 iPad용 VibeDeck Player 다운로드"><img src="/assets/badges/app-store-en.svg" alt="App Store에서 다운로드" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=ko&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dko-home" aria-label="Google Play에서 Android용 VibeDeck Player 다운로드"><img src="/assets/badges/google-play-en.svg" alt="Google Play에서 다운로드" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>광고 없음</li><li>계정 없음</li><li>추적 없음</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">참고: 앱과 App Store, Google Play 페이지는 현재 영어로 제공됩니다.</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>피치</b> / PRO 데모</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>초기화</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="반음 단위 피치" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -285,6 +287,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="미리보기">
+<div class="wrap" data-reveal=""><p>스트리밍 곡은 구독이나 앱을 바꾸면 사라질 수 있습니다. CD에서 추출한 FLAC이나 구매한 MP3처럼 직접 가진 파일은 계속 내 것입니다. VibeDeck은 바로 그런 음악을 위한 플레이어입니다.</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="iPhone의 VibeDeck Studio: 비트 그리드 루프, 피치, 필터, 이펙트, 녹음" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">루프. 이펙트. 내보내기.</span></h2>
+      <p class="lede">곡의 원하는 순간을 루프로 만들고, 속도를 바꾸고, 이펙트를 더한 뒤 보관함에 저장하거나 내보내세요.</p>
+      <ul class="studio-points" aria-label="VibeDeck Studio 기능">
+        <li><span><strong>피치와 Master Tempo</strong><small>클래식 DJ 피치와 Master Tempo부터 속도 100% 변경까지. 곡을 느리게도, 빠르게도 만들 수 있습니다.</small></span></li>
+        <li><span><strong>마디 단위 루프</strong><small>½마디부터 8마디까지 고르면 비트에 맞춰 붙습니다.</small></span></li>
+        <li><span><strong>필터</strong><small>필터로 소리를 훑어 보세요.</small></span></li>
+        <li><span><strong>이펙트</strong><small>새추레이션, 베이스 부스트, 리버브, 딜레이, 바이닐 사운드.</small></span></li>
+        <li><span><strong>컷 위치 조정</strong><small>그리드와 루프의 시작점, 끝점을 움직입니다.</small></span></li>
+        <li><span><strong>거꾸로 재생</strong><small>곡을 거꾸로 재생합니다.</small></span></li>
+        <li><span><strong>저장과 내보내기</strong><small>결과를 보관함에 저장하거나 내보내세요.</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">VibeDeck 둘러보기 <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -313,6 +341,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="iPhone의 VibeDeck 이펙트: 베이스 부스트, 새추레이션, 리버브" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">이펙트를 더하세요.<br><span class="soft">베이스 부스트. 새추레이션. 리버브.<br>페이드를 주고 내보내세요.</span></h2>
+      <p class="lede">베이스 부스트, 새추레이션, 리버브, 딜레이, 바이닐 사운드에 Slowed + Reverb, Nightcore 같은 원탭 프리셋까지.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="플레이어가 커버에서 색을 가져옵니다." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="매트한 패널과 글로우가 곡마다 바뀝니다. 화이트 테마는 곧 출시됩니다." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">플레이어가 커버에서 색을 가져옵니다.</h2>
+      <p class="lede">매트한 패널과 글로우가 곡마다 바뀝니다. 화이트 테마는 곧 출시됩니다.</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -327,43 +380,73 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="iPhone의 VibeDeck Studio: 비트 그리드 루프, 피치, 필터, 이펙트, 녹음" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="드래그해서 순서 변경. 커버 변경. 나이트 모드." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">루프. 이펙트. 내보내기.</span></h2>
-      <p class="lede">곡의 원하는 순간을 루프로 만들고, 속도를 바꾸고, 이펙트를 더한 뒤 보관함에 저장하거나 내보내세요.</p>
-      <ul class="studio-points" aria-label="VibeDeck Studio 기능">
-        <li><span><strong>피치와 Master Tempo</strong><small>클래식 DJ 피치와 Master Tempo부터 속도 100% 변경까지. 곡을 느리게도, 빠르게도 만들 수 있습니다.</small></span></li>
-        <li><span><strong>마디 단위 루프</strong><small>½마디부터 8마디까지 고르면 비트에 맞춰 붙습니다.</small></span></li>
-        <li><span><strong>필터</strong><small>필터로 소리를 훑어 보세요.</small></span></li>
-        <li><span><strong>이펙트</strong><small>새추레이션, 베이스 부스트, 리버브, 딜레이, 바이닐 사운드.</small></span></li>
-        <li><span><strong>컷 위치 조정</strong><small>그리드와 루프의 시작점, 끝점을 움직입니다.</small></span></li>
-        <li><span><strong>거꾸로 재생</strong><small>곡을 거꾸로 재생합니다.</small></span></li>
-        <li><span><strong>저장과 내보내기</strong><small>결과를 보관함에 저장하거나 내보내세요.</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">VibeDeck 둘러보기 <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">드래그해서 순서 변경.<br><span class="soft">커버 변경. 나이트 모드.</span></h2>
+      <p class="lede">원하는 대로 곡 순서를 바꾸고, 어떤 커버든 바꾸고, 나이트 모드를 켜세요.</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo. 큰 화면에서 플레이어와 대기열을 나란히. 다음 업데이트에 추가됩니다." width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo.<br><span class="soft">다음 주 업데이트.</span></h2>
+      <p class="lede">큰 화면에서 플레이어와 대기열을 나란히. 다음 업데이트에 추가됩니다.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="iPhone의 VibeDeck 이펙트: 베이스 부스트, 새추레이션, 리버브" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="어떤 커버든 바꾸세요. 검색. 사진. 원본." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">이펙트를 더하세요.<br><span class="soft">베이스 부스트. 새추레이션. 리버브.<br>페이드를 주고 내보내세요.</span></h2>
-      <p class="lede">베이스 부스트, 새추레이션, 리버브, 딜레이, 바이닐 사운드에 Slowed + Reverb, Nightcore 같은 원탭 프리셋까지.</p>
+      <h2 class="h2" id="cover-title">어떤 커버든 바꾸세요.<br><span class="soft">검색. 사진. 원본.</span></h2>
+      <p class="lede">어떤 곡이든 커버를 검색하거나, 사진에서 고르거나, 원본을 그대로 쓰세요.</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="미리보기">
-<div class="wrap" data-reveal=""><p>스트리밍 곡은 구독이나 앱을 바꾸면 사라질 수 있습니다. CD에서 추출한 FLAC이나 구매한 MP3처럼 직접 가진 파일은 계속 내 것입니다. VibeDeck은 바로 그런 음악을 위한 플레이어입니다.</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">Android용 VibeDeck.</h2>
+      <p class="lede">내 파일을 위한 오프라인 음악 플레이어. 피치, 파형, 톤, 사운드 컨트롤이 한 화면에 있습니다.</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=ko&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dko-home" aria-label="Google Play에서 Android용 VibeDeck Player 다운로드"><img src="/assets/badges/google-play-en.svg" alt="Google Play에서 다운로드" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="Android용 VibeDeck" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="Android용 VibeDeck: 재생" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="Android용 VibeDeck: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="Android용 VibeDeck: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="Android용 VibeDeck: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="Android용 VibeDeck: 이펙트" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="Android용 VibeDeck: 8밴드 EQ" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="Android용 VibeDeck: 3밴드 EQ" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="Android용 VibeDeck: 트림" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="Android용 VibeDeck: 대기열" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="Android용 VibeDeck: 커버" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">주요 기능</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 반음</li><li>템포</li><li>이퀄라이저</li><li>리미터</li><li>오프라인</li><li>광고 없음</li><li>계정 불필요</li><li>추적 없음</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">플레이어가 먼저. <span class="soft">컨트롤은 바로 옆에.</span></h2></div><p class="lede">VibeDeck은 지금 재생 중인 곡을 보기 쉽게 유지하고, 대기열과 EQ는 한 번의 동작 거리에 둡니다. 로컬 파일을 위한 이 오프라인 음악 플레이어는 어두운 곳에서도 보기 편하고, 사운드 컨트롤이 가까이 있습니다.</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>재생</h3><p>전체 재생 컨트롤, 스크러빙 가능한 파형, BPM 표시, 메인 화면의 피치와 필터. 같은 곡, 새로운 느낌.</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>대기열</h3><p>재생 중인 곡을 확인하고, 라이브러리를 검색하고, 플레이어를 떠나지 않고 다음 곡을 정리하세요. 나이트 모드는 아트워크를 숨기고 목록만 남깁니다.</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>사운드</h3><p>EQ + 게인, 베이스 부스트, 필터, 오디오 반응형 VibeMod 처리, 스테레오 밸런스, 최대 ±8 st의 실시간 피치 변환. 내장 리미터로 어떤 헤드폰에서도 깨끗하고 탄탄한 소리를 냅니다.</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">피치, EQ, AURA, TONE. <span class="soft">어두운 화면 하나에.</span></h2></div><p class="lede">PRO 사운드 도구가 곡 바로 옆에: 피치와 템포를 조절하는 음악 플레이어, iPhone과 Android를 위한 진짜 이퀄라이저, 비트에 반응하는 비주얼.</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">재생</span><div><h3>같은 곡, 새로운 느낌.</h3><p>피치, VibeMod, TONE이 아트워크 바로 아래에 있습니다. DJ 도구, Studio, Sampler, Stems는 한 번 탭하면 열립니다.</p></div></li><li><span class="k mono">Studio</span><div><h3>클래식 DJ 피치. 마스터 템포.</h3><p>턴테이블처럼 피치를 휘게 하거나, 키는 유지하고 템포만 바꿀 수 있습니다. 비트 그리드에서 반 마디부터 8마디까지 루프.</p></div></li><li><span class="k mono">Sampler</span><div><h3>녹음하세요. 시스템 오디오.</h3><p>YouTube, TikTok 등의 소리를 녹음한 뒤 자르고, 공유하거나 Studio에서 여세요.</p></div></li><li><span class="k mono">Stems</span><div><h3>어떤 곡이든 분리.</h3><p>곡을 휴대폰에서 바로 보컬과 반주로 분리하고, 라이브로 믹스하거나 Studio 이펙트를 더하세요.</p></div></li><li><span class="k mono">이펙트</span><div><h3>이펙트를 추가하세요.</h3><p>베이스 부스트, 새츄레이션, 리버브, 에코, 그리고 Slowed + Reverb, Nightcore 같은 프리셋.</p></div></li><li><span class="k mono">8밴드 EQ</span><div><h3>3밴드. 8밴드.</h3><p>60 Hz부터 16 kHz까지 8밴드 EQ로 전환하세요. VibeMod, 리미터, 모노도 지원합니다.</p></div></li><li><span class="k mono">3밴드 EQ</span><div><h3>3밴드 DJ EQ.</h3><p>게인, 베이스, 미드, 하이: 내 곡을 위한 클래식 DJ 믹서 EQ.</p></div></li><li><span class="k mono">트림</span><div><h3>자르고. 공유하고.</h3><p>녹음을 자르고, 페이드 인과 페이드 아웃을 넣은 뒤 공유하거나 Studio에서 여세요.</p></div></li><li><span class="k mono">대기열</span><div><h3>드래그해서 순서 변경.</h3><p>원하는 대로 곡 순서를 바꾸고, 어떤 커버든 바꾸고, 나이트 모드를 켜세요.</p></div></li><li><span class="k mono">커버</span><div><h3>어떤 커버든 바꾸세요.</h3><p>어떤 곡이든 커버를 검색하거나, 사진에서 고르거나, 원본을 그대로 쓰세요.</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -371,11 +454,11 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>인터넷 없이</h3><p>비행기 안이나 신호가 없는 곳에서도 내 라이브러리를 들으세요. 모바일 데이터도 쓰지 않습니다.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>나만의 사운드</h3><p>게인이 있는 이퀄라이저, 베이스 부스트, 필터, 리미터. 파형을 보며 곡 안을 자유롭게 이동할 수 있습니다.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>키와 템포</h3><p>키는 ±8 반음까지, 템포는 따로 조절하세요. 노래 연습, 악기 연습, DJ 세트 준비에 알맞습니다.</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">모든 사운드를 한 화면에</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">재생</p><h3>메인 화면에서 바로 피치 조절</h3><p>앨범 아트 바로 아래에 Pitch, VibeMod, TONE이 있습니다. 같은 곡, 새로운 느낌.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">사운드</p><h3>게인 이퀄라이저와 리미터</h3><p>게인, 저음, 중음, 고음에 리미터와 스테레오 밸런스까지 실시간으로 조절합니다.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>분위기를 바꿔 보세요</h3><p>TONE을 켜면 같은 곡이 다른 색으로 들립니다.</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>음악에 반응하는 화면</h3><p>재생 중인 곡에 맞춰 비트마다 움직이는 비주얼.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>음악을 위한 작은 우주</h3><p>음악에 반응하는 분위기 있는 비주얼. 어두운 방에서 들을 때 특히 잘 어울립니다.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">재생 대기열</p><h3>터치하고 끌어서 순서 변경</h3><p>곡 순서를 바꾸고, 라이브러리를 검색하고, 다음 곡을 미리 확인하세요.</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">당신이 듣는 방식에 <span class="soft">맞춰 만들었습니다.</span></h2></div><p class="lede">VibeDeck Player를 쓰는 모든 방식을 위한 가이드.</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>내 파일 재생</h3><ul><li><a href="/ko/flac-player/">iPhone·Android용 FLAC 플레이어</a></li><li><a href="/ko/mp3-player/">광고 없는 MP3 플레이어</a></li></ul></div><div><h3>키와 속도 바꾸기</h3><ul><li><a href="/ko/key-byeongyeong/">노래 키 바꾸기</a></li><li><a href="/ko/tempo-byeongyeong/">음정은 그대로, 노래 속도만 늦추기</a></li><li><a href="/ko/bpm/">모든 노래의 BPM</a></li><li><a href="/ko/nightcore/">나이트코어를 한 번의 탭으로</a></li></ul></div><div><h3>사운드 다듬기</h3><ul><li><a href="/ko/dj-equalizer/">3밴드 DJ EQ와 8밴드 이퀄라이저를 한 번에 전환</a></li></ul></div><div><h3>DJ, Studio, 녹음</h3><ul><li><a href="/ko/vocal-bunri/">어떤 곡이든 보컬과 반주로 분리</a></li><li><a href="/ko/naebu-sori-nokeum/">YouTube, TikTok 등의 소리를 녹음하세요</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
@@ -387,12 +470,6 @@
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="iPhone에서 오프라인으로 재생 중인 VibeDeck Player 화면" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">주요 기능</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 반음</li><li>템포</li><li>이퀄라이저</li><li>리미터</li><li>오프라인</li><li>광고 없음</li><li>계정 불필요</li><li>추적 없음</li></ul>
 </div>
 </section>
 <section class="section">

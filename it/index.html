@@ -86,7 +86,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-13",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {"@id": "https://vibedeckplayer.app/#org"},
    "@id": "https://vibedeckplayer.app/it/#webpage",
    "url": "https://vibedeckplayer.app/it/",
@@ -267,13 +267,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">Lettore musicale offline</span> <span class="h1-sub">FLAC, MP3 e WAV, senza pubblicità</span></h1>
 <p class="lede">Lettore musicale offline con cambio di velocità per iPhone, iPad e Android. Riproduce MP3, FLAC, WAV, M4A, AAC, AIFF e altro dai tuoi file, con riproduzione di base gratuita e senza bisogno di WiFi. <a href="#premium">PRO</a> sblocca velocità, pitch, filtro, EQ, limiter, Studio, Sampler e Stems. Prova tutto gratis per 48 ore. Non serve la carta.</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=it-home&mt=8" aria-label="Scarica VibeDeck Player per iPhone e iPad dall’App Store"><img src="/assets/badges/app-store-it.svg" alt="Scarica sull’App Store" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=it&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dit-home" aria-label="Scarica VibeDeck Player per Android da Google Play"><img src="/assets/badges/google-play-it.svg" alt="Disponibile su Google Play" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>Senza pubblicità</li><li>Senza account</li><li>Senza tracciamento</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">Nota: l’interfaccia dell’app e le schede negli store sono attualmente in inglese.</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>Intonazione</b> / demo PRO</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>RIPRISTINA</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="Intonazione in semitoni" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -283,6 +285,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="Panoramica">
+<div class="wrap" data-reveal=""><p>I brani in streaming possono diventare inaccessibili quando cambi abbonamento o servizio. I tuoi file, come un FLAC estratto da un CD o un MP3 acquistato, restano tuoi. VibeDeck è il lettore pensato per questa musica.</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio su iPhone: loop sulla griglia ritmica, pitch, filtro, effetti e registrazione" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Loop. Effetti. Esporta.</span></h2>
+      <p class="lede">Crea un loop da qualsiasi momento di un brano, cambia la velocità, aggiungi effetti e salva il risultato nella libreria oppure esportalo.</p>
+      <ul class="studio-points" aria-label="Funzioni di VibeDeck Studio">
+        <li><span><strong>Pitch e Master Tempo</strong><small>Dal classico pitch da DJ con Master Tempo a un cambio di velocità del 100%. Rallenta un brano o accelera.</small></span></li>
+        <li><span><strong>Loop a tempo</strong><small>Scegli da ½ a 8 battute. Si aggancia al ritmo.</small></span></li>
+        <li><span><strong>Filtro</strong><small>Fai scorrere il filtro sul suono.</small></span></li>
+        <li><span><strong>Effetti</strong><small>Saturazione, bass boost, riverbero, delay e suono vinile.</small></span></li>
+        <li><span><strong>Regola il taglio</strong><small>Sposta la griglia, l'inizio e la fine del loop.</small></span></li>
+        <li><span><strong>Riproduzione al contrario</strong><small>Riproduci il brano al contrario.</small></span></li>
+        <li><span><strong>Salva ed esporta</strong><small>Salva il risultato nella libreria oppure esportalo.</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">Scopri VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -311,6 +339,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="Effetti di VibeDeck su iPhone: bass boost, saturazione e riverbero" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">Aggiungi effetti.<br><span class="soft">Bass boost. Saturazione. Riverbero.<br>Dissolvenza. Esporta.</span></h2>
+      <p class="lede">Bass boost, saturazione, riverbero, delay e suono vinile, più preset a un tocco come Slowed + Reverb e Nightcore.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="Il player prende il colore dalla copertina." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="I pannelli opachi e il bagliore cambiano a ogni brano. Tema chiaro in arrivo." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">Il player prende il colore dalla copertina.</h2>
+      <p class="lede">I pannelli opachi e il bagliore cambiano a ogni brano. Tema chiaro in arrivo.</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -325,43 +378,73 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio su iPhone: loop sulla griglia ritmica, pitch, filtro, effetti e registrazione" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="Trascina per riordinare. Cambia copertina. Modalità notte." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Loop. Effetti. Esporta.</span></h2>
-      <p class="lede">Crea un loop da qualsiasi momento di un brano, cambia la velocità, aggiungi effetti e salva il risultato nella libreria oppure esportalo.</p>
-      <ul class="studio-points" aria-label="Funzioni di VibeDeck Studio">
-        <li><span><strong>Pitch e Master Tempo</strong><small>Dal classico pitch da DJ con Master Tempo a un cambio di velocità del 100%. Rallenta un brano o accelera.</small></span></li>
-        <li><span><strong>Loop a tempo</strong><small>Scegli da ½ a 8 battute. Si aggancia al ritmo.</small></span></li>
-        <li><span><strong>Filtro</strong><small>Fai scorrere il filtro sul suono.</small></span></li>
-        <li><span><strong>Effetti</strong><small>Saturazione, bass boost, riverbero, delay e suono vinile.</small></span></li>
-        <li><span><strong>Regola il taglio</strong><small>Sposta la griglia, l'inizio e la fine del loop.</small></span></li>
-        <li><span><strong>Riproduzione al contrario</strong><small>Riproduci il brano al contrario.</small></span></li>
-        <li><span><strong>Salva ed esporta</strong><small>Salva il risultato nella libreria oppure esportalo.</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">Scopri VibeDeck <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">Trascina per riordinare.<br><span class="soft">Cambia copertina. Modalità notte.</span></h2>
+      <p class="lede">Riordina i brani come preferisci, cambia qualsiasi copertina e attiva la modalità notte.</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo. Il player e la coda affiancati sullo schermo grande. In arrivo con il prossimo aggiornamento." width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo.<br><span class="soft">Aggiornamento la prossima settimana.</span></h2>
+      <p class="lede">Il player e la coda affiancati sullo schermo grande. In arrivo con il prossimo aggiornamento.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="Effetti di VibeDeck su iPhone: bass boost, saturazione e riverbero" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="Cambia qualsiasi copertina. Cerca. Foto. Originale." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">Aggiungi effetti.<br><span class="soft">Bass boost. Saturazione. Riverbero.<br>Dissolvenza. Esporta.</span></h2>
-      <p class="lede">Bass boost, saturazione, riverbero, delay e suono vinile, più preset a un tocco come Slowed + Reverb e Nightcore.</p>
+      <h2 class="h2" id="cover-title">Cambia qualsiasi copertina.<br><span class="soft">Cerca. Foto. Originale.</span></h2>
+      <p class="lede">Cerca una copertina per qualsiasi brano, sceglila da Foto o tieni l'originale.</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="Panoramica">
-<div class="wrap" data-reveal=""><p>I brani in streaming possono diventare inaccessibili quando cambi abbonamento o servizio. I tuoi file, come un FLAC estratto da un CD o un MP3 acquistato, restano tuoi. VibeDeck è il lettore pensato per questa musica.</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck per Android.</h2>
+      <p class="lede">Un lettore musicale offline per i tuoi file, con intonazione, forma d'onda, tono e controlli del suono in una sola schermata.</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=it&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dit-home" aria-label="Scarica VibeDeck Player per Android da Google Play"><img src="/assets/badges/google-play-it.svg" alt="Disponibile su Google Play" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck per Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck per Android: Riproduzione" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck per Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck per Android: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck per Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck per Android: Effetti" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck per Android: EQ a 8 bande" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck per Android: EQ a 3 bande" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck per Android: Taglio" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck per Android: Coda" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck per Android: Copertine" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">Caratteristiche</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 st</li><li>Tempo</li><li>Equalizzatore</li><li>Limiter</li><li>Offline</li><li>Senza pubblicità</li><li>Senza account</li><li>Senza tracciamento</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">Prima il player. <span class="soft">Comandi a portata di mano.</span></h2></div><p class="lede">VibeDeck mantiene leggibile il brano in riproduzione, mentre coda ed EQ restano a un gesto di distanza. Questo lettore musicale offline per i tuoi file locali si legge bene al buio, con i controlli del suono a portata di mano.</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>Riproduzione</h3><p>Controlli di riproduzione completi, forma d'onda con scorrimento, indicatore dei BPM e intonazione/filtro nella schermata principale. Stesso brano. Nuova sensazione.</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>Coda</h3><p>Guarda cosa sta suonando, cerca nella libreria e prepara il prossimo senza uscire dal player. La modalità notte toglie la copertina e lascia solo l'elenco.</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>Suono</h3><p>EQ + gain, bass boost, filtro, elaborazione reattiva VibeMod, bilanciamento stereo e cambio di intonazione in tempo reale fino a ±8 st. Limiter integrato: suono pulito e potente con qualsiasi cuffia.</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">Intonazione, EQ, AURA, TONE. <span class="soft">Una sola schermata scura.</span></h2></div><p class="lede">Gli strumenti audio PRO sono a un gesto dal brano: un lettore con controllo di intonazione e tempo, un vero equalizzatore per iPhone e Android e visual che reagiscono al ritmo.</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">Riproduzione</span><div><h3>Stesso brano. Nuova sensazione.</h3><p>Intonazione, VibeMod e TONE stanno proprio sotto la copertina. Strumenti DJ, Studio, Sampler e Stems a un tocco.</p></div></li><li><span class="k mono">Studio</span><div><h3>Pitch DJ classico. Master Tempo.</h3><p>Piega l'intonazione come su un piatto o mantieni la tonalità e cambia solo il tempo. Loop da mezza battuta a 8 battute sulla griglia del ritmo.</p></div></li><li><span class="k mono">Sampler</span><div><h3>Registra. Audio di sistema.</h3><p>Registra l'audio di YouTube, TikTok e altri, poi taglialo, condividilo o aprilo in Studio.</p></div></li><li><span class="k mono">Stems</span><div><h3>Separa qualsiasi brano.</h3><p>Separa un brano in voce e strumentale direttamente sul telefono, poi mixali dal vivo o aggiungi gli effetti di Studio.</p></div></li><li><span class="k mono">Effetti</span><div><h3>Aggiungi effetti.</h3><p>Bass boost, saturazione, riverbero ed eco, più preset come Slowed + Reverb e Nightcore.</p></div></li><li><span class="k mono">EQ a 8 bande</span><div><h3>3 bande. 8 bande.</h3><p>Passa a un EQ a 8 bande da 60 Hz a 16 kHz, con VibeMod, limiter e mono.</p></div></li><li><span class="k mono">EQ a 3 bande</span><div><h3>EQ DJ a 3 bande.</h3><p>Gain, bassi, medi e alti: il classico EQ da mixer DJ per i tuoi brani.</p></div></li><li><span class="k mono">Taglio</span><div><h3>Taglia. Condividi.</h3><p>Taglia una registrazione, aggiungi fade in e fade out, poi condividila o aprila in Studio.</p></div></li><li><span class="k mono">Coda</span><div><h3>Trascina per riordinare.</h3><p>Riordina i brani come preferisci, cambia qualsiasi copertina e attiva la modalità notte.</p></div></li><li><span class="k mono">Copertine</span><div><h3>Cambia qualsiasi copertina.</h3><p>Cerca una copertina per qualsiasi brano, sceglila da Foto o tieni l'originale.</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -369,11 +452,11 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>Senza internet</h3><p>Ascolta la tua libreria in aereo o dove manca il segnale. La riproduzione dei file locali non consuma dati mobili.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>Il tuo suono</h3><p>Con PRO: equalizzatore con gain, bass boost, filtro e limiter. Usa la forma d’onda per raggiungere un punto del brano.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>Tonalità e tempo</h3><p>Con PRO puoi cambiare la tonalità fino a ±8 st e regolare il tempo separatamente, per cantare, esercitarti o preparare un set.</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">Tutto il suono in una schermata</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">Riproduzione</p><h3>Il pitch nella schermata principale</h3><p>Pitch, VibeMod e TONE, subito sotto la copertina. Lo stesso brano, una sensazione nuova.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">Suono</p><h3>Equalizzatore con gain e limiter</h3><p>Gain, bassi, medi e alti, con limiter e bilanciamento stereo in tempo reale.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>Cambia atmosfera</h3><p>Attiva TONE e ascolta lo stesso brano con un timbro diverso.</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>La musica prende vita</h3><p>Effetti visivi che si muovono a ogni beat, guidati dal brano in riproduzione.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>Un mondo per la tua musica</h3><p>Un ambiente visivo che reagisce alla musica, ideale per ascoltare con le luci soffuse.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">Coda di riproduzione</p><h3>Tocca e trascina per riordinare</h3><p>Riordina i brani, cerca nella tua libreria e scopri cosa verrà riprodotto dopo.</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">Pensato per <span class="soft">il tuo modo di ascoltare.</span></h2></div><p class="lede">Guide per ogni modo di usare VibeDeck Player.</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>Riproduci i tuoi file</h3><ul><li><a href="/it/lettore-flac/">Lettore FLAC per iPhone e Android</a></li><li><a href="/it/lettore-mp3-senza-pub/">Lettore MP3 senza pubblicità</a></li></ul></div><div><h3>Cambia tonalità e velocità</h3><ul><li><a href="/it/cambiare-tonalita/">Cambiare la tonalità di una canzone</a></li><li><a href="/it/rallentare-una-canzone/">Rallentare una canzone senza cambiarne la tonalità</a></li><li><a href="/it/bpm/">I BPM di ogni canzone</a></li><li><a href="/it/nightcore/">Nightcore sul telefono, con un tocco</a></li></ul></div><div><h3>Regola il suono</h3><ul><li><a href="/it/equalizzatore-dj/">Passa da un equalizzatore DJ a 3 bande a uno a 8 bande</a></li></ul></div><div><h3>DJ, Studio e registrazione</h3><ul><li><a href="/it/rimuovere-voce/">Separa qualsiasi brano in voce e base</a></li><li><a href="/it/registrare-audio-interno/">Registra l'audio di YouTube, TikTok e altro</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
@@ -385,12 +468,6 @@
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="Schermata di riproduzione offline di VibeDeck Player su iPhone" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">Caratteristiche</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 st</li><li>Tempo</li><li>Equalizzatore</li><li>Limiter</li><li>Offline</li><li>Senza pubblicità</li><li>Senza account</li><li>Senza tracciamento</li></ul>
 </div>
 </section>
 <section class="section">

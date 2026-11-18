@@ -256,25 +256,25 @@
   "home": "/tr/",
   "page": "/tr/dahili-ses-kaydi/",
   "new": "Yeni",
-  "h2": "YouTube, TikTok ve daha fazlasının sesini kaydedin.",
-  "soft": "Rec'e basın. Bir video açın.",
-  "lede": "VibeDeck Sampler, telefonunuzda çalan sesi doğrudan sistemden kaydeder. Sonra kesin, parça olarak kaydedin ya da Studio'da açın.",
+  "h2": "YouTube, TikTok ve daha fazlasının sesini kaydet.",
+  "soft": "Rec'e bas. Bir video açın.",
+  "lede": "VibeDeck Sampler, telefonunda çalan sesi doğrudan sistemden kaydeder. Sonra kes, parça olarak kaydet ya da Studio'da açın.",
   "points": [
    [
     "YouTube, TikTok ve pek çok başka uygulama",
-    "Telefonunuzda ses çalan pek çok uygulama kaydedilebilir. Korumalı oynatma kaydedilemez."
+    "Telefonunda ses çalan pek çok uygulama kaydedilebilir. Korumalı oynatma kaydedilemez."
    ],
    [
     "Temiz ses",
     "Doğrudan telefondan, mikrofon ve oda gürültüsü yok."
    ],
    [
-    "Sizin formatınız",
+    "Formatın",
     "MP3, AAC veya WAV, 320 kbps'ye kadar."
    ],
    [
-    "Düzenleyin ve paylaşın",
-    "Kesin, geçiş ekleyin, kitaplığa kaydedin ya da Studio'da açın."
+    "Düzenle ve paylaş",
+    "Kes, geçiş ekle, kitaplığa kaydet ya da Studio'da açın."
    ]
   ],
   "link": "Sampler nasıl çalışır",

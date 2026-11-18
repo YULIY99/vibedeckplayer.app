@@ -86,7 +86,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -269,13 +269,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">Trình phát nhạc offline</span> <span class="h1-sub">FLAC, MP3 và WAV, không quảng cáo</span></h1>
 <p class="lede">Trình phát nhạc ngoại tuyến kèm đổi tốc độ cho iPhone, iPad và Android. Phát MP3, FLAC, WAV, M4A, AAC, AIFF và nhiều định dạng khác từ file của bạn, phát cơ bản miễn phí và không cần WiFi. <a href="#premium">PRO</a> mở khóa tốc độ, cao độ, filter, EQ, limiter, Studio, Sampler và Stems. Dùng thử mọi thứ miễn phí trong 48 giờ. Không cần thẻ.</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=vi-home&mt=8" aria-label="Tải VibeDeck Player cho iPhone và iPad trên App Store"><img src="/assets/badges/app-store-en.svg" alt="Tải về trên App Store" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=vi&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dvi-home" aria-label="Tải VibeDeck Player cho Android trên Google Play"><img src="/assets/badges/google-play-en.svg" alt="Tải nội dung trên Google Play" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>Không quảng cáo</li><li>Không cần tài khoản</li><li>Không theo dõi</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">Lưu ý: ứng dụng và trang trên App Store, Google Play hiện vẫn bằng tiếng Anh.</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>Cao độ</b> / demo PRO</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>ĐẶT LẠI</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="Cao độ theo cung nửa" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -285,6 +287,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="Xem trước">
+<div class="wrap" data-reveal=""><p>Bài hát trên dịch vụ streaming có thể biến mất khi bạn đổi gói hoặc đổi ứng dụng. File của riêng bạn, như FLAC rip từ CD hay MP3 đã mua, thì vẫn là của bạn. VibeDeck được làm cho chính loại nhạc đó.</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio trên iPhone: loop theo lưới nhịp, cao độ, filter, hiệu ứng và ghi âm" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Loop. Hiệu ứng. Xuất file.</span></h2>
+      <p class="lede">Lặp lại bất kỳ khoảnh khắc nào của bản nhạc, đổi tốc độ, thêm hiệu ứng, rồi lưu vào thư viện hoặc xuất file.</p>
+      <ul class="studio-points" aria-label="Tính năng VibeDeck Studio">
+        <li><span><strong>Cao độ và Master Tempo</strong><small>Từ pitch DJ cổ điển với Master Tempo đến đổi tốc độ trọn 100%. Làm chậm hoặc tăng tốc bản nhạc.</small></span></li>
+        <li><span><strong>Loop theo nhịp</strong><small>Chọn từ ½ đến 8 ô nhịp. Loop bám vào nhịp.</small></span></li>
+        <li><span><strong>Filter</strong><small>Quét filter qua âm thanh.</small></span></li>
+        <li><span><strong>Hiệu ứng</strong><small>Saturation, tăng bass, reverb, delay và âm thanh đĩa than.</small></span></li>
+        <li><span><strong>Chỉnh điểm cắt</strong><small>Dời lưới nhịp, điểm bắt đầu và điểm kết thúc của loop.</small></span></li>
+        <li><span><strong>Phát ngược</strong><small>Phát bản nhạc theo chiều ngược lại.</small></span></li>
+        <li><span><strong>Lưu và xuất</strong><small>Lưu kết quả vào thư viện hoặc xuất file.</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">Khám phá VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -313,6 +341,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="Hiệu ứng VibeDeck trên iPhone: tăng bass, saturation và reverb" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">Thêm hiệu ứng.<br><span class="soft">Tăng bass. Saturation. Reverb.<br>Cho mờ dần. Xuất file.</span></h2>
+      <p class="lede">Tăng bass, saturation, reverb, delay và âm thanh đĩa than, cùng các preset một chạm như Slowed + Reverb và Nightcore.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="Trình phát lấy màu từ ảnh bìa." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="Các bảng mờ và ánh sáng thay đổi theo từng bài. Giao diện trắng sắp ra mắt." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">Trình phát lấy màu từ ảnh bìa.</h2>
+      <p class="lede">Các bảng mờ và ánh sáng thay đổi theo từng bài. Giao diện trắng sắp ra mắt.</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -327,43 +380,73 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio trên iPhone: loop theo lưới nhịp, cao độ, filter, hiệu ứng và ghi âm" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="Kéo để sắp xếp lại. Đổi ảnh bìa. Chế độ ban đêm." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Loop. Hiệu ứng. Xuất file.</span></h2>
-      <p class="lede">Lặp lại bất kỳ khoảnh khắc nào của bản nhạc, đổi tốc độ, thêm hiệu ứng, rồi lưu vào thư viện hoặc xuất file.</p>
-      <ul class="studio-points" aria-label="Tính năng VibeDeck Studio">
-        <li><span><strong>Cao độ và Master Tempo</strong><small>Từ pitch DJ cổ điển với Master Tempo đến đổi tốc độ trọn 100%. Làm chậm hoặc tăng tốc bản nhạc.</small></span></li>
-        <li><span><strong>Loop theo nhịp</strong><small>Chọn từ ½ đến 8 ô nhịp. Loop bám vào nhịp.</small></span></li>
-        <li><span><strong>Filter</strong><small>Quét filter qua âm thanh.</small></span></li>
-        <li><span><strong>Hiệu ứng</strong><small>Saturation, tăng bass, reverb, delay và âm thanh đĩa than.</small></span></li>
-        <li><span><strong>Chỉnh điểm cắt</strong><small>Dời lưới nhịp, điểm bắt đầu và điểm kết thúc của loop.</small></span></li>
-        <li><span><strong>Phát ngược</strong><small>Phát bản nhạc theo chiều ngược lại.</small></span></li>
-        <li><span><strong>Lưu và xuất</strong><small>Lưu kết quả vào thư viện hoặc xuất file.</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">Khám phá VibeDeck <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">Kéo để sắp xếp lại.<br><span class="soft">Đổi ảnh bìa. Chế độ ban đêm.</span></h2>
+      <p class="lede">Sắp xếp lại bài hát theo ý bạn, đổi bất kỳ ảnh bìa nào và bật chế độ ban đêm.</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo. Trình phát và hàng chờ cạnh nhau trên màn hình lớn. Có trong bản cập nhật tiếp theo." width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo.<br><span class="soft">Cập nhật vào tuần sau.</span></h2>
+      <p class="lede">Trình phát và hàng chờ cạnh nhau trên màn hình lớn. Có trong bản cập nhật tiếp theo.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="Hiệu ứng VibeDeck trên iPhone: tăng bass, saturation và reverb" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="Đổi bất kỳ ảnh bìa nào. Tìm kiếm. Ảnh. Bản gốc." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">Thêm hiệu ứng.<br><span class="soft">Tăng bass. Saturation. Reverb.<br>Cho mờ dần. Xuất file.</span></h2>
-      <p class="lede">Tăng bass, saturation, reverb, delay và âm thanh đĩa than, cùng các preset một chạm như Slowed + Reverb và Nightcore.</p>
+      <h2 class="h2" id="cover-title">Đổi bất kỳ ảnh bìa nào.<br><span class="soft">Tìm kiếm. Ảnh. Bản gốc.</span></h2>
+      <p class="lede">Tìm ảnh bìa cho bất kỳ bài nào, chọn từ Ảnh hoặc giữ bản gốc.</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="Xem trước">
-<div class="wrap" data-reveal=""><p>Bài hát trên dịch vụ streaming có thể biến mất khi bạn đổi gói hoặc đổi ứng dụng. File của riêng bạn, như FLAC rip từ CD hay MP3 đã mua, thì vẫn là của bạn. VibeDeck được làm cho chính loại nhạc đó.</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck cho Android.</h2>
+      <p class="lede">Trình phát nhạc ngoại tuyến cho file của riêng bạn, với cao độ, dạng sóng, tone và điều khiển âm thanh trên một màn hình.</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=vi&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dvi-home" aria-label="Tải VibeDeck Player cho Android trên Google Play"><img src="/assets/badges/google-play-en.svg" alt="Tải nội dung trên Google Play" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck cho Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck cho Android: Phát nhạc" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck cho Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck cho Android: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck cho Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck cho Android: Hiệu ứng" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck cho Android: EQ 8 dải" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck cho Android: EQ 3 dải" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck cho Android: Cắt" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck cho Android: Hàng chờ" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck cho Android: Ảnh bìa" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">Thông số kỹ thuật</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 nửa cung</li><li>Tempo</li><li>Equalizer</li><li>Limiter</li><li>Offline</li><li>Không quảng cáo</li><li>Không tài khoản</li><li>Không theo dõi</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">Trình phát trước tiên. <span class="soft">Điều khiển ngay gần.</span></h2></div><p class="lede">VibeDeck giữ bài đang phát dễ đọc, còn hàng chờ và EQ chỉ cách một thao tác. Trình phát nhạc ngoại tuyến cho file trong máy này dễ đọc trong bóng tối, với điều khiển âm thanh ngay gần tay.</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>Phát nhạc</h3><p>Đầy đủ điều khiển phát, dạng sóng có thể tua, hiển thị BPM, cao độ và bộ lọc ngay trên màn hình chính. Cùng một bài. Cảm giác mới.</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>Hàng chờ</h3><p>Xem bài đang phát, tìm trong thư viện và xếp bài kế tiếp mà không rời trình phát. Chế độ ban đêm ẩn ảnh bìa và chỉ để lại danh sách.</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>Âm thanh</h3><p>EQ + gain, tăng bass, bộ lọc, xử lý phản ứng theo âm thanh VibeMod, cân bằng stereo và đổi cao độ theo thời gian thực tới ±8 st. Bộ giới hạn tích hợp: âm thanh sạch, mạnh trên mọi tai nghe.</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">Cao độ, EQ, AURA, TONE. <span class="soft">Một màn hình tối.</span></h2></div><p class="lede">Công cụ âm thanh PRO chỉ cách bài hát một thao tác: trình phát có điều khiển cao độ và tempo, bộ equalizer thực thụ cho iPhone và Android, cùng hiệu ứng hình ảnh phản ứng theo nhịp.</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">Phát nhạc</span><div><h3>Cùng một bài. Cảm giác mới.</h3><p>Cao độ, VibeMod và TONE nằm ngay dưới ảnh bìa. Công cụ DJ, Studio, Sampler và Stems chỉ cách một lần chạm.</p></div></li><li><span class="k mono">Studio</span><div><h3>Pitch DJ cổ điển. Master Tempo.</h3><p>Uốn cao độ như mâm đĩa, hoặc giữ nguyên tông và chỉ đổi tempo. Lặp từ nửa ô nhịp đến 8 ô nhịp trên lưới beat.</p></div></li><li><span class="k mono">Sampler</span><div><h3>Ghi lại. Âm thanh hệ thống.</h3><p>Ghi âm thanh từ YouTube, TikTok và nhiều nơi khác, rồi cắt, chia sẻ hoặc mở trong Studio.</p></div></li><li><span class="k mono">Stems</span><div><h3>Tách bất kỳ bài hát nào.</h3><p>Tách bài hát thành giọng hát và nhạc nền ngay trên điện thoại, rồi trộn trực tiếp hoặc thêm hiệu ứng Studio.</p></div></li><li><span class="k mono">Hiệu ứng</span><div><h3>Thêm hiệu ứng.</h3><p>Tăng bass, saturation, reverb và echo, cùng các preset như Slowed + Reverb và Nightcore.</p></div></li><li><span class="k mono">EQ 8 dải</span><div><h3>3 dải. 8 dải.</h3><p>Chuyển sang EQ 8 dải từ 60 Hz đến 16 kHz, kèm VibeMod, bộ giới hạn và mono.</p></div></li><li><span class="k mono">EQ 3 dải</span><div><h3>EQ DJ 3 dải.</h3><p>Gain, bass, mid và high: EQ của mixer DJ cổ điển cho các bài hát của bạn.</p></div></li><li><span class="k mono">Cắt</span><div><h3>Cắt. Chia sẻ.</h3><p>Cắt bản ghi, thêm fade in và fade out, rồi chia sẻ hoặc mở trong Studio.</p></div></li><li><span class="k mono">Hàng chờ</span><div><h3>Kéo để sắp xếp lại.</h3><p>Sắp xếp lại bài hát theo ý bạn, đổi bất kỳ ảnh bìa nào và bật chế độ ban đêm.</p></div></li><li><span class="k mono">Ảnh bìa</span><div><h3>Đổi bất kỳ ảnh bìa nào.</h3><p>Tìm ảnh bìa cho bất kỳ bài nào, chọn từ Ảnh hoặc giữ bản gốc.</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -371,11 +454,11 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>Không cần internet</h3><p>Nghe thư viện của bạn trên máy bay hay ở nơi mất sóng. Nghe nhạc không tốn dung lượng 4G.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>Âm thanh của bạn</h3><p>Equalizer có gain, tăng bass, filter và limiter. Tua bài hát dễ dàng qua dạng sóng.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>Tone và tempo</h3><p>Đổi tone tối đa ±8 nửa cung và chỉnh tempo riêng, để hát, tập nhạc cụ hoặc chuẩn bị set nhạc.</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">Toàn bộ âm thanh trên một màn hình</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">Đang phát</p><h3>Chỉnh cao độ ngay màn hình chính</h3><p>Pitch, VibeMod và TONE ngay dưới ảnh bìa. Cùng một bài, cảm giác mới.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">Âm thanh</p><h3>Equalizer có gain và limiter</h3><p>Gain, âm trầm, âm trung và âm cao, cùng limiter và cân bằng stereo, tất cả theo thời gian thực.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>Đổi không khí</h3><p>Bật TONE và nghe cùng một bài với một màu sắc khác.</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>Âm nhạc biết phản hồi</h3><p>Hình ảnh chuyển động theo từng nhịp, dẫn dắt bởi bài đang phát.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>Một vũ trụ cho âm nhạc của bạn</h3><p>Hiệu ứng hình ảnh có không khí, phản ứng theo nhạc, rất hợp khi nghe trong phòng tối.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">Hàng chờ</p><h3>Chạm và kéo để sắp xếp</h3><p>Đổi thứ tự bài hát, tìm trong thư viện và xem bài tiếp theo.</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">Làm ra để hợp với <span class="soft">cách bạn nghe nhạc.</span></h2></div><p class="lede">Hướng dẫn cho mọi cách dùng VibeDeck Player.</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>Phát file của bạn</h3><ul><li><a href="/vi/trinh-phat-flac/">Trình phát FLAC cho iPhone và Android</a></li><li><a href="/vi/trinh-phat-mp3-khong-quang-cao/">Trình phát MP3 không quảng cáo</a></li></ul></div><div><h3>Đổi tông và tốc độ</h3><ul><li><a href="/vi/doi-tone-bai-hat/">Đổi tone bài hát</a></li><li><a href="/vi/lam-cham-bai-hat/">Làm chậm bài hát mà không đổi tone</a></li><li><a href="/vi/bpm/">BPM của mọi bài hát</a></li><li><a href="/vi/nightcore/">Nightcore trên điện thoại, chỉ một chạm</a></li></ul></div><div><h3>Chỉnh âm thanh</h3><ul><li><a href="/vi/eq-dj/">Chuyển giữa EQ DJ 3 băng tần và equalizer 8 băng tần</a></li></ul></div><div><h3>DJ, Studio và ghi âm</h3><ul><li><a href="/vi/tach-giong-hat/">Tách bài hát bất kỳ thành giọng hát và nhạc nền</a></li><li><a href="/vi/ghi-am-am-thanh-noi-bo/">Ghi âm thanh từ YouTube, TikTok và hơn thế nữa</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
@@ -387,12 +470,6 @@
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="Màn hình phát nhạc offline của VibeDeck Player trên iPhone" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">Thông số kỹ thuật</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 nửa cung</li><li>Tempo</li><li>Equalizer</li><li>Limiter</li><li>Offline</li><li>Không quảng cáo</li><li>Không tài khoản</li><li>Không theo dõi</li></ul>
 </div>
 </section>
 <section class="section">

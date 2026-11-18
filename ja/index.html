@@ -85,7 +85,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-11",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {"@id": "https://vibedeckplayer.app/#org"},
    "@id": "https://vibedeckplayer.app/ja/#webpage",
    "url": "https://vibedeckplayer.app/ja/",
@@ -227,13 +227,15 @@
   </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
   <div class="wrap hero-grid">
     <div class="hero-copy">
       <h1 id="hero-title" style="word-break:keep-all;overflow-wrap:anywhere"><span class="h1-plain">オフライン<wbr>音楽プレーヤー</span> <span class="h1-sub">FLAC・MP3・WAVを<wbr>広告なしで</span></h1>
       <p class="lede">iPhone・iPad・Android対応のオフライン音楽プレーヤー兼スピードチェンジャー。手持ちのMP3、FLAC、WAV、M4A、AAC、AIFFなどを再生でき、基本の再生は無料でWi-Fiも不要です。<a href="#premium">PRO</a>では、スピード、ピッチ、フィルター、EQ、リミッター、Studio、Sampler、Stemsが使えます。48時間はすべての機能を無料でお試しいただけます。カード登録は不要です。</p>
       <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&amp;ct=ja-home&amp;mt=8" aria-label="iPhone・iPad用VibeDeck PlayerをApp Storeでダウンロード"><img src="/assets/badges/app-store-ja.svg" alt="App Storeからダウンロード" width="131" height="48" decoding="async"></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&amp;hl=ja&amp;referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dja-home" aria-label="Android用VibeDeck PlayerをGoogle Playで入手"><img src="/assets/badges/google-play-ja.svg" alt="Google Playで手に入れよう" width="162" height="48" decoding="async"></a></div>
-      <p class="dim" style="margin-top:16px">※アプリの画面表示は現在英語のみです。App Store・Google Playのストアページも英語で表示されます。</p>
+      <ul class="hero-meta mono"><li>広告なし</li><li>アカウント不要</li><li>トラッキングなし</li><li>iOS 17+ · Android</li></ul>
+<p class="dim" style="margin-top:16px">※アプリの画面表示は現在英語のみです。App Store・Google Playのストアページも英語で表示されます。</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>ピッチ</b> / PROデモ</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>リセット</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="ピッチ（半音単位）" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
     </div>
     <div class="hero-visual">
       <div class="halo" aria-hidden="true"></div>
@@ -243,6 +245,33 @@
   </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="概要">
+  <div class="wrap" data-reveal><p>ストリーミングの曲はアプリやプランが変わると聴けなくなることがあります。CDから取り込んだFLACや購入したMP3など、自分のファイルならいつでも手元で再生できます。VibeDeckはそのためのプレーヤーです。</p></div>
+</section>
+
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="iPhoneのVibeDeck Studio：ビートグリッドのループ、ピッチ、フィルター、エフェクト、録音" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">ループ。エフェクト。書き出し。</span></h2>
+      <p class="lede">曲の好きな場面をループにして、スピードを変え、エフェクトを加えたら、ライブラリに保存するか書き出せます。</p>
+      <ul class="studio-points" aria-label="VibeDeck Studioの機能">
+        <li><span><strong>ピッチとMaster Tempo</strong><small>定番のDJピッチとMaster Tempoから、100%のスピード変更まで。曲を遅くも速くもできます。</small></span></li>
+        <li><span><strong>ビートに合わせてループ</strong><small>½〜8小節を選ぶと、ビートにぴたりと合います。</small></span></li>
+        <li><span><strong>フィルター</strong><small>フィルターで音をスイープします。</small></span></li>
+        <li><span><strong>エフェクト</strong><small>サチュレーション、ベースブースト、リバーブ、ディレイ、レコードのような質感。</small></span></li>
+        <li><span><strong>カット位置の調整</strong><small>グリッド、ループの開始位置と終了位置を動かせます。</small></span></li>
+        <li><span><strong>逆再生</strong><small>曲を後ろ向きに再生します。</small></span></li>
+        <li><span><strong>保存と書き出し</strong><small>結果をライブラリに保存するか、書き出します。</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">VibeDeckを見る <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -271,6 +300,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="iPhoneのVibeDeckエフェクト：ベースブースト、サチュレーション、リバーブ" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">エフェクトを加えよう。<br><span class="soft">ベースブースト。サチュレーション。リバーブ。<br>フェードして、書き出す。</span></h2>
+      <p class="lede">ベースブースト、サチュレーション、リバーブ、ディレイ、レコードの質感に加えて、Slowed + ReverbやNightcoreのようなワンタップのプリセットも。</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="プレーヤーはカバーから色をもらう。" width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="マットなパネルとグローは曲ごとに変わります。ホワイトテーマは近日公開。" width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">プレーヤーはカバーから色をもらう。</h2>
+      <p class="lede">マットなパネルとグローは曲ごとに変わります。ホワイトテーマは近日公開。</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -285,45 +339,74 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="iPhoneのVibeDeck Studio：ビートグリッドのループ、ピッチ、フィルター、エフェクト、録音" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="ドラッグで並べ替え。 カバー変更。ナイトモード。" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">ループ。エフェクト。書き出し。</span></h2>
-      <p class="lede">曲の好きな場面をループにして、スピードを変え、エフェクトを加えたら、ライブラリに保存するか書き出せます。</p>
-      <ul class="studio-points" aria-label="VibeDeck Studioの機能">
-        <li><span><strong>ピッチとMaster Tempo</strong><small>定番のDJピッチとMaster Tempoから、100%のスピード変更まで。曲を遅くも速くもできます。</small></span></li>
-        <li><span><strong>ビートに合わせてループ</strong><small>½〜8小節を選ぶと、ビートにぴたりと合います。</small></span></li>
-        <li><span><strong>フィルター</strong><small>フィルターで音をスイープします。</small></span></li>
-        <li><span><strong>エフェクト</strong><small>サチュレーション、ベースブースト、リバーブ、ディレイ、レコードのような質感。</small></span></li>
-        <li><span><strong>カット位置の調整</strong><small>グリッド、ループの開始位置と終了位置を動かせます。</small></span></li>
-        <li><span><strong>逆再生</strong><small>曲を後ろ向きに再生します。</small></span></li>
-        <li><span><strong>保存と書き出し</strong><small>結果をライブラリに保存するか、書き出します。</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">VibeDeckを見る <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">ドラッグで並べ替え。<br><span class="soft">カバー変更。ナイトモード。</span></h2>
+      <p class="lede">曲の順番を好きなように並べ替え、カバーを変更し、ナイトモードに切り替えられます。</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo。 大きな画面でプレーヤーとキューを並べて表示。次のアップデートで登場します。" width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo。<br><span class="soft">来週アップデート。</span></h2>
+      <p class="lede">大きな画面でプレーヤーとキューを並べて表示。次のアップデートで登場します。</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="iPhoneのVibeDeckエフェクト：ベースブースト、サチュレーション、リバーブ" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="カバーを自由に変更。 検索。写真。オリジナル。" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">エフェクトを加えよう。<br><span class="soft">ベースブースト。サチュレーション。リバーブ。<br>フェードして、書き出す。</span></h2>
-      <p class="lede">ベースブースト、サチュレーション、リバーブ、ディレイ、レコードの質感に加えて、Slowed + ReverbやNightcoreのようなワンタップのプリセットも。</p>
+      <h2 class="h2" id="cover-title">カバーを自由に変更。<br><span class="soft">検索。写真。オリジナル。</span></h2>
+      <p class="lede">どの曲でもカバーを検索したり、写真から選んだり、元のカバーのままにしたりできます。</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="概要">
-  <div class="wrap" data-reveal><p>ストリーミングの曲はアプリやプランが変わると聴けなくなることがあります。CDから取り込んだFLACや購入したMP3など、自分のファイルならいつでも手元で再生できます。VibeDeckはそのためのプレーヤーです。</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck for Android。</h2>
+      <p class="lede">自分のファイルを再生するオフライン音楽プレーヤー。ピッチ、波形、トーン、サウンド操作が1つの画面に。</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&amp;hl=ja&amp;referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Dja-home" aria-label="Android用VibeDeck PlayerをGoogle Playで入手"><img src="/assets/badges/google-play-ja.svg" alt="Google Playで手に入れよう" width="162" height="48" decoding="async"></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck for Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck for Android: 再生" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck for Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck for Android: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck for Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck for Android: エフェクト" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck for Android: 8バンドEQ" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck for Android: 3バンドEQ" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck for Android: トリミング" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck for Android: キュー" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck for Android: カバー" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
 </section>
-
+<section class="section" aria-labelledby="specs-title">
+  <div class="wrap specs" data-reveal>
+    <h2 id="specs-title">スペック</h2>
+    <ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 st</li><li>テンポ</li><li>EQ</li><li>リミッター</li><li>オフライン</li><li>広告なし</li><li>アカウント不要</li><li>トラッキングなし</li></ul>
+  </div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">まずプレーヤー。 <span class="soft">操作はすぐそばに。</span></h2></div><p class="lede">再生中の曲を見やすく保ちながら、キューとEQはひと操作の距離に。ローカルファイルのためのこのオフライン音楽プレーヤーは、暗い場所でも見やすく、サウンド操作がすぐ手元にあります。</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>再生</h3><p>フルトランスポート操作、スクラブできる波形、BPM表示、メイン画面のピッチとフィルター。同じ曲、新しい感覚。</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>キュー</h3><p>再生中の曲を確認し、ライブラリを検索し、次に流す曲をプレーヤーを離れずに並べられます。ナイトモードはアートワークを消してリストだけを残します。</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>サウンド</h3><p>EQ + ゲイン、バスブースト、フィルター、VibeModのオーディオ反応処理、ステレオバランス、最大±8 stのリアルタイムピッチシフト。内蔵リミッターで、どんなヘッドホンでもクリーンで力強い音に。</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">ピッチ、EQ、AURA、TONE。 <span class="soft">暗い1つの画面で。</span></h2></div><p class="lede">PROのサウンドツールが曲のすぐそばに。ピッチとテンポを操作できる音楽プレーヤー、iPhoneとAndroid向けの本格イコライザー、ビートに反応するビジュアル。</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">再生</span><div><h3>同じ曲。新しい感覚。</h3><p>ピッチ、VibeMod、TONEはアートワークのすぐ下。DJツール、Studio、Sampler、Stemsもワンタップです。</p></div></li><li><span class="k mono">Studio</span><div><h3>クラシックDJピッチ。マスターテンポ。</h3><p>ターンテーブルのようにピッチを曲げることも、キーを保ったままテンポだけ変えることもできます。ビートグリッド上で半小節から8小節までループ。</p></div></li><li><span class="k mono">Sampler</span><div><h3>録音する。システム音声。</h3><p>YouTubeやTikTokなどの音を録音し、トリミングして共有したり、Studioで開いたりできます。</p></div></li><li><span class="k mono">Stems</span><div><h3>曲を分離する。</h3><p>曲をボーカルとインストゥルメンタルにiPhone上で分離し、ライブでミックスしたりStudioエフェクトを加えたりできます。</p></div></li><li><span class="k mono">エフェクト</span><div><h3>エフェクトを追加。</h3><p>バスブースト、サチュレーション、リバーブ、エコー。Slowed + ReverbやNightcoreなどのプリセットも。</p></div></li><li><span class="k mono">8バンドEQ</span><div><h3>3バンド。8バンド。</h3><p>60 Hzから16 kHzまでの8バンドEQに切り替え。VibeMod、リミッター、モノラルにも対応。</p></div></li><li><span class="k mono">3バンドEQ</span><div><h3>3バンドDJ EQ。</h3><p>ゲイン、ベース、ミッド、ハイ。自分の曲のためのクラシックなDJミキサーEQ。</p></div></li><li><span class="k mono">トリミング</span><div><h3>切る。共有する。</h3><p>録音をトリミングし、フェードインとフェードアウトを加えて、共有またはStudioで開けます。</p></div></li><li><span class="k mono">キュー</span><div><h3>ドラッグで並べ替え。</h3><p>曲の順番を好きなように並べ替え、カバーを変更し、ナイトモードに切り替えられます。</p></div></li><li><span class="k mono">カバー</span><div><h3>カバーを自由に変更。</h3><p>どの曲でもカバーを検索したり、写真から選んだり、元のカバーのままにしたりできます。</p></div></li></ul>
+  </div>
+</section>
 <section class="section" aria-labelledby="features-title">
   <div class="wrap">
     <div class="sec-head" data-reveal><div><h2 class="h2" id="features-title" style="word-break:keep-all;overflow-wrap:anywhere">VibeDeckで<wbr>できること</h2></div></div>
@@ -332,13 +415,12 @@
 </section>
 
 
-<section class="section" id="features" aria-labelledby="more-title">
+<section class="section" id="guides" aria-labelledby="guides-title">
   <div class="wrap">
-    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title" style="word-break:keep-all;overflow-wrap:anywhere">ひとつの画面で、<wbr>音を自在に</h2></div></div>
-    <ul class="panels"><li class="panel glass" data-reveal style="--rd:0ms"><p class="tag">再生</p><h3 style="word-break:keep-all;overflow-wrap:anywhere">メイン画面でピッチ操作</h3><p>アートワークのすぐ下にピッチ、VibeMod、TONE。同じ曲を、違う気分で。</p></li><li class="panel glass" data-reveal style="--rd:90ms"><p class="tag">サウンド</p><h3 style="word-break:keep-all;overflow-wrap:anywhere">ゲイン付きEQとリミッター</h3><p>ゲイン、低音・中音・高音、リミッター、ステレオバランスをリアルタイムで調整。</p></li><li class="panel glass" data-reveal style="--rd:180ms"><p class="tag">TONE</p><h3 style="word-break:keep-all;overflow-wrap:anywhere">曲の雰囲気を切り替え</h3><p>TONEに切り替えると、同じ曲が別の色合いで聴こえます。</p></li><li class="panel glass" data-reveal style="--rd:0ms"><p class="tag">VibeMod</p><h3 style="word-break:keep-all;overflow-wrap:anywhere">音に反応するビジュアル</h3><p>再生中の曲のビートに合わせてビジュアルが動きます。</p></li><li class="panel glass" data-reveal style="--rd:90ms"><p class="tag">AURA</p><h3 style="word-break:keep-all;overflow-wrap:anywhere">音楽と呼吸する世界</h3><p>音楽に反応するアンビエントなビジュアル。暗い部屋でのリスニングに。</p></li><li class="panel glass" data-reveal style="--rd:180ms"><p class="tag">キュー</p><h3 style="word-break:keep-all;overflow-wrap:anywhere">タッチで並べ替え</h3><p>ドラッグで曲順を変え、ライブラリを検索して次の曲を確認できます。</p></li></ul>
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">あなたの聴き方に <span class="soft">合わせて作られています。</span></h2></div><p class="lede">VibeDeck Playerの使い方別ガイド。</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>ファイルを再生</h3><ul><li><a href="/ja/flac-player/">iPhoneで使えるFLACプレーヤー</a></li></ul></div><div><h3>キーと速度を変える</h3><ul><li><a href="/ja/key-henkou-app/">曲のキーを変えるアプリ</a></li><li><a href="/ja/tempo-henkou/">音程を変えずにテンポを変える</a></li><li><a href="/ja/bpm/">すべての曲のBPMがわかる</a></li><li><a href="/ja/nightcore/">ナイトコアをワンタップで</a></li></ul></div><div><h3>サウンドを整える</h3><ul><li><a href="/ja/dj-equalizer/">3バンドのDJ EQと8バンドEQをワンタップで切り替え</a></li></ul></div><div><h3>DJ・Studio・録音</h3><ul><li><a href="/ja/vocal-bunri/">曲をボーカルとインストに分離</a></li><li><a href="/ja/naibu-onsei-rokuon/">YouTube、TikTokなどの音を録音</a></li></ul></div></div>
   </div>
 </section>
-
 <section class="section" id="why" aria-labelledby="why-title">
   <div class="wrap duo duo--rev">
     <div class="duo-copy prose" data-reveal>
@@ -352,12 +434,6 @@
   </div>
 </section>
 
-<section class="section" aria-labelledby="specs-title">
-  <div class="wrap specs" data-reveal>
-    <h2 id="specs-title">スペック</h2>
-    <ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 st</li><li>テンポ</li><li>EQ</li><li>リミッター</li><li>オフライン</li><li>広告なし</li><li>アカウント不要</li><li>トラッキングなし</li></ul>
-  </div>
-</section>
 <section class="section">
   <div class="wrap"><div class="glass box prose" data-reveal><h2>使い方</h2><ol><li>App Store（iPhone・iPad）またはGoogle Play（Android）からVibeDeck Playerをインストールします。</li><li>iPhoneでは「ファイル」アプリ、iCloud Drive、AirDropから、AndroidではファイルやGoogle Driveから曲を読み込みます。</li><li>再生を始めて、EQ・ピッチ・テンポを好みに調整します。</li></ol></div></div>
 </section>

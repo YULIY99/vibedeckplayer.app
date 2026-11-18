@@ -256,9 +256,9 @@
   "home": "/tr/",
   "page": "/tr/vokal-ayirma/",
   "new": "Yeni",
-  "h2": "Her şarkıyı vokal ve enstrümantale ayırın.",
-  "soft": "Canlı karıştırın.",
-  "lede": "Şarkı çalarken vokali ya da enstrümantali kısın. Parçalardan birini Studio'da açın: döngüye alın, hızı ve perdeyi değiştirin, efekt ekleyin, sonucu kaydedin.",
+  "h2": "Her şarkıyı vokal ve enstrümantale ayır.",
+  "soft": "Canlı karıştır.",
+  "lede": "Şarkı çalarken vokali ya da enstrümantali kıs. Parçalardan birini Studio'da açın: döngüye al, hızı ve perdeyi değiştir, efekt ekle, sonucu kaydet.",
   "points": [
    [
     "Vokal ve enstrümantal",
@@ -266,7 +266,7 @@
    ],
    [
     "Duraksamadan",
-    "Şarkı çalarken Stems ile Studio arasında geçin ve efekt ekleyin."
+    "Şarkı çalarken Stems ile Studio arasında geç ve efekt ekle."
    ],
    [
     "Tempo, döngü, efekt",
@@ -274,7 +274,7 @@
    ],
    [
     "Her parçayı dışa aktar",
-    "Vokali veya enstrümantali ayrı dosya olarak paylaşın."
+    "Vokali veya enstrümantali ayrı dosya olarak paylaş."
    ]
   ],
   "link": "Stems nasıl çalışır",

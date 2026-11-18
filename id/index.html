@@ -86,7 +86,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -269,13 +269,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">Pemutar musik offline</span> <span class="h1-sub">FLAC, MP3, dan WAV tanpa iklan</span></h1>
 <p class="lede">Pemutar musik offline dan pengubah kecepatan untuk iPhone, iPad, dan Android. Memutar MP3, FLAC, WAV, M4A, AAC, AIFF, dan lainnya dari file Anda sendiri, dengan pemutaran dasar gratis dan tanpa WiFi. <a href="#premium">PRO</a> membuka kecepatan, nada, filter, EQ, limiter, Studio, Sampler, dan Stems. Coba semuanya gratis selama 48 jam. Tanpa kartu.</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=id-home&mt=8" aria-label="Unduh VibeDeck Player untuk iPhone dan iPad di App Store"><img src="/assets/badges/app-store-en.svg" alt="Download di App Store" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=id&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Did-home" aria-label="Unduh VibeDeck Player untuk Android di Google Play"><img src="/assets/badges/google-play-en.svg" alt="Temukan di Google Play" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>Tanpa iklan</li><li>Tanpa akun</li><li>Tanpa pelacakan</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">Catatan: aplikasi dan halamannya di App Store serta Google Play saat ini masih berbahasa Inggris.</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>Nada</b> / demo PRO</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>ATUR ULANG</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="Nada dalam semiton" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -285,6 +287,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="Pratinjau">
+<div class="wrap" data-reveal=""><p>Lagu di layanan streaming bisa hilang kalau kamu ganti langganan atau aplikasi. File milikmu sendiri, seperti FLAC hasil rip CD atau MP3 yang kamu beli, tetap jadi milikmu. VibeDeck dibuat untuk musik seperti itu.</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio di iPhone: loop di grid ketukan, nada, filter, efek, dan rekaman" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Loop. Efek. Ekspor.</span></h2>
+      <p class="lede">Loop bagian mana pun dari lagu, ubah kecepatan, tambahkan efek, lalu simpan ke pustaka atau ekspor.</p>
+      <ul class="studio-points" aria-label="Fitur VibeDeck Studio">
+        <li><span><strong>Nada dan Master Tempo</strong><small>Dari pitch DJ klasik dengan Master Tempo sampai perubahan kecepatan penuh 100%. Perlambat lagu atau percepat.</small></span></li>
+        <li><span><strong>Loop mengikuti ketukan</strong><small>Pilih ½ sampai 8 bar. Loop pas dengan ketukan.</small></span></li>
+        <li><span><strong>Filter</strong><small>Sapukan filter ke seluruh suara.</small></span></li>
+        <li><span><strong>Efek</strong><small>Saturasi, bass boost, reverb, delay, dan suara vinil.</small></span></li>
+        <li><span><strong>Atur potongan</strong><small>Geser grid, awal loop, dan akhir loop.</small></span></li>
+        <li><span><strong>Putar mundur</strong><small>Putar lagu dari belakang ke depan.</small></span></li>
+        <li><span><strong>Simpan dan ekspor</strong><small>Simpan hasilnya ke pustaka atau ekspor.</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">Kenali VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -313,6 +341,31 @@
     </div>
   </div>
 </section>
+<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="Efek VibeDeck di iPhone: bass boost, saturasi, dan reverb" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="effects-title">Tambahkan efek.<br><span class="soft">Bass boost. Saturasi. Reverb.<br>Beri fade. Ekspor.</span></h2>
+      <p class="lede">Bass boost, saturasi, reverb, delay, dan suara vinil, plus preset satu ketukan seperti Slowed + Reverb dan Nightcore.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="Pemutar mengambil warna dari sampul." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="Panel matte dan cahayanya berubah di setiap lagu. Tema putih segera hadir." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">Pemutar mengambil warna dari sampul.</h2>
+      <p class="lede">Panel matte dan cahayanya berubah di setiap lagu. Tema putih segera hadir.</p>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -327,43 +380,73 @@
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio di iPhone: loop di grid ketukan, nada, filter, efek, dan rekaman" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="Seret untuk mengurutkan. Ganti sampul. Mode malam." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Loop. Efek. Ekspor.</span></h2>
-      <p class="lede">Loop bagian mana pun dari lagu, ubah kecepatan, tambahkan efek, lalu simpan ke pustaka atau ekspor.</p>
-      <ul class="studio-points" aria-label="Fitur VibeDeck Studio">
-        <li><span><strong>Nada dan Master Tempo</strong><small>Dari pitch DJ klasik dengan Master Tempo sampai perubahan kecepatan penuh 100%. Perlambat lagu atau percepat.</small></span></li>
-        <li><span><strong>Loop mengikuti ketukan</strong><small>Pilih ½ sampai 8 bar. Loop pas dengan ketukan.</small></span></li>
-        <li><span><strong>Filter</strong><small>Sapukan filter ke seluruh suara.</small></span></li>
-        <li><span><strong>Efek</strong><small>Saturasi, bass boost, reverb, delay, dan suara vinil.</small></span></li>
-        <li><span><strong>Atur potongan</strong><small>Geser grid, awal loop, dan akhir loop.</small></span></li>
-        <li><span><strong>Putar mundur</strong><small>Putar lagu dari belakang ke depan.</small></span></li>
-        <li><span><strong>Simpan dan ekspor</strong><small>Simpan hasilnya ke pustaka atau ekspor.</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">Kenali VibeDeck <span aria-hidden="true">↗</span></a>
+      <h2 class="h2" id="queue-title">Seret untuk mengurutkan.<br><span class="soft">Ganti sampul. Mode malam.</span></h2>
+      <p class="lede">Atur ulang urutan lagu sesukamu, ganti sampul apa pun, dan aktifkan mode malam.</p>
     </div>
   </div>
 </section>
-<section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo. Pemutar dan antrean berdampingan di layar besar. Hadir di pembaruan berikutnya." width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo.<br><span class="soft">Pembaruan minggu depan.</span></h2>
+      <p class="lede">Pemutar dan antrean berdampingan di layar besar. Hadir di pembaruan berikutnya.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
       <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.avif 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.avif 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-360.webp 360w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp 540w, /assets/img/vibedeck-effects-bass-boost-reverb-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-effects-bass-boost-reverb-iphone-540.webp" alt="Efek VibeDeck di iPhone: bass boost, saturasi, dan reverb" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="Ganti sampul apa pun. Cari. Foto. Asli." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
     </div>
     <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="effects-title">Tambahkan efek.<br><span class="soft">Bass boost. Saturasi. Reverb.<br>Beri fade. Ekspor.</span></h2>
-      <p class="lede">Bass boost, saturasi, reverb, delay, dan suara vinil, plus preset satu ketukan seperti Slowed + Reverb dan Nightcore.</p>
+      <h2 class="h2" id="cover-title">Ganti sampul apa pun.<br><span class="soft">Cari. Foto. Asli.</span></h2>
+      <p class="lede">Cari sampul untuk lagu apa pun, pilih dari Foto, atau pertahankan yang asli.</p>
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="Pratinjau">
-<div class="wrap" data-reveal=""><p>Lagu di layanan streaming bisa hilang kalau kamu ganti langganan atau aplikasi. File milikmu sendiri, seperti FLAC hasil rip CD atau MP3 yang kamu beli, tetap jadi milikmu. VibeDeck dibuat untuk musik seperti itu.</p></div>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck untuk Android.</h2>
+      <p class="lede">Pemutar musik offline untuk file milikmu sendiri, dengan nada, bentuk gelombang, tone, dan kontrol suara dalam satu layar.</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=id&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Did-home" aria-label="Unduh VibeDeck Player untuk Android di Google Play"><img src="/assets/badges/google-play-en.svg" alt="Temukan di Google Play" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck untuk Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck untuk Android: Pemutaran" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck untuk Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck untuk Android: Sampler" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck untuk Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck untuk Android: Efek" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck untuk Android: EQ 8 band" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck untuk Android: EQ 3 band" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck untuk Android: Potong" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck untuk Android: Antrean" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck untuk Android: Sampul" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">Spesifikasi</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 semitone</li><li>Tempo</li><li>Equalizer</li><li>Limiter</li><li>Offline</li><li>Tanpa iklan</li><li>Tanpa akun</li><li>Tanpa pelacakan</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">Pemutar dulu. <span class="soft">Kontrol dekat.</span></h2></div><p class="lede">VibeDeck menjaga lagu yang sedang diputar tetap mudah dibaca, sementara antrean dan EQ hanya satu gerakan jauhnya. Pemutar musik offline untuk file lokalmu ini mudah dibaca di tempat gelap, dengan kontrol suara yang dekat.</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>Pemutaran</h3><p>Kontrol pemutaran lengkap, bentuk gelombang yang bisa digeser, penunjuk BPM, serta nada dan filter di layar utama. Lagu yang sama. Rasa baru.</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>Antrean</h3><p>Lihat apa yang sedang diputar, cari di pustaka, dan susun lagu berikutnya tanpa keluar dari pemutar. Mode malam menyembunyikan sampul dan menyisakan daftar saja.</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>Suara</h3><p>EQ + gain, bass boost, filter, pemrosesan reaktif VibeMod, balans stereo, dan pergeseran nada real-time hingga ±8 st. Limiter bawaan: suara bersih dan bertenaga di headphone apa pun.</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">Nada, EQ, AURA, TONE. <span class="soft">Satu layar gelap.</span></h2></div><p class="lede">Alat suara PRO hanya satu gerakan dari lagu: pemutar musik dengan kontrol nada dan tempo, equalizer sungguhan untuk iPhone dan Android, dan visual yang bereaksi terhadap beat.</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">Pemutaran</span><div><h3>Lagu yang sama. Rasa baru.</h3><p>Nada, VibeMod, dan TONE ada tepat di bawah sampul. Alat DJ, Studio, Sampler, dan Stems hanya satu ketukan.</p></div></li><li><span class="k mono">Studio</span><div><h3>Pitch DJ klasik. Master Tempo.</h3><p>Lengkungkan nada seperti turntable, atau pertahankan kunci dan ubah tempo saja. Loop dari setengah bar hingga 8 bar di grid beat.</p></div></li><li><span class="k mono">Sampler</span><div><h3>Rekam. Audio sistem.</h3><p>Rekam suara dari YouTube, TikTok, dan lainnya, lalu potong, bagikan, atau buka di Studio.</p></div></li><li><span class="k mono">Stems</span><div><h3>Pisahkan lagu apa pun.</h3><p>Pisahkan lagu menjadi vokal dan instrumental langsung di ponsel, lalu campur secara langsung atau tambahkan efek Studio.</p></div></li><li><span class="k mono">Efek</span><div><h3>Tambahkan efek.</h3><p>Bass boost, saturasi, reverb, dan echo, plus preset seperti Slowed + Reverb dan Nightcore.</p></div></li><li><span class="k mono">EQ 8 band</span><div><h3>3 band. 8 band.</h3><p>Beralih ke EQ 8 band dari 60 Hz hingga 16 kHz, dengan VibeMod, limiter, dan mono.</p></div></li><li><span class="k mono">EQ 3 band</span><div><h3>EQ DJ 3 band.</h3><p>Gain, bass, mid, dan high: EQ mixer DJ klasik untuk lagu-lagumu sendiri.</p></div></li><li><span class="k mono">Potong</span><div><h3>Potong. Bagikan.</h3><p>Potong rekaman, tambahkan fade in dan fade out, lalu bagikan atau buka di Studio.</p></div></li><li><span class="k mono">Antrean</span><div><h3>Seret untuk mengurutkan.</h3><p>Atur ulang urutan lagu sesukamu, ganti sampul apa pun, dan aktifkan mode malam.</p></div></li><li><span class="k mono">Sampul</span><div><h3>Ganti sampul apa pun.</h3><p>Cari sampul untuk lagu apa pun, pilih dari Foto, atau pertahankan yang asli.</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -371,11 +454,11 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>Tanpa internet</h3><p>Dengarkan koleksimu di pesawat atau di tempat tanpa sinyal. Musik tidak memakai kuota data.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>Suaramu sendiri</h3><p>Equalizer dengan gain, penguat bass, filter, dan limiter. Telusuri lagu lewat bentuk gelombangnya.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>Nada dan tempo</h3><p>Ubah nada hingga ±8 semitone dan tempo secara terpisah, untuk bernyanyi, latihan alat musik, atau menyiapkan set.</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">Semua suara dalam satu layar</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">Pemutaran</p><h3>Kontrol nada di layar utama</h3><p>Pitch, VibeMod, dan TONE tepat di bawah sampul album. Lagu yang sama, rasa yang baru.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">Suara</p><h3>Equalizer dengan gain dan limiter</h3><p>Gain, bass, mid, dan treble, plus limiter dan keseimbangan stereo, semuanya real time.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>Ganti suasana</h3><p>Nyalakan TONE dan dengarkan lagu yang sama dengan warna berbeda.</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>Musik yang merespons</h3><p>Visual yang bergerak di setiap ketukan, mengikuti lagu yang sedang diputar.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>Semesta untuk musikmu</h3><p>Visual suasana yang bereaksi terhadap musik, pas untuk mendengarkan di ruangan redup.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">Antrean</p><h3>Sentuh dan seret untuk mengurutkan</h3><p>Atur ulang urutan lagu, cari di koleksimu, dan lihat lagu berikutnya.</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">Dibuat untuk <span class="soft">caramu mendengarkan.</span></h2></div><p class="lede">Panduan untuk setiap cara memakai VibeDeck Player.</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>Putar file-mu</h3><ul><li><a href="/id/pemutar-flac/">Pemutar FLAC untuk iPhone dan Android</a></li><li><a href="/id/pemutar-mp3-tanpa-iklan/">Pemutar MP3 tanpa iklan</a></li></ul></div><div><h3>Ubah kunci dan kecepatan</h3><ul><li><a href="/id/ubah-nada-lagu/">Mengubah nada lagu</a></li><li><a href="/id/memperlambat-lagu/">Memperlambat lagu tanpa mengubah nadanya</a></li><li><a href="/id/bpm/">BPM setiap lagu</a></li><li><a href="/id/nightcore/">Nightcore di ponselmu, satu ketukan</a></li></ul></div><div><h3>Atur suara</h3><ul><li><a href="/id/equalizer-dj/">Beralih antara equalizer DJ 3 band dan equalizer 8 band</a></li></ul></div><div><h3>DJ, Studio, dan rekaman</h3><ul><li><a href="/id/pisahkan-vokal/">Pisahkan lagu apa pun jadi vokal dan instrumental</a></li><li><a href="/id/rekam-audio-internal/">Rekam suara dari YouTube, TikTok, dan lainnya</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
@@ -387,12 +470,6 @@
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="Layar pemutaran offline VibeDeck Player di iPhone" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">Spesifikasi</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 semitone</li><li>Tempo</li><li>Equalizer</li><li>Limiter</li><li>Offline</li><li>Tanpa iklan</li><li>Tanpa akun</li><li>Tanpa pelacakan</li></ul>
 </div>
 </section>
 <section class="section">

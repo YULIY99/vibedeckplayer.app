@@ -85,7 +85,7 @@
   {
    "@type": "WebPage",
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-17",
+   "dateModified": "2026-11-18",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -267,13 +267,15 @@
 </div>
 </header>
 <main id="main">
-<section class="hero hero--sub" aria-labelledby="hero-title">
+<section class="hero hero--sub" id="player" aria-labelledby="hero-title">
 <div class="wrap hero-grid">
 <div class="hero-copy">
 <h1 id="hero-title"><span class="h1-plain">Музичний плеєр без інтернету</span> <span class="h1-sub">FLAC, MP3 і WAV без реклами</span></h1>
 <p class="lede">Офлайн-плеєр зі зміною швидкості для iPhone, iPad і Android. Грає MP3, FLAC, WAV, M4A, AAC, AIFF та інші формати з ваших файлів: базове відтворення безкоштовне, інтернет не потрібен. <a href="#premium">PRO</a> відкриває швидкість, висоту тону, фільтр, еквалайзер, лімітер, Studio, Sampler і Stems. Спробуйте все безкоштовно 48 годин. Картка не потрібна.</p>
 <div class="stores"><a class="store-badge" href="https://apps.apple.com/app/vibedeck-player/id6784724920?pt=129091862&ct=uk-home&mt=8" aria-label="Завантажити VibeDeck Player для iPhone та iPad в App Store"><img src="/assets/badges/app-store-en.svg" alt="Завантажте в App Store" width="144" height="48" decoding="async"/></a><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=uk&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Duk-home" aria-label="Завантажити VibeDeck Player для Android у Google Play"><img src="/assets/badges/google-play-en.svg" alt="Доступно в Google Play" width="162" height="48" decoding="async"/></a></div>
+<ul class="hero-meta mono"><li>Без реклами</li><li>Без акаунта</li><li>Без трекінгу</li><li>iOS 17+ · Android</li></ul>
 <p class="dim" style="margin-top:16px">Зверніть увагу: сам застосунок і його сторінки в App Store та Google Play поки що англійською.</p>
+<div class="slider" data-pitch-demo data-base-bpm="124"><div class="slider-top mono"><label for="pitch-demo"><b>Тональність</b> / PRO-демо</label><span><output data-pitch-value for="pitch-demo">+0.0 st</output> <button class="pitch-reset mono" type="button" data-pitch-reset>СКИНУТИ</button></span></div><div class="slider-track"><input class="pitch-input" id="pitch-demo" type="range" min="-8" max="8" step="0.1" value="0" aria-label="Тональність у півтонах" aria-valuetext="+0.0 st" aria-describedby="pitch-bpm"><span class="slider-thumb" aria-hidden="true"></span></div><div class="slider-top mono"><span>−8 st / +8 st</span><output id="pitch-bpm" data-pitch-bpm for="pitch-demo">BPM 124.0</output></div></div>
 </div>
 <div class="hero-visual">
 <div class="halo" aria-hidden="true"></div>
@@ -283,6 +285,32 @@
 </div>
 </section>
 <style>.studio-points li{grid-template-columns:1fr}.panel{min-height:0}@media (max-width:899px){.feat-block .studio-feature-grid{gap:0}.feat-block .studio-copy{display:contents}.feat-block .studio-copy>.h2{order:1;margin-bottom:20px}.feat-block .studio-art{order:2;padding:0 0 28px}.feat-block .studio-copy>.lede,.feat-block .studio-copy>.studio-points,.feat-block .studio-copy>.studio-link{order:3}}</style><style>@media (min-width:900px){#sampler .studio-feature-grid,#dj-eq .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#sampler .studio-art>div:not(.studio-glow),#dj-eq .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}</style>
+<section class="section statement statement--small" aria-label="Попередній перегляд">
+<div class="wrap" data-reveal=""><p>Треки у стрімінгу можуть зникнути, якщо ви зміните підписку чи сервіс. Власні файли, чи то FLAC з компакт-диска, чи придбаний MP3, залишаються вашими. VibeDeck створений саме для такої музики.</p></div>
+</section>
+<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
+  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio на iPhone: лупи за сіткою ритму, висота тону, фільтр, ефекти та запис" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Лупи. Ефекти. Експорт.</span></h2>
+      <p class="lede">Зациклюйте будь-який момент треку, змінюйте швидкість, додавайте ефекти, а потім зберігайте в бібліотеку або експортуйте.</p>
+      <ul class="studio-points" aria-label="Можливості VibeDeck Studio">
+        <li><span><strong>Висота тону і Master Tempo</strong><small>Від класичного DJ-пітчу з Master Tempo до повної зміни швидкості на 100%. Сповільнюйте трек або прискорюйте.</small></span></li>
+        <li><span><strong>Луп за тактами</strong><small>Від ½ до 8 тактів, з прив’язкою до біту.</small></span></li>
+        <li><span><strong>Фільтр</strong><small>Плавно проведіть фільтром по звуку.</small></span></li>
+        <li><span><strong>Ефекти</strong><small>Сатурація, підсилення басу, реверберація, delay і звук вінілу.</small></span></li>
+        <li><span><strong>Точне підлаштування</strong><small>Зсувайте сітку, початок і кінець лупа.</small></span></li>
+        <li><span><strong>Зворотне відтворення</strong><small>Грайте трек у зворотний бік.</small></span></li>
+        <li><span><strong>Збереження й експорт</strong><small>Збережіть результат у бібліотеку або експортуйте.</small></span></li>
+      </ul>
+      <a class="studio-link mono" href="#download">Дізнатися про VibeDeck <span aria-hidden="true">↗</span></a>
+    </div>
+  </div>
+</section>
 <section class="section studio-feature feat-block" id="sampler" aria-labelledby="sampler-title">
 <div class="wrap studio-feature-grid">
 <div class="studio-art" data-reveal="">
@@ -311,43 +339,6 @@
 </div>
 </div>
 </section>
-<section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
-<div class="wrap studio-feature-grid">
-<div class="studio-art" data-reveal="">
-<div class="studio-glow" aria-hidden="true"></div>
-<div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-3-band-dj-eq-iphone-360.avif 360w, /assets/img/vibedeck-3-band-dj-eq-iphone-540.avif 540w, /assets/img/vibedeck-3-band-dj-eq-iphone-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"/><source type="image/webp" srcset="/assets/img/vibedeck-3-band-dj-eq-iphone-360.webp 360w, /assets/img/vibedeck-3-band-dj-eq-iphone-540.webp 540w, /assets/img/vibedeck-3-band-dj-eq-iphone-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"/><img src="/assets/img/vibedeck-3-band-dj-eq-iphone-540.webp" alt="Трисмуговий DJ-еквалайзер VibeDeck на iPhone: gain, bass, mid і high" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"/></picture></figure><figure style="margin:48px 0 0;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-equalizer-iphone-360.avif 360w, /assets/img/vibedeck-equalizer-iphone-540.avif 540w, /assets/img/vibedeck-equalizer-iphone-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"/><source type="image/webp" srcset="/assets/img/vibedeck-equalizer-iphone-360.webp 360w, /assets/img/vibedeck-equalizer-iphone-540.webp 540w, /assets/img/vibedeck-equalizer-iphone-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"/><img src="/assets/img/vibedeck-equalizer-iphone-540.webp" alt="Еквалайзер VibeDeck на iPhone: 8 смуг, VibeMod, лімітер і моно" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"/></picture></figure></div>
-</div>
-<div class="studio-copy" data-reveal="">
-<h2 class="h2" id="dj-eq-title">3-смуговий DJ-еквалайзер або 8-смуговий.<br/><span class="soft">Перемикання одним дотиком.</span></h2>
-<p class="lede">Великі DJ-фейдери GAIN, BASS, MID і HIGH або вісім смуг від 60 Гц до 16 кГц. Перемикайте прямо під час музики, а нижче — VibeMod, лімітер і моно.</p>
-<ul class="studio-points" aria-label="VibeDeck DJ EQ"><li><span><strong>3-смуговий DJ EQ</strong><small>Gain, bass, mid і high, як на DJ-мікшері.</small></span></li><li><span><strong>8-смуговий еквалайзер</strong><small>Від 60 Гц до 16 кГц, кожна смуга ±12 дБ.</small></span></li><li><span><strong>Моно для продюсерів</strong><small>Перевірте, що кік і бас звучать по центру.</small></span></li><li><span><strong>VibeMod і лімітер</strong><small>Щільний, потужний звук із чистими піками.</small></span></li></ul>
-<a class="how-card" href="/dj-equalizer/" aria-label="Як працює DJ EQ"><span class="how-thumbs" aria-hidden="true"><img src="/assets/img/vibedeck-3-band-dj-eq-iphone-360.webp" alt="" width="360" height="780" loading="lazy" decoding="async"><img src="/assets/img/vibedeck-equalizer-iphone-360.webp" alt="" width="360" height="780" loading="lazy" decoding="async"></span><span class="how-text"><span class="how-eyebrow">Інструкція</span><strong>Як працює DJ EQ</strong></span><span class="how-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
-</div>
-</div>
-</section>
-<section class="section studio-feature feat-block" id="studio" aria-labelledby="studio-title">
-  <style>@media (max-width:899px){#studio .studio-feature-grid{gap:0}#studio .studio-copy{display:contents}#studio .studio-copy>.eyebrow{order:1}#studio .studio-copy>.h2{order:1;margin-bottom:20px}#studio .studio-art{order:2;padding:0 0 28px}#studio .studio-copy>.lede,#studio .studio-copy>.studio-points,#studio .studio-copy>.studio-link{order:3}}</style>
-  <div class="wrap studio-feature-grid">
-    <div class="studio-art" data-reveal>
-      <div class="studio-glow" aria-hidden="true"></div>
-      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.avif 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.avif 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-360.webp 360w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp 540w, /assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-studio-dj-pitch-master-tempo-iphone-540.webp" alt="VibeDeck Studio на iPhone: лупи за сіткою ритму, висота тону, фільтр, ефекти та запис" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
-    </div>
-    <div class="studio-copy" data-reveal>
-      <h2 class="h2" id="studio-title">VibeDeck Studio.<br><span class="soft">Лупи. Ефекти. Експорт.</span></h2>
-      <p class="lede">Зациклюйте будь-який момент треку, змінюйте швидкість, додавайте ефекти, а потім зберігайте в бібліотеку або експортуйте.</p>
-      <ul class="studio-points" aria-label="Можливості VibeDeck Studio">
-        <li><span><strong>Висота тону і Master Tempo</strong><small>Від класичного DJ-пітчу з Master Tempo до повної зміни швидкості на 100%. Сповільнюйте трек або прискорюйте.</small></span></li>
-        <li><span><strong>Луп за тактами</strong><small>Від ½ до 8 тактів, з прив’язкою до біту.</small></span></li>
-        <li><span><strong>Фільтр</strong><small>Плавно проведіть фільтром по звуку.</small></span></li>
-        <li><span><strong>Ефекти</strong><small>Сатурація, підсилення басу, реверберація, delay і звук вінілу.</small></span></li>
-        <li><span><strong>Точне підлаштування</strong><small>Зсувайте сітку, початок і кінець лупа.</small></span></li>
-        <li><span><strong>Зворотне відтворення</strong><small>Грайте трек у зворотний бік.</small></span></li>
-        <li><span><strong>Збереження й експорт</strong><small>Збережіть результат у бібліотеку або експортуйте.</small></span></li>
-      </ul>
-      <a class="studio-link mono" href="#download">Дізнатися про VibeDeck <span aria-hidden="true">↗</span></a>
-    </div>
-  </div>
-</section>
 <section class="section studio-feature feat-block" id="effects" aria-labelledby="effects-title">
   <div class="wrap studio-feature-grid">
     <div class="studio-art" data-reveal>
@@ -360,8 +351,100 @@
     </div>
   </div>
 </section>
-<section class="section statement statement--small" aria-label="Попередній перегляд">
-<div class="wrap" data-reveal=""><p>Треки у стрімінгу можуть зникнути, якщо ви зміните підписку чи сервіс. Власні файли, чи то FLAC з компакт-диска, чи придбаний MP3, залишаються вашими. VibeDeck створений саме для такої музики.</p></div>
+<section class="section studio-feature feat-block" id="colour" aria-labelledby="colour-title">
+  <style>@media (min-width:900px){#colour .studio-feature-grid{grid-template-columns:1.2fr .8fr;gap:clamp(32px,5vw,72px)}#colour .studio-art>div:not(.studio-glow){width:100%!important;gap:18px!important}}#colour .studio-glow{background:radial-gradient(closest-side,rgba(38,200,150,.30),rgba(38,200,150,.10) 48%,transparent 74%)}</style>
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-a-360.avif 360w, /assets/img/vibedeck-cover-colour-a-540.avif 540w, /assets/img/vibedeck-cover-colour-a-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-a-360.webp 360w, /assets/img/vibedeck-cover-colour-a-540.webp 540w, /assets/img/vibedeck-cover-colour-a-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-a-540.webp" alt="Плеєр бере колір з обкладинки." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure><figure style="margin:48px 0 0;overflow:hidden;-webkit-mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%);mask-image:radial-gradient(ellipse 72% 68% at 50% 50%,#000 58%,transparent 100%)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-cover-colour-b-360.avif 360w, /assets/img/vibedeck-cover-colour-b-540.avif 540w, /assets/img/vibedeck-cover-colour-b-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"><source type="image/webp" srcset="/assets/img/vibedeck-cover-colour-b-360.webp 360w, /assets/img/vibedeck-cover-colour-b-540.webp 540w, /assets/img/vibedeck-cover-colour-b-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"><img src="/assets/img/vibedeck-cover-colour-b-540.webp" alt="Матові панелі та сяйво змінюються з кожним треком. Світла тема незабаром." width="540" height="927" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure></div>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="colour-title">Плеєр бере колір з обкладинки.</h2>
+      <p class="lede">Матові панелі та сяйво змінюються з кожним треком. Світла тема незабаром.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="dj-eq" aria-labelledby="dj-eq-title">
+<div class="wrap studio-feature-grid">
+<div class="studio-art" data-reveal="">
+<div class="studio-glow" aria-hidden="true"></div>
+<div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;align-items:start;width:min(100%,640px)"><figure style="margin:0;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-3-band-dj-eq-iphone-360.avif 360w, /assets/img/vibedeck-3-band-dj-eq-iphone-540.avif 540w, /assets/img/vibedeck-3-band-dj-eq-iphone-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"/><source type="image/webp" srcset="/assets/img/vibedeck-3-band-dj-eq-iphone-360.webp 360w, /assets/img/vibedeck-3-band-dj-eq-iphone-540.webp 540w, /assets/img/vibedeck-3-band-dj-eq-iphone-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"/><img src="/assets/img/vibedeck-3-band-dj-eq-iphone-540.webp" alt="Трисмуговий DJ-еквалайзер VibeDeck на iPhone: gain, bass, mid і high" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"/></picture></figure><figure style="margin:48px 0 0;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-equalizer-iphone-360.avif 360w, /assets/img/vibedeck-equalizer-iphone-540.avif 540w, /assets/img/vibedeck-equalizer-iphone-720.avif 720w" sizes="(min-width: 1024px) 320px, 45vw"/><source type="image/webp" srcset="/assets/img/vibedeck-equalizer-iphone-360.webp 360w, /assets/img/vibedeck-equalizer-iphone-540.webp 540w, /assets/img/vibedeck-equalizer-iphone-720.webp 720w" sizes="(min-width: 1024px) 320px, 45vw"/><img src="/assets/img/vibedeck-equalizer-iphone-540.webp" alt="Еквалайзер VibeDeck на iPhone: 8 смуг, VibeMod, лімітер і моно" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"/></picture></figure></div>
+</div>
+<div class="studio-copy" data-reveal="">
+<h2 class="h2" id="dj-eq-title">3-смуговий DJ-еквалайзер або 8-смуговий.<br/><span class="soft">Перемикання одним дотиком.</span></h2>
+<p class="lede">Великі DJ-фейдери GAIN, BASS, MID і HIGH або вісім смуг від 60 Гц до 16 кГц. Перемикайте прямо під час музики, а нижче — VibeMod, лімітер і моно.</p>
+<ul class="studio-points" aria-label="VibeDeck DJ EQ"><li><span><strong>3-смуговий DJ EQ</strong><small>Gain, bass, mid і high, як на DJ-мікшері.</small></span></li><li><span><strong>8-смуговий еквалайзер</strong><small>Від 60 Гц до 16 кГц, кожна смуга ±12 дБ.</small></span></li><li><span><strong>Моно для продюсерів</strong><small>Перевірте, що кік і бас звучать по центру.</small></span></li><li><span><strong>VibeMod і лімітер</strong><small>Щільний, потужний звук із чистими піками.</small></span></li></ul>
+<a class="how-card" href="/dj-equalizer/" hreflang="en" lang="en" aria-label="Як працює DJ EQ"><span class="how-thumbs" aria-hidden="true"><img src="/assets/img/vibedeck-3-band-dj-eq-iphone-360.webp" alt="" width="360" height="780" loading="lazy" decoding="async"><img src="/assets/img/vibedeck-equalizer-iphone-360.webp" alt="" width="360" height="780" loading="lazy" decoding="async"></span><span class="how-text"><span class="how-eyebrow">Інструкція</span><strong>Як працює DJ EQ</strong></span><span class="how-go" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 6l6 6-6 6"/></svg></span></a>
+</div>
+</div>
+</section>
+<section class="section studio-feature feat-block" id="queue" aria-labelledby="queue-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.avif 360w, /assets/img/vibedeck-queue-reorder-iphone-540.avif 540w, /assets/img/vibedeck-queue-reorder-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-queue-reorder-iphone-360.webp 360w, /assets/img/vibedeck-queue-reorder-iphone-540.webp 540w, /assets/img/vibedeck-queue-reorder-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-queue-reorder-iphone-540.webp" alt="Перетягуйте, щоб змінити порядок. Змінюйте обкладинку. Нічний режим." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="queue-title">Перетягуйте, щоб змінити порядок.<br><span class="soft">Змінюйте обкладинку. Нічний режим.</span></h2>
+      <p class="lede">Розставляйте треки як вам зручно, змінюйте будь-яку обкладинку та вмикайте нічний режим.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="duo" aria-labelledby="duo-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <figure style="margin:0;width:100%;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)"><img src="/assets/img/vibedeck-iphone-duo-1080.webp" srcset="/assets/img/vibedeck-iphone-duo-720.webp 720w, /assets/img/vibedeck-iphone-duo-1080.webp 1080w" sizes="(min-width: 1024px) 640px, 92vw" alt="iPhone Duo. Плеєр і черга поруч на великому екрані. З’явиться в наступному оновленні." width="1080" height="760" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="duo-title">iPhone Duo.<br><span class="soft">Оновлення наступного тижня.</span></h2>
+      <p class="lede">Плеєр і черга поруч на великому екрані. З’явиться в наступному оновленні.</p>
+    </div>
+  </div>
+</section>
+<section class="section studio-feature feat-block" id="cover" aria-labelledby="cover-title">
+  <div class="wrap studio-feature-grid">
+    <div class="studio-art" data-reveal>
+      <div class="studio-glow" aria-hidden="true"></div>
+      <figure style="margin:0;width:clamp(260px,80vw,400px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-change-cover-iphone-360.avif 360w, /assets/img/vibedeck-change-cover-iphone-540.avif 540w, /assets/img/vibedeck-change-cover-iphone-720.avif 720w" sizes="(min-width: 1024px) 400px, 80vw"><source type="image/webp" srcset="/assets/img/vibedeck-change-cover-iphone-360.webp 360w, /assets/img/vibedeck-change-cover-iphone-540.webp 540w, /assets/img/vibedeck-change-cover-iphone-720.webp 720w" sizes="(min-width: 1024px) 400px, 80vw"><img src="/assets/img/vibedeck-change-cover-iphone-540.webp" alt="Змінюйте будь-яку обкладинку. Пошук. Фото. Оригінал." width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"></picture></figure>
+    </div>
+    <div class="studio-copy" data-reveal>
+      <h2 class="h2" id="cover-title">Змінюйте будь-яку обкладинку.<br><span class="soft">Пошук. Фото. Оригінал.</span></h2>
+      <p class="lede">Знайдіть обкладинку для будь-якого треку, виберіть її з Фото або залиште оригінал.</p>
+    </div>
+  </div>
+</section>
+<section class="section" id="android" aria-labelledby="android-title">
+  <div class="wrap">
+    <div class="duo-copy" data-reveal>
+      <h2 class="h2" id="android-title">VibeDeck для Android.</h2>
+      <p class="lede">Офлайн-плеєр для ваших власних файлів: тональність, форма хвилі, тон і налаштування звуку на одному екрані.</p>
+      <div class="stores"><a class="store-badge" href="https://play.google.com/store/apps/details?id=com.vibedeck.player&hl=uk&referrer=utm_source%3Dvibedeckplayer.app%26utm_medium%3Dwebsite%26utm_campaign%3Duk-home" aria-label="Завантажити VibeDeck Player для Android у Google Play"><img src="/assets/badges/google-play-en.svg" alt="Доступно в Google Play" width="162" height="48" decoding="async"/></a></div>
+    </div>
+    <style>.droid-rail{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch;padding:8px 0 24px;margin-top:40px;scrollbar-width:thin}.droid-rail figure{flex:0 0 auto;width:clamp(240px,70vw,340px);margin:0;scroll-snap-align:start;overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line)}.droid-rail img{display:block;width:100%;height:auto}</style>
+    <div class="droid-rail" role="group" aria-label="VibeDeck для Android" tabindex="0"><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.avif 360w, /assets/img/vibedeck-android-pitch-control-banner-540.avif 540w, /assets/img/vibedeck-android-pitch-control-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-pitch-control-banner-360.webp 360w, /assets/img/vibedeck-android-pitch-control-banner-540.webp 540w, /assets/img/vibedeck-android-pitch-control-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-pitch-control-banner-540.webp" alt="VibeDeck для Android: Відтворення" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.avif 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.avif 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.avif 720w" sizes="(min-width: 1024px) 320px, 44vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-studio-pitch-banner-360.webp 360w, /assets/img/vibedeck-android-studio-pitch-banner-540.webp 540w, /assets/img/vibedeck-android-studio-pitch-banner-720.webp 720w" sizes="(min-width: 1024px) 320px, 44vw"><img src="/assets/img/vibedeck-android-studio-pitch-banner-540.webp" alt="VibeDeck для Android: Studio" width="540" height="1170" style="aspect-ratio:540/1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-sampler-banner-360.avif 360w, /assets/img/vibedeck-android-sampler-banner-540.avif 540w, /assets/img/vibedeck-android-sampler-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-sampler-banner-360.webp 360w, /assets/img/vibedeck-android-sampler-banner-540.webp 540w, /assets/img/vibedeck-android-sampler-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-sampler-banner-540.webp" alt="VibeDeck для Android: Семплер" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-stems-banner-360.avif 360w, /assets/img/vibedeck-android-stems-banner-540.avif 540w, /assets/img/vibedeck-android-stems-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-stems-banner-360.webp 360w, /assets/img/vibedeck-android-stems-banner-540.webp 540w, /assets/img/vibedeck-android-stems-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-stems-banner-540.webp" alt="VibeDeck для Android: Stems" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-effects-banner-360.avif 360w, /assets/img/vibedeck-android-effects-banner-540.avif 540w, /assets/img/vibedeck-android-effects-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-effects-banner-360.webp 360w, /assets/img/vibedeck-android-effects-banner-540.webp 540w, /assets/img/vibedeck-android-effects-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-effects-banner-540.webp" alt="VibeDeck для Android: Ефекти" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-equalizer-banner-360.avif 360w, /assets/img/vibedeck-android-equalizer-banner-540.avif 540w, /assets/img/vibedeck-android-equalizer-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-equalizer-banner-360.webp 360w, /assets/img/vibedeck-android-equalizer-banner-540.webp 540w, /assets/img/vibedeck-android-equalizer-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-equalizer-banner-540.webp" alt="VibeDeck для Android: 8-смуговий еквалайзер" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.avif 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.avif 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-3-band-eq-banner-360.webp 360w, /assets/img/vibedeck-android-3-band-eq-banner-540.webp 540w, /assets/img/vibedeck-android-3-band-eq-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-3-band-eq-banner-540.webp" alt="VibeDeck для Android: 3-смуговий еквалайзер" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-trim-banner-360.avif 360w, /assets/img/vibedeck-android-trim-banner-540.avif 540w, /assets/img/vibedeck-android-trim-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-trim-banner-360.webp 360w, /assets/img/vibedeck-android-trim-banner-540.webp 540w, /assets/img/vibedeck-android-trim-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-trim-banner-540.webp" alt="VibeDeck для Android: Обрізання" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-queue-banner-360.avif 360w, /assets/img/vibedeck-android-queue-banner-540.avif 540w, /assets/img/vibedeck-android-queue-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-queue-banner-360.webp 360w, /assets/img/vibedeck-android-queue-banner-540.webp 540w, /assets/img/vibedeck-android-queue-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-queue-banner-540.webp" alt="VibeDeck для Android: Черга" width="540" height="1170" loading="lazy" decoding="async"></picture></figure><figure><picture><source type="image/avif" srcset="/assets/img/vibedeck-android-cover-banner-360.avif 360w, /assets/img/vibedeck-android-cover-banner-540.avif 540w, /assets/img/vibedeck-android-cover-banner-720.avif 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><source type="image/webp" srcset="/assets/img/vibedeck-android-cover-banner-360.webp 360w, /assets/img/vibedeck-android-cover-banner-540.webp 540w, /assets/img/vibedeck-android-cover-banner-720.webp 720w" sizes="(min-width:1024px) 22vw, (min-width:640px) 30vw, 46vw"><img src="/assets/img/vibedeck-android-cover-banner-540.webp" alt="VibeDeck для Android: Обкладинки" width="540" height="1170" loading="lazy" decoding="async"></picture></figure></div>
+  </div>
+</section>
+<section class="section" aria-labelledby="specs-title">
+<div class="wrap specs" data-reveal="">
+<h2 id="specs-title">Характеристики</h2>
+<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 півтонів</li><li>Темп</li><li>Еквалайзер</li><li>Лімітер</li><li>Без інтернету</li><li>Без реклами</li><li>Без акаунта</li><li>Без стеження</li></ul>
+</div>
+</section>
+<section class="section" id="workflow" aria-labelledby="workflow-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="workflow-title">Спершу плеєр. <span class="soft">Керування поруч.</span></h2></div><p class="lede">VibeDeck тримає поточний трек читабельним, а черга й еквалайзер залишаються за один рух. Цей офлайн-плеєр для ваших файлів добре читається в темряві, а налаштування звуку завжди під рукою.</p></div>
+    <ul class="panels">
+      <li class="panel glass" data-reveal><h3>Відтворення</h3><p>Повне керування відтворенням, форма хвилі з перемотуванням, показ BPM, тональність і фільтр на головному екрані. Той самий трек. Нове відчуття.</p></li>
+      <li class="panel glass" data-reveal style="--rd:90ms"><h3>Черга</h3><p>Дивіться, що грає, шукайте в бібліотеці й вишиковуйте наступні треки, не виходячи з плеєра. Нічний режим прибирає обкладинку й залишає лише список.</p></li>
+      <li class="panel glass" data-reveal style="--rd:180ms"><h3>Звук</h3><p>Еквалайзер + підсилення, підйом басів, фільтр, реактивна обробка VibeMod, стереобаланс і зміна тональності в реальному часі до ±8 півтонів. Вбудований лімітер: чистий, щільний звук у будь-яких навушниках.</p></li>
+    </ul>
+  </div>
+</section>
+<section class="section" id="features" aria-labelledby="more-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="more-title">Тональність, еквалайзер, AURA, TONE. <span class="soft">Один темний екран.</span></h2></div><p class="lede">Звукові інструменти PRO за один рух від треку: плеєр із керуванням тональністю й темпом, справжній еквалайзер для iPhone та Android і візуальні ефекти в такт музиці.</p></div>
+    <style>.feat-list{list-style:none;margin:40px 0 0;padding:0;display:grid;gap:0 48px}.feat-list li{display:grid;grid-template-columns:120px 1fr;gap:16px;padding:18px 0;border-top:1px solid var(--line)}.feat-list .k{color:var(--muted);font-size:13px;letter-spacing:.08em;text-transform:uppercase;padding-top:3px}.feat-list h3{font-size:17px;margin:0 0 4px}.feat-list p{margin:0;color:var(--muted);font-size:15px;line-height:1.5}@media (min-width:900px){.feat-list{grid-template-columns:1fr 1fr}}</style><ul class="feat-list"><li><span class="k mono">Відтворення</span><div><h3>Той самий трек. Нове відчуття.</h3><p>Тональність, VibeMod і TONE одразу під обкладинкою. DJ-інструменти, Studio, Семплер і Stems в один дотик.</p></div></li><li><span class="k mono">Studio</span><div><h3>Класичний DJ-пітч. Master Tempo.</h3><p>Змінюйте висоту, як на програвачі, або зберігайте тональність і змінюйте лише темп. Лупи від півтакту до 8 тактів за сіткою бітів.</p></div></li><li><span class="k mono">Семплер</span><div><h3>Запишіть. Системний звук.</h3><p>Записуйте звук із YouTube, TikTok та не лише, потім обріжте його, поділіться або відкрийте в Studio.</p></div></li><li><span class="k mono">Stems</span><div><h3>Розділіть будь-яку пісню.</h3><p>Розділіть пісню на вокал та інструментал просто на телефоні, потім мікшуйте наживо або додайте ефекти Studio.</p></div></li><li><span class="k mono">Ефекти</span><div><h3>Додайте ефекти.</h3><p>Бас, сатурація, реверб і ехо, а також пресети на кшталт Slowed + Reverb і Nightcore.</p></div></li><li><span class="k mono">8-смуговий еквалайзер</span><div><h3>3 смуги. 8 смуг.</h3><p>Перемкніться на 8-смуговий еквалайзер від 60 Гц до 16 кГц із VibeMod, лімітером і моно.</p></div></li><li><span class="k mono">3-смуговий еквалайзер</span><div><h3>3-смуговий DJ еквалайзер.</h3><p>Підсилення, низькі, середні й високі: класичний еквалайзер DJ-мікшера для ваших треків.</p></div></li><li><span class="k mono">Обрізання</span><div><h3>Обріжте. Поділіться.</h3><p>Обріжте запис, додайте плавний початок і згасання, потім поділіться або відкрийте в Studio.</p></div></li><li><span class="k mono">Черга</span><div><h3>Перетягуйте, щоб змінити порядок.</h3><p>Розставляйте треки як вам зручно, змінюйте будь-яку обкладинку та вмикайте нічний режим.</p></div></li><li><span class="k mono">Обкладинки</span><div><h3>Змінюйте будь-яку обкладинку.</h3><p>Знайдіть обкладинку для будь-якого треку, виберіть її з Фото або залиште оригінал.</p></div></li></ul>
+  </div>
 </section>
 <section class="section" aria-labelledby="features-title">
 <div class="wrap">
@@ -369,28 +452,22 @@
 <ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><h3>Без інтернету</h3><p>Слухайте свою бібліотеку в літаку або там, де немає зв’язку. Музика не витрачає мобільний трафік.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><h3>Ваш звук</h3><p>Еквалайзер із підсиленням, підйом басів, фільтр і лімітер. Трек зручно перемотувати за формою хвилі.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><h3>Тональність і темп</h3><p>Змінюйте тональність у межах ±8 півтонів, а темп окремо від неї: щоб співати, займатися на інструменті або готувати сет.</p></li></ul>
 </div>
 </section>
-<section class="section" id="features" aria-labelledby="more-title">
-<div class="wrap">
-<div class="sec-head" data-reveal=""><div><h2 class="h2" id="more-title">Увесь звук на одному екрані</h2></div></div>
-<ul class="panels"><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">Відтворення</p><h3>Висота тону на головному екрані</h3><p>Pitch, VibeMod і TONE прямо під обкладинкою.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">Звук</p><h3>Еквалайзер із підсиленням і лімітер</h3><p>Підсилення, низькі, середні й високі частоти, а ще лімітер і стереобаланс, усе в реальному часі.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">TONE</p><h3>Колір звуку</h3><p>TONE змінює звучання треку.</p></li><li class="panel glass" data-reveal="" style="--rd:0ms"><p class="tag">VibeMod</p><h3>Візуалізація в такт</h3><p>Візуальні ефекти рухаються в такт музиці.</p></li><li class="panel glass" data-reveal="" style="--rd:90ms"><p class="tag">AURA</p><h3>Візуалізація AURA</h3><p>AURA: візуалізація, що реагує на музику.</p></li><li class="panel glass" data-reveal="" style="--rd:180ms"><p class="tag">Черга</p><h3>Перетягуйте, щоб змінити порядок</h3><p>Змінюйте порядок треків, шукайте по бібліотеці й дивіться, що заграє наступним.</p></li></ul>
-</div>
+<section class="section" id="guides" aria-labelledby="guides-title">
+  <div class="wrap">
+    <div class="sec-head" data-reveal><div><h2 class="h2" id="guides-title">Створений для того, <span class="soft">як ви слухаєте.</span></h2></div><p class="lede">Гайди на кожен випадок, коли ви користуєтеся VibeDeck Player.</p></div>
+    <style>.guide-index{display:grid;gap:32px 48px;margin-top:40px}.guide-index h3{font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);margin:0 0 12px}.guide-index ul{list-style:none;margin:0;padding:0}.guide-index li{border-top:1px solid var(--line)}.guide-index a{display:block;padding:12px 0;color:var(--text,inherit);text-decoration:none;font-size:16px}.guide-index a:hover{color:var(--accent,#5ac8fa)}@media (min-width:700px){.guide-index{grid-template-columns:1fr 1fr}}@media (min-width:1100px){.guide-index{grid-template-columns:repeat(4,1fr)}}</style><div class="guide-index"><div><h3>Тональність і швидкість</h3><ul><li><a href="/uk/zminyty-tonalnist/">Як змінити тональність пісні</a></li><li><a href="/uk/spovilnyty-pisnyu/">Як уповільнити пісню, не змінюючи тональність</a></li></ul></div><div><h3>DJ, Studio і запис</h3><ul><li><a href="/uk/vidokremyty-holos-vid-muzyky/">Розділіть будь-яку пісню на голос і інструментал</a></li><li><a href="/uk/zapys-zvuku-z-telefonu/">Записуйте звук із YouTube, TikTok та не лише</a></li></ul></div></div>
+  </div>
 </section>
 <section class="section" id="why" aria-labelledby="why-title">
 <div class="wrap duo duo--rev">
 <div class="duo-copy prose" data-reveal="">
 <h2 id="why-title">Чому VibeDeck Player?</h2>
-<p>VibeDeck Player — <strong>музичний плеєр без інтернету для iPhone, iPad і Android</strong>. Він створений для тих, хто має власну музику. Плеєр грає файли FLAC, WAV і MP3, що вже лежать на телефоні, без Wi-Fi, без акаунта, без реклами й без стеження. Ваші файли не покидають пристрій.</p><p>Більшість плеєрів лише відтворюють файли. VibeDeck дозволяє змінювати кожен трек. Підвищуйте або знижуйте тональність на ±8 півтонів і змінюйте темп окремо, щоб займатися, співати у своєму діапазоні або готувати DJ-сет. Налаштовуйте звук еквалайзером із підсиленням, підйомом басів, фільтром, стереобалансом і лімітером, дивіться форму хвилі та BPM.</p><p>Читайте також: <a href="/uk/zminyty-tonalnist/">як змінити тональність пісні</a>, <a href="/flac-player-iphone/">FLAC-плеєр для iPhone та Android</a> і <a href="/mp3-player-no-ads/">MP3-плеєр без реклами</a>.</p>
+<p>VibeDeck Player — <strong>музичний плеєр без інтернету для iPhone, iPad і Android</strong>. Він створений для тих, хто має власну музику. Плеєр грає файли FLAC, WAV і MP3, що вже лежать на телефоні, без Wi-Fi, без акаунта, без реклами й без стеження. Ваші файли не покидають пристрій.</p><p>Більшість плеєрів лише відтворюють файли. VibeDeck дозволяє змінювати кожен трек. Підвищуйте або знижуйте тональність на ±8 півтонів і змінюйте темп окремо, щоб займатися, співати у своєму діапазоні або готувати DJ-сет. Налаштовуйте звук еквалайзером із підсиленням, підйомом басів, фільтром, стереобалансом і лімітером, дивіться форму хвилі та BPM.</p><p>Читайте також: <a href="/uk/zminyty-tonalnist/">як змінити тональність пісні</a>, <a href="/uk/spovilnyty-pisnyu/">як уповільнити пісню, не змінюючи тональність</a> і <a href="/uk/zapys-zvuku-z-telefonu/">запис звуку з YouTube, TikTok та не лише</a>.</p>
 </div>
 <div class="duo-media media-solo">
 <div class="halo" aria-hidden="true"></div>
 <figure data-parallax="0.05" style="margin:0;width:clamp(250px,74vw,340px);overflow:hidden;border-radius:var(--r-lg);border:1px solid var(--line);box-shadow:0 40px 100px -48px rgba(30,159,214,.55)"><picture><source type="image/avif" srcset="/assets/img/vibedeck-queue-library-iphone-360.avif 360w, /assets/img/vibedeck-queue-library-iphone-540.avif 540w, /assets/img/vibedeck-queue-library-iphone-720.avif 720w" sizes="(min-width: 1024px) 340px, 74vw"/><source type="image/webp" srcset="/assets/img/vibedeck-queue-library-iphone-360.webp 360w, /assets/img/vibedeck-queue-library-iphone-540.webp 540w, /assets/img/vibedeck-queue-library-iphone-720.webp 720w" sizes="(min-width: 1024px) 340px, 74vw"/><img src="/assets/img/vibedeck-queue-library-iphone-540.webp" alt="Екран відтворення VibeDeck Player на iPhone без інтернету" width="540" height="1170" loading="lazy" decoding="async" style="display:block;width:100%;height:auto"/></picture></figure>
 </div>
-</div>
-</section>
-<section class="section" aria-labelledby="specs-title">
-<div class="wrap specs" data-reveal="">
-<h2 id="specs-title">Характеристики</h2>
-<ul class="chips"><li>FLAC</li><li>WAV</li><li>MP3</li><li>±8 півтонів</li><li>Темп</li><li>Еквалайзер</li><li>Лімітер</li><li>Без інтернету</li><li>Без реклами</li><li>Без акаунта</li><li>Без стеження</li></ul>
 </div>
 </section>
 <section class="section">
@@ -413,7 +490,7 @@
 </section>
 <section class="section" id="related" aria-labelledby="related-title">
 <div class="wrap">
-<ul class="cards"><li data-reveal="" style="--rd:0ms"><a class="card glass" href="/" hreflang="en" lang="en"><span class="tag">English</span><h3>VibeDeck Player (English)</h3><p>Англійська версія сайту з усіма функціями й гайдами.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li><li data-reveal="" style="--rd:90ms"><a class="card glass" href="/uk/zminyty-tonalnist/"><span class="tag">Тональність</span><h3>Як змінити тональність пісні</h3><p>Транспонуйте за півтонами, не чіпаючи темп.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li><li data-reveal="" style="--rd:180ms"><a class="card glass" href="/flac-player-iphone/"><span class="tag">FLAC</span><h3>FLAC-плеєр для iPhone та Android</h3><p>Без втрат, без інтернету й реклами, з еквалайзером.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li><li data-reveal="" style="--rd:270ms"><a class="card glass" href="/mp3-player-no-ads/"><span class="tag">Без реклами</span><h3>MP3-плеєр без реклами</h3><p>Ваші MP3 без інтернету, без акаунта й без реклами.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li></ul>
+<ul class="cards"><li data-reveal="" style="--rd:0ms"><a class="card glass" href="/" hreflang="en" lang="en"><span class="tag">English</span><h3>VibeDeck Player (English)</h3><p>Англійська версія сайту з усіма функціями й гайдами.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li><li data-reveal="" style="--rd:90ms"><a class="card glass" href="/uk/zminyty-tonalnist/"><span class="tag">Тональність</span><h3>Як змінити тональність пісні</h3><p>Транспонуйте за півтонами, не чіпаючи темп.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li><li data-reveal="" style="--rd:180ms"><a class="card glass" href="/uk/spovilnyty-pisnyu/"><span class="tag">Темп</span><h3>Як уповільнити пісню, не змінюючи тональність</h3><p>Розбирайте соло, хореографію та швидкий текст у власному темпі.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li><li data-reveal="" style="--rd:270ms"><a class="card glass" href="/uk/zapys-zvuku-z-telefonu/"><span class="tag">Sampler</span><h3>Запис звуку з YouTube, TikTok та не лише</h3><p>Натисніть Rec, увімкніть відео й збережіть запис.</p><span class="go mono"><span aria-hidden="true">→</span></span></a></li></ul>
 </div>
 </section>
 <section class="section" id="download" aria-labelledby="download-title">
