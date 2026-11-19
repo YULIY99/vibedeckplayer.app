@@ -29,7 +29,7 @@
     "録音は波形になります。開始点と終了点を決め、0.5秒、1秒、2秒のフェードイン・フェードアウトを付けて試聴できます。"
    ]
   ],
-  "prose": "<h2>スマホの音を録音する手順</h2><ol><li>App StoreまたはGoogle Playから<strong>VibeDeck Player</strong>をインストールします。</li><li>VibeDeckを開き、<strong>Sampler</strong>に進みます。</li><li><strong>Rec</strong>を押します。</li><li>YouTubeやSoundCloudなど、ほかのアプリで音を再生します。</li><li>VibeDeckに戻って<strong>Stop</strong>を押すと、Recorded Samplesに録音が並びます。</li><li>録音をタップすると、波形で編集できます。</li></ol><h2>録音したあとにできること</h2><ul><li><strong>Share:</strong> 好きなアプリに送れます。</li><li><strong>Save to Library:</strong> All Tracksに曲として保存されます。</li><li><strong>Open in Studio:</strong> ループにしたり、ピッチ、フィルター、サチュレーション、空間系で音を変えたりして、自分のバージョンを録音して共有できます。</li></ul><h2>こんな音を録音できます</h2><ul><li><strong>動画のワンシーン:</strong> ビート、セリフ、効果音。</li><li><strong>配信やDJセット:</strong> もう一度聴きたい部分。</li><li><strong>自分の音作りの素材:</strong> 録音してStudioで加工し、作品として公開。</li></ul><p>新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。Sampler、Studio、ピッチなどの機能にはVibeDeck PROが必要です。</p><p>録音は、使う権利のある音だけにしてください。他人の音楽や動画は、通常は著作権で保護されています。</p><p>あわせて読む: <a href='{key}'>曲のキーを変える方法</a></p>",
+  "prose": "<h2>スマホの音を録音する手順</h2><ol><li>App StoreまたはGoogle Playから<strong>VibeDeck Player</strong>をインストールします。</li><li>VibeDeckを開き、<strong>Sampler</strong>に進みます。</li><li><strong>Rec</strong>を押します。</li><li>YouTubeやSoundCloudなど、ほかのアプリで音を再生します。</li><li>VibeDeckに戻って<strong>Stop</strong>を押すと、Recorded Samplesに録音が並びます。</li><li>録音をタップすると、波形で編集できます。</li></ol><h2>録音したあとにできること</h2><ul><li><strong>Share:</strong> 好きなアプリに送れます。</li><li><strong>Save to Library:</strong> All Tracksに曲として保存されます。</li><li><strong>Open in Studio:</strong> ループにしたり、ピッチ、フィルター、サチュレーション、空間系で音を変えたりして、自分のバージョンを録音して共有できます。</li></ul><h2>こんな音を録音できます</h2><ul><li><strong>動画のワンシーン:</strong> ビート、セリフ、効果音。</li><li><strong>配信やDJセット:</strong> もう一度聴きたい部分。</li><li><strong>自分の音作りの素材:</strong> 録音してStudioで加工し、作品として公開。</li></ul><p>VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。</p><p>録音は、使う権利のある音だけにしてください。他人の音楽や動画は、通常は著作権で保護されています。</p><p>あわせて読む: <a href='{key}'>曲のキーを変える方法</a></p>",
   "faq_title": "VibeDeck Sampler: よくある質問",
   "faq": [
    [
@@ -58,7 +58,7 @@
    ],
    [
     "無料ですか?",
-    "新しいユーザーは48時間すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができ、Sampler、Studio、ピッチなどの機能にはVibeDeck PROが必要です。"
+    "VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。"
    ]
   ],
   "cta": "聴いて、Recを押して、残す。",
@@ -93,7 +93,7 @@
     "La grabación se convierte en una forma de onda. Marca el inicio y el final, añade un fundido de entrada y de salida de 0,5, 1 o 2 segundos y escúchala."
    ]
   ],
-  "prose": "<h2>Cómo grabar el sonido del móvil</h2><ol><li>Instala <strong>VibeDeck Player</strong> desde App Store o Google Play.</li><li>Abre VibeDeck y entra en <strong>Sampler</strong>.</li><li>Pulsa <strong>Rec</strong>.</li><li>Reproduce el sonido en YouTube, SoundCloud o cualquier otra app.</li><li>Vuelve y pulsa <strong>Stop</strong>. La muestra aparece en Recorded Samples.</li><li>Tócala para editarla en la forma de onda.</li></ol><h2>Qué hacer con la grabación</h2><ul><li><strong>Share:</strong> envíala a cualquier app.</li><li><strong>Save to Library:</strong> se guarda como pista en All Tracks.</li><li><strong>Open in Studio:</strong> crea un loop, transfórmala con pitch, filtro, saturación y espacio, graba tu versión y compártela.</li></ul><h2>Qué graba la gente</h2><ul><li><strong>Un momento de un vídeo:</strong> un beat, una frase, un efecto.</li><li><strong>Un directo o una sesión de DJ:</strong> la parte que quieres volver a oír.</li><li><strong>Material para tu propio sonido:</strong> grábalo, transfórmalo en Studio y publica el resultado.</li></ul><p>Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El Sampler, Studio, el pitch y el resto de herramientas necesitan VibeDeck PRO.</p><p>Graba solo lo que tengas derecho a usar. La música y los vídeos de otras personas suelen estar protegidos por derechos de autor.</p><p>Lee también: <a href='{key}'>cómo cambiar el tono de una canción</a>.</p>",
+  "prose": "<h2>Cómo grabar el sonido del móvil</h2><ol><li>Instala <strong>VibeDeck Player</strong> desde App Store o Google Play.</li><li>Abre VibeDeck y entra en <strong>Sampler</strong>.</li><li>Pulsa <strong>Rec</strong>.</li><li>Reproduce el sonido en YouTube, SoundCloud o cualquier otra app.</li><li>Vuelve y pulsa <strong>Stop</strong>. La muestra aparece en Recorded Samples.</li><li>Tócala para editarla en la forma de onda.</li></ol><h2>Qué hacer con la grabación</h2><ul><li><strong>Share:</strong> envíala a cualquier app.</li><li><strong>Save to Library:</strong> se guarda como pista en All Tracks.</li><li><strong>Open in Studio:</strong> crea un loop, transfórmala con pitch, filtro, saturación y espacio, graba tu versión y compártela.</li></ul><h2>Qué graba la gente</h2><ul><li><strong>Un momento de un vídeo:</strong> un beat, una frase, un efecto.</li><li><strong>Un directo o una sesión de DJ:</strong> la parte que quieres volver a oír.</li><li><strong>Material para tu propio sonido:</strong> grábalo, transfórmalo en Studio y publica el resultado.</li></ul><p>VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.</p><p>Graba solo lo que tengas derecho a usar. La música y los vídeos de otras personas suelen estar protegidos por derechos de autor.</p><p>Lee también: <a href='{key}'>cómo cambiar el tono de una canción</a>.</p>",
   "faq_title": "VibeDeck Sampler: preguntas frecuentes",
   "faq": [
    [
@@ -122,7 +122,7 @@
    ],
    [
     "¿Es gratis?",
-    "Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El Sampler, Studio, el pitch y el resto de herramientas necesitan VibeDeck PRO."
+    "VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO."
    ]
   ],
   "cta": "Lo oyes. Pulsas Rec. Te lo quedas.",
@@ -157,7 +157,7 @@
     "A gravação vira uma forma de onda. Marque o início e o fim, adicione fade in e fade out de 0,5, 1 ou 2 segundos e ouça antes de salvar."
    ]
   ],
-  "prose": "<h2>Como gravar o som do celular</h2><ol><li>Instale o <strong>VibeDeck Player</strong> pela App Store ou pelo Google Play.</li><li>Abra o VibeDeck e entre em <strong>Sampler</strong>.</li><li>Toque em <strong>Rec</strong>.</li><li>Toque o som no YouTube, no SoundCloud ou em qualquer outro app.</li><li>Volte e toque em <strong>Stop</strong>. A amostra aparece em Recorded Samples.</li><li>Toque nela para editar na forma de onda.</li></ol><h2>O que fazer com a gravação</h2><ul><li><strong>Share:</strong> envie para qualquer app.</li><li><strong>Save to Library:</strong> ela vira uma faixa em All Tracks.</li><li><strong>Open in Studio:</strong> faça um loop, transforme com pitch, filtro, saturação e espaço, grave a sua versão e compartilhe.</li></ul><h2>O que as pessoas gravam</h2><ul><li><strong>Um momento de um vídeo:</strong> um beat, uma frase, um efeito sonoro.</li><li><strong>Uma live ou um set de DJ:</strong> o trecho que você quer ouvir de novo.</li><li><strong>Material para o seu próprio som:</strong> grave, transforme no Studio e publique o resultado.</li></ul><p>Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Depois disso, a versão gratuita toca música, inclusive em segundo plano. O Sampler, o Studio, o pitch e as outras ferramentas precisam do VibeDeck PRO.</p><p>Grave apenas o que você tem direito de usar. Músicas e vídeos de outras pessoas costumam ser protegidos por direitos autorais.</p><p>Veja também: <a href='{key}'>como mudar o tom de uma música</a>.</p>",
+  "prose": "<h2>Como gravar o som do celular</h2><ol><li>Instale o <strong>VibeDeck Player</strong> pela App Store ou pelo Google Play.</li><li>Abra o VibeDeck e entre em <strong>Sampler</strong>.</li><li>Toque em <strong>Rec</strong>.</li><li>Toque o som no YouTube, no SoundCloud ou em qualquer outro app.</li><li>Volte e toque em <strong>Stop</strong>. A amostra aparece em Recorded Samples.</li><li>Toque nela para editar na forma de onda.</li></ol><h2>O que fazer com a gravação</h2><ul><li><strong>Share:</strong> envie para qualquer app.</li><li><strong>Save to Library:</strong> ela vira uma faixa em All Tracks.</li><li><strong>Open in Studio:</strong> faça um loop, transforme com pitch, filtro, saturação e espaço, grave a sua versão e compartilhe.</li></ul><h2>O que as pessoas gravam</h2><ul><li><strong>Um momento de um vídeo:</strong> um beat, uma frase, um efeito sonoro.</li><li><strong>Uma live ou um set de DJ:</strong> o trecho que você quer ouvir de novo.</li><li><strong>Material para o seu próprio som:</strong> grave, transforme no Studio e publique o resultado.</li></ul><p>O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.</p><p>Grave apenas o que você tem direito de usar. Músicas e vídeos de outras pessoas costumam ser protegidos por direitos autorais.</p><p>Veja também: <a href='{key}'>como mudar o tom de uma música</a>.</p>",
   "faq_title": "VibeDeck Sampler: perguntas frequentes",
   "faq": [
    [
@@ -186,7 +186,7 @@
    ],
    [
     "É grátis?",
-    "Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Depois disso, a versão gratuita toca música, inclusive em segundo plano. O Sampler, o Studio, o pitch e as outras ferramentas precisam do VibeDeck PRO."
+    "O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO."
    ]
   ],
   "cta": "Ouviu. Tocou em Rec. Guardou.",
@@ -221,7 +221,7 @@
     "Die Aufnahme wird zur Wellenform. Setz Start- und Endpunkt, füg ein Ein- und Ausblenden von 0,5, 1 oder 2 Sekunden hinzu und hör sie dir vorher an."
    ]
   ],
-  "prose": "<h2>So nimmst du Ton vom Handy auf</h2><ol><li>Installiere <strong>VibeDeck Player</strong> aus dem App Store oder von Google Play.</li><li>Öffne VibeDeck und geh zu <strong>Sampler</strong>.</li><li>Drück auf <strong>Rec</strong>.</li><li>Spiel den Ton in YouTube, SoundCloud oder einer anderen App ab.</li><li>Komm zurück und drück auf <strong>Stop</strong>. Das Sample erscheint unter Recorded Samples.</li><li>Tipp darauf, um es in der Wellenform zu bearbeiten.</li></ol><h2>Was du mit der Aufnahme machen kannst</h2><ul><li><strong>Share:</strong> an jede App schicken.</li><li><strong>Save to Library:</strong> sie wird zu einem Titel unter All Tracks.</li><li><strong>Open in Studio:</strong> loopen, mit Pitch, Filter, Sättigung und Raum verformen, deine Version aufnehmen und teilen.</li></ul><h2>Was Leute aufnehmen</h2><ul><li><strong>Einen Moment aus einem Video:</strong> einen Beat, einen Satz, einen Soundeffekt.</li><li><strong>Einen Stream oder ein DJ-Set:</strong> die Stelle, die du nochmal hören willst.</li><li><strong>Material für deinen eigenen Sound:</strong> aufnehmen, im Studio verbiegen und das Ergebnis posten.</li></ul><p>Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab, auch im Hintergrund. Sampler, Studio, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO.</p><p>Nimm nur auf, was du nutzen darfst. Musik und Videos anderer Leute sind meist urheberrechtlich geschützt.</p><p>Siehe auch: <a href='{key}'>Tonart eines Songs ändern</a>.</p>",
+  "prose": "<h2>So nimmst du Ton vom Handy auf</h2><ol><li>Installiere <strong>VibeDeck Player</strong> aus dem App Store oder von Google Play.</li><li>Öffne VibeDeck und geh zu <strong>Sampler</strong>.</li><li>Drück auf <strong>Rec</strong>.</li><li>Spiel den Ton in YouTube, SoundCloud oder einer anderen App ab.</li><li>Komm zurück und drück auf <strong>Stop</strong>. Das Sample erscheint unter Recorded Samples.</li><li>Tipp darauf, um es in der Wellenform zu bearbeiten.</li></ol><h2>Was du mit der Aufnahme machen kannst</h2><ul><li><strong>Share:</strong> an jede App schicken.</li><li><strong>Save to Library:</strong> sie wird zu einem Titel unter All Tracks.</li><li><strong>Open in Studio:</strong> loopen, mit Pitch, Filter, Sättigung und Raum verformen, deine Version aufnehmen und teilen.</li></ul><h2>Was Leute aufnehmen</h2><ul><li><strong>Einen Moment aus einem Video:</strong> einen Beat, einen Satz, einen Soundeffekt.</li><li><strong>Einen Stream oder ein DJ-Set:</strong> die Stelle, die du nochmal hören willst.</li><li><strong>Material für deinen eigenen Sound:</strong> aufnehmen, im Studio verbiegen und das Ergebnis posten.</li></ul><p>VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.</p><p>Nimm nur auf, was du nutzen darfst. Musik und Videos anderer Leute sind meist urheberrechtlich geschützt.</p><p>Siehe auch: <a href='{key}'>Tonart eines Songs ändern</a>.</p>",
   "faq_title": "VibeDeck Sampler: häufige Fragen",
   "faq": [
    [
@@ -250,7 +250,7 @@
    ],
    [
     "Ist das kostenlos?",
-    "Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab, auch im Hintergrund. Sampler, Studio, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO."
+    "VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO."
    ]
   ],
   "cta": "Hören. Rec drücken. Behalten.",
@@ -285,7 +285,7 @@
     "L'enregistrement devient une forme d'onde. Placez le début et la fin, ajoutez un fondu d'entrée et de sortie de 0,5, 1 ou 2 secondes et écoutez le résultat."
    ]
   ],
-  "prose": "<h2>Comment enregistrer le son du téléphone</h2><ol><li>Installez <strong>VibeDeck Player</strong> depuis l'App Store ou Google Play.</li><li>Ouvrez VibeDeck et allez dans <strong>Sampler</strong>.</li><li>Appuyez sur <strong>Rec</strong>.</li><li>Lancez le son dans YouTube, SoundCloud ou une autre app.</li><li>Revenez et appuyez sur <strong>Stop</strong>. L'échantillon apparaît dans Recorded Samples.</li><li>Touchez-le pour le modifier sur la forme d'onde.</li></ol><h2>Que faire de l'enregistrement</h2><ul><li><strong>Share :</strong> l'envoyer vers n'importe quelle app.</li><li><strong>Save to Library :</strong> il devient un morceau dans All Tracks.</li><li><strong>Open in Studio :</strong> en faire une boucle, le transformer avec le pitch, le filtre, la saturation et l'espace, enregistrer votre version et la partager.</li></ul><h2>Ce que les gens enregistrent</h2><ul><li><strong>Un moment d'une vidéo :</strong> un beat, une phrase, un effet sonore.</li><li><strong>Un live ou un set de DJ :</strong> le passage que vous voulez réécouter.</li><li><strong>De la matière pour votre propre son :</strong> enregistrez, transformez dans Studio et publiez le résultat.</li></ul><p>Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, y compris en arrière-plan. Le Sampler, Studio, le pitch et les autres outils demandent VibeDeck PRO.</p><p>N'enregistrez que ce que vous avez le droit d'utiliser. La musique et les vidéos des autres sont généralement protégées par le droit d'auteur.</p><p>À lire aussi : <a href='{key}'>changer la tonalité d'une chanson</a>.</p>",
+  "prose": "<h2>Comment enregistrer le son du téléphone</h2><ol><li>Installez <strong>VibeDeck Player</strong> depuis l'App Store ou Google Play.</li><li>Ouvrez VibeDeck et allez dans <strong>Sampler</strong>.</li><li>Appuyez sur <strong>Rec</strong>.</li><li>Lancez le son dans YouTube, SoundCloud ou une autre app.</li><li>Revenez et appuyez sur <strong>Stop</strong>. L'échantillon apparaît dans Recorded Samples.</li><li>Touchez-le pour le modifier sur la forme d'onde.</li></ol><h2>Que faire de l'enregistrement</h2><ul><li><strong>Share :</strong> l'envoyer vers n'importe quelle app.</li><li><strong>Save to Library :</strong> il devient un morceau dans All Tracks.</li><li><strong>Open in Studio :</strong> en faire une boucle, le transformer avec le pitch, le filtre, la saturation et l'espace, enregistrer votre version et la partager.</li></ul><h2>Ce que les gens enregistrent</h2><ul><li><strong>Un moment d'une vidéo :</strong> un beat, une phrase, un effet sonore.</li><li><strong>Un live ou un set de DJ :</strong> le passage que vous voulez réécouter.</li><li><strong>De la matière pour votre propre son :</strong> enregistrez, transformez dans Studio et publiez le résultat.</li></ul><p>VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.</p><p>N'enregistrez que ce que vous avez le droit d'utiliser. La musique et les vidéos des autres sont généralement protégées par le droit d'auteur.</p><p>À lire aussi : <a href='{key}'>changer la tonalité d'une chanson</a>.</p>",
   "faq_title": "VibeDeck Sampler : questions fréquentes",
   "faq": [
    [
@@ -314,7 +314,7 @@
    ],
    [
     "C'est gratuit ?",
-    "Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, y compris en arrière-plan. Le Sampler, Studio, le pitch et les autres outils demandent VibeDeck PRO."
+    "VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO."
    ]
   ],
   "cta": "Vous l'entendez. Vous appuyez sur Rec. Vous le gardez.",
@@ -349,7 +349,7 @@
     "La registrazione diventa una forma d'onda. Imposta inizio e fine, aggiungi una dissolvenza in entrata e in uscita di 0,5, 1 o 2 secondi e ascoltala in anteprima."
    ]
   ],
-  "prose": "<h2>Come registrare il suono del telefono</h2><ol><li>Installa <strong>VibeDeck Player</strong> da App Store o Google Play.</li><li>Apri VibeDeck e vai su <strong>Sampler</strong>.</li><li>Premi <strong>Rec</strong>.</li><li>Fai partire il suono su YouTube, SoundCloud o un'altra app.</li><li>Torna e premi <strong>Stop</strong>. Il campione compare in Recorded Samples.</li><li>Toccalo per modificarlo sulla forma d'onda.</li></ol><h2>Cosa fare con la registrazione</h2><ul><li><strong>Share:</strong> inviala a qualsiasi app.</li><li><strong>Save to Library:</strong> diventa un brano in All Tracks.</li><li><strong>Open in Studio:</strong> mettila in loop, trasformala con pitch, filtro, saturazione e spazio, registra la tua versione e condividila.</li></ul><h2>Cosa registrano le persone</h2><ul><li><strong>Un momento di un video:</strong> un beat, una frase, un effetto sonoro.</li><li><strong>Una diretta o un DJ set:</strong> la parte che vuoi riascoltare.</li><li><strong>Materiale per il tuo suono:</strong> registralo, trasformalo in Studio e pubblica il risultato.</li></ul><p>Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce la musica, anche in background. Il Sampler, Studio, il pitch e gli altri strumenti richiedono VibeDeck PRO.</p><p>Registra solo ciò che hai il diritto di usare. La musica e i video di altre persone di solito sono protetti dal diritto d'autore.</p><p>Leggi anche: <a href='{key}'>come cambiare la tonalità di una canzone</a>.</p>",
+  "prose": "<h2>Come registrare il suono del telefono</h2><ol><li>Installa <strong>VibeDeck Player</strong> da App Store o Google Play.</li><li>Apri VibeDeck e vai su <strong>Sampler</strong>.</li><li>Premi <strong>Rec</strong>.</li><li>Fai partire il suono su YouTube, SoundCloud o un'altra app.</li><li>Torna e premi <strong>Stop</strong>. Il campione compare in Recorded Samples.</li><li>Toccalo per modificarlo sulla forma d'onda.</li></ol><h2>Cosa fare con la registrazione</h2><ul><li><strong>Share:</strong> inviala a qualsiasi app.</li><li><strong>Save to Library:</strong> diventa un brano in All Tracks.</li><li><strong>Open in Studio:</strong> mettila in loop, trasformala con pitch, filtro, saturazione e spazio, registra la tua versione e condividila.</li></ul><h2>Cosa registrano le persone</h2><ul><li><strong>Un momento di un video:</strong> un beat, una frase, un effetto sonoro.</li><li><strong>Una diretta o un DJ set:</strong> la parte che vuoi riascoltare.</li><li><strong>Materiale per il tuo suono:</strong> registralo, trasformalo in Studio e pubblica il risultato.</li></ul><p>VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.</p><p>Registra solo ciò che hai il diritto di usare. La musica e i video di altre persone di solito sono protetti dal diritto d'autore.</p><p>Leggi anche: <a href='{key}'>come cambiare la tonalità di una canzone</a>.</p>",
   "faq_title": "VibeDeck Sampler: domande frequenti",
   "faq": [
    [
@@ -378,7 +378,7 @@
    ],
    [
     "È gratis?",
-    "Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce la musica, anche in background. Il Sampler, Studio, il pitch e gli altri strumenti richiedono VibeDeck PRO."
+    "VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO."
    ]
   ],
   "cta": "Lo senti. Premi Rec. Lo tieni.",
@@ -413,7 +413,7 @@
     "Запись превращается в звуковую волну. Отметьте начало и конец, добавьте плавное нарастание и затухание на 0,5, 1 или 2 секунды и прослушайте результат."
    ]
   ],
-  "prose": "<h2>Как записать звук с телефона</h2><ol><li>Установите <strong>VibeDeck Player</strong> из App Store или Google Play.</li><li>Откройте VibeDeck и зайдите в <strong>Sampler</strong>.</li><li>Нажмите <strong>Rec</strong>.</li><li>Включите звук в YouTube, SoundCloud или любом другом приложении.</li><li>Вернитесь и нажмите <strong>Stop</strong>. Запись появится в списке Recorded Samples.</li><li>Нажмите на неё, чтобы отредактировать по волне.</li></ol><h2>Что делать с записью</h2><ul><li><strong>Share:</strong> отправить в любое приложение.</li><li><strong>Save to Library:</strong> запись станет треком в All Tracks.</li><li><strong>Open in Studio:</strong> зациклить, изменить питчем, фильтром, сатурацией и пространством, записать свою версию и поделиться.</li></ul><h2>Что записывают</h2><ul><li><strong>Момент из видео:</strong> бит, фразу, звуковой эффект.</li><li><strong>Трансляцию или диджей-сет:</strong> кусок, который хочется переслушать.</li><li><strong>Материал для своего звука:</strong> записать, переделать в Studio и выложить результат.</li></ul><p>Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом в бесплатной версии можно слушать музыку, в том числе в фоне. Для Сэмплера, Studio, питча и остальных инструментов нужен VibeDeck PRO.</p><p>Записывайте только то, что вы имеете право использовать. Музыка и видео других людей обычно защищены авторским правом.</p><p>Читайте также: <a href='{key}'>как сменить тональность песни</a>.</p>",
+  "prose": "<h2>Как записать звук с телефона</h2><ol><li>Установите <strong>VibeDeck Player</strong> из App Store или Google Play.</li><li>Откройте VibeDeck и зайдите в <strong>Sampler</strong>.</li><li>Нажмите <strong>Rec</strong>.</li><li>Включите звук в YouTube, SoundCloud или любом другом приложении.</li><li>Вернитесь и нажмите <strong>Stop</strong>. Запись появится в списке Recorded Samples.</li><li>Нажмите на неё, чтобы отредактировать по волне.</li></ol><h2>Что делать с записью</h2><ul><li><strong>Share:</strong> отправить в любое приложение.</li><li><strong>Save to Library:</strong> запись станет треком в All Tracks.</li><li><strong>Open in Studio:</strong> зациклить, изменить питчем, фильтром, сатурацией и пространством, записать свою версию и поделиться.</li></ul><h2>Что записывают</h2><ul><li><strong>Момент из видео:</strong> бит, фразу, звуковой эффект.</li><li><strong>Трансляцию или диджей-сет:</strong> кусок, который хочется переслушать.</li><li><strong>Материал для своего звука:</strong> записать, переделать в Studio и выложить результат.</li></ul><p>VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.</p><p>Записывайте только то, что вы имеете право использовать. Музыка и видео других людей обычно защищены авторским правом.</p><p>Читайте также: <a href='{key}'>как сменить тональность песни</a>.</p>",
   "faq_title": "VibeDeck Sampler: частые вопросы",
   "faq": [
    [
@@ -442,7 +442,7 @@
    ],
    [
     "Это бесплатно?",
-    "Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом в бесплатной версии можно слушать музыку, в том числе в фоне. Для Сэмплера, Studio, питча и остальных инструментов нужен VibeDeck PRO."
+    "VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO."
    ]
   ],
   "cta": "Услышали. Нажали Rec. Сохранили.",
@@ -477,7 +477,7 @@
     "녹음은 파형으로 표시됩니다. 시작점과 끝점을 정하고 0.5초, 1초, 2초 페이드 인과 페이드 아웃을 넣은 뒤 미리 들어 보세요."
    ]
   ],
-  "prose": "<h2>휴대폰 소리를 녹음하는 방법</h2><ol><li>App Store 또는 Google Play에서 <strong>VibeDeck Player</strong>를 설치합니다.</li><li>VibeDeck을 열고 <strong>Sampler</strong>로 이동합니다.</li><li><strong>Rec</strong>를 누릅니다.</li><li>YouTube, SoundCloud 등 다른 앱에서 소리를 재생합니다.</li><li>돌아와서 <strong>Stop</strong>을 누르면 Recorded Samples에 녹음이 나타납니다.</li><li>녹음을 탭하면 파형에서 편집할 수 있습니다.</li></ol><h2>녹음으로 할 수 있는 것</h2><ul><li><strong>Share:</strong> 원하는 앱으로 보냅니다.</li><li><strong>Save to Library:</strong> All Tracks에 트랙으로 저장됩니다.</li><li><strong>Open in Studio:</strong> 루프로 만들고, 피치, 필터, 새추레이션, 공간감으로 소리를 바꾼 뒤 내 버전을 녹음해 공유합니다.</li></ul><h2>이런 소리를 녹음합니다</h2><ul><li><strong>영상의 한 장면:</strong> 비트, 대사, 효과음.</li><li><strong>라이브 방송이나 DJ 세트:</strong> 다시 듣고 싶은 부분.</li><li><strong>나만의 사운드 재료:</strong> 녹음하고 Studio에서 바꾼 뒤 결과물을 올립니다.</li></ul><p>모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. 그 후 무료 버전에서는 음악 재생(백그라운드 재생 포함)만 가능합니다. Sampler, Studio, 피치 등의 기능은 VibeDeck PRO가 필요합니다.</p><p>사용할 권리가 있는 소리만 녹음하세요. 다른 사람의 음악과 영상은 보통 저작권으로 보호됩니다.</p><p>함께 보기: <a href='{key}'>노래 키 변경하는 방법</a></p>",
+  "prose": "<h2>휴대폰 소리를 녹음하는 방법</h2><ol><li>App Store 또는 Google Play에서 <strong>VibeDeck Player</strong>를 설치합니다.</li><li>VibeDeck을 열고 <strong>Sampler</strong>로 이동합니다.</li><li><strong>Rec</strong>를 누릅니다.</li><li>YouTube, SoundCloud 등 다른 앱에서 소리를 재생합니다.</li><li>돌아와서 <strong>Stop</strong>을 누르면 Recorded Samples에 녹음이 나타납니다.</li><li>녹음을 탭하면 파형에서 편집할 수 있습니다.</li></ol><h2>녹음으로 할 수 있는 것</h2><ul><li><strong>Share:</strong> 원하는 앱으로 보냅니다.</li><li><strong>Save to Library:</strong> All Tracks에 트랙으로 저장됩니다.</li><li><strong>Open in Studio:</strong> 루프로 만들고, 피치, 필터, 새추레이션, 공간감으로 소리를 바꾼 뒤 내 버전을 녹음해 공유합니다.</li></ul><h2>이런 소리를 녹음합니다</h2><ul><li><strong>영상의 한 장면:</strong> 비트, 대사, 효과음.</li><li><strong>라이브 방송이나 DJ 세트:</strong> 다시 듣고 싶은 부분.</li><li><strong>나만의 사운드 재료:</strong> 녹음하고 Studio에서 바꾼 뒤 결과물을 올립니다.</li></ul><p>VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.</p><p>사용할 권리가 있는 소리만 녹음하세요. 다른 사람의 음악과 영상은 보통 저작권으로 보호됩니다.</p><p>함께 보기: <a href='{key}'>노래 키 변경하는 방법</a></p>",
   "faq_title": "VibeDeck Sampler: 자주 묻는 질문",
   "faq": [
    [
@@ -506,7 +506,7 @@
    ],
    [
     "무료인가요?",
-    "모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. 그 후 무료 버전에서는 음악 재생(백그라운드 재생 포함)만 가능하며, Sampler, Studio, 피치 등의 기능은 VibeDeck PRO가 필요합니다."
+    "VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다."
    ]
   ],
   "cta": "듣고, Rec를 누르고, 간직하세요.",
@@ -541,7 +541,7 @@
     "Kayıt bir dalga formuna dönüşür. Başlangıç ve bitiş noktalarını seçin, 0,5, 1 ya da 2 saniyelik giriş ve çıkış geçişi ekleyin ve önizleyin."
    ]
   ],
-  "prose": "<h2>Telefondan ses nasıl kaydedilir</h2><ol><li><strong>VibeDeck Player</strong> uygulamasını App Store veya Google Play'den yükleyin.</li><li>VibeDeck'i açın ve <strong>Sampler</strong>'a gidin.</li><li><strong>Rec</strong>'e basın.</li><li>Sesi YouTube, SoundCloud ya da başka bir uygulamada çalın.</li><li>Geri dönün ve <strong>Stop</strong>'a basın. Kayıt Recorded Samples listesinde görünür.</li><li>Dalga formunda düzenlemek için kayda dokunun.</li></ol><h2>Kayıtla neler yapabilirsiniz</h2><ul><li><strong>Share:</strong> istediğiniz uygulamaya gönderin.</li><li><strong>Save to Library:</strong> All Tracks içinde bir parça olur.</li><li><strong>Open in Studio:</strong> döngüye alın, pitch, filtre, saturasyon ve alan efektiyle değiştirin, kendi versiyonunuzu kaydedip paylaşın.</li></ul><h2>İnsanlar neler kaydediyor</h2><ul><li><strong>Bir videodan bir an:</strong> bir beat, bir cümle, bir ses efekti.</li><li><strong>Canlı yayın ya da DJ seti:</strong> tekrar dinlemek istediğiniz kısım.</li><li><strong>Kendi sesiniz için malzeme:</strong> kaydedin, Studio'da dönüştürün ve sonucu paylaşın.</li></ul><p>Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Sonrasında ücretsiz sürüm müzik çalar, arka planda da. Sampler, Studio, pitch ve diğer araçlar için VibeDeck PRO gerekir.</p><p>Yalnızca kullanma hakkınız olan sesleri kaydedin. Başkalarının müzikleri ve videoları genellikle telif hakkıyla korunur.</p><p>Ayrıca bakın: <a href='{key}'>şarkının tonunu değiştirme</a>.</p>",
+  "prose": "<h2>Telefondan ses nasıl kaydedilir</h2><ol><li><strong>VibeDeck Player</strong> uygulamasını App Store veya Google Play'den yükleyin.</li><li>VibeDeck'i açın ve <strong>Sampler</strong>'a gidin.</li><li><strong>Rec</strong>'e basın.</li><li>Sesi YouTube, SoundCloud ya da başka bir uygulamada çalın.</li><li>Geri dönün ve <strong>Stop</strong>'a basın. Kayıt Recorded Samples listesinde görünür.</li><li>Dalga formunda düzenlemek için kayda dokunun.</li></ol><h2>Kayıtla neler yapabilirsiniz</h2><ul><li><strong>Share:</strong> istediğiniz uygulamaya gönderin.</li><li><strong>Save to Library:</strong> All Tracks içinde bir parça olur.</li><li><strong>Open in Studio:</strong> döngüye alın, pitch, filtre, saturasyon ve alan efektiyle değiştirin, kendi versiyonunuzu kaydedip paylaşın.</li></ul><h2>İnsanlar neler kaydediyor</h2><ul><li><strong>Bir videodan bir an:</strong> bir beat, bir cümle, bir ses efekti.</li><li><strong>Canlı yayın ya da DJ seti:</strong> tekrar dinlemek istediğiniz kısım.</li><li><strong>Kendi sesiniz için malzeme:</strong> kaydedin, Studio'da dönüştürün ve sonucu paylaşın.</li></ul><p>VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.</p><p>Yalnızca kullanma hakkınız olan sesleri kaydedin. Başkalarının müzikleri ve videoları genellikle telif hakkıyla korunur.</p><p>Ayrıca bakın: <a href='{key}'>şarkının tonunu değiştirme</a>.</p>",
   "faq_title": "VibeDeck Sampler: sık sorulan sorular",
   "faq": [
    [
@@ -570,7 +570,7 @@
    ],
    [
     "Ücretsiz mi?",
-    "Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Sonrasında ücretsiz sürüm müzik çalar, arka planda da. Sampler, Studio, pitch ve diğer araçlar için VibeDeck PRO gerekir."
+    "VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir."
    ]
   ],
   "cta": "Duyun. Rec'e basın. Saklayın.",
@@ -605,7 +605,7 @@
     "Rekaman berubah menjadi gelombang suara. Atur titik awal dan akhir, tambahkan fade in dan fade out 0,5, 1, atau 2 detik, lalu dengarkan dulu."
    ]
   ],
-  "prose": "<h2>Cara merekam suara dari HP</h2><ol><li>Pasang <strong>VibeDeck Player</strong> dari App Store atau Google Play.</li><li>Buka VibeDeck dan masuk ke <strong>Sampler</strong>.</li><li>Tekan <strong>Rec</strong>.</li><li>Putar suara di YouTube, SoundCloud, atau aplikasi lain.</li><li>Kembali dan tekan <strong>Stop</strong>. Rekaman muncul di Recorded Samples.</li><li>Ketuk rekaman untuk mengeditnya di gelombang suara.</li></ol><h2>Yang bisa dilakukan dengan rekaman</h2><ul><li><strong>Share:</strong> kirim ke aplikasi apa saja.</li><li><strong>Save to Library:</strong> rekaman menjadi lagu di All Tracks.</li><li><strong>Open in Studio:</strong> jadikan loop, ubah dengan pitch, filter, saturasi, dan efek ruang, rekam versimu, lalu bagikan.</li></ul><h2>Yang biasa direkam orang</h2><ul><li><strong>Momen dari video:</strong> beat, kalimat, efek suara.</li><li><strong>Siaran langsung atau set DJ:</strong> bagian yang ingin didengar lagi.</li><li><strong>Bahan untuk suaramu sendiri:</strong> rekam, ubah di Studio, lalu unggah hasilnya.</li></ul><p>Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis bisa memutar musik, termasuk di latar belakang. Sampler, Studio, pitch, dan alat lainnya memerlukan VibeDeck PRO.</p><p>Rekam hanya yang boleh kamu gunakan. Musik dan video milik orang lain biasanya dilindungi hak cipta.</p><p>Baca juga: <a href='{key}'>cara mengubah nada lagu</a>.</p>",
+  "prose": "<h2>Cara merekam suara dari HP</h2><ol><li>Pasang <strong>VibeDeck Player</strong> dari App Store atau Google Play.</li><li>Buka VibeDeck dan masuk ke <strong>Sampler</strong>.</li><li>Tekan <strong>Rec</strong>.</li><li>Putar suara di YouTube, SoundCloud, atau aplikasi lain.</li><li>Kembali dan tekan <strong>Stop</strong>. Rekaman muncul di Recorded Samples.</li><li>Ketuk rekaman untuk mengeditnya di gelombang suara.</li></ol><h2>Yang bisa dilakukan dengan rekaman</h2><ul><li><strong>Share:</strong> kirim ke aplikasi apa saja.</li><li><strong>Save to Library:</strong> rekaman menjadi lagu di All Tracks.</li><li><strong>Open in Studio:</strong> jadikan loop, ubah dengan pitch, filter, saturasi, dan efek ruang, rekam versimu, lalu bagikan.</li></ul><h2>Yang biasa direkam orang</h2><ul><li><strong>Momen dari video:</strong> beat, kalimat, efek suara.</li><li><strong>Siaran langsung atau set DJ:</strong> bagian yang ingin didengar lagi.</li><li><strong>Bahan untuk suaramu sendiri:</strong> rekam, ubah di Studio, lalu unggah hasilnya.</li></ul><p>VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.</p><p>Rekam hanya yang boleh kamu gunakan. Musik dan video milik orang lain biasanya dilindungi hak cipta.</p><p>Baca juga: <a href='{key}'>cara mengubah nada lagu</a>.</p>",
   "faq_title": "VibeDeck Sampler: pertanyaan umum",
   "faq": [
    [
@@ -634,7 +634,7 @@
    ],
    [
     "Apakah gratis?",
-    "Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis bisa memutar musik, termasuk di latar belakang. Sampler, Studio, pitch, dan alat lainnya memerlukan VibeDeck PRO."
+    "VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO."
    ]
   ],
   "cta": "Dengar. Tekan Rec. Simpan.",
@@ -669,7 +669,7 @@
     "Nagranie zamienia się w falę dźwiękową. Ustaw początek i koniec, dodaj wejście i wyciszenie 0,5, 1 lub 2 sekundy i odsłuchaj."
    ]
   ],
-  "prose": "<h2>Jak nagrać dźwięk z telefonu</h2><ol><li>Zainstaluj <strong>VibeDeck Player</strong> z App Store albo Google Play.</li><li>Otwórz VibeDeck i przejdź do <strong>Sampler</strong>.</li><li>Naciśnij <strong>Rec</strong>.</li><li>Odtwórz dźwięk w YouTube, SoundCloud albo innej aplikacji.</li><li>Wróć i naciśnij <strong>Stop</strong>. Nagranie pojawi się w Recorded Samples.</li><li>Dotknij go, aby edytować na fali.</li></ol><h2>Co zrobić z nagraniem</h2><ul><li><strong>Share:</strong> wyślij do dowolnej aplikacji.</li><li><strong>Save to Library:</strong> nagranie stanie się utworem w All Tracks.</li><li><strong>Open in Studio:</strong> zapętl je, zmień wysokością, filtrem, saturacją i przestrzenią, nagraj swoją wersję i udostępnij.</li></ul><h2>Co ludzie nagrywają</h2><ul><li><strong>Moment z filmu:</strong> beat, zdanie, efekt dźwiękowy.</li><li><strong>Transmisję albo set DJ-a:</strong> fragment, który chcesz usłyszeć jeszcze raz.</li><li><strong>Materiał do własnego brzmienia:</strong> nagraj, przerób w Studio i opublikuj efekt.</li></ul><p>Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Sampler, Studio, zmiana wysokości i pozostałe narzędzia wymagają VibeDeck PRO.</p><p>Nagrywaj tylko to, do czego masz prawo. Muzyka i filmy innych osób zwykle są chronione prawem autorskim.</p><p>Zobacz też: <a href='{key}'>jak zmienić tonację piosenki</a>.</p>",
+  "prose": "<h2>Jak nagrać dźwięk z telefonu</h2><ol><li>Zainstaluj <strong>VibeDeck Player</strong> z App Store albo Google Play.</li><li>Otwórz VibeDeck i przejdź do <strong>Sampler</strong>.</li><li>Naciśnij <strong>Rec</strong>.</li><li>Odtwórz dźwięk w YouTube, SoundCloud albo innej aplikacji.</li><li>Wróć i naciśnij <strong>Stop</strong>. Nagranie pojawi się w Recorded Samples.</li><li>Dotknij go, aby edytować na fali.</li></ol><h2>Co zrobić z nagraniem</h2><ul><li><strong>Share:</strong> wyślij do dowolnej aplikacji.</li><li><strong>Save to Library:</strong> nagranie stanie się utworem w All Tracks.</li><li><strong>Open in Studio:</strong> zapętl je, zmień wysokością, filtrem, saturacją i przestrzenią, nagraj swoją wersję i udostępnij.</li></ul><h2>Co ludzie nagrywają</h2><ul><li><strong>Moment z filmu:</strong> beat, zdanie, efekt dźwiękowy.</li><li><strong>Transmisję albo set DJ-a:</strong> fragment, który chcesz usłyszeć jeszcze raz.</li><li><strong>Materiał do własnego brzmienia:</strong> nagraj, przerób w Studio i opublikuj efekt.</li></ul><p>VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.</p><p>Nagrywaj tylko to, do czego masz prawo. Muzyka i filmy innych osób zwykle są chronione prawem autorskim.</p><p>Zobacz też: <a href='{key}'>jak zmienić tonację piosenki</a>.</p>",
   "faq_title": "VibeDeck Sampler: częste pytania",
   "faq": [
    [
@@ -698,7 +698,7 @@
    ],
    [
     "Czy to jest darmowe?",
-    "Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Sampler, Studio, zmiana wysokości i pozostałe narzędzia wymagają VibeDeck PRO."
+    "VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO."
    ]
   ],
   "cta": "Usłyszysz. Naciśniesz Rec. Zachowasz.",
@@ -733,7 +733,7 @@
     "De opname wordt een golfvorm. Kies het begin- en eindpunt, voeg een fade-in en fade-out van 0,5, 1 of 2 seconden toe en luister het vooraf af."
    ]
   ],
-  "prose": "<h2>Zo neem je geluid van je telefoon op</h2><ol><li>Installeer <strong>VibeDeck Player</strong> uit de App Store of Google Play.</li><li>Open VibeDeck en ga naar <strong>Sampler</strong>.</li><li>Druk op <strong>Rec</strong>.</li><li>Speel het geluid af in YouTube, SoundCloud of een andere app.</li><li>Kom terug en druk op <strong>Stop</strong>. De sample verschijnt bij Recorded Samples.</li><li>Tik erop om hem op de golfvorm te bewerken.</li></ol><h2>Wat je met de opname kunt doen</h2><ul><li><strong>Share:</strong> naar elke app sturen.</li><li><strong>Save to Library:</strong> hij wordt een nummer in All Tracks.</li><li><strong>Open in Studio:</strong> loopen, vervormen met pitch, filter, saturatie en ruimte, je eigen versie opnemen en delen.</li></ul><h2>Wat mensen opnemen</h2><ul><li><strong>Een moment uit een video:</strong> een beat, een zin, een geluidseffect.</li><li><strong>Een livestream of DJ-set:</strong> het stuk dat je nog eens wilt horen.</li><li><strong>Materiaal voor je eigen sound:</strong> opnemen, in Studio vervormen en het resultaat posten.</li></ul><p>Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af, ook op de achtergrond. De Sampler, Studio, pitch en de andere tools vragen om VibeDeck PRO.</p><p>Neem alleen op wat je mag gebruiken. Muziek en video's van anderen zijn meestal auteursrechtelijk beschermd.</p><p>Lees ook: <a href='{key}'>de toonsoort van een nummer veranderen</a>.</p>",
+  "prose": "<h2>Zo neem je geluid van je telefoon op</h2><ol><li>Installeer <strong>VibeDeck Player</strong> uit de App Store of Google Play.</li><li>Open VibeDeck en ga naar <strong>Sampler</strong>.</li><li>Druk op <strong>Rec</strong>.</li><li>Speel het geluid af in YouTube, SoundCloud of een andere app.</li><li>Kom terug en druk op <strong>Stop</strong>. De sample verschijnt bij Recorded Samples.</li><li>Tik erop om hem op de golfvorm te bewerken.</li></ol><h2>Wat je met de opname kunt doen</h2><ul><li><strong>Share:</strong> naar elke app sturen.</li><li><strong>Save to Library:</strong> hij wordt een nummer in All Tracks.</li><li><strong>Open in Studio:</strong> loopen, vervormen met pitch, filter, saturatie en ruimte, je eigen versie opnemen en delen.</li></ul><h2>Wat mensen opnemen</h2><ul><li><strong>Een moment uit een video:</strong> een beat, een zin, een geluidseffect.</li><li><strong>Een livestream of DJ-set:</strong> het stuk dat je nog eens wilt horen.</li><li><strong>Materiaal voor je eigen sound:</strong> opnemen, in Studio vervormen en het resultaat posten.</li></ul><p>VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.</p><p>Neem alleen op wat je mag gebruiken. Muziek en video's van anderen zijn meestal auteursrechtelijk beschermd.</p><p>Lees ook: <a href='{key}'>de toonsoort van een nummer veranderen</a>.</p>",
   "faq_title": "VibeDeck Sampler: veelgestelde vragen",
   "faq": [
    [
@@ -762,7 +762,7 @@
    ],
    [
     "Is het gratis?",
-    "Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af, ook op de achtergrond. De Sampler, Studio, pitch en de andere tools vragen om VibeDeck PRO."
+    "VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig."
    ]
   ],
   "cta": "Horen. Op Rec drukken. Bewaren.",
@@ -797,7 +797,7 @@
     "Bản ghi trở thành dạng sóng. Chọn điểm đầu và điểm cuối, thêm fade in và fade out 0,5, 1 hoặc 2 giây rồi nghe thử."
    ]
   ],
-  "prose": "<h2>Cách ghi âm thanh từ điện thoại</h2><ol><li>Cài <strong>VibeDeck Player</strong> từ App Store hoặc Google Play.</li><li>Mở VibeDeck và vào <strong>Sampler</strong>.</li><li>Nhấn <strong>Rec</strong>.</li><li>Phát âm thanh trong YouTube, SoundCloud hoặc ứng dụng khác.</li><li>Quay lại và nhấn <strong>Stop</strong>. Bản ghi xuất hiện trong Recorded Samples.</li><li>Chạm vào bản ghi để chỉnh sửa trên dạng sóng.</li></ol><h2>Làm gì với bản ghi</h2><ul><li><strong>Share:</strong> gửi sang bất kỳ ứng dụng nào.</li><li><strong>Save to Library:</strong> bản ghi trở thành một bài trong All Tracks.</li><li><strong>Open in Studio:</strong> tạo vòng lặp, biến đổi bằng pitch, filter, saturation và hiệu ứng không gian, ghi phiên bản của bạn rồi chia sẻ.</li></ul><h2>Mọi người thường ghi gì</h2><ul><li><strong>Một khoảnh khắc trong video:</strong> một đoạn beat, một câu nói, một hiệu ứng âm thanh.</li><li><strong>Buổi phát trực tiếp hoặc set DJ:</strong> đoạn bạn muốn nghe lại.</li><li><strong>Chất liệu cho âm thanh của riêng bạn:</strong> ghi lại, biến đổi trong Studio và đăng kết quả.</li></ul><p>Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc, kể cả khi chạy nền. Sampler, Studio, pitch và các công cụ khác cần VibeDeck PRO.</p><p>Chỉ ghi những gì bạn có quyền sử dụng. Nhạc và video của người khác thường được bảo vệ bản quyền.</p><p>Xem thêm: <a href='{key}'>cách đổi tone bài hát</a>.</p>",
+  "prose": "<h2>Cách ghi âm thanh từ điện thoại</h2><ol><li>Cài <strong>VibeDeck Player</strong> từ App Store hoặc Google Play.</li><li>Mở VibeDeck và vào <strong>Sampler</strong>.</li><li>Nhấn <strong>Rec</strong>.</li><li>Phát âm thanh trong YouTube, SoundCloud hoặc ứng dụng khác.</li><li>Quay lại và nhấn <strong>Stop</strong>. Bản ghi xuất hiện trong Recorded Samples.</li><li>Chạm vào bản ghi để chỉnh sửa trên dạng sóng.</li></ol><h2>Làm gì với bản ghi</h2><ul><li><strong>Share:</strong> gửi sang bất kỳ ứng dụng nào.</li><li><strong>Save to Library:</strong> bản ghi trở thành một bài trong All Tracks.</li><li><strong>Open in Studio:</strong> tạo vòng lặp, biến đổi bằng pitch, filter, saturation và hiệu ứng không gian, ghi phiên bản của bạn rồi chia sẻ.</li></ul><h2>Mọi người thường ghi gì</h2><ul><li><strong>Một khoảnh khắc trong video:</strong> một đoạn beat, một câu nói, một hiệu ứng âm thanh.</li><li><strong>Buổi phát trực tiếp hoặc set DJ:</strong> đoạn bạn muốn nghe lại.</li><li><strong>Chất liệu cho âm thanh của riêng bạn:</strong> ghi lại, biến đổi trong Studio và đăng kết quả.</li></ul><p>VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.</p><p>Chỉ ghi những gì bạn có quyền sử dụng. Nhạc và video của người khác thường được bảo vệ bản quyền.</p><p>Xem thêm: <a href='{key}'>cách đổi tone bài hát</a>.</p>",
   "faq_title": "VibeDeck Sampler: câu hỏi thường gặp",
   "faq": [
    [
@@ -826,7 +826,7 @@
    ],
    [
     "Có miễn phí không?",
-    "Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc, kể cả khi chạy nền. Sampler, Studio, pitch và các công cụ khác cần VibeDeck PRO."
+    "VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO."
    ]
   ],
   "cta": "Nghe. Nhấn Rec. Giữ lại.",
@@ -861,7 +861,7 @@
     "錄音會變成波形。設定起點和終點，加上 0.5、1 或 2 秒的淡入淡出，先試聽再儲存。"
    ]
   ],
-  "prose": "<h2>如何錄下手機的聲音</h2><ol><li>從 App Store 或 Google Play 安裝 <strong>VibeDeck Player</strong>。</li><li>開啟 VibeDeck，進入 <strong>Sampler</strong>。</li><li>按下 <strong>Rec</strong>。</li><li>在 YouTube、SoundCloud 或其他 App 播放聲音。</li><li>回到 VibeDeck 按下 <strong>Stop</strong>，錄音會出現在 Recorded Samples。</li><li>點一下錄音，就能在波形上剪輯。</li></ol><h2>錄完可以做什麼</h2><ul><li><strong>Share：</strong>傳到任何 App。</li><li><strong>Save to Library：</strong>存成 All Tracks 裡的一首曲目。</li><li><strong>Open in Studio：</strong>做成循環，用音高、濾波、飽和與空間效果改造聲音，錄下你的版本並分享。</li></ul><h2>大家都錄些什麼</h2><ul><li><strong>影片裡的一段：</strong>一段節拍、一句台詞、一個音效。</li><li><strong>直播或 DJ set：</strong>想再聽一次的段落。</li><li><strong>自己作品的素材：</strong>錄下來，在 Studio 裡改造，再發布成果。</li></ul><p>每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂，也能在背景播放。Sampler、Studio、音高等工具需要 VibeDeck PRO。</p><p>只錄你有權使用的聲音。他人的音樂和影片通常受著作權保護。</p><p>延伸閱讀：<a href='{key}'>如何升降調</a></p>",
+  "prose": "<h2>如何錄下手機的聲音</h2><ol><li>從 App Store 或 Google Play 安裝 <strong>VibeDeck Player</strong>。</li><li>開啟 VibeDeck，進入 <strong>Sampler</strong>。</li><li>按下 <strong>Rec</strong>。</li><li>在 YouTube、SoundCloud 或其他 App 播放聲音。</li><li>回到 VibeDeck 按下 <strong>Stop</strong>，錄音會出現在 Recorded Samples。</li><li>點一下錄音，就能在波形上剪輯。</li></ol><h2>錄完可以做什麼</h2><ul><li><strong>Share：</strong>傳到任何 App。</li><li><strong>Save to Library：</strong>存成 All Tracks 裡的一首曲目。</li><li><strong>Open in Studio：</strong>做成循環，用音高、濾波、飽和與空間效果改造聲音，錄下你的版本並分享。</li></ul><h2>大家都錄些什麼</h2><ul><li><strong>影片裡的一段：</strong>一段節拍、一句台詞、一個音效。</li><li><strong>直播或 DJ set：</strong>想再聽一次的段落。</li><li><strong>自己作品的素材：</strong>錄下來，在 Studio 裡改造，再發布成果。</li></ul><p>VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。</p><p>只錄你有權使用的聲音。他人的音樂和影片通常受著作權保護。</p><p>延伸閱讀：<a href='{key}'>如何升降調</a></p>",
   "faq_title": "VibeDeck Sampler 常見問題",
   "faq": [
    [
@@ -890,7 +890,7 @@
    ],
    [
     "是免費的嗎？",
-    "每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂，也能在背景播放；Sampler、Studio、音高等工具需要 VibeDeck PRO。"
+    "VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。"
    ]
   ],
   "cta": "聽到，按 Rec，留下來。",
@@ -925,7 +925,7 @@
     "录音会变成波形。设置起点和终点，加上 0.5、1 或 2 秒的淡入淡出，先试听再保存。"
    ]
   ],
-  "prose": "<h2>如何录下手机的声音</h2><ol><li>从 App Store 或 Google Play 安装 <strong>VibeDeck Player</strong>。</li><li>打开 VibeDeck，进入 <strong>Sampler</strong>。</li><li>按下 <strong>Rec</strong>。</li><li>在 YouTube、SoundCloud 或其他 App 播放声音。</li><li>回到 VibeDeck 按下 <strong>Stop</strong>，录音会出现在 Recorded Samples。</li><li>点一下录音，就能在波形上剪辑。</li></ol><h2>录完可以做什么</h2><ul><li><strong>Share：</strong>传到任何 App。</li><li><strong>Save to Library：</strong>存成 All Tracks 里的一首曲目。</li><li><strong>Open in Studio：</strong>做成循环，用音高、滤波、饱和与空间效果改造声音，录下你的版本并分享。</li></ul><h2>大家都录些什么</h2><ul><li><strong>视频里的一段：</strong>一段节拍、一句台词、一个音效。</li><li><strong>直播或 DJ set：</strong>想再听一次的段落。</li><li><strong>自己作品的素材：</strong>录下来，在 Studio 里改造，再发布成果。</li></ul><p>每位新用户都能免费使用全部功能 48 小时，不需绑卡，也不需注册。之后免费版可以播放音乐，也能在背景播放。Sampler、Studio、音高等工具需要 VibeDeck PRO。</p><p>只录你有权使用的声音。他人的音乐和视频通常受著作权保护。</p><p>延伸阅读：<a href='{key}'>如何升降调</a></p>",
+  "prose": "<h2>如何录下手机的声音</h2><ol><li>从 App Store 或 Google Play 安装 <strong>VibeDeck Player</strong>。</li><li>打开 VibeDeck，进入 <strong>Sampler</strong>。</li><li>按下 <strong>Rec</strong>。</li><li>在 YouTube、SoundCloud 或其他 App 播放声音。</li><li>回到 VibeDeck 按下 <strong>Stop</strong>，录音会出现在 Recorded Samples。</li><li>点一下录音，就能在波形上剪辑。</li></ol><h2>录完可以做什么</h2><ul><li><strong>Share：</strong>传到任何 App。</li><li><strong>Save to Library：</strong>存成 All Tracks 里的一首曲目。</li><li><strong>Open in Studio：</strong>做成循环，用音高、滤波、饱和与空间效果改造声音，录下你的版本并分享。</li></ul><h2>大家都录些什么</h2><ul><li><strong>视频里的一段：</strong>一段节拍、一句台词、一个音效。</li><li><strong>直播或 DJ set：</strong>想再听一次的段落。</li><li><strong>自己作品的素材：</strong>录下来，在 Studio 里改造，再发布成果。</li></ul><p>VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。</p><p>只录你有权使用的声音。他人的音乐和视频通常受著作权保护。</p><p>延伸阅读：<a href='{key}'>如何升降调</a></p>",
   "faq_title": "VibeDeck Sampler 常见问题",
   "faq": [
    [
@@ -954,7 +954,7 @@
    ],
    [
     "是免费的吗？",
-    "每位新用户都能免费使用全部功能 48 小时，不需绑卡，也不需注册。之后免费版可以播放音乐，也能在背景播放；Sampler、Studio、音高等工具需要 VibeDeck PRO。"
+    "VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。"
    ]
   ],
   "cta": "听到，按 Rec，留下来。",
@@ -989,7 +989,7 @@
     "เสียงที่อัดจะกลายเป็นรูปคลื่นเสียง ตั้งจุดเริ่มและจุดจบ ใส่เฟดเข้าและเฟดออก 0.5, 1 หรือ 2 วินาที แล้วฟังตัวอย่างได้"
    ]
   ],
-  "prose": "<h2>วิธีอัดเสียงจากมือถือ</h2><ol><li>ติดตั้ง <strong>VibeDeck Player</strong> จาก App Store หรือ Google Play</li><li>เปิด VibeDeck แล้วไปที่ <strong>Sampler</strong></li><li>กด <strong>Rec</strong></li><li>เปิดเสียงใน YouTube, SoundCloud หรือแอปอื่น</li><li>กลับมาแล้วกด <strong>Stop</strong> เสียงที่อัดจะอยู่ใน Recorded Samples</li><li>แตะเพื่อตัดต่อบนรูปคลื่นเสียง</li></ol><h2>ทำอะไรกับเสียงที่อัดได้บ้าง</h2><ul><li><strong>Share:</strong> ส่งไปแอปไหนก็ได้</li><li><strong>Save to Library:</strong> กลายเป็นเพลงหนึ่งใน All Tracks</li><li><strong>Open in Studio:</strong> ทำลูป ปรับด้วยระดับเสียง ฟิลเตอร์ แซทูเรชัน และสเปซ อัดเวอร์ชันของคุณแล้วแชร์</li></ul><h2>คนชอบอัดอะไร</h2><ul><li><strong>ช่วงหนึ่งในวิดีโอ:</strong> บีต ประโยค หรือเอฟเฟกต์เสียง</li><li><strong>ไลฟ์หรือเซ็ตดีเจ:</strong> ท่อนที่อยากฟังซ้ำ</li><li><strong>วัตถุดิบสำหรับเสียงของคุณเอง:</strong> อัด ปรับใน Studio แล้วโพสต์ผลงาน</li></ul><p>ผู้ใช้ใหม่ทุกคนใช้ฟีเจอร์ทั้งหมดได้ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัครสมาชิก หลังจากนั้นเวอร์ชันฟรีจะเล่นเพลงได้ รวมถึงเล่นในเบื้องหลัง ส่วน Sampler, Studio, ระดับเสียง และเครื่องมืออื่นต้องใช้ VibeDeck PRO</p><p>อัดเฉพาะสิ่งที่คุณมีสิทธิ์ใช้ เพลงและวิดีโอของคนอื่นมักมีลิขสิทธิ์คุ้มครอง</p><p>อ่านเพิ่มเติม: <a href='{key}'>วิธีเปลี่ยนคีย์เพลง</a></p>",
+  "prose": "<h2>วิธีอัดเสียงจากมือถือ</h2><ol><li>ติดตั้ง <strong>VibeDeck Player</strong> จาก App Store หรือ Google Play</li><li>เปิด VibeDeck แล้วไปที่ <strong>Sampler</strong></li><li>กด <strong>Rec</strong></li><li>เปิดเสียงใน YouTube, SoundCloud หรือแอปอื่น</li><li>กลับมาแล้วกด <strong>Stop</strong> เสียงที่อัดจะอยู่ใน Recorded Samples</li><li>แตะเพื่อตัดต่อบนรูปคลื่นเสียง</li></ol><h2>ทำอะไรกับเสียงที่อัดได้บ้าง</h2><ul><li><strong>Share:</strong> ส่งไปแอปไหนก็ได้</li><li><strong>Save to Library:</strong> กลายเป็นเพลงหนึ่งใน All Tracks</li><li><strong>Open in Studio:</strong> ทำลูป ปรับด้วยระดับเสียง ฟิลเตอร์ แซทูเรชัน และสเปซ อัดเวอร์ชันของคุณแล้วแชร์</li></ul><h2>คนชอบอัดอะไร</h2><ul><li><strong>ช่วงหนึ่งในวิดีโอ:</strong> บีต ประโยค หรือเอฟเฟกต์เสียง</li><li><strong>ไลฟ์หรือเซ็ตดีเจ:</strong> ท่อนที่อยากฟังซ้ำ</li><li><strong>วัตถุดิบสำหรับเสียงของคุณเอง:</strong> อัด ปรับใน Studio แล้วโพสต์ผลงาน</li></ul><p>VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO</p><p>อัดเฉพาะสิ่งที่คุณมีสิทธิ์ใช้ เพลงและวิดีโอของคนอื่นมักมีลิขสิทธิ์คุ้มครอง</p><p>อ่านเพิ่มเติม: <a href='{key}'>วิธีเปลี่ยนคีย์เพลง</a></p>",
   "faq_title": "VibeDeck Sampler: คำถามที่พบบ่อย",
   "faq": [
    [
@@ -1018,7 +1018,7 @@
    ],
    [
     "ฟรีไหม",
-    "ผู้ใช้ใหม่ทุกคนใช้ฟีเจอร์ทั้งหมดได้ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัครสมาชิก หลังจากนั้นเวอร์ชันฟรีจะเล่นเพลงได้ รวมถึงเล่นในเบื้องหลัง ส่วน Sampler, Studio, ระดับเสียง และเครื่องมืออื่นต้องใช้ VibeDeck PRO"
+    "VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO"
    ]
   ],
   "cta": "ได้ยิน กด Rec แล้วเก็บไว้",

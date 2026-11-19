@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """Replace the old "core player is free, Premium unlocks the sound engine" sentence.
 
-New model (app 1.0.15, October 2026): 48 hours with everything unlocked for every new
-user, no card and no sign-up; after that the free version only plays music (also in
-the background); everything else needs VibeDeck PRO.
+New model (app 1.0.23): VibeDeck PRO offers a 3-day free trial on the yearly plan, plus
+monthly and Lifetime options; the free version plays music with no ads (also in the
+background); everything else needs VibeDeck PRO.
 
     python3 _build/update_pricing_text.py          # rewrite pages
     python3 _build/update_pricing_text.py --check  # exit 1 if an old sentence is left
@@ -16,21 +16,24 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 
 NEW = {
-    'en': 'Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.',
-    'de': 'Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version deine Musik ohne Werbung ab, auch im Hintergrund. VibeDeck PRO schaltet alles andere frei: Tonhöhe und Tempo, Spulen in der Wellenform, Equalizer, Filter, Limiter, VibeMod, TONE, AURA, Studio und den Sampler.',
-    'es': 'Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce tu música sin anuncios, también en segundo plano. VibeDeck PRO desbloquea todo lo demás: tono y tempo, desplazamiento por la forma de onda, ecualizador, filtro, limitador, VibeMod, TONE, AURA, Studio y el Sampler.',
-    'fr': 'Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit votre musique sans publicité, y compris en arrière-plan. VibeDeck PRO débloque tout le reste : hauteur et tempo, navigation sur la forme d’onde, égaliseur, filtre, limiteur, VibeMod, TONE, AURA, Studio et le Sampler.',
-    'it': 'Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce la tua musica senza pubblicità, anche in background. VibeDeck PRO sblocca tutto il resto: tonalità e tempo, scorrimento sulla forma d’onda, equalizzatore, filtro, limiter, VibeMod, TONE, AURA, Studio e il Sampler.',
-    'pt-br': 'Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Depois disso, a versão gratuita toca sua música sem anúncios, inclusive em segundo plano. O VibeDeck PRO libera todo o resto: tom e andamento, navegação pela forma de onda, equalizador, filtro, limitador, VibeMod, TONE, AURA, Studio e o Sampler.',
-    'ru': 'Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет вашу музыку без рекламы, в том числе в фоне. VibeDeck PRO открывает всё остальное: высоту тона и темп, перемотку по волне, эквалайзер, фильтр, лимитер, VibeMod, TONE, AURA, Studio и Сэмплер.',
-    'ja': '新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では広告なしで音楽を再生できます（バックグラウンド再生も可能）。ピッチとテンポ、波形でのシーク、EQ、フィルター、リミッター、VibeMod、TONE、AURA、Studio、SamplerはVibeDeck PROで使えます。',
-    'ko': '모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. 그 후 무료 버전은 광고 없이 음악을 재생하며, 백그라운드 재생도 됩니다. 피치와 템포, 파형 탐색, 이퀄라이저, 필터, 리미터, VibeMod, TONE, AURA, Studio, Sampler는 VibeDeck PRO로 사용할 수 있습니다.',
-    'tr': 'Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Sonrasında ücretsiz sürüm müziğini reklamsız çalar, arka planda da. VibeDeck PRO geri kalan her şeyin kilidini açar: ton ve tempo, dalga formunda ileri geri sarma, ekolayzer, filtre, limiter, VibeMod, TONE, AURA, Studio ve Sampler.',
-    'id': 'Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musikmu tanpa iklan, termasuk di latar belakang. VibeDeck PRO membuka semua yang lain: nada dan tempo, geser di gelombang suara, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio, dan Sampler.',
-    'pl': 'Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza Twoją muzykę bez reklam, także w tle. VibeDeck PRO odblokowuje całą resztę: wysokość dźwięku i tempo, przewijanie po fali, korektor, filtr, limiter, VibeMod, TONE, AURA, Studio i Sampler.',
-    'nl': 'Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie je muziek af zonder advertenties, ook op de achtergrond. VibeDeck PRO ontgrendelt al het andere: toonhoogte en tempo, spoelen op de golfvorm, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio en de Sampler.',
-    'vi': 'Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc của bạn không quảng cáo, kể cả khi chạy nền. VibeDeck PRO mở khóa mọi thứ còn lại: cao độ và tempo, tua trên dạng sóng, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio và Sampler.',
-    'zh-hant': '每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以無廣告播放你的音樂，也能在背景播放。音高與速度、波形拖曳、等化器、濾波器、限幅器、VibeMod、TONE、AURA、Studio 和 Sampler 則由 VibeDeck PRO 解鎖。',
+    'en': 'VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. The free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.',
+    'de': 'VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Die kostenlose Version spielt deine Musik ohne Werbung ab, auch im Hintergrund. VibeDeck PRO schaltet alles andere frei: Tonhöhe und Tempo, Spulen in der Wellenform, Equalizer, Filter, Limiter, VibeMod, TONE, AURA, Studio und den Sampler.',
+    'es': 'VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. La versión gratuita reproduce tu música sin anuncios, también en segundo plano. VibeDeck PRO desbloquea todo lo demás: tono y tempo, desplazamiento por la forma de onda, ecualizador, filtro, limitador, VibeMod, TONE, AURA, Studio y el Sampler.',
+    'fr': 'VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. La version gratuite lit votre musique sans publicité, y compris en arrière-plan. VibeDeck PRO débloque tout le reste : hauteur et tempo, navigation sur la forme d’onde, égaliseur, filtre, limiteur, VibeMod, TONE, AURA, Studio et le Sampler.',
+    'it': 'VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. La versione gratuita riproduce la tua musica senza pubblicità, anche in background. VibeDeck PRO sblocca tutto il resto: tonalità e tempo, scorrimento sulla forma d’onda, equalizzatore, filtro, limiter, VibeMod, TONE, AURA, Studio e il Sampler.',
+    'pt-br': 'O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. A versão gratuita toca sua música sem anúncios, inclusive em segundo plano. O VibeDeck PRO libera todo o resto: tom e andamento, navegação pela forma de onda, equalizador, filtro, limitador, VibeMod, TONE, AURA, Studio e o Sampler.',
+    'ru': 'VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. Бесплатная версия играет вашу музыку без рекламы, в том числе в фоне. VibeDeck PRO открывает всё остальное: высоту тона и темп, перемотку по форме волны, EQ, фильтр, лимитер, VibeMod, TONE, AURA, Studio и Sampler.',
+    'ja': 'VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。無料版では広告なしで音楽を再生できます（バックグラウンド再生も可能）。ピッチとテンポ、波形でのシーク、EQ、フィルター、リミッター、VibeMod、TONE、AURA、Studio、SamplerはVibeDeck PROで使えます。',
+    'ko': 'VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 무료 버전은 광고 없이 음악을 재생하며, 백그라운드 재생도 됩니다. 피치와 템포, 파형 탐색, 이퀄라이저, 필터, 리미터, VibeMod, TONE, AURA, Studio, Sampler는 VibeDeck PRO로 사용할 수 있습니다.',
+    'tr': 'VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Ücretsiz sürüm müziğini reklamsız çalar, arka planda da. VibeDeck PRO geri kalan her şeyin kilidini açar: ton ve tempo, dalga formunda ileri geri sarma, ekolayzer, filtre, limiter, VibeMod, TONE, AURA, Studio ve Sampler.',
+    'id': 'VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Versi gratis memutar musikmu tanpa iklan, termasuk di latar belakang. VibeDeck PRO membuka semua yang lain: nada dan tempo, geser di gelombang suara, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio, dan Sampler.',
+    'pl': 'VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Darmowa wersja odtwarza Twoją muzykę bez reklam, także w tle. VibeDeck PRO odblokowuje całą resztę: wysokość dźwięku i tempo, przewijanie po fali, korektor, filtr, limiter, VibeMod, TONE, AURA, Studio i Sampler.',
+    'nl': 'VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. De gratis versie speelt je muziek af zonder advertenties, ook op de achtergrond. VibeDeck PRO ontgrendelt al het andere: toonhoogte en tempo, spoelen op de golfvorm, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio en de Sampler.',
+    'vi': 'VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Bản miễn phí phát nhạc của bạn không quảng cáo, kể cả khi chạy nền. VibeDeck PRO mở khóa mọi thứ còn lại: cao độ và tempo, tua trên dạng sóng, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio và Sampler.',
+    'zh-hant': 'VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。免費版可以無廣告播放你的音樂，也能在背景播放。音高與速度、波形拖曳、等化器、濾波器、限幅器、VibeMod、TONE、AURA、Studio 和 Sampler 則由 VibeDeck PRO 解鎖。',
+    'uk': 'VibeDeck PRO пропонує безкоштовний пробний період 3 дні на річному тарифі, а також місячний тариф і Lifetime. Безкоштовна версія грає вашу музику без реклами, зокрема у фоні. VibeDeck PRO відкриває решту: висоту тону й темп, перемотування за формою хвилі, EQ, фільтр, лімітер, VibeMod, TONE, AURA, Studio та Sampler.',
+    'th': 'VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย เวอร์ชันฟรีเล่นเพลงของคุณได้โดยไม่มีโฆษณา รวมถึงเล่นในเบื้องหลัง ส่วนระดับเสียงและเทมโป การเลื่อนบนรูปคลื่นเสียง อีควอไลเซอร์ ฟิลเตอร์ ลิมิตเตอร์ VibeMod, TONE, AURA, Studio และ Sampler ต้องใช้ VibeDeck PRO',
+    'zh-hans': 'VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。免费版可以无广告播放你的音乐，也能在后台播放。音高与速度、波形拖动、均衡器、滤波器、限幅器、VibeMod、TONE、AURA、Studio 和 Sampler 则由 VibeDeck PRO 解锁。',
 }
 
 # Old sentence -> language of the replacement
@@ -67,9 +70,16 @@ FAQ_FIRST = {
 
 
 def trial(lang):
-    """First sentence of the new text: the 48-hour trial."""
+    """First sentence of the new text: the 3-day trial."""
     t = NEW[lang]
-    end = t.index('。') + 1 if lang in ('ja', 'zh-hant') else t.index('. ') + 1
+    if lang in ('ja', 'zh-hant', 'zh-hans'):
+        end = t.index('。') + 1
+    elif lang == 'th':
+        # Thai has no sentence-ending punctuation: the trial sentence ends
+        # right before the second sentence, which starts with "เวอร์ชันฟรี".
+        end = t.index(' เวอร์ชันฟรี')
+    else:
+        end = t.index('. ') + 1
     if lang == 'ja': end = t.index('。', end) + 1  # two short sentences
     return t[:end]
 

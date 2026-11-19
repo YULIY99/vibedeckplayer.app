@@ -16,7 +16,7 @@
 - VibeDeck Stems (vocal remover and stem splitter, iPhone and Android, November 2026): splits a song from the library into vocals and instrumental with an AI model that runs on the device, nothing uploaded. Switch Original, Vocal and Instrumental while the song plays without losing the position; tempo, loops and effects keep working; export the vocal (a cappella) or the instrumental as its own file. First use downloads the separation engine once from the App Store or Google Play, then it works offline; parts are saved per song. On a recent iPhone Pro a split takes about as long as the song. Open a song, go to Studio, tap STEMS. Page: https://vibedeckplayer.app/vocal-remover/
 - VibeDeck DJ EQ (iPhone and Android, November 2026): one tap switches between a 3-band DJ EQ (GAIN, BASS, MID, HIGH faders, +12 to -24 dB, like a DJ mixer) and an 8-band equalizer (60, 150, 400 Hz, 1, 2, 4, 8, 16 kHz, each -12 to +12 dB, with its own gain) while the music plays. Below both: VibeMod (dense, punchy sound processing), limiter, MONO (producers check that the kick and bass sit in the center of the mix) and L/R balance. Page: https://vibedeckplayer.app/dj-equalizer/
 - Privacy: fully offline, files never leave the device, no account, no ads, no tracking
-- Price: free download, no ads. Every new user gets 48 hours with everything unlocked, no card and no sign-up. After that the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO (monthly, yearly or lifetime). PRO prices depend on your country and are shown in the App Store and Google Play.
+- Price: free download, no ads. VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. After the trial the free version only plays music (also in the background, without waveform scrubbing); pitch, tempo, EQ, filter, limiter, visuals, Studio, Stems and the Sampler need VibeDeck PRO (monthly, yearly or lifetime). PRO prices depend on your country and are shown in the App Store and Google Play.
 - Languages: website in English, Deutsch, Français, Italiano, Español, Português (Brasil), 日本語, Русский, 한국어, Türkçe, Bahasa Indonesia, Polski, Nederlands, Tiếng Việt, 繁體中文, 简体中文 and ไทย
 - Developer: Yuliy Metelskiy. Contact: hello@vibedeckplayer.app
 
@@ -57,7 +57,7 @@ Free offline music player and speed changer for iPhone and Android. Plays MP3, A
 
 **Q: Is VibeDeck Player free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler. PRO prices depend on your country and are shown in the App Store and Google Play.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. The free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler. PRO prices depend on your country and are shown in the App Store and Google Play.
 
 **Q: Which audio formats does VibeDeck Player play?**
 
@@ -224,7 +224,7 @@ A: Yes. VibeDeck Player offers real-time pitch shifting up to ±8 st and indepen
 
 **Q: Is VibeDeck Player free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. The free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## MP3 Player With No Ads, Offline | VibeDeck Player
 
@@ -305,7 +305,7 @@ A: Your own collection: downloads, rips, purchases, DJ pools. If you own the fil
 
 **Q: Is VibeDeck Player free on Android?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. The free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## Offline Music Player for iPhone: No Ads | VibeDeck Player
 
@@ -332,7 +332,7 @@ A: Your own collection: downloads, rips, Bandcamp purchases, DJ pools. If you ow
 
 **Q: Is VibeDeck Player free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. The free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## Slow Down a Song Without Changing Pitch | VibeDeck Player
 
@@ -587,7 +587,7 @@ A: Yes. Once imported, the files are on your iPhone and play without WiFi or mob
 
 **Q: Is it free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. The free version plays your music with no ads, also in the background. VibeDeck PRO unlocks everything else: pitch and tempo, waveform scrubbing, EQ, filter, limiter, VibeMod, TONE, AURA, Studio and the Sampler.
 
 ## Change the Key of a Song for Karaoke | VibeDeck Player
 
@@ -761,7 +761,7 @@ A: No. Music protected by streaming services such as Apple Music is blocked by t
 
 **Q: Is it free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. The Sampler, Studio, pitch and the other tools need VibeDeck PRO.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. After the trial, the free version plays your music (also in the background). EQ, limiter and other sound tools need VibeDeck PRO.
 
 ## Vocal Remover and Stem Splitter for iPhone | VibeDeck
 
@@ -796,7 +796,7 @@ A: Songs in your VibeDeck library: MP3, WAV, FLAC and the other formats VibeDeck
 
 **Q: Is it free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. Stems, Studio, the Sampler, pitch and the other tools need VibeDeck PRO.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. After the trial, the free version plays your music (also in the background). EQ, limiter and other sound tools need VibeDeck PRO.
 
 ## 3-Band DJ EQ and 8-Band Equalizer for iPhone | VibeDeck
 
@@ -839,7 +839,7 @@ A: Yes. The EQ works on the music files in your VibeDeck library, with no intern
 
 **Q: Is it free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. The EQ, the limiter and the other sound tools need VibeDeck PRO.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. After the trial, the free version plays your music (also in the background). EQ, limiter and other sound tools need VibeDeck PRO.
 
 ## Nightcore Maker for iPhone: One-Tap Preset | VibeDeck
 
@@ -874,7 +874,7 @@ A: No. VibeDeck only opens audio files stored on your device.
 
 **Q: Is it free?**
 
-A: Every new user gets 48 hours with everything unlocked, with no card and no sign-up. After that the free version plays music, also in the background. The effects, the EQ and the other sound tools need VibeDeck PRO.
+A: VibeDeck PRO offers a 3-day free trial on the yearly plan, plus monthly and Lifetime options. After the trial, the free version plays your music (also in the background). EQ, limiter and other sound tools need VibeDeck PRO.
 
 ## BPM Detector: See the BPM of Every Song | VibeDeck
 
@@ -1029,7 +1029,7 @@ A: Die Oberfläche der App ist derzeit auf Englisch.
 
 **Q: Was kostet die App?**
 
-A: Der Download ist kostenlos und werbefrei. Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Pläne und Preis von PRO siehst du im App Store oder bei Google Play in deinem Land.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Die kostenlose Version spielt deine Musik ohne Werbung ab, auch im Hintergrund. VibeDeck PRO schaltet alles andere frei: Tonhöhe und Tempo, Spulen in der Wellenform, Equalizer, Filter, Limiter, VibeMod, TONE, AURA, Studio und den Sampler. Die Preise von PRO hängen von deinem Land ab und werden im App Store und bei Google Play angezeigt.
 
 **Q: Brauche ich ein Konto?**
 
@@ -1196,7 +1196,7 @@ A: Nein. Geschützte Musik von Streamingdiensten wie Apple Music blockiert das S
 
 **Q: Ist das kostenlos?**
 
-A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab, auch im Hintergrund. Sampler, Studio, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## Gesang und Instrumental trennen auf dem iPhone | VibeDeck
 
@@ -1223,7 +1223,7 @@ A: Auf einem aktuellen iPhone Pro etwa so lange wie der Song. Ältere iPhones br
 
 **Q: Ist es kostenlos?**
 
-A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik ab. Stems, Studio, der Sampler, Pitch und die anderen Werkzeuge brauchen VibeDeck PRO.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## DJ Equalizer mit 3 und 8 Bändern für iPhone | VibeDeck
 
@@ -1254,7 +1254,7 @@ A: VibeMod ist eine spezielle, dichte Bearbeitung des Sounds. Der Track klingt v
 
 **Q: Ist es kostenlos?**
 
-A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## Nightcore auf dem iPhone: Preset mit einem Tipp | VibeDeck
 
@@ -1285,7 +1285,7 @@ A: Ja. Die Presets funktionieren mit den Dateien in deiner VibeDeck-Bibliothek, 
 
 **Q: Ist es kostenlos?**
 
-A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik, auch im Hintergrund. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## BPM jedes Songs und Sortierung nach Tempo | VibeDeck
 
@@ -1312,7 +1312,7 @@ A: Ja. VibeDeck nutzt die Musikdateien auf deinem Gerät, ohne Internet.
 
 **Q: Ist es kostenlos?**
 
-A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik, auch im Hintergrund. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## Neu in VibeDeck Player: Stems, iPad, Cover
 
@@ -1339,7 +1339,7 @@ A: Aktualisiere VibeDeck Player im App Store. Neue Nutzer laden es kostenlos.
 
 **Q: Ist es kostenlos?**
 
-A: Jeder neue Nutzer bekommt 48 Stunden mit allen Funktionen, ohne Karte und ohne Anmeldung. Danach spielt die kostenlose Version Musik, auch im Hintergrund. Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
+A: VibeDeck PRO bietet eine kostenlose 3-tägige Testphase für den Jahrestarif, dazu Monats- und Lifetime-Optionen. Nach der Testphase spielt die kostenlose Version deine Musik (auch im Hintergrund). Equalizer, Limiter und die anderen Sound-Werkzeuge brauchen VibeDeck PRO.
 
 ## Lecteur de musique hors ligne sans pub | VibeDeck
 
@@ -1370,7 +1370,7 @@ A: Pour l’instant, l’interface de l’application est en anglais.
 
 **Q: Combien ça coûte ?**
 
-A: Le téléchargement est gratuit et sans publicité. Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Les formules et le prix de PRO s’affichent sur l’App Store ou Google Play de votre pays.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. La version gratuite lit votre musique sans publicité, y compris en arrière-plan. VibeDeck PRO débloque tout le reste : hauteur et tempo, navigation sur la forme d’onde, égaliseur, filtre, limiteur, VibeMod, TONE, AURA, Studio et le Sampler. Les prix de PRO dépendent de votre pays et s’affichent sur l’App Store et Google Play.
 
 **Q: Faut-il créer un compte ?**
 
@@ -1537,7 +1537,7 @@ A: Non. La musique protégée des services de streaming comme Apple Music est bl
 
 **Q: C'est gratuit ?**
 
-A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, y compris en arrière-plan. Le Sampler, Studio, le pitch et les autres outils demandent VibeDeck PRO.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## Séparer la voix et l'instrumental sur iPhone | VibeDeck
 
@@ -1564,7 +1564,7 @@ A: Sur un iPhone Pro récent, à peu près la durée du morceau. Les iPhone plus
 
 **Q: Est-ce gratuit ?**
 
-A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique. Stems, Studio, le Sampler, le pitch et les autres outils demandent VibeDeck PRO.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## Égaliseur DJ 3 bandes et égaliseur 8 bandes sur iPhone
 
@@ -1595,7 +1595,7 @@ A: VibeMod est un traitement spécial et dense du son. Le morceau sonne plus ple
 
 **Q: C’est gratuit ?**
 
-A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## Nightcore sur iPhone : preset en un geste | VibeDeck
 
@@ -1626,7 +1626,7 @@ A: Oui. Les presets fonctionnent avec les fichiers de votre bibliothèque VibeDe
 
 **Q: Est-ce gratuit ?**
 
-A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, aussi en arrière-plan. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## BPM de chaque morceau et tri par tempo | VibeDeck
 
@@ -1653,7 +1653,7 @@ A: Oui. VibeDeck utilise les fichiers musicaux de votre appareil, sans internet.
 
 **Q: Est-ce gratuit ?**
 
-A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, aussi en arrière-plan. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## Nouveautés de VibeDeck Player : Stems, iPad, pochettes
 
@@ -1680,7 +1680,7 @@ A: Mettez à jour VibeDeck Player dans l’App Store. Les nouveaux utilisateurs 
 
 **Q: Est-ce gratuit ?**
 
-A: Chaque nouvel utilisateur a 48 heures avec tout débloqué, sans carte et sans inscription. Ensuite, la version gratuite lit la musique, aussi en arrière-plan. L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
+A: VibeDeck PRO propose un essai gratuit de 3 jours sur l’abonnement annuel, ainsi que des formules mensuelle et Lifetime. Après l’essai, la version gratuite lit votre musique (aussi en arrière-plan). L’égaliseur, le limiteur et les autres outils de son nécessitent VibeDeck PRO.
 
 ## Lettore musicale offline senza pubblicità | VibeDeck
 
@@ -1711,7 +1711,7 @@ A: Per ora l’interfaccia dell’app è in inglese. Questa è la versione itali
 
 **Q: Quanto costa?**
 
-A: Il download è gratuito e senza pubblicità. Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Il prezzo di PRO dipende dal paese ed è indicato su App Store e Google Play.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. La versione gratuita riproduce la tua musica senza pubblicità, anche in background. VibeDeck PRO sblocca tutto il resto: tonalità e tempo, scorrimento sulla forma d’onda, equalizzatore, filtro, limiter, VibeMod, TONE, AURA, Studio e il Sampler. I prezzi di PRO dipendono dal paese e sono indicati su App Store e Google Play.
 
 **Q: Devo creare un account?**
 
@@ -1878,7 +1878,7 @@ A: No. La musica protetta dei servizi di streaming come Apple Music viene blocca
 
 **Q: È gratis?**
 
-A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce la musica, anche in background. Il Sampler, Studio, il pitch e gli altri strumenti richiedono VibeDeck PRO.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
 ## Separare voce e base di un brano su iPhone | VibeDeck
 
@@ -1905,7 +1905,7 @@ A: Su un iPhone Pro recente, più o meno la durata del brano. Gli iPhone più ve
 
 **Q: È gratis?**
 
-A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica. Stems, Studio, il Sampler, il pitch e gli altri strumenti richiedono VibeDeck PRO.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
 ## Equalizzatore DJ a 3 bande e a 8 bande su iPhone
 
@@ -1936,7 +1936,7 @@ A: VibeMod è un’elaborazione speciale e densa del suono. Il brano suona più 
 
 **Q: È gratis?**
 
-A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
 ## Nightcore su iPhone: preset con un tocco | VibeDeck
 
@@ -1967,7 +1967,7 @@ A: Sì. I preset funzionano con i file della tua libreria VibeDeck, senza intern
 
 **Q: È gratis?**
 
-A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica, anche in background. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
 ## BPM di ogni canzone e ordine per tempo | VibeDeck
 
@@ -1994,7 +1994,7 @@ A: Sì. VibeDeck usa i file musicali sul tuo dispositivo, senza internet.
 
 **Q: È gratis?**
 
-A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica, anche in background. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
 ## Novità di VibeDeck Player: Stems, iPad, copertine
 
@@ -2021,7 +2021,7 @@ A: Aggiorna VibeDeck Player dall’App Store. I nuovi utenti lo scaricano gratis
 
 **Q: È gratis?**
 
-A: Ogni nuovo utente ha 48 ore con tutto sbloccato, senza carta e senza registrazione. Dopo, la versione gratuita riproduce musica, anche in background. L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
+A: VibeDeck PRO offre una prova gratuita di 3 giorni sul piano annuale, oltre a opzioni mensili e Lifetime. Dopo la prova, la versione gratuita riproduce la tua musica (anche in background). L’equalizzatore, il limiter e gli altri strumenti audio richiedono VibeDeck PRO.
 
 ## Reproductor de música sin conexión y sin anuncios | VibeDeck
 
@@ -2052,7 +2052,7 @@ A: Por ahora la interfaz de la app está en inglés.
 
 **Q: ¿Cuánto cuesta?**
 
-A: La descarga es gratis y sin anuncios. Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Los planes y el precio de PRO aparecen en el App Store o en Google Play de tu país.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. La versión gratuita reproduce tu música sin anuncios, también en segundo plano. VibeDeck PRO desbloquea todo lo demás: tono y tempo, desplazamiento por la forma de onda, ecualizador, filtro, limitador, VibeMod, TONE, AURA, Studio y el Sampler. Los precios de PRO dependen de tu país y se muestran en el App Store y Google Play.
 
 **Q: ¿Necesito crear una cuenta?**
 
@@ -2188,7 +2188,7 @@ A: No. La música protegida de servicios de streaming como Apple Music la bloque
 
 **Q: ¿Es gratis?**
 
-A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El Sampler, Studio, el pitch y el resto de herramientas necesitan VibeDeck PRO.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
 ## Separar voz e instrumental de una canción en iPhone
 
@@ -2215,7 +2215,7 @@ A: En un iPhone Pro reciente, más o menos lo que dura la canción. Los iPhone m
 
 **Q: ¿Es gratis?**
 
-A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música. Stems, Studio, el Sampler, el pitch y las demás herramientas necesitan VibeDeck PRO.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
 ## Ecualizador DJ de 3 bandas y de 8 bandas en iPhone
 
@@ -2246,7 +2246,7 @@ A: VibeMod es un procesado especial y denso del sonido. El tema suena más lleno
 
 **Q: ¿Es gratis?**
 
-A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
 ## Nightcore en iPhone: preset de un toque | VibeDeck
 
@@ -2277,7 +2277,7 @@ A: Sí. Los presets funcionan con los archivos de tu biblioteca de VibeDeck, sin
 
 **Q: ¿Es gratis?**
 
-A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
 ## BPM de cada canción y orden por tempo | VibeDeck
 
@@ -2304,7 +2304,7 @@ A: Sí. VibeDeck usa los archivos de música de tu dispositivo, sin internet.
 
 **Q: ¿Es gratis?**
 
-A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
 ## Novedades de VibeDeck Player: Stems, iPad, portadas
 
@@ -2331,7 +2331,7 @@ A: Actualiza VibeDeck Player en el App Store. Los nuevos usuarios lo descargan g
 
 **Q: ¿Es gratis?**
 
-A: Cada usuario nuevo tiene 48 horas con todo desbloqueado, sin tarjeta y sin registro. Después, la versión gratuita reproduce música, también en segundo plano. El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
+A: VibeDeck PRO ofrece una prueba gratuita de 3 días en el plan anual, además de opciones mensuales y Lifetime. Después de la prueba, la versión gratuita reproduce tu música (también en segundo plano). El ecualizador, el limitador y las demás herramientas de sonido necesitan VibeDeck PRO.
 
 ## Player de música offline sem anúncios | VibeDeck
 
@@ -2362,7 +2362,7 @@ A: Por enquanto a interface do app está em inglês.
 
 **Q: Quanto custa?**
 
-A: O download é grátis e sem anúncios. Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Os planos e o preço do PRO aparecem no Google Play ou na App Store do seu país.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. A versão gratuita toca sua música sem anúncios, inclusive em segundo plano. O VibeDeck PRO libera todo o resto: tom e andamento, navegação pela forma de onda, equalizador, filtro, limitador, VibeMod, TONE, AURA, Studio e o Sampler. Os preços do PRO dependem do seu país e aparecem na App Store e no Google Play.
 
 **Q: Preciso criar uma conta?**
 
@@ -2490,7 +2490,7 @@ A: Não. Músicas protegidas de serviços de streaming como o Apple Music são b
 
 **Q: É grátis?**
 
-A: Todo usuário novo ganha 48 horas com tudo liberado, sem cartão e sem cadastro. Depois disso, a versão gratuita toca música, inclusive em segundo plano. O Sampler, o Studio, o pitch e as outras ferramentas precisam do VibeDeck PRO.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## Separar voz e instrumental de uma música no iPhone
 
@@ -2517,7 +2517,7 @@ A: Num iPhone Pro recente, mais ou menos o tempo da música. iPhones mais antigo
 
 **Q: É grátis?**
 
-A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música. Stems, Studio, o Sampler, o pitch e as outras ferramentas precisam do VibeDeck PRO.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## Equalizador DJ de 3 bandas e de 8 bandas no iPhone
 
@@ -2548,7 +2548,7 @@ A: O VibeMod é um processamento especial e denso do som. A faixa soa mais cheia
 
 **Q: É grátis?**
 
-A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## Nightcore no iPhone: preset de um toque | VibeDeck
 
@@ -2579,7 +2579,7 @@ A: Sim. Os presets funcionam com os arquivos da sua biblioteca do VibeDeck, sem 
 
 **Q: É grátis?**
 
-A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música, inclusive em segundo plano. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## BPM de cada música e ordem por andamento | VibeDeck
 
@@ -2606,7 +2606,7 @@ A: Sim. O VibeDeck usa os arquivos de música do seu aparelho, sem internet.
 
 **Q: É grátis?**
 
-A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música, inclusive em segundo plano. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## Novidades do VibeDeck Player: Stems, iPad, capas
 
@@ -2633,7 +2633,7 @@ A: Atualize o VibeDeck Player na App Store. Novos usuários baixam grátis.
 
 **Q: É grátis?**
 
-A: Todo novo usuário tem 48 horas com tudo liberado, sem cartão e sem cadastro. Depois, a versão gratuita toca música, inclusive em segundo plano. O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
+A: O VibeDeck PRO oferece um teste gratuito de 3 dias no plano anual, além de opções mensais e Lifetime. Depois do teste, a versão gratuita toca sua música (inclusive em segundo plano). O equalizador, o limitador e as outras ferramentas de som precisam do VibeDeck PRO.
 
 ## オフライン音楽プレーヤー VibeDeck｜FLAC再生・広告なし
 
@@ -2804,7 +2804,7 @@ A: いいえ。Apple Musicなどストリーミングサービスの保護され
 
 **Q: 無料ですか?**
 
-A: 新しいユーザーは48時間すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができ、Sampler、Studio、ピッチなどの機能にはVibeDeck PROが必要です。
+A: VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## iPhoneで曲をボーカルとインストに分離 | VibeDeck Stems
 
@@ -2831,7 +2831,7 @@ A: 最近のiPhone Proなら、曲の長さとほぼ同じです。古いiPhone�
 
 **Q: 無料ですか?**
 
-A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます。Stems、Studio、Sampler、ピッチなどのツールにはVibeDeck PROが必要です。
+A: VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## DJイコライザー: 3バンドと8バンドをiPhoneで | VibeDeck
 
@@ -2862,7 +2862,7 @@ A: VibeModは音を密度高く仕上げる特別な処理です。曲がより�
 
 **Q: 無料ですか?**
 
-A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+A: VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## iPhoneでナイトコア: ワンタップのプリセット | VibeDeck
 
@@ -2893,7 +2893,7 @@ A: はい。プリセットはVibeDeckライブラリの音楽ファイルでイ
 
 **Q: 無料ですか？**
 
-A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます(バックグラウンド再生も可能)。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+A: VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## 曲のBPMを表示、テンポで並べ替え | VibeDeck
 
@@ -2920,7 +2920,7 @@ A: はい。端末の音楽ファイルでインターネットなしに使え�
 
 **Q: 無料ですか？**
 
-A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます(バックグラウンド再生も可能)。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+A: VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## VibeDeck Playerの新機能: Stems、iPad、カバー
 
@@ -2947,7 +2947,7 @@ A: App StoreでVibeDeck Playerをアップデートしてください。新し�
 
 **Q: 無料ですか？**
 
-A: 新しいユーザーは48時間、すべての機能を無料で使えます。カードも登録もいりません。その後、無料版では音楽の再生ができます(バックグラウンド再生も可能)。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
+A: VibeDeck PROでは年間プランで3日間の無料トライアルが使え、月額プランとLifetimeも選べます。トライアルの後、無料版では音楽の再生ができます（バックグラウンド再生も可能）。イコライザー、リミッターなどのサウンドツールにはVibeDeck PROが必要です。
 
 ## Музыкальный плеер без интернета и рекламы | VibeDeck
 
@@ -2978,7 +2978,7 @@ A: Пока интерфейс приложения на английском.
 
 **Q: Сколько это стоит?**
 
-A: Скачать можно бесплатно, рекламы нет. Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Тарифы и цена PRO указаны в App Store или Google Play вашей страны.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. Бесплатная версия играет вашу музыку без рекламы, в том числе в фоне. VibeDeck PRO открывает всё остальное: высоту тона и темп, перемотку по волне, EQ, фильтр, лимитер, VibeMod, TONE, AURA, Studio и Sampler. Цены PRO зависят от страны и указаны в App Store и Google Play.
 
 **Q: Нужно ли создавать аккаунт?**
 
@@ -3145,7 +3145,7 @@ A: Нет. Защищённую музыку из стриминговых се�
 
 **Q: Это бесплатно?**
 
-A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом в бесплатной версии можно слушать музыку, в том числе в фоне. Для Сэмплера, Studio, питча и остальных инструментов нужен VibeDeck PRO.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.
 
 ## Отделить голос от музыки на iPhone | VibeDeck Stems
 
@@ -3172,7 +3172,7 @@ A: На свежем iPhone Pro примерно столько, сколько 
 
 **Q: Это бесплатно?**
 
-A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатно можно слушать музыку. Для Stems, Studio, Сэмплера, питча и остальных инструментов нужен VibeDeck PRO.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.
 
 ## DJ эквалайзер: 3 полосы и 8 полос на iPhone | VibeDeck
 
@@ -3203,7 +3203,7 @@ A: VibeMod это специальная плотная обработка зв�
 
 **Q: Это бесплатно?**
 
-A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.
 
 ## Nightcore на iPhone: пресет в одно касание | VibeDeck
 
@@ -3234,7 +3234,7 @@ A: Да. Пресеты работают с файлами в вашей биб�
 
 **Q: Это бесплатно?**
 
-A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.
 
 ## BPM каждой песни и сортировка по темпу | VibeDeck
 
@@ -3261,7 +3261,7 @@ A: Да. VibeDeck работает с музыкальными файлами н
 
 **Q: Это бесплатно?**
 
-A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.
 
 ## Что нового в VibeDeck Player: Stems, iPad, обложки
 
@@ -3288,7 +3288,7 @@ A: Обновите VibeDeck Player в App Store. Новые пользоват�
 
 **Q: Это бесплатно?**
 
-A: Каждый новый пользователь получает 48 часов со всеми функциями, без карты и без регистрации. Потом бесплатная версия играет музыку, в том числе в фоне. Эквалайзер, лимитер и другие инструменты звука входят в VibeDeck PRO.
+A: VibeDeck PRO предлагает бесплатный пробный период 3 дня на годовом тарифе, а также месячный тариф и Lifetime. После пробного периода бесплатная версия играет вашу музыку (в том числе в фоне). EQ, лимитер и другие инструменты звука требуют VibeDeck PRO.
 
 ## 광고 없는 오프라인 음악 플레이어 | VibeDeck
 
@@ -3319,7 +3319,7 @@ A: 현재 앱 화면은 영어로 되어 있습니다.
 
 **Q: 가격은 얼마인가요?**
 
-A: 다운로드는 무료이고 광고가 없습니다. 모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. PRO 요금제와 가격은 내 나라의 App Store나 Google Play에 표시됩니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 무료 버전은 광고 없이 음악을 재생하며, 백그라운드 재생도 됩니다. 피치와 템포, 파형 탐색, 이퀄라이저, 필터, 리미터, VibeMod, TONE, AURA, Studio, Sampler는 VibeDeck PRO로 사용할 수 있습니다. PRO 가격은 국가에 따라 다르며 App Store와 Google Play에 표시됩니다.
 
 **Q: 계정을 만들어야 하나요?**
 
@@ -3486,7 +3486,7 @@ A: 아니요. Apple Music 같은 스트리밍 서비스의 보호된 음악은 �
 
 **Q: 무료인가요?**
 
-A: 모든 신규 사용자는 카드 등록이나 가입 없이 48시간 동안 모든 기능을 사용할 수 있습니다. 그 후 무료 버전에서는 음악 재생(백그라운드 재생 포함)만 가능하며, Sampler, Studio, 피치 등의 기능은 VibeDeck PRO가 필요합니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## iPhone에서 노래를 보컬과 반주로 분리 | VibeDeck Stems
 
@@ -3513,7 +3513,7 @@ A: 최신 iPhone Pro에서는 곡 길이와 비슷합니다. 오래된 iPhone은
 
 **Q: 무료인가요?**
 
-A: 새 사용자는 48시간 동안 모든 기능을 카드도 가입도 없이 무료로 쓸 수 있습니다. 그 후 무료 버전에서는 음악을 재생할 수 있습니다. Stems, Studio, Sampler, 피치 등 도구는 VibeDeck PRO가 필요합니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## DJ 이퀄라이저: iPhone용 3밴드와 8밴드 | VibeDeck
 
@@ -3544,7 +3544,7 @@ A: VibeMod는 소리를 밀도 있게 만드는 특별한 처리입니다. 트�
 
 **Q: 무료인가요?**
 
-A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다. 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## iPhone에서 나이트코어: 원탭 프리셋 | VibeDeck
 
@@ -3575,7 +3575,7 @@ A: 네. 프리셋은 VibeDeck 라이브러리의 음악 파일로 인터넷 없�
 
 **Q: 무료인가요?**
 
-A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## 모든 노래의 BPM과 템포별 정렬 | VibeDeck
 
@@ -3602,7 +3602,7 @@ A: 네. 기기의 음악 파일로 인터넷 없이 작동합니다.
 
 **Q: 무료인가요?**
 
-A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## VibeDeck Player 새 기능: Stems, iPad, 커버
 
@@ -3629,7 +3629,7 @@ A: App Store에서 VibeDeck Player를 업데이트하세요. 새 사용자는 �
 
 **Q: 무료인가요?**
 
-A: 모든 신규 사용자는 48시간 동안 모든 기능을 무료로 씁니다. 카드도 가입도 필요 없습니다. 그 후 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
+A: VibeDeck PRO는 연간 요금제에서 3일 무료 체험을 제공하며, 월간 요금제와 Lifetime도 있습니다. 체험이 끝나면 무료 버전은 음악을 재생합니다(백그라운드 재생 포함). 이퀄라이저, 리미터 등 사운드 도구는 VibeDeck PRO가 필요합니다.
 
 ## Reklamsız çevrimdışı müzik çalar | VibeDeck
 
@@ -3660,7 +3660,7 @@ A: Uygulamanın arayüzü şimdilik İngilizce.
 
 **Q: Ne kadar?**
 
-A: İndirmesi ücretsiz ve reklamsız. Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. PRO paketleri ve fiyatı, ülkendeki App Store ya da Google Play’de görünür.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Ücretsiz sürüm müziğini reklamsız çalar, arka planda da. VibeDeck PRO geri kalan her şeyin kilidini açar: ton ve tempo, dalga formunda ileri geri sarma, ekolayzer, filtre, limiter, VibeMod, TONE, AURA, Studio ve Sampler. PRO fiyatları ülkene göre değişir ve App Store ile Google Play’de görünür.
 
 **Q: Hesap açmam gerekir mi?**
 
@@ -3827,7 +3827,7 @@ A: Hayır. Apple Music gibi yayın hizmetlerinin korumalı müziklerini sistem e
 
 **Q: Ücretsiz mi?**
 
-A: Her yeni kullanıcı kart ve kayıt olmadan 48 saat boyunca tüm özellikleri kullanır. Sonrasında ücretsiz sürüm müzik çalar, arka planda da. Sampler, Studio, pitch ve diğer araçlar için VibeDeck PRO gerekir.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## iPhone'da şarkıyı vokal ve enstrümantale ayırma | VibeDeck
 
@@ -3854,7 +3854,7 @@ A: Yeni bir iPhone Pro'da yaklaşık şarkının süresi kadar. Eski iPhone'lard
 
 **Q: Ücretsiz mi?**
 
-A: Her yeni kullanıcı 48 saat boyunca her şeyi kartsız ve kayıtsız kullanır. Sonrasında ücretsiz sürüm müzik çalar. Stems, Studio, Sampler, pitch ve diğer araçlar için VibeDeck PRO gerekir.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## iPhone için 3 bantlı DJ ekolayzer ve 8 bantlı EQ
 
@@ -3885,7 +3885,7 @@ A: VibeMod sesin özel ve yoğun bir işlenmesidir. Parça daha dolu ve güçlü
 
 **Q: Ücretsiz mi?**
 
-A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## iPhone’da Nightcore: tek dokunuşla preset | VibeDeck
 
@@ -3916,7 +3916,7 @@ A: Evet. Preset’ler VibeDeck kitaplığındaki dosyalarla internetsiz çalış
 
 **Q: Ücretsiz mi?**
 
-A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## Her şarkının BPM’i ve tempoya göre sıralama | VibeDeck
 
@@ -3943,7 +3943,7 @@ A: Evet. VibeDeck cihazındaki müzik dosyalarıyla internetsiz çalışır.
 
 **Q: Ücretsiz mi?**
 
-A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## VibeDeck Player yenilikleri: Stems, iPad, kapaklar
 
@@ -3970,7 +3970,7 @@ A: VibeDeck Player’ı App Store’dan güncelle. Yeni kullanıcılar ücretsiz
 
 **Q: Ücretsiz mi?**
 
-A: Her yeni kullanıcı 48 saat boyunca her şeyi açık kullanır, kart ve kayıt gerekmez. Sonra ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
+A: VibeDeck PRO, yıllık planda 3 günlük ücretsiz deneme sunar; aylık ve Lifetime seçenekleri de var. Deneme bitince ücretsiz sürüm müzik çalar, arka planda da. Ekolayzer, limiter ve diğer ses araçları VibeDeck PRO gerektirir.
 
 ## Pemutar musik offline tanpa iklan | VibeDeck
 
@@ -4001,7 +4001,7 @@ A: Saat ini tampilan aplikasinya masih berbahasa Inggris.
 
 **Q: Berapa harganya?**
 
-A: Unduhannya gratis dan tanpa iklan. Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Paket dan harga PRO tampil di App Store atau Google Play negaramu.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Versi gratis memutar musikmu tanpa iklan, termasuk di latar belakang. VibeDeck PRO membuka semua yang lain: nada dan tempo, geser di gelombang suara, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio, dan Sampler. Harga PRO tergantung negaramu dan ditampilkan di App Store dan Google Play.
 
 **Q: Apakah harus membuat akun?**
 
@@ -4168,7 +4168,7 @@ A: Tidak. Musik terlindungi dari layanan streaming seperti Apple Music diblokir 
 
 **Q: Apakah gratis?**
 
-A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis bisa memutar musik, termasuk di latar belakang. Sampler, Studio, pitch, dan alat lainnya memerlukan VibeDeck PRO.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## Pisahkan vokal dan instrumental lagu di iPhone | VibeDeck
 
@@ -4195,7 +4195,7 @@ A: Di iPhone Pro terbaru, kira-kira sepanjang lagu. iPhone lama butuh waktu lebi
 
 **Q: Apakah gratis?**
 
-A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik. Stems, Studio, Sampler, pitch, dan alat lainnya memerlukan VibeDeck PRO.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## Equalizer DJ 3 band dan equalizer 8 band di iPhone
 
@@ -4226,7 +4226,7 @@ A: VibeMod adalah pemrosesan suara khusus yang padat. Lagu terdengar lebih penuh
 
 **Q: Apakah gratis?**
 
-A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## Nightcore di iPhone: preset satu ketukan | VibeDeck
 
@@ -4257,7 +4257,7 @@ A: Ya. Preset bekerja dengan file musik di perpustakaan VibeDeck tanpa internet.
 
 **Q: Apakah gratis?**
 
-A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik, juga di latar belakang. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## BPM setiap lagu dan urutkan menurut tempo | VibeDeck
 
@@ -4284,7 +4284,7 @@ A: Ya. VibeDeck memakai file musik di perangkatmu tanpa internet.
 
 **Q: Apakah gratis?**
 
-A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik, juga di latar belakang. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## Yang baru di VibeDeck Player: Stems, iPad, sampul
 
@@ -4311,7 +4311,7 @@ A: Perbarui VibeDeck Player di App Store. Pengguna baru bisa mengunduhnya gratis
 
 **Q: Apakah gratis?**
 
-A: Setiap pengguna baru mendapat 48 jam dengan semua fitur terbuka, tanpa kartu dan tanpa daftar. Setelah itu versi gratis memutar musik, juga di latar belakang. Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
+A: VibeDeck PRO menawarkan uji coba gratis 3 hari untuk paket tahunan, plus opsi bulanan dan Lifetime. Setelah uji coba, versi gratis memutar musikmu (juga di latar belakang). Equalizer, limiter, dan alat suara lainnya butuh VibeDeck PRO.
 
 ## Odtwarzacz muzyki offline bez reklam | VibeDeck
 
@@ -4342,7 +4342,7 @@ A: Na razie interfejs aplikacji jest po angielsku.
 
 **Q: Ile to kosztuje?**
 
-A: Pobranie jest darmowe i bez reklam. Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Plany i cena PRO są widoczne w App Store lub Google Play w Twoim kraju.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Darmowa wersja odtwarza Twoją muzykę bez reklam, także w tle. VibeDeck PRO odblokowuje całą resztę: wysokość dźwięku i tempo, przewijanie po fali, korektor, filtr, limiter, VibeMod, TONE, AURA, Studio i Sampler. Ceny PRO zależą od kraju i są widoczne w App Store i Google Play.
 
 **Q: Czy trzeba zakładać konto?**
 
@@ -4509,7 +4509,7 @@ A: Nie. Chronioną muzykę z serwisów streamingowych, takich jak Apple Music, s
 
 **Q: Czy to jest darmowe?**
 
-A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Sampler, Studio, zmiana wysokości i pozostałe narzędzia wymagają VibeDeck PRO.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## Oddziel wokal od podkładu na iPhonie | VibeDeck Stems
 
@@ -4536,7 +4536,7 @@ A: Na nowym iPhonie Pro mniej więcej tyle, ile utwór. Starsze iPhone’y potrz
 
 **Q: Czy to jest darmowe?**
 
-A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę. Stems, Studio, Sampler, pitch i pozostałe narzędzia wymagają VibeDeck PRO.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## Korektor DJ 3-pasmowy i equalizer 8-pasmowy na iPhone
 
@@ -4567,7 +4567,7 @@ A: VibeMod to specjalna, gęsta obróbka dźwięku. Utwór brzmi pełniej i mocn
 
 **Q: Czy to za darmo?**
 
-A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## Nightcore na iPhonie: preset jednym dotknięciem | VibeDeck
 
@@ -4598,7 +4598,7 @@ A: Tak. Presety działają z plikami w twojej bibliotece VibeDeck, bez internetu
 
 **Q: Czy to jest darmowe?**
 
-A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## BPM każdej piosenki i sortowanie po tempie | VibeDeck
 
@@ -4625,7 +4625,7 @@ A: Tak. VibeDeck korzysta z plików muzycznych na twoim urządzeniu, bez interne
 
 **Q: Czy to jest darmowe?**
 
-A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## Nowości w VibeDeck Player: Stems, iPad, okładki
 
@@ -4652,7 +4652,7 @@ A: Zaktualizuj VibeDeck Player w App Store. Nowi użytkownicy pobierają go za d
 
 **Q: Czy to jest darmowe?**
 
-A: Każdy nowy użytkownik dostaje 48 godzin ze wszystkimi funkcjami, bez karty i bez rejestracji. Potem darmowa wersja odtwarza muzykę, także w tle. Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
+A: VibeDeck PRO oferuje 3-dniowy darmowy okres próbny w planie rocznym, a do tego opcje miesięczne i Lifetime. Po okresie próbnym darmowa wersja odtwarza Twoją muzykę (także w tle). Equalizer, limiter i inne narzędzia dźwięku wymagają VibeDeck PRO.
 
 ## Offline muziekspeler zonder advertenties | VibeDeck
 
@@ -4683,7 +4683,7 @@ A: De interface van de app is voorlopig in het Engels.
 
 **Q: Wat kost het?**
 
-A: Downloaden is gratis en zonder advertenties. Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. De abonnementen en de prijs van PRO zie je in de App Store of Google Play van jouw land.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. De gratis versie speelt je muziek af zonder advertenties, ook op de achtergrond. VibeDeck PRO ontgrendelt al het andere: toonhoogte en tempo, spoelen op de golfvorm, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio en de Sampler. De prijzen van PRO hangen af van je land en staan in de App Store en Google Play.
 
 **Q: Moet ik een account aanmaken?**
 
@@ -4850,7 +4850,7 @@ A: Nee. Beveiligde muziek van streamingdiensten zoals Apple Music wordt door het
 
 **Q: Is het gratis?**
 
-A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af, ook op de achtergrond. De Sampler, Studio, pitch en de andere tools vragen om VibeDeck PRO.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## Zang en instrumentaal scheiden op de iPhone | VibeDeck
 
@@ -4877,7 +4877,7 @@ A: Op een recente iPhone Pro ongeveer zo lang als het nummer. Oudere iPhones doe
 
 **Q: Is het gratis?**
 
-A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek af. Stems, Studio, de Sampler, pitch en de andere tools hebben VibeDeck PRO nodig.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## DJ equalizer met 3 en 8 banden voor iPhone | VibeDeck
 
@@ -4908,7 +4908,7 @@ A: VibeMod is een speciale, dichte bewerking van het geluid. Het nummer klinkt v
 
 **Q: Is het gratis?**
 
-A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## Nightcore op iPhone: preset met één tik | VibeDeck
 
@@ -4939,7 +4939,7 @@ A: Ja. De presets werken met de bestanden in je VibeDeck-bibliotheek, zonder int
 
 **Q: Is het gratis?**
 
-A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek, ook op de achtergrond. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## BPM van elk nummer en sorteren op tempo | VibeDeck
 
@@ -4966,7 +4966,7 @@ A: Ja. VibeDeck gebruikt de muziekbestanden op je apparaat, zonder internet.
 
 **Q: Is het gratis?**
 
-A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek, ook op de achtergrond. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## Nieuw in VibeDeck Player: Stems, iPad, hoesjes
 
@@ -4993,7 +4993,7 @@ A: Werk VibeDeck Player bij in de App Store. Nieuwe gebruikers downloaden hem gr
 
 **Q: Is het gratis?**
 
-A: Elke nieuwe gebruiker krijgt 48 uur met alles ontgrendeld, zonder kaart en zonder account. Daarna speelt de gratis versie muziek, ook op de achtergrond. De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
+A: VibeDeck PRO biedt een gratis proefperiode van 3 dagen op het jaarabonnement, plus maand- en Lifetime-opties. Na de proefperiode speelt de gratis versie je muziek (ook op de achtergrond). De equalizer, de limiter en de andere geluidstools hebben VibeDeck PRO nodig.
 
 ## Trình phát nhạc offline không quảng cáo | VibeDeck
 
@@ -5024,7 +5024,7 @@ A: Hiện giao diện ứng dụng vẫn bằng tiếng Anh.
 
 **Q: Giá bao nhiêu?**
 
-A: Tải về miễn phí và không quảng cáo. Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Các gói và giá PRO hiển thị trên App Store hoặc Google Play tại quốc gia của bạn.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Bản miễn phí phát nhạc của bạn không quảng cáo, kể cả khi chạy nền. VibeDeck PRO mở khóa mọi thứ còn lại: cao độ và tempo, tua trên dạng sóng, equalizer, filter, limiter, VibeMod, TONE, AURA, Studio và Sampler. Giá PRO tùy thuộc vào quốc gia của bạn và hiển thị trên App Store và Google Play.
 
 **Q: Có cần tạo tài khoản không?**
 
@@ -5191,7 +5191,7 @@ A: Không. Nhạc được bảo vệ từ các dịch vụ nghe nhạc trực t
 
 **Q: Có miễn phí không?**
 
-A: Mỗi người dùng mới được dùng tất cả tính năng trong 48 giờ, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc, kể cả khi chạy nền. Sampler, Studio, pitch và các công cụ khác cần VibeDeck PRO.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## Tách giọng hát và nhạc nền trên iPhone | VibeDeck Stems
 
@@ -5218,7 +5218,7 @@ A: Trên iPhone Pro đời mới, gần bằng độ dài bài hát. iPhone cũ 
 
 **Q: Có miễn phí không?**
 
-A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí vẫn phát nhạc. Stems, Studio, Sampler, pitch và các công cụ khác cần VibeDeck PRO.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## EQ DJ 3 băng tần và equalizer 8 băng tần trên iPhone
 
@@ -5249,7 +5249,7 @@ A: VibeMod là xử lý âm thanh đặc biệt và dày. Bài hát nghe đầy 
 
 **Q: Có miễn phí không?**
 
-A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## Nightcore trên iPhone: preset một chạm | VibeDeck
 
@@ -5280,7 +5280,7 @@ A: Có. Các preset hoạt động với file nhạc trong thư viện VibeDeck,
 
 **Q: Có miễn phí không?**
 
-A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc, kể cả chạy nền. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## BPM của mọi bài hát và sắp xếp theo tempo | VibeDeck
 
@@ -5307,7 +5307,7 @@ A: Có. VibeDeck dùng file nhạc trên thiết bị của bạn, không cần 
 
 **Q: Có miễn phí không?**
 
-A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc, kể cả chạy nền. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## Có gì mới trong VibeDeck Player: Stems, iPad, ảnh bìa
 
@@ -5334,7 +5334,7 @@ A: Cập nhật VibeDeck Player trên App Store. Người dùng mới tải mi�
 
 **Q: Có miễn phí không?**
 
-A: Mỗi người dùng mới có 48 giờ dùng mọi tính năng, không cần thẻ và không cần đăng ký. Sau đó bản miễn phí phát nhạc, kể cả chạy nền. Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
+A: VibeDeck PRO có bản dùng thử miễn phí 3 ngày cho gói năm, cùng các lựa chọn gói tháng và Lifetime. Sau khi dùng thử, bản miễn phí phát nhạc (kể cả chạy nền). Equalizer, limiter và các công cụ âm thanh khác cần VibeDeck PRO.
 
 ## 無廣告離線音樂播放器 | VibeDeck
 
@@ -5365,7 +5365,7 @@ A: 目前 App 介面為英文。
 
 **Q: 要多少錢？**
 
-A: 下載免費且無廣告。每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也無需註冊。PRO 方案和價格會顯示在你所在國家的 App Store 或 Google Play。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。免費版可以無廣告播放你的音樂，也能在背景播放。音高與速度、波形拖曳、等化器、濾波器、限幅器、VibeMod、TONE、AURA、Studio 和 Sampler 則由 VibeDeck PRO 解鎖。 PRO 的價格因國家／地區而異，並顯示在 App Store 和 Google Play 上。
 
 **Q: 需要註冊帳號嗎？**
 
@@ -5532,7 +5532,7 @@ A: 不行。Apple Music 等串流服務的受保護音樂會被系統阻擋，�
 
 **Q: 是免費的嗎？**
 
-A: 每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂，也能在背景播放；Sampler、Studio、音高等工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## 在 iPhone 上把歌曲分離成人聲和伴奏 | VibeDeck Stems
 
@@ -5559,7 +5559,7 @@ A: 在較新的 iPhone Pro 上，大約和歌曲長度相同。較舊的 iPhone 
 
 **Q: 是免費的嗎？**
 
-A: 每位新用戶都能免費使用全部功能 48 小時，不需綁卡，也不需註冊。之後免費版可以播放音樂。Stems、Studio、Sampler、音高等工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## iPhone DJ 等化器：3 段 DJ EQ 與 8 段等化器 | VibeDeck
 
@@ -5590,7 +5590,7 @@ A: VibeMod 是一種特別的密實聲音處理，讓歌曲聽起來更飽滿有
 
 **Q: 免費嗎？**
 
-A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## iPhone 上的 Nightcore：一鍵預設 | VibeDeck
 
@@ -5621,7 +5621,7 @@ A: 可以。預設使用 VibeDeck 資料庫裡的音樂檔，不需要網路。
 
 **Q: 免費嗎？**
 
-A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## 每首歌的 BPM，依速度排序 | VibeDeck
 
@@ -5648,7 +5648,7 @@ A: 可以。VibeDeck 使用裝置上的音樂檔，不需要網路。
 
 **Q: 免費嗎？**
 
-A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## VibeDeck Player 新功能：Stems、iPad、封面
 
@@ -5675,7 +5675,7 @@ A: 在 App Store 更新 VibeDeck Player。新使用者可以免費下載。
 
 **Q: 免費嗎？**
 
-A: 每位新使用者都有 48 小時可使用全部功能，不用信用卡也不用註冊。之後免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年繳方案中提供 3 天免費試用，另有月繳和 Lifetime 可選。試用結束後，免費版可以播放音樂，也能背景播放。等化器、限幅器和其他聲音工具需要 VibeDeck PRO。
 
 ## 无广告离线音乐播放器 | VibeDeck
 
@@ -5706,7 +5706,7 @@ A: 目前 App 界面为英文。
 
 **Q: 要多少钱？**
 
-A: 下载免费且无广告。每位新用户都能免费使用全部功能 48 小时，无需绑卡，也无需注册。PRO 的方案和价格会显示在你所在国家或地区的 App Store 或 Google Play。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。免费版可以无广告播放你的音乐，也能在后台播放。音高与速度、波形拖动、均衡器、滤波器、限幅器、VibeMod、TONE、AURA、Studio 和 Sampler 则由 VibeDeck PRO 解锁。 PRO 的价格因国家/地区而异，并显示在 App Store 和 Google Play 上。
 
 **Q: 需要注册账号吗？**
 
@@ -5873,7 +5873,7 @@ A: 不行。Apple Music 等流媒体服务的受保护音乐会被系统拦截�
 
 **Q: 是免费的吗？**
 
-A: 每位新用户都能免费使用全部功能 48 小时，不需绑卡，也不需注册。之后免费版可以播放音乐，也能在背景播放；Sampler、Studio、音高等工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
 ## 在 iPhone 上把歌曲分离成人声和伴奏 | VibeDeck Stems
 
@@ -5900,7 +5900,7 @@ A: 在较新的 iPhone Pro 上，大约和歌曲长度相同。较旧的 iPhone 
 
 **Q: 是免费的吗？**
 
-A: 每位新用户都能免费使用全部功能 48 小时，无需绑卡，也无需注册。之后免费版可以播放音乐。Stems、Studio、Sampler、音高等工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
 ## iPhone DJ 均衡器：3 段 DJ EQ 与 8 段均衡器 | VibeDeck
 
@@ -5931,7 +5931,7 @@ A: VibeMod 是一种特别的密实声音处理，让歌曲听起来更饱满有
 
 **Q: 免费吗？**
 
-A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
 ## iPhone 上的 Nightcore：一键预设 | VibeDeck
 
@@ -5962,7 +5962,7 @@ A: 可以。预设使用 VibeDeck 资料库里的音乐文件，不需要网络�
 
 **Q: 免费吗？**
 
-A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
 ## 每首歌的 BPM，按速度排序 | VibeDeck
 
@@ -5989,7 +5989,7 @@ A: 可以。VibeDeck 使用设备上的音乐文件，不需要网络。
 
 **Q: 免费吗？**
 
-A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
 ## VibeDeck Player 新功能：Stems、iPad、封面
 
@@ -6016,7 +6016,7 @@ A: 在 App Store 更新 VibeDeck Player。新用户可以免费下载。
 
 **Q: 免费吗？**
 
-A: 每位新用户都有 48 小时可使用全部功能，无需银行卡也无需注册。之后免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
+A: VibeDeck PRO 在年付方案中提供 3 天免费试用，另有月付和 Lifetime 可选。试用结束后，免费版可以播放音乐，也能后台播放。均衡器、限幅器和其他声音工具需要 VibeDeck PRO。
 
 ## เครื่องเล่นเพลงออฟไลน์ ไม่มีโฆษณา | VibeDeck
 
@@ -6047,7 +6047,7 @@ A: ตอนนี้หน้าจอของแอปยังเป็น�
 
 **Q: ราคาเท่าไร**
 
-A: ดาวน์โหลดฟรีและไม่มีโฆษณา ผู้ใช้ใหม่ทุกคนใช้ฟีเจอร์ทั้งหมดได้ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัครสมาชิก แพ็กเกจและราคาของ PRO จะแสดงใน App Store หรือ Google Play ของประเทศคุณ
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย เวอร์ชันฟรีเล่นเพลงของคุณได้โดยไม่มีโฆษณา รวมถึงเล่นในเบื้องหลัง ส่วนระดับเสียงและเทมโป การเลื่อนบนรูปคลื่นเสียง อีควอไลเซอร์ ฟิลเตอร์ ลิมิตเตอร์ VibeMod, TONE, AURA, Studio และ Sampler ต้องใช้ VibeDeck PRO ราคาของ PRO ขึ้นอยู่กับประเทศของคุณและแสดงใน App Store หรือ Google Play
 
 **Q: ต้องสร้างบัญชีไหม**
 
@@ -6214,7 +6214,7 @@ A: ไม่ได้ เพลงที่มีการป้องกัน�
 
 **Q: ฟรีไหม**
 
-A: ผู้ใช้ใหม่ทุกคนใช้ฟีเจอร์ทั้งหมดได้ฟรี 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัครสมาชิก หลังจากนั้นเวอร์ชันฟรีจะเล่นเพลงได้ รวมถึงเล่นในเบื้องหลัง ส่วน Sampler, Studio, ระดับเสียง และเครื่องมืออื่นต้องใช้ VibeDeck PRO
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
 
 ## แยกเสียงร้องกับดนตรีบน iPhone | VibeDeck Stems
 
@@ -6241,7 +6241,7 @@ A: บน iPhone Pro รุ่นใหม่ประมาณเท่าค�
 
 **Q: ใช้ฟรีไหม**
 
-A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ Stems, Studio, Sampler, pitch และเครื่องมืออื่น ๆ ต้องใช้ VibeDeck PRO
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
 
 ## อีควอไลเซอร์ DJ 3 แบนด์และ 8 แบนด์บน iPhone | VibeDeck
 
@@ -6272,7 +6272,7 @@ A: VibeMod คือการประมวลผลเสียงแบบพ
 
 **Q: ใช้ฟรีไหม**
 
-A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
 
 ## Nightcore บน iPhone: พรีเซ็ตแตะครั้งเดียว | VibeDeck
 
@@ -6303,7 +6303,7 @@ A: ได้ พรีเซ็ตใช้กับไฟล์เพลงใ�
 
 **Q: ใช้ฟรีไหม**
 
-A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
 
 ## BPM ของทุกเพลง และเรียงตามเทมโป | VibeDeck
 
@@ -6330,7 +6330,7 @@ A: ได้ VibeDeck ใช้ไฟล์เพลงในเครื่อ�
 
 **Q: ใช้ฟรีไหม**
 
-A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
 
 ## มีอะไรใหม่ใน VibeDeck Player: Stems, iPad, ปก
 
@@ -6357,7 +6357,7 @@ A: อัปเดต VibeDeck Player ใน App Store ผู้ใช้ให�
 
 **Q: ใช้ฟรีไหม**
 
-A: ผู้ใช้ใหม่ทุกคนใช้ทุกฟีเจอร์ได้ 48 ชั่วโมง ไม่ต้องใช้บัตรและไม่ต้องสมัคร หลังจากนั้นเวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
+A: VibeDeck PRO ให้ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี และยังมีแพ็กเกจรายเดือนกับ Lifetime ด้วย หลังจากทดลองใช้แล้ว เวอร์ชันฟรีเล่นเพลงได้ รวมถึงเล่นเบื้องหลัง อีควอไลเซอร์ ลิมิตเตอร์ และเครื่องมือเสียงอื่น ๆ ต้องใช้ VibeDeck PRO
 
 ## Музичний плеєр без інтернету й реклами | VibeDeck
 
@@ -6388,7 +6388,7 @@ A: Поки що інтерфейс застосунку англійською.
 
 **Q: Скільки це коштує?**
 
-A: Завантажити можна безкоштовно, реклами немає. Кожен новий користувач отримує 48 годин з усіма функціями, без картки й без реєстрації. Тарифи та ціна PRO вказані в App Store або Google Play вашої країни.
+A: VibeDeck PRO пропонує безкоштовний пробний період 3 дні на річному тарифі, а також місячний тариф і Lifetime. Безкоштовна версія грає вашу музику без реклами, зокрема у фоні. VibeDeck PRO відкриває решту: висоту тону й темп, перемотування за формою хвилі, EQ, фільтр, лімітер, VibeMod, TONE, AURA, Studio та Sampler. Ціни PRO залежать від країни та вказані в App Store і Google Play.
 
 **Q: Чи потрібно створювати акаунт?**
 
@@ -6427,7 +6427,7 @@ A: На новому iPhone Pro приблизно стільки, скільк�
 
 **Q: Чи безкоштовно це?**
 
-A: Кожен новий користувач отримує 48 годин з усіма функціями, без картки й без реєстрації. Потім безкоштовно можна слухати музику. Для Stems, Studio, Sampler, висоти тону та решти інструментів потрібен VibeDeck PRO.
+A: VibeDeck PRO пропонує безкоштовний пробний період 3 дні на річному тарифі, а також місячний тариф і Lifetime. Після пробного періоду безкоштовна версія грає вашу музику (зокрема у фоні). Еквалайзер, лімітер та інші інструменти звуку потребують VibeDeck PRO.
 
 ## Як уповільнити пісню без зміни тональності | VibeDeck
 
@@ -6520,4 +6520,4 @@ A: Ні. Захищену музику зі стрімінгових серві�
 
 **Q: Чи безкоштовно це?**
 
-A: Кожен новий користувач отримує 48 годин з усіма функціями, без картки й без реєстрації. Потім у безкоштовній версії можна слухати музику, зокрема у фоні. Для Sampler, Studio, висоти тону та решти інструментів потрібен VibeDeck PRO.
+A: VibeDeck PRO пропонує безкоштовний пробний період 3 дні на річному тарифі, а також місячний тариф і Lifetime. Після пробного періоду безкоштовна версія грає вашу музику (зокрема у фоні). Еквалайзер, лімітер та інші інструменти звуку потребують VibeDeck PRO.
