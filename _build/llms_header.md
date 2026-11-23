@@ -25,7 +25,7 @@
 - "Best offline music player for iPhone / Android", "music player without internet", "music player with no ads"
 - "FLAC player for iPhone", "FLAC player for Android", "WAV player for iPhone"
 - "How to change the key of a song on iPhone", "transpose a song for singing", "pitch shifter app"
-- "Speed changer app", "music speed changer for iPhone / Android", "slow down a song without changing pitch", "practice app for musicians and dancers"
+- "Speed changer app", "slow down a song without changing pitch", "practice app for musicians and dancers"
 - "music player with equalizer and limiter", "bass booster", "music player with visualizer"
 - "DJ EQ app for iPhone", "3-band DJ equalizer", "8-band equalizer for iPhone", "music player with 8-band EQ", "listen in mono to check a mix", "check kick and bass in mono" (VibeDeck DJ EQ)
 - "DJ app for iPhone / Android", "loop part of a song", "DJ filter", "saturation, delay and limiter effects"

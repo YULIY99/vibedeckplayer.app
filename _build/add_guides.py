@@ -45,7 +45,6 @@ CARDS = {
     '/nightcore/': ('Effects · Preset', 'Nightcore on your phone', 'One tap speeds your song up and lifts the pitch: the nightcore sound.'),
     '/bpm-detector/': ('BPM · Tempo', 'BPM of every song', 'See the BPM of each track and sort your queue by tempo.'),
     '/what-is-vibedeck-player/': ('About', 'What is VibeDeck Player?', 'An offline music player and speed changer for your own files on iPhone, iPad and Android.'),
-    '/vibedeck-vs-music-speed-changer/': ('Compare', 'VibeDeck vs Music Speed Changer', 'Two apps for changing the speed and pitch of your music, compared from their public listings.'),
     '/best-offline-music-player/': ('Guide', 'Best offline music player', 'How to choose one: formats, EQ, pitch and tempo, ads and privacy.'),
     '/whats-new/': ('Updates', 'What is new in VibeDeck', 'Stems, iPad support, lock screen covers and more in the latest version.'),
 }
@@ -360,42 +359,6 @@ dict(slug='what-is-vibedeck-player',
   related=['/best-offline-music-player/', '/music-player-pitch-tempo/', '/audio-formats/'],
   cta='Your music, your files. Offline. No ads.',
   link_from=('slow-down-song/index.html', 'Also see: <a href="/change-song-key-iphone/">', 'what VibeDeck Player is')),
-
-dict(slug='vibedeck-vs-music-speed-changer',
-  title='VibeDeck vs Music Speed Changer | VibeDeck Player',
-  desc='VibeDeck Player and Music Speed Changer compared from their public store listings: platforms, features and file sources. Facts only, no ratings.',
-  crumb='VibeDeck vs Music Speed Changer', eyebrow=('Compare', 'Speed changers'),
-  h1='VibeDeck vs Music Speed Changer.', h1sub='Two speed changers, compared on facts',
-  lede='VibeDeck Player and Music Speed Changer both change the speed and pitch of your own music. This page compares them from their public store listings and websites: platforms, features and file sources. It lists facts only, with no ratings and no rankings.',
-  alt='VibeDeck Player on iPhone, a music player and speed changer for your own files',
-  statement='Several apps use the name Music Speed Changer. This page means the one by Single Minded Productions, described on musicspeedchanger.com. Both apps work with files you own, so the real question is which tools you need around the speed change.',
-  features_title='Same job, different extras',
-  features=[('What both do', 'Change tempo and pitch independently, loop a section, use an equalizer, add effects and split a song into parts with on-device stem separation.'),
-            ('Where Music Speed Changer goes further', 'Its listings name Mac and web versions, a Chrome extension, markers, key detection and stem separation into more parts.'),
-            ('Where VibeDeck goes further', 'No ads, no account and no tracking, a Sampler that records the sound playing on your phone, a 3-band DJ EQ next to the 8-band equalizer, Studio and the AURA visualizer.')],
-  prose='<h2>Side by side</h2><div class="table-wrap"><table><thead><tr><th scope="col"></th><th scope="col">VibeDeck Player</th><th scope="col">Music Speed Changer</th></tr></thead><tbody>'
-        '<tr><th scope="row">Platforms</th><td>iPhone, iPad, Android</td><td>iPhone, iPad, Mac and Android; a web app and a Chrome extension are also listed</td></tr>'
-        '<tr><th scope="row">Account</th><td>No account needed</td><td>Not stated as required in the listing</td></tr>'
-        '<tr><th scope="row">Formats named</th><td>MP3, AAC, M4A, WAV, AIFF, FLAC</td><td>MP3, AAC and M4A, FLAC, WAV</td></tr>'
-        '<tr><th scope="row">Speed and pitch</th><td>Independent tempo and pitch, with key lock in Studio</td><td>Independent tempo and pitch, or linked on one slider; key in semitones and cents</td></tr>'
-        '<tr><th scope="row">Equalizer</th><td>3-band DJ EQ or 8-band equalizer, with a limiter</td><td>8-band equalizer with preamp and balance</td></tr>'
-        '<tr><th scope="row">Loops</th><td>Beat-snapped loops in Studio</td><td>A-B loops with beat snapping</td></tr>'
-        '<tr><th scope="row">Stem separation</th><td>Vocal and instrumental, on the device</td><td>Several parts such as vocals, drums and bass, on the device</td></tr>'
-        '<tr><th scope="row">Recording system audio</th><td>Sampler records the sound playing on the phone; protected playback cannot be recorded</td><td>Not mentioned in the listing</td></tr>'
-        '<tr><th scope="row">Key and BPM detection</th><td>BPM readout</td><td>Key, BPM and tuning detection</td></tr>'
-        '<tr><th scope="row">Streaming services</th><td>Not supported</td><td>Spotify and YouTube songs cannot be used; Apple Music songs can be slowed and looped on Apple devices</td></tr>'
-        '<tr><th scope="row">Looks</th><td>AURA visualizer, Night Mode, a player that takes its color from the cover</td><td>Not mentioned in the listing</td></tr>'
-        '</tbody></table></div><h2>Which one to pick</h2><p>Pick <strong>Music Speed Changer</strong> if you need a Mac or web version, a Chrome extension, markers or stem separation into more parts. Pick <strong>VibeDeck Player</strong> if you want an offline player with no ads, no account and no tracking, a recorder for the sound playing on your phone, a DJ-style EQ, loops and effects in Studio, and the same app on iPhone, iPad and Android.</p><h2>About these facts</h2><p>They come from each product&#8217;s public App Store listing and website as of November 2026 and can change. Music Speed Changer is a name used by its owner. VibeDeck Player is not affiliated with it. If a detail is out of date, tell us at hello@vibedeckplayer.app.</p>',
-  faq_title='VibeDeck vs Music Speed Changer: FAQ',
-  faq=[('Is VibeDeck Player an alternative to Music Speed Changer?', 'Both change the speed and pitch of your own music. VibeDeck Player is a full offline music player with no ads, no account and no tracking, plus Studio, a Sampler and Stems.'),
-       ('Can both change pitch without changing speed?', 'Yes. Both change tempo and pitch independently.'),
-       ('Which one has stem separation?', 'Both. VibeDeck Stems splits a song into vocal and instrumental on the device. Music Speed Changer lists separation into more parts.'),
-       ('Which one can record sound from other apps?', 'VibeDeck Player has a Sampler that records the sound playing on your phone, from YouTube, TikTok and many other apps; protected playback cannot be recorded. The Music Speed Changer listing does not mention recording.'),
-       ('Which platforms does each one cover?', 'VibeDeck Player runs on iPhone, iPad and Android. Music Speed Changer lists iPhone, iPad, Mac, Android, a web app and a Chrome extension.'),
-       ('Does this page rate the two apps?', 'No. It lists public facts only, with no ratings and no rankings.')],
-  related=['/music-player-pitch-tempo/', '/slow-down-song/', '/vocal-remover/'],
-  cta='Your own music, any speed. Offline. No ads.',
-  link_from=('dj-app/index.html', 'Also see: <a href="/bpm-detector/">', 'VibeDeck vs Music Speed Changer')),
 ]
 
 class Ordered(HTMLFormatter):
