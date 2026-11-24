@@ -8,7 +8,7 @@
   "copy": "Copy link",
   "copied": "Link copied",
   "email": "Email",
-  "msg": "VibeDeck Player: an offline music player that changes pitch and tempo and records sound from YouTube, TikTok and more. 3-day free trial on the yearly plan.",
+  "msg": "VibeDeck Player: an offline music player that changes pitch and tempo and records sound from YouTube, TikTok and more. Available on iOS and Android.",
   "more": "More"
  },
  "ja": {
@@ -22,7 +22,7 @@
   "copy": "リンクをコピー",
   "copied": "コピーしました",
   "email": "メール",
-  "msg": "VibeDeck Player：キーとテンポを変えられて、スマホで流れる音をそのまま録音できるオフラインプレーヤー。年間プランで3日間無料トライアル。",
+  "msg": "VibeDeck Player：キーとテンポを変えられて、YouTubeやTikTokなどの音を録音できるオフラインプレーヤー。iOS・Android対応。",
   "more": "その他"
  },
  "es": {
@@ -33,7 +33,7 @@
   "copy": "Copiar enlace",
   "copied": "Enlace copiado",
   "email": "Correo",
-  "msg": "VibeDeck Player: reproductor sin conexión que cambia el tono y el tempo y graba cualquier sonido del móvil. Prueba gratuita de 3 días en el plan anual.",
+  "msg": "VibeDeck Player: reproductor sin conexión que cambia el tono y el tempo y graba el sonido de YouTube, TikTok y más. Disponible en iOS y Android.",
   "more": "Más"
  },
  "pt-BR": {
@@ -44,7 +44,7 @@
   "copy": "Copiar link",
   "copied": "Link copiado",
   "email": "E-mail",
-  "msg": "VibeDeck Player: player offline que muda o tom e o andamento e grava qualquer som do celular. Teste gratuito de 3 dias no plano anual.",
+  "msg": "VibeDeck Player: player offline que muda o tom e o andamento e grava o som do YouTube, do TikTok e mais. Disponível para iOS e Android.",
   "more": "Mais"
  },
  "de": {
@@ -55,7 +55,7 @@
   "copy": "Link kopieren",
   "copied": "Link kopiert",
   "email": "E-Mail",
-  "msg": "VibeDeck Player: Offline-Musikplayer, der Tonart und Tempo ändert und jeden Ton auf dem Handy aufnimmt. 3-tägige kostenlose Testphase im Jahrestarif.",
+  "msg": "VibeDeck Player: Offline-Musikplayer, der Tonart und Tempo ändert und den Ton von YouTube, TikTok und mehr aufnimmt. Für iOS und Android.",
   "more": "Mehr"
  },
  "fr": {
@@ -66,7 +66,7 @@
   "copy": "Copier le lien",
   "copied": "Lien copié",
   "email": "E-mail",
-  "msg": "VibeDeck Player : un lecteur hors ligne qui change la tonalité et le tempo et enregistre tout son joué sur le téléphone. Essai gratuit de 3 jours sur l’abonnement annuel.",
+  "msg": "VibeDeck Player : un lecteur hors ligne qui change la tonalité et le tempo et enregistre le son de YouTube, TikTok et plus. Disponible sur iOS et Android.",
   "more": "Plus"
  },
  "it": {
@@ -77,7 +77,7 @@
   "copy": "Copia link",
   "copied": "Link copiato",
   "email": "Email",
-  "msg": "VibeDeck Player: lettore offline che cambia tonalità e tempo e registra qualsiasi suono del telefono. Prova gratuita di 3 giorni sul piano annuale.",
+  "msg": "VibeDeck Player: lettore offline che cambia tonalità e tempo e registra l'audio di YouTube, TikTok e altro. Disponibile su iOS e Android.",
   "more": "Altro"
  },
  "ru": {
@@ -91,7 +91,7 @@
   "copy": "Скопировать ссылку",
   "copied": "Ссылка скопирована",
   "email": "Почта",
-  "msg": "VibeDeck Player: офлайн-плеер, который меняет тональность и темп и записывает любой звук с телефона. Бесплатный пробный период 3 дня на годовом тарифе.",
+  "msg": "VibeDeck Player: офлайн-плеер, который меняет тональность и темп и записывает звук из YouTube, TikTok и не только. Доступен на iOS и Android.",
   "more": "Ещё"
  },
  "ko": {
@@ -102,7 +102,7 @@
   "copy": "링크 복사",
   "copied": "링크를 복사했습니다",
   "email": "이메일",
-  "msg": "VibeDeck Player: 키와 템포를 바꾸고 휴대폰에서 나오는 모든 소리를 녹음하는 오프라인 플레이어. 연간 요금제 3일 무료 체험.",
+  "msg": "VibeDeck Player: 키와 템포를 바꾸고 YouTube, TikTok 등의 소리를 녹음하는 오프라인 플레이어. iOS 및 Android 지원.",
   "more": "더보기"
  },
  "tr": {
@@ -113,7 +113,7 @@
   "copy": "Bağlantıyı kopyala",
   "copied": "Bağlantı kopyalandı",
   "email": "E-posta",
-  "msg": "VibeDeck Player: tonu ve tempoyu değiştiren, telefonda çalan her sesi kaydeden çevrimdışı çalar. Yıllık planda 3 günlük ücretsiz deneme.",
+  "msg": "VibeDeck Player: tonu ve tempoyu değiştiren, YouTube, TikTok ve daha fazlasının sesini kaydeden çevrimdışı çalar. iOS ve Android için.",
   "more": "Diğer"
  },
  "id": {
@@ -124,7 +124,7 @@
   "copy": "Salin tautan",
   "copied": "Tautan disalin",
   "email": "Email",
-  "msg": "VibeDeck Player: pemutar offline yang bisa mengubah nada dan tempo serta merekam suara apa pun di HP. Uji coba gratis 3 hari untuk paket tahunan.",
+  "msg": "VibeDeck Player: pemutar offline yang bisa mengubah nada dan tempo serta merekam suara dari YouTube, TikTok, dan lainnya. Tersedia di iOS dan Android.",
   "more": "Lainnya"
  },
  "pl": {
@@ -135,7 +135,7 @@
   "copy": "Kopiuj link",
   "copied": "Link skopiowany",
   "email": "E-mail",
-  "msg": "VibeDeck Player: odtwarzacz offline, który zmienia tonację i tempo i nagrywa każdy dźwięk z telefonu. 3-dniowy darmowy okres próbny w planie rocznym.",
+  "msg": "VibeDeck Player: odtwarzacz offline, który zmienia tonację i tempo i nagrywa dźwięk z YouTube, TikToka i nie tylko. Dostępny na iOS i Androida.",
   "more": "Więcej"
  },
  "nl": {
@@ -146,7 +146,7 @@
   "copy": "Link kopiëren",
   "copied": "Link gekopieerd",
   "email": "E-mail",
-  "msg": "VibeDeck Player: offline speler die toonhoogte en tempo verandert en elk geluid op je telefoon opneemt. Gratis proefperiode van 3 dagen op het jaarabonnement.",
+  "msg": "VibeDeck Player: offline speler die toonhoogte en tempo verandert en geluid van YouTube, TikTok en meer opneemt. Beschikbaar voor iOS en Android.",
   "more": "Meer"
  },
  "vi": {
@@ -157,7 +157,7 @@
   "copy": "Sao chép liên kết",
   "copied": "Đã sao chép liên kết",
   "email": "Email",
-  "msg": "VibeDeck Player: trình phát offline đổi tone và tempo, ghi lại mọi âm thanh trên điện thoại. Dùng thử miễn phí 3 ngày cho gói năm.",
+  "msg": "VibeDeck Player: trình phát offline đổi tone và tempo, ghi lại âm thanh từ YouTube, TikTok và hơn thế nữa. Có mặt trên iOS và Android.",
   "more": "Khác"
  },
  "zh-Hant": {
@@ -171,7 +171,7 @@
   "copy": "複製連結",
   "copied": "已複製連結",
   "email": "電子郵件",
-  "msg": "VibeDeck Player：能升降調、改速度，還能錄下手機播放聲音的離線播放器。年繳方案 3 天免費試用。",
+  "msg": "VibeDeck Player：能升降調、改速度，還能錄下 YouTube、TikTok 等 App 聲音的離線播放器。支援 iOS 與 Android。",
   "more": "更多"
  },
  "zh-Hans": {
@@ -182,7 +182,7 @@
   "copy": "复制链接",
   "copied": "已复制链接",
   "email": "电子邮件",
-  "msg": "VibeDeck Player：能升降调、改速度，还能录下手机播放声音的离线播放器。年付方案 3 天免费试用。",
+  "msg": "VibeDeck Player：能升降调、改速度，还能录下 YouTube、TikTok 等 App 声音的离线播放器。支持 iOS 和 Android。",
   "more": "更多"
  },
  "th": {
@@ -196,7 +196,7 @@
   "copy": "คัดลอกลิงก์",
   "copied": "คัดลอกลิงก์แล้ว",
   "email": "อีเมล",
-  "msg": "VibeDeck Player: เครื่องเล่นเพลงออฟไลน์ที่ปรับคีย์และเทมโปได้ และอัดทุกเสียงในมือถือได้ ทดลองใช้ฟรี 3 วันสำหรับแพ็กเกจรายปี",
+  "msg": "VibeDeck Player: เครื่องเล่นเพลงออฟไลน์ที่ปรับคีย์และเทมโปได้ และอัดเสียงจาก YouTube, TikTok และอื่น ๆ ได้ พร้อมใช้งานบน iOS และ Android",
   "more": "อื่น ๆ"
  }
 }

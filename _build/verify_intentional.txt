@@ -1,3 +1,17 @@
 # Deliberate title/H1 changes that verify_site must not flag. Format: <url> <field> [<field>]. Remove the line after the change is live.
 /audio-formats/ title h1  # 2026-11-18: six supported formats (MP3, AAC, M4A, WAV, AIFF, FLAC)
 / h1  # 2026-11-18: home H1 sub-line lists the six formats in the same order as everywhere else
+/de/mp3-player-ohne-werbung/ title h1  # 2026-11-24: removed price-related free wording
+/es/reproductor-mp3-sin-anuncios/ h1  # 2026-11-24: removed price-related free wording
+/fr/lecteur-mp3-sans-pub/ title h1  # 2026-11-24: removed price-related free wording
+/id/pemutar-mp3-tanpa-iklan/ title h1  # 2026-11-24: removed price-related free wording
+/it/lettore-mp3-senza-pub/ title h1  # 2026-11-24: removed price-related free wording
+/ko/mp3-player/ title h1  # 2026-11-24: removed price-related free wording
+/nl/mp3-speler-zonder-advertenties/ title h1  # 2026-11-24: removed price-related free wording
+/pl/odtwarzacz-mp3-bez-reklam/ title h1  # 2026-11-24: removed price-related free wording
+/ru/mp3-pleer-bez-reklamy/ title h1  # 2026-11-24: removed price-related free wording
+/th/mp3-player-mai-mi-khotsana/ title h1  # 2026-11-24: removed price-related free wording
+/tr/reklamsiz-mp3-calar/ title h1  # 2026-11-24: removed price-related free wording
+/vi/trinh-phat-mp3-khong-quang-cao/ title h1  # 2026-11-24: removed price-related free wording
+/zh-hans/mp3-player/ title h1  # 2026-11-24: removed price-related free wording
+/zh-hant/mp3-player/ title h1  # 2026-11-24: removed price-related free wording
