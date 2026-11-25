@@ -120,7 +120,7 @@
     if(Date.now()>=Date.UTC(2026,11,3,8,0,0))return;
     try{if(w.sessionStorage&&sessionStorage.getItem('vd_bf26_closed')==='1')return;}catch(e){}
     var copy={
-      en:['BLACK FRIDAY','Grab the Special Lifetime Offer in VibeDeck Pro · Until Dec 2','Get Offer'],
+      en:['BLACK FRIDAY','Special Lifetime Offer in VibeDeck Pro · Until Dec 2','Claim Offer'],
       ru:['BLACK FRIDAY','Спецпредложение на Lifetime внутри VibeDeck Pro · До 2 дек.','Открыть'],
       uk:['BLACK FRIDAY','Спецпропозиція на Lifetime у VibeDeck Pro · До 2 груд.','Відкрити'],
       de:['BLACK FRIDAY','Lifetime-Sonderangebot in VibeDeck Pro · Bis 2. Dez.','Ansehen'],
