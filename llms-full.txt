@@ -172,6 +172,10 @@ A: Yes. Transposing happens on your iPhone, with no internet connection and no u
 
 A: VibeDeck Player is available on iOS and Android with no ads. Equalizer, limiter, pitch, tempo, Studio, Stems, Sampler and other sound tools are part of VibeDeck PRO, available via a subscription or one-time Lifetime access inside the app.
 
+**Q: Does VibeDeck support -12 to +12 semitone Key Shift and 432 Hz?**
+
+A: Yes. Alongside ±8 st Pitch on the main player, VibeDeck Studio and Stems include Key Shift (-12 to +12 semitones), a Minor/Major key grid with Camelot codes, 440 Hz / 432 Hz A4 tuning, and WAV export in the new key.
+
 ## FLAC Player for Android, Lossless, No Ads | VibeDeck Player
 
 URL: https://vibedeckplayer.app/flac-player-android/
@@ -279,6 +283,10 @@ A: Yes. All processing happens on the device. Pitch, tempo, EQ and filter work i
 **Q: How does access to VibeDeck Player work?**
 
 A: VibeDeck Player is available on iOS and Android with no ads and no account required. VibeDeck PRO unlocks the full sound toolkit (pitch, tempo, waveform scrubbing, 3-band DJ EQ and 8-band equalizer, filter, limiter, VibeMod, TONE, AURA, Studio, Stems and Sampler) via a subscription or one-time Lifetime access inside the app.
+
+**Q: Does VibeDeck support -12 to +12 semitone Key Shift and 432 Hz?**
+
+A: Yes. Alongside ±8 st Pitch on the main player, VibeDeck Studio and Stems include Key Shift (-12 to +12 semitones), a Minor/Major key grid with Camelot codes, 440 Hz / 432 Hz A4 tuning, and WAV export in the new key.
 
 ## Offline Music Player for Android: No Ads | VibeDeck Player
 
@@ -620,6 +628,10 @@ A: No. VibeDeck only opens audio files stored on your device, such as MP3, FLAC 
 
 A: VibeDeck Player is available on iOS and Android with no ads. Equalizer, limiter, pitch, tempo, Studio, Stems, Sampler and other sound tools are part of VibeDeck PRO, available via a subscription or one-time Lifetime access inside the app.
 
+**Q: Does VibeDeck support -12 to +12 semitone Key Shift and 432 Hz?**
+
+A: Yes. Alongside ±8 st Pitch on the main player, VibeDeck Studio and Stems include Key Shift (-12 to +12 semitones), a Minor/Major key grid with Camelot codes, 440 Hz / 432 Hz A4 tuning, and WAV export in the new key.
+
 ## Slowed + Reverb on Your Phone | VibeDeck Player
 
 URL: https://vibedeckplayer.app/slowed-reverb/
@@ -797,6 +809,10 @@ A: Songs in your VibeDeck library: MP3, WAV, FLAC and the other formats VibeDeck
 **Q: How do I unlock VibeDeck PRO?**
 
 A: VibeDeck Player is available on iOS and Android with no ads. Equalizer, limiter, pitch, tempo, Studio, Stems, Sampler and other sound tools are part of VibeDeck PRO, available via a subscription or one-time Lifetime access inside the app.
+
+**Q: Can I change the key of vocals or instrumental and tune to 432 Hz?**
+
+A: Yes. Key Shift inside Stems works in real time on Original, Acapella, Instrumental and Mix from -12 to +12 semitones, supports 440 Hz / 432 Hz A4 tuning, and exports 24-bit WAV stems in your chosen key.
 
 ## 3-Band DJ EQ and 8-Band Equalizer for iPhone | VibeDeck
 
@@ -1043,6 +1059,10 @@ A: VibeDeck Player ist für iOS und Android ohne Werbung verfügbar. Equalizer, 
 
 A: Ja. Tonhöhe und Tempo lassen sich auch in der Android-Version ändern. Studio für Loops gibt es derzeit nur für iPhone und iPad.
 
+**Q: Unterstützt VibeDeck -12 bis +12 Halbtöne und 432 Hz?**
+
+A: Ja. Neben ±8 HT im Hauptplayer bieten Studio und Stems Key Shift (-12 bis +12 Halbtöne), ein Minor/Major-Raster mit Camelot-Codes, 440 Hz / 432 Hz und WAV-Export in der neuen Tonart.
+
 ## FLAC-Player für iPhone und Android, ohne Werbung | VibeDeck
 
 URL: https://vibedeckplayer.app/de/flac-player/
@@ -1193,6 +1213,10 @@ A: Auf einem aktuellen iPhone Pro etwa so lange wie der Song. Ältere iPhones br
 **Q: Wie bekomme ich Zugang zu VibeDeck PRO?**
 
 A: VibeDeck Player ist für iOS und Android ohne Werbung verfügbar. Equalizer, Limiter, Tonhöhe, Tempo, Studio, Stems, Sampler und weitere Sound-Werkzeuge gehören zu VibeDeck PRO und sind per Abo oder einmaligem Lifetime-Zugang in der App erhältlich.
+
+**Q: Kann ich die Tonart von Gesang oder Instrumental ändern und 432 Hz nutzen?**
+
+A: Ja. Key Shift in Stems arbeitet in Echtzeit auf Original, Acapella, Instrumental und Mix (-12 bis +12 Halbtöne), unterstützt 440 Hz / 432 Hz und exportiert 24-bit WAV in der gewählten Tonart.
 
 ## DJ Equalizer mit 3 und 8 Bändern für iPhone | VibeDeck
 
@@ -1384,6 +1408,10 @@ A: VibeDeck Player est disponible sur iOS et Android sans publicité. L’égali
 
 A: La hauteur et le tempo se règlent aussi dans la version Android. Studio, pour les boucles, n’existe pour l’instant que sur iPhone et iPad.
 
+**Q: Peut-on transposer de -12 à +12 demi-tons et passer en 432 Hz ?**
+
+A: Oui. En plus du Pitch ±8 st, Studio et Stems proposent Key Shift (-12 à +12 demi-tons), une grille avec codes Camelot, l'accordage 440 Hz / 432 Hz et l'export WAV dans la tonalité choisie.
+
 ## Lecteur FLAC pour iPhone et Android, sans pub | VibeDeck
 
 URL: https://vibedeckplayer.app/fr/lecteur-flac/
@@ -1534,6 +1562,10 @@ A: Sur un iPhone Pro récent, à peu près la durée du morceau. Les iPhone plus
 **Q: Comment accéder à VibeDeck PRO ?**
 
 A: VibeDeck Player est disponible sur iOS et Android sans publicité. L’égaliseur, le limiteur, la hauteur, le tempo, Studio, Stems, Sampler et les autres outils sonores font partie de VibeDeck PRO, accessible par abonnement ou accès Lifetime en paiement unique dans l’application.
+
+**Q: Peut-on changer la tonalité de la voix ou de l'instrumental et passer en 432 Hz ?**
+
+A: Oui. Key Shift dans Stems agit en temps réel sur Original, Acapella, Instrumental et Mix (-12 à +12 demi-tons), gère l'accordage 440 Hz / 432 Hz et exporte en WAV 24 bits dans la tonalité choisie.
 
 ## Égaliseur DJ 3 bandes et égaliseur 8 bandes sur iPhone
 
@@ -1725,6 +1757,10 @@ A: VibeDeck Player è disponibile su iOS e Android senza pubblicità. Equalizzat
 
 A: Sì. Pitch e tempo si regolano anche nella versione Android. Studio, per creare loop, è attualmente disponibile solo su iPhone e iPad.
 
+**Q: VibeDeck supporta la trasposizione ±12 semitoni e 432 Hz?**
+
+A: Sì. Oltre al Pitch ±8 st nel player principale, Studio e Stems includono Key Shift (-12 a +12 semitoni), griglia con codici Camelot, 440 Hz / 432 Hz ed esportazione WAV nella tonalità scelta.
+
 ## Lettore FLAC per iPhone e Android senza pubblicità | VibeDeck
 
 URL: https://vibedeckplayer.app/it/lettore-flac/
@@ -1875,6 +1911,10 @@ A: Su un iPhone Pro recente, più o meno la durata del brano. Gli iPhone più ve
 **Q: Come si accede a VibeDeck PRO?**
 
 A: VibeDeck Player è disponibile su iOS e Android senza pubblicità. Equalizzatore, limiter, tonalità, tempo, Studio, Stems, Sampler e gli altri strumenti audio fanno parte di VibeDeck PRO, disponibile tramite abbonamento o accesso Lifetime con pagamento unico all’interno dell’app.
+
+**Q: Posso cambiare tonalità a voce o strumentale e impostare 432 Hz?**
+
+A: Sì. Key Shift in Stems agisce in tempo reale su Original, Acapella, Instrumental e Mix da -12 a +12 semitoni, supporta 440 Hz / 432 Hz ed esporta WAV a 24 bit nella tonalità scelta.
 
 ## Equalizzatore DJ a 3 bande e a 8 bande su iPhone
 
@@ -2186,6 +2226,10 @@ A: En un iPhone Pro reciente, más o menos lo que dura la canción. Los iPhone m
 
 A: VibeDeck Player está disponible en iOS y Android sin anuncios. El ecualizador, el limitador, el tono, el tempo, Studio, Stems, Sampler y las demás herramientas de sonido forman parte de VibeDeck PRO, disponible mediante suscripción o acceso Lifetime de pago único dentro de la app.
 
+**Q: ¿Puedo cambiar el tono de la voz o instrumental y usar 432 Hz?**
+
+A: Sí. Key Shift dentro de Stems funciona en tiempo real sobre Original, Acapella, Instrumental y Mix de -12 a +12 semitonos, incluye afinación 440 Hz / 432 Hz y exporta WAV de 24 bits en el tono elegido.
+
 ## Ecualizador DJ de 3 bandas y de 8 bandas en iPhone
 
 URL: https://vibedeckplayer.app/es/ecualizador-dj/
@@ -2488,6 +2532,10 @@ A: Num iPhone Pro recente, mais ou menos o tempo da música. iPhones mais antigo
 
 A: O VibeDeck Player está disponível para iOS e Android sem anúncios. Equalizador, limitador, tom, andamento, Studio, Stems, Sampler e outras ferramentas de som fazem parte do VibeDeck PRO, disponível por assinatura ou acesso Lifetime em pagamento único dentro do aplicativo.
 
+**Q: Posso mudar o tom da voz ou do instrumental e usar 432 Hz?**
+
+A: Sim. O Key Shift no Stems funciona em tempo real em Original, Acapella, Instrumental e Mix (-12 a +12 semitons), suporta 440 Hz / 432 Hz e exporta WAV 24-bit no tom escolhido.
+
 ## Equalizador DJ de 3 bandas e de 8 bandas no iPhone
 
 URL: https://vibedeckplayer.app/pt-br/equalizador-dj/
@@ -2678,6 +2726,10 @@ A: VibeDeck PlayerはiOSとAndroidで広告なしで使えます。イコライ�
 
 A: はい。ピッチとテンポの変更はAndroid版でも使えます。ループを作るStudioは現在iPhone・iPad版のみです。
 
+**Q: ±12半音までのキー変更や432 Hzチューニングに対応していますか？**
+
+A: はい。メイン画面の±8 stピッチに加え、StudioとStemsでは-12〜+12半音のKey Shift、キー一覧からの移調、440 Hz / 432 HzのA4チューニング切替、変更したキーでのWAV書き出しに対応しています。
+
 ## 音程を変えずにテンポを変えるアプリ｜曲を遅く再生｜VibeDeck
 
 URL: https://vibedeckplayer.app/ja/tempo-henkou/
@@ -2801,6 +2853,10 @@ A: 最近のiPhone Proなら、曲の長さとほぼ同じです。古いiPhone�
 **Q: VibeDeck PROの利用方法は？**
 
 A: VibeDeck PlayerはiOSとAndroidで広告なしで使えます。イコライザー、リミッター、ピッチ、テンポ、Studio、Stems、Samplerなどのサウンド機能はVibeDeck PROに含まれ、アプリ内のサブスクリプションまたは買い切りのLifetimeアクセスで利用できます。
+
+**Q: 分離したボーカルや伴奏のキー変更・432 Hz化はできますか？**
+
+A: はい。Stems内のKey ShiftでOriginal・Acapella・Instrumental・Mixを-12〜+12半音でリアルタイム移調でき、440 Hz / 432 Hz切替と指定キーでの24-bit WAV書き出しに対応しています。
 
 ## DJイコライザー: 3バンドと8バンドをiPhoneで | VibeDeck
 
@@ -2992,6 +3048,10 @@ A: VibeDeck Player доступен на iOS и Android без рекламы. �
 
 A: В версии для Android тоже можно менять высоту тона и темп. Studio с лупами пока есть только на iPhone и iPad.
 
+**Q: Можно ли сдвигать тональность на ±12 полутонов и включать 432 Hz?**
+
+A: Да. Помимо ±8 полутонов в основном плеере, в Studio и Stems есть Key Shift от -12 до +12 ST с сеткой тональностей, переключатель 440 Hz / 432 Hz и экспорт в 24-bit WAV в выбранной тональности.
+
 ## FLAC-плеер для iPhone и Android без рекламы | VibeDeck
 
 URL: https://vibedeckplayer.app/ru/flac-pleer/
@@ -3142,6 +3202,10 @@ A: На свежем iPhone Pro примерно столько, сколько 
 **Q: Как получить доступ к VibeDeck PRO?**
 
 A: VibeDeck Player доступен на iOS и Android без рекламы. Эквалайзер, лимитер, тональность, темп, Studio, Stems, Sampler и другие инструменты звука входят в VibeDeck PRO, который доступен по подписке или с разовым Lifetime-доступом внутри приложения.
+
+**Q: Можно ли сменить тональность вокала или минусовки и включить 432 Hz?**
+
+A: Да. Key Shift в Stems работает в реальном времени для Original, Acapella, Instrumental и Mix от -12 до +12 полутонов, поддерживает 440 Hz / 432 Hz и экспортирует 24-bit WAV в выбранной тональности.
 
 ## DJ эквалайзер: 3 полосы и 8 полос на iPhone | VibeDeck
 
@@ -3333,6 +3397,10 @@ A: VibeDeck Player는 iOS와 Android에서 광고 없이 이용할 수 있습니
 
 A: Android 버전에서도 피치와 템포를 조절할 수 있습니다. 루프용 Studio는 현재 iPhone과 iPad에서만 제공됩니다.
 
+**Q: ±12반음 키 변경과 432 Hz 튜닝을 지원하나요?**
+
+A: 네. 기본 플레이어의 ±8 st 피치 외에도 Studio와 Stems에서 -12~+12반음 Key Shift, 키 그리드 선택, 440 Hz / 432 Hz 전환, 변경된 키로 WAV 내보내기를 지원합니다.
+
 ## 광고 없는 iPhone·Android FLAC 플레이어 | VibeDeck
 
 URL: https://vibedeckplayer.app/ko/flac-player/
@@ -3483,6 +3551,10 @@ A: 최신 iPhone Pro에서는 곡 길이와 비슷합니다. 오래된 iPhone은
 **Q: VibeDeck PRO는 어떻게 이용하나요?**
 
 A: VibeDeck Player는 iOS와 Android에서 광고 없이 이용할 수 있습니다. 이퀄라이저, 리미터, 피치, 템포, Studio, Stems, Sampler 등의 사운드 도구는 VibeDeck PRO 기능이며, 앱 내에서 구독 또는 일회성 Lifetime 이용권으로 이용할 수 있습니다.
+
+**Q: 분리한 보컬이나 반주의 키를 바꾸고 432 Hz로 튜닝할 수 있나요?**
+
+A: 네. Stems 안의 Key Shift는 Original, Acapella, Instrumental, Mix에 -12~+12반음으로 실시간 적용되며 440 Hz / 432 Hz 튜닝과 선택한 키의 24-bit WAV 내보내기를 지원합니다.
 
 ## DJ 이퀄라이저: iPhone용 3밴드와 8밴드 | VibeDeck
 
@@ -3674,6 +3746,10 @@ A: VibeDeck Player, iOS ve Android için reklamsız olarak kullanılabilir. Ekol
 
 A: Android sürümünde de ton ve tempo ayarlanabiliyor. Döngüler için Studio şimdilik yalnızca iPhone ve iPad’de var.
 
+**Q: ±12 yarım ton kaydırma ve 432 Hz akordu destekleniyor mu?**
+
+A: Evet. Ana oynatıcıdaki ±8 st Pitch dışında Studio ve Stems; -12/+12 ST Key Shift, Camelot kodlu ton tablosu, 440 Hz / 432 Hz seçeneği ve yeni tonda WAV dışa aktarma sunar.
+
 ## iPhone ve Android için reklamsız FLAC çalar | VibeDeck
 
 URL: https://vibedeckplayer.app/tr/flac-calar/
@@ -3824,6 +3900,10 @@ A: Yeni bir iPhone Pro'da yaklaşık şarkının süresi kadar. Eski iPhone'lard
 **Q: VibeDeck PRO’ya nasıl erişebilirim?**
 
 A: VibeDeck Player, iOS ve Android için reklamsız olarak kullanılabilir. Ekolayzer, limiter, perde, tempo, Studio, Stems, Sampler ve diğer ses araçları VibeDeck PRO’ya dahildir; uygulama içi abonelik veya tek seferlik Lifetime erişimiyle kullanılabilir.
+
+**Q: Vokal veya enstrümantal tonunu değiştirip 432 Hz kullanabilir miyim?**
+
+A: Evet. Stems içindeki Key Shift; Original, Acapella, Instrumental ve Mix üzerinde -12/+12 yarım ton gerçek zamanlı çalışır, 440 Hz / 432 Hz destekler ve seçilen tonda 24-bit WAV dışa aktarır.
 
 ## iPhone için 3 bantlı DJ ekolayzer ve 8 bantlı EQ
 
@@ -4015,6 +4095,10 @@ A: VibeDeck Player tersedia di iOS dan Android tanpa iklan. Equalizer, limiter, 
 
 A: Versi Android juga bisa mengatur nada dan tempo. Studio untuk loop saat ini hanya ada di iPhone dan iPad.
 
+**Q: Apakah mendukung pergeseran nada ±12 semitone dan tuning 432 Hz?**
+
+A: Ya. Selain Pitch ±8 st di pemutar utama, Studio dan Stems memiliki Key Shift (-12 hingga +12 semitone), pilihan 440 Hz / 432 Hz, serta ekspor WAV dalam nada baru.
+
 ## Pemutar FLAC iPhone dan Android tanpa iklan | VibeDeck
 
 URL: https://vibedeckplayer.app/id/pemutar-flac/
@@ -4165,6 +4249,10 @@ A: Di iPhone Pro terbaru, kira-kira sepanjang lagu. iPhone lama butuh waktu lebi
 **Q: Bagaimana cara mengakses VibeDeck PRO?**
 
 A: VibeDeck Player tersedia di iOS dan Android tanpa iklan. Equalizer, limiter, nada, tempo, Studio, Stems, Sampler, dan alat suara lainnya merupakan bagian dari VibeDeck PRO yang tersedia melalui langganan atau akses Lifetime sekali bayar di dalam aplikasi.
+
+**Q: Bisakah mengganti nada vokal atau instrumental dan memakai 432 Hz?**
+
+A: Bisa. Key Shift di dalam Stems berjalan real-time pada Original, Acapella, Instrumental, dan Mix dari -12 hingga +12 semitone, mendukung tuning 440 Hz / 432 Hz, dan ekspor WAV 24-bit sesuai kunci.
 
 ## Equalizer DJ 3 band dan equalizer 8 band di iPhone
 
@@ -4356,6 +4444,10 @@ A: VibeDeck Player jest dostępny na iOS i Androida bez reklam. Equalizer, limit
 
 A: W wersji na Androida też ustawisz wysokość dźwięku i tempo. Studio z pętlami jest na razie tylko na iPhonie i iPadzie.
 
+**Q: Czy VibeDeck obsługuje zmianę o ±12 półtonów i strój 432 Hz?**
+
+A: Tak. Oprócz ±8 st w głównym odtwarzaczu, Studio i Stems oferują Key Shift (-12 do +12 półtonów), siatkę tonacji z kodami Camelot, 440 Hz / 432 Hz i eksport WAV.
+
 ## Odtwarzacz FLAC na iPhone’a i Androida bez reklam | VibeDeck
 
 URL: https://vibedeckplayer.app/pl/odtwarzacz-flac/
@@ -4506,6 +4598,10 @@ A: Na nowym iPhonie Pro mniej więcej tyle, ile utwór. Starsze iPhone’y potrz
 **Q: Jak uzyskać dostęp do VibeDeck PRO?**
 
 A: VibeDeck Player jest dostępny na iOS i Androida bez reklam. Equalizer, limiter, wysokość dźwięku, tempo, Studio, Stems, Sampler i inne narzędzia dźwięku wchodzą w skład VibeDeck PRO, dostępnego w ramach subskrypcji lub jednorazowego dostępu Lifetime w aplikacji.
+
+**Q: Czy mogę zmienić tonację wokalu lub podkładu i włączyć 432 Hz?**
+
+A: Tak. Key Shift w Stems działa w czasie rzeczywistym na Original, Acapella, Instrumental i Mix (-12 do +12 półtonów), obsługuje 440 Hz / 432 Hz i eksportuje 24-bit WAV w wybranej tonacji.
 
 ## Korektor DJ 3-pasmowy i equalizer 8-pasmowy na iPhone
 
@@ -4697,6 +4793,10 @@ A: VibeDeck Player is beschikbaar op iOS en Android zonder advertenties. Equaliz
 
 A: Ook in de Android-versie stel je toonhoogte en tempo in. Studio voor loops is voorlopig alleen beschikbaar op iPhone en iPad.
 
+**Q: Ondersteunt VibeDeck ±12 halve tonen en 432 Hz?**
+
+A: Ja. Naast ±8 st Pitch in de hoofdspeler bieden Studio en Stems Key Shift (-12 tot +12 halve tonen), een toonsoortraster met Camelot-codes, 440 Hz / 432 Hz en WAV-export.
+
 ## FLAC-speler voor iPhone en Android, geen ads | VibeDeck
 
 URL: https://vibedeckplayer.app/nl/flac-speler/
@@ -4847,6 +4947,10 @@ A: Op een recente iPhone Pro ongeveer zo lang als het nummer. Oudere iPhones doe
 **Q: Hoe krijg ik toegang tot VibeDeck PRO?**
 
 A: VibeDeck Player is beschikbaar op iOS en Android zonder advertenties. Equalizer, limiter, toonhoogte, tempo, Studio, Stems, Sampler en andere geluidstools horen bij VibeDeck PRO en zijn beschikbaar via een abonnement of eenmalige Lifetime-toegang in de app.
+
+**Q: Kan ik de toonsoort van zang of instrumentaal wijzigen en 432 Hz gebruiken?**
+
+A: Ja. Key Shift in Stems werkt live op Original, Acapella, Instrumental en Mix van -12 tot +12 halve tonen, ondersteunt 440 Hz / 432 Hz en exporteert 24-bit WAV in de gekozen toonsoort.
 
 ## DJ equalizer met 3 en 8 banden voor iPhone | VibeDeck
 
@@ -5038,6 +5142,10 @@ A: VibeDeck Player có mặt trên iOS và Android và không có quảng cáo. 
 
 A: Bản Android cũng chỉnh được cao độ và tempo. Studio để làm loop hiện chỉ có trên iPhone và iPad.
 
+**Q: Ứng dụng có hỗ trợ dịch tông ±12 nửa cung và 432 Hz không?**
+
+A: Có. Ngoài Pitch ±8 st ở màn hình chính, Studio và Stems có Key Shift (-12 đến +12 nửa cung), bảng tông Camelot, tùy chọn 440 Hz / 432 Hz và xuất WAV đúng tông đã chọn.
+
 ## Trình phát FLAC iPhone và Android không quảng cáo | VibeDeck
 
 URL: https://vibedeckplayer.app/vi/trinh-phat-flac/
@@ -5188,6 +5296,10 @@ A: Trên iPhone Pro đời mới, gần bằng độ dài bài hát. iPhone cũ 
 **Q: Làm sao để mở khóa VibeDeck PRO?**
 
 A: VibeDeck Player có mặt trên iOS và Android và không có quảng cáo. Equalizer, limiter, cao độ, tempo, Studio, Stems, Sampler và các công cụ âm thanh khác thuộc VibeDeck PRO, có sẵn qua gói đăng ký hoặc quyền truy cập Lifetime trả một lần trong ứng dụng.
+
+**Q: Có thể đổi tông giọng hát hoặc nhạc nền và chỉnh 432 Hz không?**
+
+A: Có. Key Shift trong Stems chạy theo thời gian thực trên Original, Acapella, Instrumental và Mix (-12 đến +12 nửa cung), hỗ trợ 440 Hz / 432 Hz và xuất WAV 24-bit đúng tông đã chọn.
 
 ## EQ DJ 3 băng tần và equalizer 8 băng tần trên iPhone
 
@@ -5379,6 +5491,10 @@ A: VibeDeck Player 支援 iOS 與 Android 且無廣告。等化器、限幅器�
 
 A: Android 版同樣可以調整音高和速度。用於循環的 Studio 目前只支援 iPhone 和 iPad。
 
+**Q: 是否支援 ±12 半音升降調以及 432 Hz 調音？**
+
+A: 支援。除了主播放器 ±8 st 音高調整外，Studio 與 Stems 也提供 -12 至 +12 半音 Key Shift、Camelot 調性面板、440 Hz / 432 Hz 切換，以及依新調性匯出 WAV。
+
 ## iPhone 與 Android 無廣告 FLAC 播放器 | VibeDeck
 
 URL: https://vibedeckplayer.app/zh-hant/flac-player/
@@ -5529,6 +5645,10 @@ A: 在較新的 iPhone Pro 上，大約和歌曲長度相同。較舊的 iPhone 
 **Q: 如何解鎖 VibeDeck PRO？**
 
 A: VibeDeck Player 支援 iOS 與 Android 且無廣告。等化器、限幅器、音高、速度、Studio、Stems、Sampler 等聲音工具屬於 VibeDeck PRO，可在 App 內透過訂閱或一次性購買 Lifetime 權限解鎖。
+
+**Q: 可以對分離後的人聲或伴奏變調並切換 432 Hz 嗎？**
+
+A: 可以。Stems 內的 Key Shift 支援對 Original、Acapella、Instrumental 與 Mix 進行 -12 至 +12 半音即時移調，支援 440 Hz / 432 Hz，並可匯出選定調性的 24-bit WAV。
 
 ## iPhone DJ 等化器：3 段 DJ EQ 與 8 段等化器 | VibeDeck
 
@@ -5720,6 +5840,10 @@ A: VibeDeck Player 支持 iOS 和 Android 且无广告。均衡器、限幅器�
 
 A: Android 版同样可以调整音高和速度。用于循环的 Studio 目前只支持 iPhone 和 iPad。
 
+**Q: 是否支持 ±12 半音升降调以及 432 Hz 调音？**
+
+A: 支持。除主播放器 ±8 st 音高调节外，Studio 与 Stems 还提供 -12 至 +12 半音 Key Shift、Camelot 调性面板、440 Hz / 432 Hz 切换，以及按新调性导出 WAV。
+
 ## iPhone 与 Android 无广告 FLAC 播放器 | VibeDeck
 
 URL: https://vibedeckplayer.app/zh-hans/flac-player/
@@ -5870,6 +5994,10 @@ A: 在较新的 iPhone Pro 上，大约和歌曲长度相同。较旧的 iPhone 
 **Q: 如何解锁 VibeDeck PRO？**
 
 A: VibeDeck Player 支持 iOS 和 Android 且无广告。均衡器、限幅器、音高、速度、Studio、Stems、Sampler 等声音工具属于 VibeDeck PRO，可在应用内通过订阅或一次性购买 Lifetime 权限解锁。
+
+**Q: 可以对分离后的人声或伴奏变调并切换 432 Hz 吗？**
+
+A: 可以。Stems 内的 Key Shift 支持对 Original、Acapella、Instrumental 和 Mix 进行 -12 至 +12 半音实时移调，支持 440 Hz / 432 Hz，并可导出选定调性的 24-bit WAV。
 
 ## iPhone DJ 均衡器：3 段 DJ EQ 与 8 段均衡器 | VibeDeck
 
@@ -6061,6 +6189,10 @@ A: VibeDeck Player พร้อมใช้งานบน iOS และ Android
 
 A: เวอร์ชัน Android ก็ปรับระดับเสียงและเทมโปได้ ส่วน Studio สำหรับทำลูป ตอนนี้มีเฉพาะบน iPhone และ iPad
 
+**Q: ปรับคีย์ได้ถึง ±12 ครึ่งเสียงและรองรับ 432 Hz หรือไม่?**
+
+A: ได้ นอกจาก Pitch ±8 st ในหน้าหลักแล้ว Studio และ Stems ยังมี Key Shift (-12 ถึง +12 ครึ่งเสียง) ตารางคีย์ Camelot จูน 440 Hz / 432 Hz และส่งออก WAV ในคีย์ใหม่
+
 ## เครื่องเล่น FLAC สำหรับ iPhone และ Android ไม่มีโฆษณา | VibeDeck
 
 URL: https://vibedeckplayer.app/th/flac-player/
@@ -6211,6 +6343,10 @@ A: บน iPhone Pro รุ่นใหม่ประมาณเท่าค�
 **Q: จะปลดล็อก VibeDeck PRO ได้อย่างไร**
 
 A: VibeDeck Player พร้อมใช้งานบน iOS และ Android โดยไม่มีโฆษณา อีควอไลเซอร์ ลิมิตเตอร์ ระดับเสียง เทมโป Studio, Stems, Sampler และเครื่องมือเสียงอื่น ๆ อยู่ใน VibeDeck PRO ซึ่งเลือกใช้งานได้ทั้งแบบสมัครสมาชิกหรือสิทธิ์ Lifetime แบบซื้อครั้งเดียวภายในแอป
+
+**Q: เปลี่ยนคีย์เสียงร้องหรือดนตรี และจูน 432 Hz ได้ไหม?**
+
+A: ได้ Key Shift ใน Stems ทำงานแบบเรียลไทม์ทั้ง Original, Acapella, Instrumental และ Mix (-12 ถึง +12 ครึ่งเสียง) รองรับ 440 Hz / 432 Hz และส่งออก WAV 24-bit ในคีย์ที่เลือก
 
 ## อีควอไลเซอร์ DJ 3 แบนด์และ 8 แบนด์บน iPhone | VibeDeck
 
@@ -6398,6 +6534,10 @@ A: На новому iPhone Pro приблизно стільки, скільк�
 
 A: VibeDeck Player доступний на iOS та Android без реклами. Еквалайзер, лімітер, тональність, темп, Studio, Stems, Sampler та інші інструменти звуку входять до VibeDeck PRO, який доступний за підпискою або з разовим Lifetime-доступом усередині застосунку.
 
+**Q: Чи можна змінити тональність вокалу або мінуса та увімкнути 432 Hz?**
+
+A: Так. Key Shift у Stems працює в реальному часі для Original, Acapella, Instrumental і Mix від -12 до +12 півтонів, підтримує 440 Hz / 432 Hz та експортує 24-bit WAV у вибраній тональності.
+
 ## Як уповільнити пісню без зміни тональності | VibeDeck
 
 URL: https://vibedeckplayer.app/uk/spovilnyty-pisnyu/
@@ -6455,6 +6595,10 @@ A: VibeDeck Player доступний на iOS та Android без реклам�
 **Q: А на Android?**
 
 A: У версії для Android теж можна змінювати висоту тону й темп. Studio з лупами поки що є лише на iPhone та iPad.
+
+**Q: Чи підтримується зсув на ±12 півтонів та налаштування 432 Hz?**
+
+A: Так. Крім ±8 півтонів у головному плеєрі, у Studio та Stems є Key Shift від -12 до +12 ST із сіткою тональностей, перемикач 440 Hz / 432 Hz та експорт у 24-bit WAV.
 
 ## Як записати звук із телефона на iPhone і Android | VibeDeck
 

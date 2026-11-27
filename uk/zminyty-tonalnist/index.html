@@ -49,7 +49,7 @@
 <link rel="manifest" href="/site.webmanifest"/>
 <link rel="preload" href="/assets/fonts/inter-latin-var.woff2" as="font" type="font/woff2" crossorigin=""/>
 <link rel="preload" as="image" type="image/avif" imagesrcset="/assets/img/vibedeck-pitch-control-iphone-360.avif 360w, /assets/img/vibedeck-pitch-control-iphone-540.avif 540w, /assets/img/vibedeck-pitch-control-iphone-720.avif 720w" imagesizes="(min-width: 1024px) 288px, 76vw" fetchpriority="high"/>
-<link rel="stylesheet" href="/styles.css?v=17"/>
+<link rel="stylesheet" href="/styles.css?v=18"/>
 <script>document.documentElement.className="js"</script>
 <script src="/assets/site.js?v=6" defer=""></script>
 <script type="application/ld+json">
@@ -101,12 +101,12 @@
     "@id": "https://vibedeckplayer.app/#app"
    },
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-24"
+   "dateModified": "2026-11-27"
   },
   {
    "@type": "WebPage",
    "datePublished": "2026-10-21",
-   "dateModified": "2026-11-24",
+   "dateModified": "2026-11-27",
    "publisher": {
     "@id": "https://vibedeckplayer.app/#org"
    },
@@ -224,6 +224,14 @@
       "@type": "Answer",
       "text": "У версії для Android теж можна змінювати висоту тону й темп. Studio з лупами поки що є лише на iPhone та iPad."
      }
+    },
+    {
+     "@type": "Question",
+     "name": "Чи підтримується зсув на ±12 півтонів та налаштування 432 Hz?",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Так. Крім ±8 півтонів у головному плеєрі, у Studio та Stems є Key Shift від -12 до +12 ST із сіткою тональностей, перемикач 440 Hz / 432 Hz та експорт у 24-bit WAV."
+     }
     }
    ]
   }
@@ -268,12 +276,12 @@
 </div>
 </section>
 <section class="section">
-<div class="wrap"><div class="glass box prose" data-reveal=""><h2>Як змінити тональність: покроково</h2><ol><li>Встановіть VibeDeck Player з App Store (на Android з Google Play).</li><li>Завантажте трек через застосунок «Файли», iCloud Drive або AirDrop (на Android зі своїх файлів або Google Drive).</li><li>Увімкніть трек і відкрийте «Pitch».</li><li>Посуньте вниз, щоб знизити, або вгору, щоб підвищити.</li><li>Співайте чи грайте одразу. Темп лишається вихідним, доки ви його не чіпаєте.</li></ol><h2>Скільки півтонів? Орієнтири</h2><ul><li><strong>Трек занадто високий для вашого голосу:</strong> спробуйте від −1 до −3 півтонів.</li><li><strong>Пісню співає жінка, а співатиме чоловік:</strong> приблизно від −3 до −5 півтонів.</li><li><strong>Трек записаний на півтону нижче, гітара в стандартному строї:</strong> +1 півтон.</li></ul><h2>Щоб підібрати трек на слух</h2><p>Швидкі фрагменти простіше розібрати, якщо уповільнити темп, а висота тону при цьому не змінюється. На iPhone та iPad у Studio можна зробити лупи за тактами й переслуховувати фрагмент скільки завгодно.</p><p>Зміна тональності (Pitch) входить до VibeDeck PRO, доступного на iOS та Android без реклами за підпискою або з разовим Lifetime-доступом усередині застосунку.</p></div></div>
+<div class="wrap"><div class="glass box prose" data-reveal=""><h2>Як змінити тональність: покроково</h2><ol><li>Встановіть VibeDeck Player з App Store (на Android з Google Play).</li><li>Завантажте трек через застосунок «Файли», iCloud Drive або AirDrop (на Android зі своїх файлів або Google Drive).</li><li>Увімкніть трек і відкрийте «Pitch».</li><li>Посуньте вниз, щоб знизити, або вгору, щоб підвищити.</li><li>Співайте чи грайте одразу. Темп лишається вихідним, доки ви його не чіпаєте.</li></ol><h2>Скільки півтонів? Орієнтири</h2><ul><li><strong>Трек занадто високий для вашого голосу:</strong> спробуйте від −1 до −3 півтонів.</li><li><strong>Пісню співає жінка, а співатиме чоловік:</strong> приблизно від −3 до −5 півтонів.</li><li><strong>Трек записаний на півтону нижче, гітара в стандартному строї:</strong> +1 півтон.</li></ul><h2>Щоб підібрати трек на слух</h2><p>Швидкі фрагменти простіше розібрати, якщо уповільнити темп, а висота тону при цьому не змінюється. На iPhone та iPad у Studio можна зробити лупи за тактами й переслуховувати фрагмент скільки завгодно.</p><p>Зміна тональності (Pitch) входить до VibeDeck PRO, доступного на iOS та Android без реклами за підпискою або з разовим Lifetime-доступом усередині застосунку.</p><h2>Key Shift (-12…+12 півтонів) та 432 Hz у Studio і Stems</h2><p>У Studio та Stems на iPhone і iPad функція Key Shift визначає тональність треку й дозволяє вибрати потрібну в сітці Minor/Major (з кодами Camelot) або змістити висоту від -12 до +12 півтонів без зміни темпу.</p><p>Також можна перемкнути лад A4 з 440 Hz на 432 Hz, окремо транспонувати вокал та інструментал у Stems і експортувати 24-bit WAV у вибраній тональності.</p><div style="display:flex;justify-content:center;margin:24px 0 28px"><div class="phone phone--sm phone--apple" style="margin:0"><picture><source type="image/avif" srcset="/assets/img/vibedeck-studio-keyshift-iphone-400.avif 400w, /assets/img/vibedeck-studio-keyshift-iphone-600.avif 600w, /assets/img/vibedeck-studio-keyshift-iphone-800.avif 800w" sizes="(min-width: 1024px) 272px, 66vw"><source type="image/webp" srcset="/assets/img/vibedeck-studio-keyshift-iphone-400.webp 400w, /assets/img/vibedeck-studio-keyshift-iphone-600.webp 600w, /assets/img/vibedeck-studio-keyshift-iphone-800.webp 800w" sizes="(min-width: 1024px) 272px, 66vw"><img src="/assets/img/vibedeck-studio-keyshift-iphone-600.webp" alt="VibeDeck Studio Key Shift на iPhone: сітка тональностей, -12…+12 ST і 432 Hz" width="600" height="1260" loading="lazy" decoding="async"></picture></div></div></div></div>
 </section>
 <section class="section" id="faq" aria-labelledby="faq-title">
 <div class="wrap">
 <div class="sec-head" data-reveal=""><div><p class="tag eyebrow">FAQ <span class="dim" data-section-count=".faq > details">/ 6</span></p><h2 class="h2" id="faq-title">Зміна тональності: часті запитання</h2></div></div>
-<div class="faq" data-reveal=""><details><summary><h3>Чи можна змінити тональність пісні на iPhone?</h3></summary><div class="a"><p>У застосунку «Музика» не можна. У VibeDeck Player ви змінюєте висоту тону своїх треків у реальному часі, до ±8 півтонів.</p></div></details><details><summary><h3>Чи змінюється темп разом із тональністю?</h3></summary><div class="a"><p>Ні. Висота тону й темп незалежні, швидкість треку не змінюється.</p></div></details><details><summary><h3>А з треками зі стрімінгових застосунків можна?</h3></summary><div class="a"><p>Ні. VibeDeck відкриває лише аудіофайли на вашому пристрої, треки зі стрімінгу обробити не можна. Підтримуються ваші файли MP3, AAC, M4A, WAV, AIFF і FLAC.</p></div></details><details><summary><h3>Працює офлайн?</h3></summary><div class="a"><p>Так. Тональність перераховується на самому пристрої, без інтернету й без надсилання файлів.</p></div></details><details><summary><h3>Як отримати доступ до VibeDeck PRO?</h3></summary><div class="a"><p>VibeDeck Player доступний на iOS та Android без реклами. Еквалайзер, лімітер, тональність, темп, Studio, Stems, Sampler та інші інструменти звуку входять до VibeDeck PRO, який доступний за підпискою або з разовим Lifetime-доступом усередині застосунку.</p></div></details><details><summary><h3>А на Android?</h3></summary><div class="a"><p>У версії для Android теж можна змінювати висоту тону й темп. Studio з лупами поки що є лише на iPhone та iPad.</p></div></details></div>
+<div class="faq" data-reveal=""><details><summary><h3>Чи можна змінити тональність пісні на iPhone?</h3></summary><div class="a"><p>У застосунку «Музика» не можна. У VibeDeck Player ви змінюєте висоту тону своїх треків у реальному часі, до ±8 півтонів.</p></div></details><details><summary><h3>Чи змінюється темп разом із тональністю?</h3></summary><div class="a"><p>Ні. Висота тону й темп незалежні, швидкість треку не змінюється.</p></div></details><details><summary><h3>А з треками зі стрімінгових застосунків можна?</h3></summary><div class="a"><p>Ні. VibeDeck відкриває лише аудіофайли на вашому пристрої, треки зі стрімінгу обробити не можна. Підтримуються ваші файли MP3, AAC, M4A, WAV, AIFF і FLAC.</p></div></details><details><summary><h3>Працює офлайн?</h3></summary><div class="a"><p>Так. Тональність перераховується на самому пристрої, без інтернету й без надсилання файлів.</p></div></details><details><summary><h3>Як отримати доступ до VibeDeck PRO?</h3></summary><div class="a"><p>VibeDeck Player доступний на iOS та Android без реклами. Еквалайзер, лімітер, тональність, темп, Studio, Stems, Sampler та інші інструменти звуку входять до VibeDeck PRO, який доступний за підпискою або з разовим Lifetime-доступом усередині застосунку.</p></div></details><details><summary><h3>А на Android?</h3></summary><div class="a"><p>У версії для Android теж можна змінювати висоту тону й темп. Studio з лупами поки що є лише на iPhone та iPad.</p></div></details><details><summary><h3>Чи підтримується зсув на ±12 півтонів та налаштування 432 Hz?</h3></summary><div class="a"><p>Так. Крім ±8 півтонів у головному плеєрі, у Studio та Stems є Key Shift від -12 до +12 ST із сіткою тональностей, перемикач 440 Hz / 432 Hz та експорт у 24-bit WAV.</p></div></details></div>
 </div>
 </section>
 <section class="section" id="related" aria-labelledby="related-title">
