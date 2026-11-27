@@ -411,3 +411,6 @@ img[src*="now-playing-apple"]{clip-path:inset(0 .84% 0 .84%)}
 .phone,.poster{box-shadow:0 0 0 1px rgba(255,255,255,.09),0 1px 0 1px rgba(255,255,255,.06) inset!important}
 .how-card{box-shadow:inset 0 1px 0 rgba(255,255,255,.09)!important}
 .how-card:hover{box-shadow:inset 0 1px 0 rgba(255,255,255,.12)!important}
+.phone.phone--apple{padding:0!important;border-radius:0!important;background:none!important;box-shadow:none!important}
+.phone.phone--apple::before{display:none!important}
+.phone.phone--apple img{aspect-ratio:auto!important;border-radius:0!important;background:none!important;display:block;width:100%;height:auto}
